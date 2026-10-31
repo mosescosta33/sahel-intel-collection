@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T20:06:36.645095Z",
+  "generated_at": "2026-10-31T23:32:34.749014Z",
   "window_days": 30,
   "cutoff": "2026-10-01",
-  "reports": 742,
+  "reports": 743,
   "incident_reports": 199,
   "candidate_events": 121,
   "corroborated_events": 40,
@@ -34,7 +34,7 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 590,
+    "fr": 591,
     "en": 105,
     "ar": 47
   },
@@ -48,7 +48,7 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 108
+      "count": 109
     },
     {
       "source_code": "SRC-0006",
@@ -304,7 +304,7 @@
     },
     {
       "date": "2026-10-31",
-      "reports": 13,
+      "reports": 15,
       "events": 1
     }
   ],
@@ -4277,6 +4277,24 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-10-31T23:02:08Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-10-31T23:31:27.787771Z",
+      "discovered_at": "2026-10-31T23:31:27.787771Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0018",
+      "source": "Aïr Info",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Agadez",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Agadez: about sixty Algerian tankers transport fuel to Niger",
+      "url": "https://airinfoagadez.com/2026/11/01/agadez-une-soixantaine-de-camions-citernes-algeriens-acheminent-du-carburant-au-niger/"
+    },
+    {
       "published_at": "2026-10-31T20:38:00Z",
       "published_date_source": "html:time",
       "published_time_precision": "datetime",
@@ -4293,6 +4311,24 @@
       "candidate_event": false,
       "title": "Summary of the visit of the Minister of Refoundation and Promotion of Social Values to Tahoua",
       "url": "https://anp.ne/synthese-de-la-visite-du-ministre-de-la-refondation-et-de-la-promotion-des-valeurs-sociales-a-tahoua/"
+    },
+    {
+      "published_at": "2026-10-31T20:10:04Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-10-31T23:31:20.355370Z",
+      "discovered_at": "2026-10-31T23:31:20.355370Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "PATRIOTIC GESTURE: the \"An Ko Mali Dron\" Association supports the Malian Armed Forces PATRIOTIC GESTURE: the \"An Ko Mali Dron\" Association supports the Malian Armed Forces – Main illustration",
+      "url": "https://bamada.net/geste-patriotique-lassociation-an-ko-mali-dron-apporte-son-soutien-aux-forces-armees-maliennes-geste-patriotique-lassociation-an-ko-mali-dron-apporte-son-soutien-au"
     },
     {
       "published_at": "2026-10-31T19:49:24Z",
@@ -4959,42 +4995,6 @@
       "candidate_event": false,
       "title": "France: the suspect of the racist attack in Trappes indicted for terrorist assassination",
       "url": "https://bamada.net/france-le-suspect-de-lattentat-raciste-de-trappes-mis-en-examen-pour-assassinat-terroriste"
-    },
-    {
-      "published_at": "2026-10-30T08:17:26Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:18.908699Z",
-      "discovered_at": "2026-10-30T15:10:18.908699Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kati",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "DCSSA/DMHTA: the Chief of the General Staff of the Armed Forces on an authority visit to both structures",
-      "url": "https://bamada.net/dcssa-dmhta-le-chef-detat-major-general-des-armees-en-visite-dautorite-dans-les-deux-structures"
-    },
-    {
-      "published_at": "2026-10-30T03:04:13Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T06:00:51.086099Z",
-      "discovered_at": "2026-10-30T06:00:51.086099Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": "Africa Corps/Wagner",
-      "country": "Mali",
-      "city": "Nioro du Sahel",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: Russian army and Africa Corps decimate more than 200 head of cattle near Diéma",
-      "url": "https://www.rfi.fr/fr/afrique/20261030-mali-l-arm%C3%A9e-et-l-africa-corps-russe-d%C3%A9ciment-plus-de-200-t%C3%AAtes-de-b%C3%A9tail-pr%C3%A8s-de-di%C3%A9ma"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

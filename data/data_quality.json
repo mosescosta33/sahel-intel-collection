@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:06:36.759610Z",
+  "generated_at": "2026-10-31T23:32:35.056976Z",
   "events_30d": 121,
   "date_resolution_pct": 83,
   "precise_geography_pct": 81,
@@ -8,7 +8,7 @@
   "collection_blind_spots": [],
   "collection_status": "NOMINAL",
   "language_reports_30d": {
-    "fr": 636,
+    "fr": 637,
     "en": 109,
     "ar": 49
   },
