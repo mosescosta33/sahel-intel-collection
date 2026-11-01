@@ -96,6 +96,98 @@
     ]
   },
   {
+    "id": "e50895c8a43ad6754626736cfc2d85e2b7ac1113",
+    "event_date": "2026-10-30",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-01T12:32:11Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-01T15:19:44.913270Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": "Africa Corps/Wagner",
+    "mentioned_actors": [
+      "State",
+      "Africa Corps/Wagner",
+      "JNIM"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Strikes against terrorists in Mali,...",
+    "summary": "Strikes against terrorists in Mali, elimination of a terrorist base in Burkina Faso: summary of combat operations in the Sahel from 17 to 30 October In the second half of October, the Malian Armed Forces (FAMa), together with units of the Africa Corps of the Russian Ministry of Defence, continued the anti-terrorist operations against the terrorists of JNIM (affiliated with Al-Qaeda*) and the Liberation Front of azawad (Fla).",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/insecurite/frappes-contre-les-terroristes-au-mali-elimination-dune-base-de-3121112.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/frappes-contre-les-terroristes-au-mali-elimination-dune-base-de-3121112.html",
+        "source": "Maliweb",
+        "title": "Strikes against terrorists in Mali,...",
+        "summary": "Strikes against terrorists in Mali, elimination of a terrorist base in Burkina Faso: summary of combat operations in the Sahel from 17 to 30 October In the second half of October, the Malian Armed Forces (FAMa), together with units of the Africa Corps of the Russian Ministry of Defence, continued the anti-terrorist operations against the terrorists of JNIM (affiliated with Al-Qaeda*) and the Liberation Front of azawad (Fla).",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-01T15:19:44.913270Z",
+    "updated_at": "2026-11-01T15:19:44.913270Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-01T15:19:44.913270Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "393b2ebc6d1cf329ee4e6f7f9361bae6e6aafd81",
     "event_date": "2026-10-29",
     "event_date_confidence": "publication-proxy",

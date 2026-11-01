@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-01T06:21:18.143319Z",
+  "generated_at": "2026-11-01T15:21:07.793026Z",
   "window_days": 30,
   "cutoff": "2026-10-02",
-  "reports": 742,
-  "incident_reports": 200,
-  "candidate_events": 122,
+  "reports": 744,
+  "incident_reports": 201,
+  "candidate_events": 123,
   "corroborated_events": 40,
   "mapped_events": 99,
   "mapped_locations": 187,
-  "distinct_sources": 84,
+  "distinct_sources": 82,
   "by_actor": {
-    "State": 69,
+    "State": 70,
     "Other": 24,
     "JNIM": 14,
     "Africa Corps/Wagner": 10,
     "IS Sahel": 5
   },
   "by_country": {
-    "Mali": 98,
+    "Mali": 99,
     "Niger": 23,
     "Burkina Faso": 1
   },
   "by_event_type": {
-    "security operation": 50,
+    "security operation": 51,
     "clash": 15,
     "attack": 14,
     "offensive/campaign": 14,
@@ -34,13 +34,13 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 590,
-    "en": 105,
+    "fr": 593,
+    "en": 104,
     "ar": 47
   },
   "by_confidence": {
     "low": 58,
-    "moderate": 49,
+    "moderate": 50,
     "moderate-high": 13,
     "high": 2
   },
@@ -53,7 +53,7 @@
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 77
+      "count": 76
     },
     {
       "source_code": "SRC-0075",
@@ -91,6 +91,11 @@
       "count": 18
     },
     {
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
+      "count": 18
+    },
+    {
       "source_code": "SRC-0015",
       "source": "ActuNiger",
       "count": 18
@@ -98,11 +103,6 @@
     {
       "source_code": "SRC-0034",
       "source": "TV5MONDE Afrique",
-      "count": 18
-    },
-    {
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
       "count": 18
     }
   ],
@@ -116,11 +116,11 @@
       "count": 21
     },
     {
-      "location": "Bamako",
-      "count": 19
+      "location": "Mali",
+      "count": 20
     },
     {
-      "location": "Mali",
+      "location": "Bamako",
       "count": 19
     },
     {
@@ -295,7 +295,7 @@
     {
       "date": "2026-10-30",
       "reports": 28,
-      "events": 0
+      "events": 1
     },
     {
       "date": "2026-10-31",
@@ -304,7 +304,7 @@
     },
     {
       "date": "2026-11-01",
-      "reports": 0,
+      "reports": 5,
       "events": 0
     }
   ],
@@ -398,6 +398,98 @@
       "confidence": "low",
       "independent_source_domains": [
         "anp.ne"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "e50895c8a43ad6754626736cfc2d85e2b7ac1113",
+      "event_date": "2026-10-30",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-01T12:32:11Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-01T15:19:44.913270Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": "Africa Corps/Wagner",
+      "mentioned_actors": [
+        "State",
+        "Africa Corps/Wagner",
+        "JNIM"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Strikes against terrorists in Mali,...",
+      "summary": "Strikes against terrorists in Mali, elimination of a terrorist base in Burkina Faso: summary of combat operations in the Sahel from 17 to 30 October In the second half of October, the Malian Armed Forces (FAMa), together with units of the Africa Corps of the Russian Ministry of Defence, continued the anti-terrorist operations against the terrorists of JNIM (affiliated with Al-Qaeda*) and the Liberation Front of azawad (Fla).",
+      "sources": [
+        "Maliweb"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.maliweb.net/insecurite/frappes-contre-les-terroristes-au-mali-elimination-dune-base-de-3121112.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.maliweb.net/insecurite/frappes-contre-les-terroristes-au-mali-elimination-dune-base-de-3121112.html",
+          "source": "Maliweb",
+          "title": "Strikes against terrorists in Mali,...",
+          "summary": "Strikes against terrorists in Mali, elimination of a terrorist base in Burkina Faso: summary of combat operations in the Sahel from 17 to 30 October In the second half of October, the Malian Armed Forces (FAMa), together with units of the Africa Corps of the Russian Ministry of Defence, continued the anti-terrorist operations against the terrorists of JNIM (affiliated with Al-Qaeda*) and the Liberation Front of azawad (Fla).",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-01T15:19:44.913270Z",
+      "updated_at": "2026-11-01T15:19:44.913270Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-01T15:19:44.913270Z",
+          "type": "event_created",
+          "source": "Maliweb"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "maliweb.net"
       ],
       "independent_source_count": 1,
       "significance": "MAJOR",
@@ -4181,101 +4273,99 @@
         "strategic/severe event pattern",
         "multi-location activity"
       ]
-    },
-    {
-      "id": "b3b40a83e74de206fd9d1c486d7161a274f16098",
-      "event_date": "2026-10-23",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-10-23T20:11:11Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-23T23:16:16.986424Z",
-      "actor": "State",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "clash",
-      "country": "Mali",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "PRESS BRIEFING: DIRPA reports 4,880 fighters of the Armed Terrorist Groups put out of action during the period from May to 20 October 2026",
-      "summary": "Faithful to its meeting with the media, the Directorate of Information and Public Relations of the Armed Forces (DIRPA) held its traditional monthly press briefing, this Friday, October 23, 2026, at its premises. The meeting was moderated by the Director of Information and Public Relations of the Armed Forces, Colonel-Major Bakary Bocar MAIGA, in the presence of an audience of journalists and media professionals .",
-      "sources": [
-        "Bamada"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://bamada.net/point-de-presse-la-dirpa-fait-etat-de-4-880-combattants-des-groupes-armes-terroristes-mis-hors-de-combat-durant-la-periode-allant-du-mois-de-mai-au-20-octobre-2026"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://bamada.net/point-de-presse-la-dirpa-fait-etat-de-4-880-combattants-des-groupes-armes-terroristes-mis-hors-de-combat-durant-la-periode-allant-du-mois-de-mai-au-20-octobre-2026",
-          "source": "Bamada",
-          "title": "PRESS BRIEFING: DIRPA reports 4,880 fighters of the Armed Terrorist Groups put out of action during the period from May to 20 October 2026",
-          "summary": "Faithful to its meeting with the media, the Directorate of Information and Public Relations of the Armed Forces (DIRPA) held its traditional monthly press briefing, this Friday, October 23, 2026, at its premises. The meeting was moderated by the Director of Information and Public Relations of the Armed Forces, Colonel-Major Bakary Bocar MAIGA, in the presence of an audience of journalists and media professionals .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group",
-            "journalist"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-23T23:16:16.986424Z",
-      "updated_at": "2026-10-23T23:16:16.986424Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group",
-        "journalist"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-23T23:16:16.986424Z",
-          "type": "event_created",
-          "source": "Bamada"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "bamada.net"
-      ],
-      "independent_source_count": 1,
-      "significance": "ROUTINE",
-      "significance_reasons": [
-        "limited currently observed significance"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-01T14:59:24Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-01T15:19:45.099021Z",
+      "discovered_at": "2026-11-01T15:19:45.099021Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "Diplomacy: The Prime Minister of Niger on an official visit to Benghazi to strengthen bilateral cooperation",
+      "url": "https://burkina24.com/2026/11/01/diplomatie-le-premier-ministre-du-niger-en-visite-officielle-a-benghazi-pour-renforcer-la-cooperation-bilaterale/"
+    },
+    {
+      "published_at": "2026-11-01T12:32:11Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-01T15:19:44.913270Z",
+      "discovered_at": "2026-11-01T15:19:44.913270Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Strikes against terrorists in Mali,...",
+      "url": "https://www.maliweb.net/insecurite/frappes-contre-les-terroristes-au-mali-elimination-dune-base-de-3121112.html"
+    },
+    {
+      "published_at": "2026-11-01T10:03:54Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-01T15:19:47.755332Z",
+      "discovered_at": "2026-11-01T15:19:47.755332Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0039",
+      "source": "Afrik.com",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Arlit",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Niger: the Algerian army in Arlit, on its way to Madama",
+      "url": "https://www.afrik.com/niger-l-armee-algerienne-a-arlit-en-route-vers-madama"
+    },
+    {
+      "published_at": "2026-11-01T09:31:50Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-01T15:19:50.034253Z",
+      "discovered_at": "2026-11-01T15:19:50.034253Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "66th anniversary of the FANS: \"Their supreme sacrifice is the sacred seed of our freedom\", Captain Ibrahim Traoré pays tribute to the fallen soldiers",
+      "url": "https://burkina24.com/2026/11/01/66%e1%b5%89-anniversaire-des-fan-leur-sacrifice-supreme-est-la-semence-sacree-de-notre-liberte-le-capitaine-ibrahim-traore-rend-hommage-aux-soldats-tombes/"
+    },
+    {
+      "published_at": "2026-11-01T00:00:00Z",
+      "published_date_source": "visible-publication-label",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-01T15:19:49.055548Z",
+      "discovered_at": "2026-11-01T15:19:49.055548Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "SIAO 2026: Illegal sellers of entry tickets arrested, 160 tickets seized by the National Police",
+      "url": "https://lefaso.net/spip.php?article150418="
+    },
     {
       "published_at": "2026-10-31T23:49:41Z",
       "published_date_source": "opengraph",
@@ -4905,96 +4995,6 @@
       "candidate_event": true,
       "title": "Mali: Targeted army strikes against terrorist logistics",
       "url": "https://fr.apanews.net/security/mali-serie-de-frappes-ciblees-de-larmee-contre-des-logistiques-terroristes/"
-    },
-    {
-      "published_at": "2026-10-30T10:38:53Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:18.854744Z",
-      "discovered_at": "2026-10-30T15:10:18.854744Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Djenné",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Terrorism tracked and neutralized: FAMa successfully strikes in Talhandak, Nangola and Djenné",
-      "url": "https://bamada.net/terrorisme-traque-et-neutralise-les-fama-frappent-avec-succes-a-talhandak-nangola-et-djenne"
-    },
-    {
-      "published_at": "2026-10-30T10:37:52Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:18.817829Z",
-      "discovered_at": "2026-10-30T15:10:18.817829Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Djenné",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Operation Dougoukoloko: the FAMa strike terrorist positions in several localities",
-      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312588-operation-dougoukoloko-les-fama-frappent-des-positions-ter-2.html"
-    },
-    {
-      "published_at": "2026-10-30T10:17:21Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:22.350308Z",
-      "discovered_at": "2026-10-30T15:10:22.350308Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0040",
-      "source": "Mondafrique",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Niger, Human Rights Watch and RSF demand Moussa Kaka's release",
-      "url": "https://mondafrique.com/politique/niger-human-rights-watch-et-rsf-exigent-la-liberation-de-moussa-kaka/"
-    },
-    {
-      "published_at": "2026-10-30T10:14:40Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:23.976316Z",
-      "discovered_at": "2026-10-30T15:10:23.976316Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": "Africa Corps/Wagner",
-      "country": "Mali",
-      "city": "Nioro du Sahel",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: Russian army and Africa Corps decimate more than 200 head of cattle near Diéma",
-      "url": "https://fr.allafrica.com/stories/202610300285.html"
-    },
-    {
-      "published_at": "2026-10-30T09:53:28Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:26.639302Z",
-      "discovered_at": "2026-10-30T15:10:26.639302Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "kidnapping",
-      "candidate_event": false,
-      "title": "Mali: An opponent of the Malian junta has been the victim of an enforced disappearance for six months",
-      "url": "https://fr.allafrica.com/stories/202610300231.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

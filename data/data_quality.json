@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-01T06:21:18.368231Z",
-  "events_30d": 122,
+  "generated_at": "2026-11-01T15:21:07.962169Z",
+  "events_30d": 123,
   "date_resolution_pct": 84,
-  "precise_geography_pct": 81,
+  "precise_geography_pct": 80,
   "actor_attribution_pct": 80,
   "multi_source_corroboration_pct": 33,
   "collection_blind_spots": [],
   "collection_status": "NOMINAL",
   "language_reports_30d": {
-    "fr": 636,
-    "en": 109,
+    "fr": 639,
+    "en": 108,
     "ar": 49
   },
   "note": "Quality percentages describe fields present in Sahel Intel fused candidate events; they are not accuracy estimates."
