@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:21:07.793015Z",
+  "generated_at": "2026-11-01T20:39:09.160229Z",
   "series": {
     "JNIM": [
       {
@@ -2040,7 +2040,7 @@
       },
       {
         "date": "2026-10-01",
-        "count": 0
+        "count": 1
       },
       {
         "date": "2026-10-02",
@@ -2925,8 +2925,8 @@
     },
     "State": {
       "current": 70,
-      "previous": 23,
-      "change_pct": 204.3
+      "previous": 24,
+      "change_pct": 191.7
     },
     "Africa Corps/Wagner": {
       "current": 18,
