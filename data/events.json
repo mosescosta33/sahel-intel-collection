@@ -5073,6 +5073,118 @@
     ]
   },
   {
+    "id": "1c38bc60e75c8aed6ac7d1d26987a8cd07967660",
+    "event_date": "2026-10-20",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-10-31T23:49:41Z",
+    "published_date_source": "opengraph",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-01T06:20:25.809256Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Niger",
+    "city": "Agadez",
+    "lat": 16.9733,
+    "lng": 7.9911,
+    "locations": [
+      {
+        "name": "Agadez",
+        "country": "Niger",
+        "lat": 16.9733,
+        "lng": 7.9911,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Tillabéri",
+        "country": "Niger",
+        "lat": 14.2071,
+        "lng": 1.4542,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Diffa",
+        "country": "Niger",
+        "lat": 13.3154,
+        "lng": 12.6113,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Niger: the army announces the neutralization of seven individuals presented as mercenaries and armed bandits",
+    "summary": "The Nigerien army claims to have neutralized seven individuals described as \"mercenaries\" during operations on several fronts during the second half of October 2026. On October 20, near Amazguèr, in the north of the country, \"two armed bandits were neutralized after opening fire on a patrol,\" according to the military toll reported by the Integrated Operations Coordination Center (CICO) .",
+    "sources": [
+      "Aïr Info"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://airinfoagadez.com/2026/11/01/niger-larmee-annonce-la-neutralisation-de-sept-individus-presentes-comme-des-mercenaires-et-des-bandits-armes/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://airinfoagadez.com/2026/11/01/niger-larmee-annonce-la-neutralisation-de-sept-individus-presentes-comme-des-mercenaires-et-des-bandits-armes/",
+        "source": "Aïr Info",
+        "title": "Niger: the army announces the neutralization of seven individuals presented as mercenaries and armed bandits",
+        "summary": "The Nigerien army claims to have neutralized seven individuals described as \"mercenaries\" during operations on several fronts during the second half of October 2026. On October 20, near Amazguèr, in the north of the country, \"two armed bandits were neutralized after opening fire on a patrol,\" according to the military toll reported by the Integrated Operations Coordination Center (CICO) .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-01T06:20:25.809256Z",
+    "updated_at": "2026-11-01T06:20:25.809256Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-01T06:20:25.809256Z",
+        "type": "event_created",
+        "source": "Aïr Info"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "airinfoagadez.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
     "id": "bfbde99d24f9783f9107bff871415854b75b7e67",
     "event_date": "2026-10-20",
     "event_date_confidence": "explicit-text",

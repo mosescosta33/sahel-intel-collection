@@ -1,8 +1,372 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-31T23:32:35.781437Z",
-  "briefing_count": 30,
+  "generated_at": "2026-11-01T06:21:19.179814Z",
+  "briefing_count": 31,
   "briefings": [
+    {
+      "schema_version": "2.0",
+      "product": "Sultana 24-Hour AES Intelligence Brief",
+      "reporting_date": "2026-11-01",
+      "generated_at": "2026-11-01T06:21:19.179814Z",
+      "window_start": "2026-10-31T06:21:19.179814Z",
+      "window_end": "2026-11-01T06:21:19.179814Z",
+      "window_hours": 24,
+      "method": "Sultana 24-hour all-retained-report intelligence synthesis",
+      "freshness_status": "LIVE",
+      "assessment_confidence": "MODERATE",
+      "coverage": {
+        "retained_articles_reviewed": 16,
+        "retained_articles_in_window": 16,
+        "coverage_complete": true,
+        "distinct_sources": 10,
+        "linked_candidate_events": 2,
+        "multi_source_candidate_events": 0,
+        "countries": {
+          "Mali": 8,
+          "Burkina Faso": 1,
+          "Niger": 7
+        },
+        "actors": {
+          "State": 7,
+          "Other": 8,
+          "Africa Corps/Wagner": 1
+        },
+        "event_types": {
+          "security operation": 2,
+          "clash": 2,
+          "political/security policy": 3,
+          "law enforcement": 1
+        }
+      },
+      "sections": [
+        {
+          "heading": "BOTTOM LINE",
+          "text": "Sultana reviewed all 16 retained reports collected during the 24-hour window from 10 distinct sources. Reporting was heaviest on Mali (8 reports), while State appeared most often in actor-attributed reporting (7 reports). The same source set is linked to 2 fused candidate events, including 0 with at least two independent sources."
+        },
+        {
+          "heading": "KEY JUDGMENTS",
+          "bullets": [
+            "Reporting distribution: Mali 8, Niger 7, Burkina Faso 1 retained reports.",
+            "Actor posture: State dominated actor-attributed reporting in this window; JNIM 0, IS Sahel 0, AES/state forces 7, Africa Corps/Wagner 1.",
+            "Operational pattern: the leading coded report types were political/security policy (3), security operation (2), clash (2), law enforcement (1).",
+            "Event fusion: 2 candidate events are tied to reports collected in the window; 0 currently have multi-source support."
+          ]
+        },
+        {
+          "heading": "Mali",
+          "text": "8 retained reports were reviewed for Mali. PATRIOTIC GESTURE: the \"An Ko Mali Dron\" Association supports the Malian Armed Forces PATRIOTIC GESTURE: the…: Faithful to its values of patriotism and its attachment to the defense of the homeland, the Association \"An Ko Mali Dron\" donated, on Friday, October 30, 2026, a sum of seventy-seven thousand five hundred (77,500) FCFA… Mali: Abdoulaye Diop discusses the impact of cooperation with Russia on the army: The Malian Minister of Foreign Affairs and International Cooperation, Abdoulaye Diop, gave an interview to African Initiative following the third Russia-Africa summit, held in Moscow on 28 and 29 October 2026. For him,… Reporting was concentrated on State (4), Africa Corps/Wagner (1)."
+        },
+        {
+          "heading": "Burkina Faso",
+          "text": "1 retained report was reviewed for Burkina Faso. Burkina/Tribute to the martyrs of the popular insurrection: \"Burkina Faso will be totally free, sovereign…: Burkina/Tribute to the Martyrs of the Popular Insurrection: \"Burkina Faso will be totally free, sovereign and independent\", reaffirms Captain Ibrahim Traoré On the occasion of the National Day of Tribute to the…"
+        },
+        {
+          "heading": "Niger",
+          "text": "7 retained reports were reviewed for Niger. Niger: the army announces the neutralization of seven individuals presented as mercenaries and armed bandits: The Nigerien army claims to have neutralized seven individuals described as \"mercenaries\" during operations on several fronts during the second half of October 2026. On October 20, near Amazguèr, in the north of the… Niger: Several mercenaries neutralized through various operations to secure the national territory: Niamey, Oct 31 (ANP)-The Defense and Security Forces have neutralized seven(7) mercenaries through several operations to secure the national territory, report the narrative of the Integrated Operations Coordination… Reporting was concentrated on State (3)."
+        },
+        {
+          "heading": "ACTOR POSTURE",
+          "text": "JNIM appears in 0 retained reports; IS Sahel in 0; AES/state forces in 7; Africa Corps/Wagner in 1. JNIM is down to 1 from 4; IS Sahel is down to 0 from 4; State is down to 8 from 21."
+        },
+        {
+          "heading": "WHAT CHANGED VS BASELINE",
+          "text": "JNIM is down to 1 from 4; IS Sahel is down to 0 from 4; State is down to 8 from 21."
+        },
+        {
+          "heading": "INDICATORS TO WATCH — NEXT 24–72 HOURS",
+          "bullets": [
+            "Watch for additional Africa Corps/Wagner-linked deployments, joint operations, logistics activity, or equipment reporting."
+          ]
+        },
+        {
+          "heading": "CONFIDENCE / CAVEATS",
+          "bullets": [
+            "Multiple sources were reviewed, but some developments remain single-source or incompletely corroborated.",
+            "Collection health: 142 sources live, 15 degraded, 27 failed in the latest collector cycle.",
+            "Candidate events and actor attributions remain OSINT-derived analytical records and may change with better sourcing, dates, or geolocation."
+          ]
+        }
+      ],
+      "text": "SULTANA AL-QAHTANI — 24-HOUR AES INTELLIGENCE BRIEF\nReporting date: 2026-11-01\nWindow: 2026-10-31T06:21:19.179814Z to 2026-11-01T06:21:19.179814Z\nAssessment confidence: MODERATE\n\nBOTTOM LINE\nSultana reviewed all 16 retained reports collected during the 24-hour window from 10 distinct sources. Reporting was heaviest on Mali (8 reports), while State appeared most often in actor-attributed reporting (7 reports). The same source set is linked to 2 fused candidate events, including 0 with at least two independent sources.\n\nKEY JUDGMENTS\n• Reporting distribution: Mali 8, Niger 7, Burkina Faso 1 retained reports.\n• Actor posture: State dominated actor-attributed reporting in this window; JNIM 0, IS Sahel 0, AES/state forces 7, Africa Corps/Wagner 1.\n• Operational pattern: the leading coded report types were political/security policy (3), security operation (2), clash (2), law enforcement (1).\n• Event fusion: 2 candidate events are tied to reports collected in the window; 0 currently have multi-source support.\n\nMali\n8 retained reports were reviewed for Mali. PATRIOTIC GESTURE: the \"An Ko Mali Dron\" Association supports the Malian Armed Forces PATRIOTIC GESTURE: the…: Faithful to its values of patriotism and its attachment to the defense of the homeland, the Association \"An Ko Mali Dron\" donated, on Friday, October 30, 2026, a sum of seventy-seven thousand five hundred (77,500) FCFA… Mali: Abdoulaye Diop discusses the impact of cooperation with Russia on the army: The Malian Minister of Foreign Affairs and International Cooperation, Abdoulaye Diop, gave an interview to African Initiative following the third Russia-Africa summit, held in Moscow on 28 and 29 October 2026. For him,… Reporting was concentrated on State (4), Africa Corps/Wagner (1).\n\nBurkina Faso\n1 retained report was reviewed for Burkina Faso. Burkina/Tribute to the martyrs of the popular insurrection: \"Burkina Faso will be totally free, sovereign…: Burkina/Tribute to the Martyrs of the Popular Insurrection: \"Burkina Faso will be totally free, sovereign and independent\", reaffirms Captain Ibrahim Traoré On the occasion of the National Day of Tribute to the…\n\nNiger\n7 retained reports were reviewed for Niger. Niger: the army announces the neutralization of seven individuals presented as mercenaries and armed bandits: The Nigerien army claims to have neutralized seven individuals described as \"mercenaries\" during operations on several fronts during the second half of October 2026. On October 20, near Amazguèr, in the north of the… Niger: Several mercenaries neutralized through various operations to secure the national territory: Niamey, Oct 31 (ANP)-The Defense and Security Forces have neutralized seven(7) mercenaries through several operations to secure the national territory, report the narrative of the Integrated Operations Coordination… Reporting was concentrated on State (3).\n\nACTOR POSTURE\nJNIM appears in 0 retained reports; IS Sahel in 0; AES/state forces in 7; Africa Corps/Wagner in 1. JNIM is down to 1 from 4; IS Sahel is down to 0 from 4; State is down to 8 from 21.\n\nWHAT CHANGED VS BASELINE\nJNIM is down to 1 from 4; IS Sahel is down to 0 from 4; State is down to 8 from 21.\n\nINDICATORS TO WATCH — NEXT 24–72 HOURS\n• Watch for additional Africa Corps/Wagner-linked deployments, joint operations, logistics activity, or equipment reporting.\n\nCONFIDENCE / CAVEATS\n• Multiple sources were reviewed, but some developments remain single-source or incompletely corroborated.\n• Collection health: 142 sources live, 15 degraded, 27 failed in the latest collector cycle.\n• Candidate events and actor attributions remain OSINT-derived analytical records and may change with better sourcing, dates, or geolocation.",
+      "article_manifest": [
+        {
+          "id": "49c82fa4bb28b909ef292604691afc183f7006ae",
+          "source": "Aïr Info",
+          "title": "Niger: the army announces the neutralization of seven individuals presented as mercenaries and armed bandits",
+          "original_title": "Niger : l’armée annonce la neutralisation de sept individus présentés comme des mercenaires et des bandits armés",
+          "summary": "The Nigerien army claims to have neutralized seven individuals described as \"mercenaries\" during operations on several fronts during the second half of October 2026. On October 20, near Amazguèr, in the north of the country, \"two armed bandits were neutralized after opening fire on a patrol,\" according to the military toll reported by the Integrated Operations Coordination Center (CICO) .",
+          "url": "https://airinfoagadez.com/2026/11/01/niger-larmee-annonce-la-neutralisation-de-sept-individus-presentes-comme-des-mercenaires-et-des-bandits-armes/",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-10-31T23:49:41Z",
+          "collected_at": "2026-11-01T06:20:25.809256Z",
+          "event_date": "2026-10-20",
+          "actor": "State",
+          "event_type": "security operation",
+          "candidate_event": true,
+          "supporting_force": null
+        },
+        {
+          "id": "611299d716156fdf4d9df33a934298fcf6e4b852",
+          "source": "Aïr Info",
+          "title": "Agadez: about sixty Algerian tankers transport fuel to Niger",
+          "original_title": "Agadez : une soixantaine de camions-citernes algériens acheminent du carburant au Niger",
+          "summary": "A first delivery of fuel from Algeria arrived this Saturday evening in Agadez, in northern Niger. The convoy, composed of about sixty tanker trucks, was transported under the joint escort of the Nigerien and Algerian armed forces, as part of bilateral cooperation between the two countries This operation takes place in a context marked by difficulties in the supply of petroleum products and testifies to the solidarity between Algiers and Niamey.",
+          "url": "https://airinfoagadez.com/2026/11/01/agadez-une-soixantaine-de-camions-citernes-algeriens-acheminent-du-carburant-au-niger/",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-10-31T23:02:08Z",
+          "collected_at": "2026-10-31T23:31:27.787771Z",
+          "event_date": "2026-11-01",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "fbf1cf16afdc35188d9b0566b425fa318d8cff66",
+          "source": "Agence Nigérienne de Presse",
+          "title": "Summary of the visit of the Minister of Refoundation and Promotion of Social Values to Tahoua",
+          "original_title": "Synthèse de la visite du ministre de la refondation et de la promotion des valeurs sociales à Tahoua",
+          "summary": "Tahoua, Oct 31 (ANP)- The Minister of Refoundation and Promotion of Social Values, Mr. Abdourahamane Oumarou undertook from 25 to 30 October 2026 a working visit to the Tahoua region, on the occasion of the 13th edition of the Dan Gourmou Prize held from 24 to 29 October 2026 . In his address on the occasion of the closing of the Dan Gourmou Prize, 2026 edition, the Pan-Africanist Minister Abdourahamane first paid tribute to the defence and security forces who fell while defending the homeland .",
+          "url": "https://anp.ne/synthese-de-la-visite-du-ministre-de-la-refondation-et-de-la-promotion-des-valeurs-sociales-a-tahoua/",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-10-31T20:38:00Z",
+          "collected_at": "2026-10-31T20:05:39.283521Z",
+          "event_date": "2026-10-30",
+          "actor": "Other",
+          "event_type": "clash",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "a344144a92c8928a113f422e5f95b13b836fb9b6",
+          "source": "Bamada",
+          "title": "PATRIOTIC GESTURE: the \"An Ko Mali Dron\" Association supports the Malian Armed Forces PATRIOTIC GESTURE: the \"An Ko Mali Dron\" Association supports the Malian Armed Forces – Main illustration",
+          "original_title": "GESTE PATRIOTIQUE : l’Association « An Ko Mali Dron » apporte son soutien aux Forces Armées Maliennes GESTE PATRIOTIQUE : l’Association « An Ko Mali Dron » apporte son soutien aux Forces Armées Maliennes – Illustration principale",
+          "summary": "Faithful to its values of patriotism and its attachment to the defense of the homeland, the Association \"An Ko Mali Dron\" donated, on Friday, October 30, 2026, a sum of seventy-seven thousand five hundred (77,500) FCFA to the Malian Armed Forces (FAMa). The donation ceremony was chaired by Colonel-Major Yacouba SANOGO, representing the Chief of the General Staff of the Armed Forces (CEMGA) Through this contribution, the association intends to solemnly show its support and address its encouragement to the FAMa, who work daily to defend the homeland and safeguard the territorial integrity of Mali.",
+          "url": "https://bamada.net/geste-patriotique-lassociation-an-ko-mali-dron-apporte-son-soutien-aux-forces-armees-maliennes-geste-patriotique-lassociation-an-ko-mali-dron-apporte-son-soutien-au",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-10-31T20:10:04Z",
+          "collected_at": "2026-10-31T23:31:20.355370Z",
+          "event_date": "2026-10-30",
+          "actor": "State",
+          "event_type": "political/security policy",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "3aa072eeb58f11340eaeefef5a8b40c3f80a292b",
+          "source": "La Nouvelle Tribune (Bénin)",
+          "title": "Mali: Abdoulaye Diop discusses the impact of cooperation with Russia on the army",
+          "original_title": "Mali : Abdoulaye Diop évoque l'impact de la coopération avec la Russie sur l'armée",
+          "summary": "The Malian Minister of Foreign Affairs and International Cooperation, Abdoulaye Diop, gave an interview to African Initiative following the third Russia-Africa summit, held in Moscow on 28 and 29 October 2026. For him, the partnership with Moscow has allowed the Malian army to strengthen and regain the initiative on the ground . He salutes the Russian troops engaged alongside the Malian forces, and the sacrifices made in this joint work.",
+          "url": "https://lanouvelletribune.info/2026/10/mali-abdoulaye-diop-evoque-limpact-de-la-cooperation-avec-la-russie-sur-larmee/",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-10-31T19:49:24Z",
+          "collected_at": "2026-10-31T20:05:40.392847Z",
+          "event_date": "2026-10-29",
+          "actor": "Africa Corps/Wagner",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "55730d8e49716071e54e52d34746b1a240252c96",
+          "source": "ActuNiger",
+          "title": "Russia-Africa Summit: Presidents GOÏTA and PUTIN open a new stage of the Mali-Russia partnership",
+          "original_title": "Sommet Russie-Afrique : les présidents GOÏTA et POUTINE ouvrent une nouvelle étape du partenariat Mali-Russie",
+          "summary": "The President of the Malian Transition, Army General Assimi GOÏTA, was received on Friday, October 30, 2026, in the Kremlin by his Russian counterpart, Mr. Vladimir PUTIN, on the sidelines of the third Russia-Africa Summit. The Head of State was accompanied by the Minister of Foreign Affairs and International Cooperation, Mr.",
+          "url": "https://www.actuniger.com/international/22530-sommet-russie-afrique-les-presidents-goita-et-poutine-ouvrent-une-nouvelle-etape-du-partenariat-mali-russie",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-10-31T13:56:03Z",
+          "collected_at": "2026-10-31T14:39:55.069311Z",
+          "event_date": "2026-10-30",
+          "actor": "Other",
+          "event_type": "political/security policy",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "4f984e63cacc8cac131376d5339c16ab4fb4a92c",
+          "source": "Agence Nigérienne de Presse",
+          "title": "Niger: Several mercenaries neutralized through various operations to secure the national territory",
+          "original_title": "Niger : Plusieurs mercenaires neutralisés à travers diverses opérations de sécurisation du territoire national",
+          "summary": "Niamey, Oct 31 (ANP)-The Defense and Security Forces have neutralized seven(7) mercenaries through several operations to secure the national territory, report the narrative of the Integrated Operations Coordination Center (CICO) of the second half of October 2026 . Thus, within Operation Damissa; in the border area with Nigeria, the Defence and Security Forces continue their actions against the mercenaries who maintain insecurity there \"It is in this context that the Tarnatsa operation of opportunity was launched, marked by the passage to the offensive of the ground forces against several enemy landmarks.",
+          "url": "https://anp.ne/niger-plusieurs-mercenaires-neutralises-a-travers-diverses-operations-de-securisation-du-territoire-national/",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-10-31T13:20:00Z",
+          "collected_at": "2026-10-31T14:39:51.697031Z",
+          "event_date": "2026-10-31",
+          "actor": "Other",
+          "event_type": "security operation",
+          "candidate_event": true,
+          "supporting_force": null
+        },
+        {
+          "id": "d03e6c27f70d265b8a8a0112010e8d97303c70e6",
+          "source": "Bamada",
+          "title": "Massive resupply in Bamako: A new convoy of 596 tanks secured by FAMa",
+          "original_title": "Ravitaillement massif à Bamako : Un nouveau convoi de 596 citernes sécurisé par les FAMa",
+          "summary": "596 new cisterns in Bamako! This Saturday, October 31, 2026, around 7 am, a convoy of 596 tankers arrived in the parking lots of Bamako, after having crossed the night under the escort of our valiant Malian Armed Forces (FAMa), which we salute for their commitment and courage. It should be recalled that before the arrival of this convoy, 415 loaded tanks still remained in the parks .",
+          "url": "https://bamada.net/ravitaillement-massif-a-bamako-un-nouveau-convoi-de-596-citernes-securise-par-les-fama",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-10-31T12:07:04Z",
+          "collected_at": "2026-10-31T14:39:50.858697Z",
+          "event_date": "2026-10-31",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "ce3e71c06a1e0f4dca78c6f61fcbd6167a3b2e77",
+          "source": "Malijet",
+          "title": "Algeria-Niger: Algiers authorizes the deployment of soldiers to protect its interests",
+          "original_title": "Algérie-Niger : Alger autorise le déploiement de soldats pour protéger ses intérêts",
+          "summary": "According to the Algerian website Bladi.net, the Algerian Parliament authorized, on Sunday, October 25, the deployment of military units in Niger. This decision comes four days after the signing of a military cooperation agreement between the two countries. According to Reuters, Algiers intends to protect its economic and energy interests This deployment comes after the dispatch, at the end of August, of four Sukhoi Su-30 fighter jets to Niamey, following an attempt to destabilize the Nigerien power.",
+          "url": "https://malijet.com/actualite-sur-afrique/312612-algerie-niger-alger-autorise-le-deploiement-de-soldats-pou.html",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-10-31T11:42:53Z",
+          "collected_at": "2026-10-31T14:39:50.812559Z",
+          "event_date": "2026-10-25",
+          "actor": "Other",
+          "event_type": "clash",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "46fc3e85962b1d0722f893c2ac17645d5fa54a71",
+          "source": "Malijet",
+          "title": "Bamako: 596 new tanker trucks arrived this Saturday",
+          "original_title": "Bamako : 596 nouveaux camions-citernes arrivés ce samedi",
+          "summary": "A convoy of 596 tanker trucks arrived in Bamako this Saturday, October 31, 2026, around 7 a.m. It travelled at night under the escort of the Malian Armed Forces (FAMa), announces the Directorate General of Trade and Competition (DGCC) . With the 415 tanks already present in the car parks, more than 1,000 tanks of petroleum products are now available to supply depots and service stations.",
+          "url": "https://malijet.com/actualite_economique_du_mali/312611-bamako-596-nouveaux-camions-citernes-arrives-ce-samedi.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-10-31T11:31:16Z",
+          "collected_at": "2026-10-31T14:39:50.619741Z",
+          "event_date": "2026-10-31",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "d6ecbcfda4c9f3f58b437de3eb8e0affa9097969",
+          "source": "APAnews (FR)",
+          "title": "Mali: another deadly landslide at a gold panning site in Kangaba",
+          "original_title": "Mali : nouvel éboulement mortel sur un site d’orpaillage à Kangaba",
+          "summary": "Six Burkinabe nationals perished on Friday in the collapse of a gallery on a gold mining site in the Kangaba circle, in southwest Mali, near the Guinean border. The tragedy occurs in one of the main artisanal gold basins of the country, already marked by several deadly accidents . The landslide occurred on October 30 in Dioulafoundou, in the rural commune of Nouga, attached to the Kangaba circle in the Koulikoro region.",
+          "url": "https://fr.apanews.net/disasters/mali-nouvel-eboulement-mortel-sur-un-site-dorpaillage-a-kangaba/",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-10-31T11:13:56Z",
+          "collected_at": "2026-10-31T14:39:55.470548Z",
+          "event_date": "2026-10-30",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "27ada06025ce1dd9aa30d413db6316669c869533",
+          "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+          "title": "Western Sahara: the non-renewal of MINURSO, a significant step towards the definitive closure of the file at the UN",
+          "original_title": "Sahara occidental : la non-reconduction de la Minurso, un pas significatif vers la clôture définitive du dossier à l’ONU",
+          "summary": "Bamako, October 31 (map/FAAPA) The non-renewal of MINURSO by the Security Council at its meeting of October 30, 2026, is a significant step towards the definitive closure of the Sahara file at the United Nations, says a Cabinet statement . The non-renewal of the mandate of MINURSO clearly means that the presence of this Mission in the southern provinces of Morocco, in particular through its personnel, vehicles, equipment and symbols, should cease in the coming days, adds the same source.",
+          "url": "https://amap.ml/2026/10/31/sahara-marocain-la-non-reconduction-de-la-minurso-un-pas-significatif-vers-la-cloture-definitive-du-dossier-a-lonu-cabinet-royal/",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-10-31T10:19:05Z",
+          "collected_at": "2026-10-31T14:39:53.882163Z",
+          "event_date": "2026-10-30",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "1ab9fe225f2d4b869b866d9ae872025ca2693b0d",
+          "source": "Independent Arabia",
+          "title": "Algeria and Libya – Haftar and red lines on Niger border",
+          "original_title": "الجزائر وليبيا – حفتر والخطوط الحمراء على حدود النيجر",
+          "summary": "Summary A war of words has been renewed between eastern Libya and Algeria following its move towards Niger, which borders the south of Libya, where Algerian President Abdelmadjid Tebboune said in June 2021 that \"Tripoli is a red line,\" adding that \"Algeria was ready to intervene to prevent the fall of the Libyan capital to Haftar's forces.\" .",
+          "url": "https://www.independentarabia.com/node/661696/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%E2%80%93-%D8%AD%D9%81%D8%AA%D8%B1-%D9%88%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1",
+          "country": "Niger",
+          "language": "ar",
+          "published_at": "2026-10-31T09:27:34Z",
+          "collected_at": "2026-10-31T14:39:56.071321Z",
+          "event_date": "2026-10-31",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "f64e5f82716ff60edaa1da7adc905952b12c6224",
+          "source": "La Nouvelle Tribune (Bénin)",
+          "title": "Niger: 3 Beninese suspected of fraud arrested in Gaya",
+          "original_title": "Niger : 3 Béninois soupçonnés d'escroquerie arrêtés à Gaya",
+          "summary": "Three Beninese nationals were arrested in Gaya, Niger, in an alleged case of online fraud involving fake Customs auctions that allegedly resulted in more than 37 victims for an estimated provisional damage of 7 million FCFA . The ads appeared to come from the customs administration, but were actually used to extract money from Internet users, a case that led the Directorate of the Judicial Police (DPJ) of Niger to arrest three Beninese nationals suspected of belonging to a cyber fraud network, while a fourth alleged member, who resides in Benin, remains actively sought .",
+          "url": "https://lanouvelletribune.info/2026/10/niger-3-beninois-soupconnes-descroquerie-arretes-a-gaya/",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-10-31T09:03:46Z",
+          "collected_at": "2026-10-31T14:39:52.570041Z",
+          "event_date": "2026-10-31",
+          "actor": "Other",
+          "event_type": "law enforcement",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "00135c393253962891fd4d091e4ad77d8d3b56af",
+          "source": "Bamada",
+          "title": "Kremlin Summit: General Assimi Goïta and Vladimir Putin breathe new life into the Mali-Russia partnership",
+          "original_title": "Sommet au Kremlin : Le Général Assimi Goïta et Vladimir Poutine insufflent un nouvel élan au partenariat Mali-Russie",
+          "summary": "Bilateral meeting in the Kremlin: President Assimi GOÏTA and Vladimir PUTIN open a new stage of the Mali-Russia partnership The President of the Transition, Head of State, His Excellency Army General Assimi GOÏTA, was received this Friday, October 30, 2026 in the Kremlin by his Russian counterpart, Mr. Vladimir PUTIN, on the sidelines of the third Russia-Africa Summit .",
+          "url": "https://bamada.net/sommet-au-kremlin-le-general-assimi-goita-et-vladimir-poutine-insufflent-un-nouvel-elan-au-partenariat-mali-russie",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-10-31T08:07:32Z",
+          "collected_at": "2026-10-31T14:39:52.620432Z",
+          "event_date": "2026-10-30",
+          "actor": "Other",
+          "event_type": "political/security policy",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "0380dcd5cce442a0e85ae1d42e05c507917b935a",
+          "source": "LeFaso.net",
+          "title": "Burkina/Tribute to the martyrs of the popular insurrection: \"Burkina Faso will be totally free, sovereign and independent\", reaffirms (...)",
+          "original_title": "Burkina/Hommage aux martyrs de l’insurrection populaire : « Le Burkina Faso sera totalement libre, souverain et indépendant », réaffirme (…)",
+          "summary": "Burkina/Tribute to the Martyrs of the Popular Insurrection: \"Burkina Faso will be totally free, sovereign and independent\", reaffirms Captain Ibrahim Traoré On the occasion of the National Day of Tribute to the Martyrs, this Saturday, October 31, 2026, the President of Faso, Captain Ibrahim Traoré, paid tribute to the victims of the popular insurrection and to those who fell in defense of the homeland In his message, the Head of State praised the resilience of the bereaved families, expressed his solidarity with the wounded and reaffirmed his commitment to continue the struggle for the total liberation of Burkina…",
+          "url": "https://lefaso.net/spip.php?article150391=",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-10-31T00:00:00Z",
+          "collected_at": "2026-10-31T14:39:53.819465Z",
+          "event_date": "2026-10-31",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        }
+      ],
+      "linked_event_ids": [
+        "8985ba02d7ce0666e216aa0c1d246fd09c943af7",
+        "1c38bc60e75c8aed6ac7d1d26987a8cd07967660"
+      ]
+    },
     {
       "schema_version": "2.0",
       "product": "Sultana 24-Hour AES Intelligence Brief",

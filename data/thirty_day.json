@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-31T23:32:34.749014Z",
+  "generated_at": "2026-11-01T06:21:18.143319Z",
   "window_days": 30,
-  "cutoff": "2026-10-01",
-  "reports": 743,
-  "incident_reports": 199,
-  "candidate_events": 121,
+  "cutoff": "2026-10-02",
+  "reports": 742,
+  "incident_reports": 200,
+  "candidate_events": 122,
   "corroborated_events": 40,
-  "mapped_events": 98,
-  "mapped_locations": 184,
+  "mapped_events": 99,
+  "mapped_locations": 187,
   "distinct_sources": 84,
   "by_actor": {
-    "State": 68,
+    "State": 69,
     "Other": 24,
     "JNIM": 14,
     "Africa Corps/Wagner": 10,
@@ -18,11 +18,11 @@
   },
   "by_country": {
     "Mali": 98,
-    "Niger": 22,
+    "Niger": 23,
     "Burkina Faso": 1
   },
   "by_event_type": {
-    "security operation": 49,
+    "security operation": 50,
     "clash": 15,
     "attack": 14,
     "offensive/campaign": 14,
@@ -34,12 +34,12 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 591,
+    "fr": 590,
     "en": 105,
     "ar": 47
   },
   "by_confidence": {
-    "low": 57,
+    "low": 58,
     "moderate": 49,
     "moderate-high": 13,
     "high": 2
@@ -48,7 +48,7 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 109
+      "count": 108
     },
     {
       "source_code": "SRC-0006",
@@ -125,7 +125,7 @@
     },
     {
       "location": "Agadez",
-      "count": 15
+      "count": 16
     },
     {
       "location": "Niamey",
@@ -157,11 +157,6 @@
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-02",
-      "reports": 6,
-      "events": 0
-    },
     {
       "date": "2026-10-03",
       "reports": 7,
@@ -250,7 +245,7 @@
     {
       "date": "2026-10-20",
       "reports": 47,
-      "events": 7
+      "events": 8
     },
     {
       "date": "2026-10-21",
@@ -304,8 +299,13 @@
     },
     {
       "date": "2026-10-31",
-      "reports": 15,
+      "reports": 16,
       "events": 1
+    },
+    {
+      "date": "2026-11-01",
+      "reports": 0,
+      "events": 0
     }
   ],
   "latest_events": [
@@ -4277,6 +4277,24 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-10-31T23:49:41Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-01T06:20:25.809256Z",
+      "discovered_at": "2026-11-01T06:20:25.809256Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0018",
+      "source": "Aïr Info",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Agadez",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Niger: the army announces the neutralization of seven individuals presented as mercenaries and armed bandits",
+      "url": "https://airinfoagadez.com/2026/11/01/niger-larmee-annonce-la-neutralisation-de-sept-individus-presentes-comme-des-mercenaires-et-des-bandits-armes/"
+    },
+    {
       "published_at": "2026-10-31T23:02:08Z",
       "published_date_source": "opengraph",
       "published_time_precision": "datetime",
@@ -4977,24 +4995,6 @@
       "candidate_event": false,
       "title": "Mali: An opponent of the Malian junta has been the victim of an enforced disappearance for six months",
       "url": "https://fr.allafrica.com/stories/202610300231.html"
-    },
-    {
-      "published_at": "2026-10-30T08:31:01Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:25.151282Z",
-      "discovered_at": "2026-10-30T15:10:25.151282Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": null,
-      "country": null,
-      "city": null,
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "France: the suspect of the racist attack in Trappes indicted for terrorist assassination",
-      "url": "https://bamada.net/france-le-suspect-de-lattentat-raciste-de-trappes-mis-en-examen-pour-assassinat-terroriste"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

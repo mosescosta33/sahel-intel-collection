@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:32:34.980788Z",
+  "generated_at": "2026-11-01T06:21:18.312559Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
@@ -48,9 +48,9 @@
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
       "events_7d": 10,
-      "events_30d": 22,
-      "baseline_7d_equivalent": 3.7,
-      "tempo_ratio": 2.36,
+      "events_30d": 23,
+      "baseline_7d_equivalent": 4.0,
+      "tempo_ratio": 2.22,
       "drivers": [
         "10 fused candidate event(s) in 7 days",
         "9 significant/major event(s)",
