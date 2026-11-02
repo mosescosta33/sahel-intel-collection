@@ -1,5 +1,95 @@
 [
   {
+    "id": "3ed4158c070e5338f9a7e647f4db394e5d1d2031",
+    "event_date": "2026-11-02",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-02T14:13:33Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-02T18:33:34.335824Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Mali : des terroristes neutralisés par les FAMa dans le centre",
+    "summary": "FK/CRK/AF lundi 2 novembre 2026 Flash : - Ecobank franchit le cap des 2 milliards USD de PNB - Guinée : reconversion écologique de la décharge de Dar-es-Salam - RCI/littérature : Komi Sarof questionne le sens du temps - Sénégal-Italie : mission réussie pour l’économie sociale à Rome - Abidjan : coupure d’eau à Cocody-Angré ce lundi soir (SODECI) - Mali : nouvelles règles pour les transferts numériques - Tunisie-Libye : libération partielle des ressortissants retenus à Zelten - Burkina Faso : près de 90% des usagers respectent le port du casque",
+    "sources": [
+      "APAnews (FR)"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://fr.apanews.net/tv/mali-des-terroristes-neutralises-par-les-fama-dans-le-centre-2/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://fr.apanews.net/tv/mali-des-terroristes-neutralises-par-les-fama-dans-le-centre-2/",
+        "source": "APAnews (FR)",
+        "title": "Mali : des terroristes neutralisés par les FAMa dans le centre",
+        "summary": "FK/CRK/AF lundi 2 novembre 2026 Flash : - Ecobank franchit le cap des 2 milliards USD de PNB - Guinée : reconversion écologique de la décharge de Dar-es-Salam - RCI/littérature : Komi Sarof questionne le sens du temps - Sénégal-Italie : mission réussie pour l’économie sociale à Rome - Abidjan : coupure d’eau à Cocody-Angré ce lundi soir (SODECI) - Mali : nouvelles règles pour les transferts numériques - Tunisie-Libye : libération partielle des ressortissants retenus à Zelten - Burkina Faso : près de 90% des usagers respectent le port du casque",
+        "summary_basis": "source-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-02T18:33:34.335824Z",
+    "updated_at": "2026-11-02T18:33:34.335824Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-02T18:33:34.335824Z",
+        "type": "event_created",
+        "source": "APAnews (FR)"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "fr.apanews.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
+    ]
+  },
+  {
     "id": "b3031204a087f41fd6eb1f4950d93788a3e1a068",
     "event_date": "2026-11-01",
     "event_date_confidence": "explicit-text",
@@ -273,6 +363,130 @@
     "significance": "MAJOR",
     "significance_reasons": [
       "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "46efc3f7aba381f9d373921b9fb435c0d7c6b057",
+    "event_date": "2026-10-29",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-02T10:15:07Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-02T18:33:33.241778Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Niono",
+    "lat": 14.25,
+    "lng": -5.9833,
+    "locations": [
+      {
+        "name": "Niono",
+        "country": "Mali",
+        "lat": 14.25,
+        "lng": -5.9833,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Operation Dougoukoloko: new FAMa strikes in the Niono area",
+    "summary": "The General Staff of the Armed Forces informs the national opinion that the Malian Armed Forces (FAMa), supported by their partners, are continuing the permanent operations of surveillance, control and security of the national territory as part of Operation Dougoukoloko. On Thursday, October 29, 2026, a reconnaissance mission in and around the Niono area located a group of terrorists .",
+    "sources": [
+      "Malijet",
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 2,
+    "report_urls": [
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312636-operation-dougoukoloko-nouvelles-frappes-des-fama-dans-la.html",
+      "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-terroristes-dans-les-zones-de-niono-et-sare-ngueou"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312636-operation-dougoukoloko-nouvelles-frappes-des-fama-dans-la.html",
+        "source": "Malijet",
+        "title": "Operation Dougoukoloko: new FAMa strikes in the Niono area",
+        "summary": "The Malian Armed Forces (FAMa), supported by their partners, continue their operations to secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces gave an update on two actions carried out at the end of last week . On Thursday, October 29, 2026, a reconnaissance mission spotted a group of terrorists in the Niono area.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-terroristes-dans-les-zones-de-niono-et-sare-ngueou",
+        "source": "Bamada",
+        "title": "Operation Dougoukoloko: the FAMa neutralize several terrorists in the areas of Niono and Saré-Nguéou",
+        "summary": "The General Staff of the Armed Forces informs the national opinion that the Malian Armed Forces (FAMa), supported by their partners, are continuing the permanent operations of surveillance, control and security of the national territory as part of Operation Dougoukoloko. On Thursday, October 29, 2026, a reconnaissance mission in and around the Niono area located a group of terrorists .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-02T18:33:33.241778Z",
+    "updated_at": "2026-11-02T18:33:33.158586Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-02T18:33:33.241778Z",
+        "type": "event_created",
+        "source": "Malijet"
+      },
+      {
+        "at": "2026-11-02T18:33:33.158586Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "malijet.com",
+      "bamada.net"
+    ],
+    "independent_source_count": 2,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
     ]
   },
   {
@@ -2477,6 +2691,134 @@
     "significance": "MAJOR",
     "significance_reasons": [
       "multi-location activity"
+    ]
+  },
+  {
+    "id": "ac8993b21f6a7557a8f6ff5e637508ce51102547",
+    "event_date": "2026-10-24",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-02T09:14:12Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-02T18:33:39.163994Z",
+    "actor": "IS Sahel",
+    "perpetrator": "IS Sahel",
+    "target": "State",
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State",
+      "IS Sahel"
+    ],
+    "parent_report_id": null,
+    "event_type": "attack",
+    "country": "Mali",
+    "city": "Ménaka",
+    "lat": 15.9182,
+    "lng": 2.4022,
+    "locations": [
+      {
+        "name": "Ménaka",
+        "country": "Mali",
+        "lat": 15.9182,
+        "lng": 2.4022,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Menaka region: 54 corpses discovered...",
+    "summary": "Menaka region: 54 corpses discovered at the Tagadayat encampment A joint FAMa-Partners patrol led to the discovery of 54 lifeless bodies at a Tagadayat encampment, approximately 35 kilometres south-east of the town of Menaka. The first testimonies hold as perpetrators of these killings the Islamic State in the Great Sahara (EIGS). The information was disclosed on 24 October by the General Staff of the Armed Forces .",
+    "sources": [
+      "Maliweb",
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 2,
+    "report_urls": [
+      "https://www.maliweb.net/insecurite/region-de-menaka-54-cadavres-decouverts-au-campement-a-tagadayat-3121125.html",
+      "https://bamada.net/region-de-menaka-54-cadavres-decouverts-au-campement-a-tagadayat"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/region-de-menaka-54-cadavres-decouverts-au-campement-a-tagadayat-3121125.html",
+        "source": "Maliweb",
+        "title": "Menaka region: 54 corpses discovered...",
+        "summary": "Menaka region: 54 corpses discovered at the Tagadayat encampment A joint FAMa-Partners patrol led to the discovery of 54 lifeless bodies at a Tagadayat encampment, approximately 35 kilometres south-east of the town of Menaka. The first testimonies hold as perpetrators of these killings the Islamic State in the Great Sahara (EIGS). The information was disclosed on 24 October by the General Staff of the Armed Forces .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://bamada.net/region-de-menaka-54-cadavres-decouverts-au-campement-a-tagadayat",
+        "source": "Bamada",
+        "title": "Menaka region: 54 corpses discovered at the camp in Tagadayat",
+        "summary": "A joint FAMa-Partners patrol led to the discovery, about 35 kilometers southeast of the city of Menaka, of 54 lifeless bodies in a camp in Tagadayat. The first testimonies hold as perpetrators of these killings the Islamic State in the Great Sahara (EIGS). The information was disclosed on 24 October by the General Staff of the Armed Forces .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-02T18:33:39.163994Z",
+    "updated_at": "2026-11-02T18:33:32.923572Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "civilian",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-02T18:33:39.163994Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      },
+      {
+        "at": "2026-11-02T18:33:32.923572Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "maliweb.net",
+      "bamada.net"
+    ],
+    "independent_source_count": 2,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
     ]
   },
   {

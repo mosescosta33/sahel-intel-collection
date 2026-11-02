@@ -1,16 +1,18 @@
 {
-  "generated_at": "2026-11-02T06:22:27.453178Z",
-  "events_30d": 121,
-  "date_resolution_pct": 83,
+  "generated_at": "2026-11-02T18:36:54.501981Z",
+  "events_30d": 124,
+  "date_resolution_pct": 84,
   "precise_geography_pct": 80,
-  "actor_attribution_pct": 79,
-  "multi_source_corroboration_pct": 32,
-  "collection_blind_spots": [],
-  "collection_status": "NOMINAL",
+  "actor_attribution_pct": 80,
+  "multi_source_corroboration_pct": 33,
+  "collection_blind_spots": [
+    "46 configured sources are degraded or failed"
+  ],
+  "collection_status": "DEGRADED",
   "language_reports_30d": {
-    "fr": 649,
+    "fr": 664,
     "en": 108,
-    "ar": 50
+    "ar": 51
   },
   "note": "Quality percentages describe fields present in Sahel Intel fused candidate events; they are not accuracy estimates."
 }
