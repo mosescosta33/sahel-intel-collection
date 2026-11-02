@@ -1,30 +1,28 @@
 {
-  "generated_at": "2026-11-01T20:39:09.386572Z",
+  "generated_at": "2026-11-02T06:22:27.377814Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
-    "level": "HIGH",
+    "level": "MEDIUM",
     "confidence": "HIGH"
   },
   "countries": {
     "Mali": {
-      "score": 79,
-      "level": "HIGH",
+      "score": 60,
+      "level": "MEDIUM",
       "trend": "IMPROVING",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 9,
-      "events_30d": 99,
-      "baseline_7d_equivalent": 27.4,
-      "tempo_ratio": 0.35,
+      "events_7d": 5,
+      "events_30d": 96,
+      "baseline_7d_equivalent": 27.7,
+      "tempo_ratio": 0.21,
       "drivers": [
-        "9 fused candidate event(s) in 7 days",
-        "1 JNIM/IS Sahel-linked event(s)",
-        "8 significant/major event(s)",
-        "1 civilian-threat indicator(s)",
-        "activity across 9 named locations"
+        "5 fused candidate event(s) in 7 days",
+        "4 significant/major event(s)",
+        "activity across 3 named locations"
       ],
-      "independent_domains_7d": 10
+      "independent_domains_7d": 7
     },
     "Burkina Faso": {
       "score": 0,
@@ -42,23 +40,22 @@
       "independent_domains_7d": 0
     },
     "Niger": {
-      "score": 71,
-      "level": "HIGH",
+      "score": 60,
+      "level": "MEDIUM",
       "trend": "DETERIORATING",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 10,
-      "events_30d": 23,
-      "baseline_7d_equivalent": 4.0,
-      "tempo_ratio": 2.22,
+      "events_7d": 9,
+      "events_30d": 24,
+      "baseline_7d_equivalent": 4.6,
+      "tempo_ratio": 1.8,
       "drivers": [
-        "10 fused candidate event(s) in 7 days",
-        "9 significant/major event(s)",
-        "1 civilian-threat indicator(s)",
+        "9 fused candidate event(s) in 7 days",
+        "8 significant/major event(s)",
         "activity across 2 named locations",
         "7-day tempo above recent country baseline"
       ],
-      "independent_domains_7d": 11
+      "independent_domains_7d": 9
     }
   },
   "method_note": "Experimental research indicator derived from fused candidate events, recent country-relative tempo, significance, militant activity, civilian-threat signals, geographic spread and corroboration. It is not a travel advisory, verified incident count, or forecast. Collection gaps reduce confidence rather than automatically reducing threat."

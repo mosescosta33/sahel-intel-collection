@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-11-01T20:39:09.160229Z",
+  "generated_at": "2026-11-02T06:22:27.150943Z",
   "series": {
     "JNIM": [
-      {
-        "date": "2026-05-06",
-        "count": 0
-      },
       {
         "date": "2026-05-07",
         "count": 0
@@ -721,13 +717,13 @@
       {
         "date": "2026-11-01",
         "count": 0
+      },
+      {
+        "date": "2026-11-02",
+        "count": 0
       }
     ],
     "IS Sahel": [
-      {
-        "date": "2026-05-06",
-        "count": 0
-      },
       {
         "date": "2026-05-07",
         "count": 0
@@ -1443,13 +1439,13 @@
       {
         "date": "2026-11-01",
         "count": 0
+      },
+      {
+        "date": "2026-11-02",
+        "count": 0
       }
     ],
     "State": [
-      {
-        "date": "2026-05-06",
-        "count": 0
-      },
       {
         "date": "2026-05-07",
         "count": 0
@@ -2165,13 +2161,13 @@
       {
         "date": "2026-11-01",
         "count": 0
+      },
+      {
+        "date": "2026-11-02",
+        "count": 0
       }
     ],
     "Africa Corps/Wagner": [
-      {
-        "date": "2026-05-06",
-        "count": 0
-      },
       {
         "date": "2026-05-07",
         "count": 0
@@ -2887,14 +2883,18 @@
       {
         "date": "2026-11-01",
         "count": 0
+      },
+      {
+        "date": "2026-11-02",
+        "count": 0
       }
     ]
   },
   "trends_7d": {
     "JNIM": {
-      "current": 1,
-      "previous": 4,
-      "change_pct": -75.0
+      "current": 0,
+      "previous": 1,
+      "change_pct": null
     },
     "IS Sahel": {
       "current": 0,
@@ -2902,14 +2902,14 @@
       "change_pct": null
     },
     "State": {
-      "current": 9,
-      "previous": 21,
-      "change_pct": -57.1
+      "current": 5,
+      "previous": 19,
+      "change_pct": -73.7
     },
     "Africa Corps/Wagner": {
-      "current": 2,
-      "previous": 5,
-      "change_pct": -60.0
+      "current": 1,
+      "previous": 4,
+      "change_pct": -75.0
     }
   },
   "trends_30d": {
@@ -2924,9 +2924,9 @@
       "change_pct": null
     },
     "State": {
-      "current": 70,
-      "previous": 24,
-      "change_pct": 191.7
+      "current": 67,
+      "previous": 27,
+      "change_pct": 148.1
     },
     "Africa Corps/Wagner": {
       "current": 18,

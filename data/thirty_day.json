@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-01T20:39:09.160239Z",
+  "generated_at": "2026-11-02T06:22:27.150951Z",
   "window_days": 30,
-  "cutoff": "2026-10-02",
-  "reports": 749,
-  "incident_reports": 202,
-  "candidate_events": 123,
+  "cutoff": "2026-10-03",
+  "reports": 757,
+  "incident_reports": 203,
+  "candidate_events": 124,
   "corroborated_events": 40,
   "mapped_events": 99,
   "mapped_locations": 187,
   "distinct_sources": 82,
   "by_actor": {
     "State": 70,
-    "Other": 24,
+    "Other": 25,
     "JNIM": 14,
     "Africa Corps/Wagner": 10,
     "IS Sahel": 5
   },
   "by_country": {
     "Mali": 99,
-    "Niger": 23,
+    "Niger": 24,
     "Burkina Faso": 1
   },
   "by_event_type": {
@@ -28,18 +28,18 @@
     "offensive/campaign": 14,
     "civilian targeting": 10,
     "air/drone strike": 7,
-    "kidnapping": 6,
+    "kidnapping": 7,
     "raid": 4,
     "ambush": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 598,
-    "en": 104,
-    "ar": 47
+    "fr": 604,
+    "en": 105,
+    "ar": 48
   },
   "by_confidence": {
-    "low": 58,
+    "low": 59,
     "moderate": 50,
     "moderate-high": 13,
     "high": 2
@@ -66,14 +66,14 @@
       "count": 28
     },
     {
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
       "count": 25
     },
     {
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "count": 24
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
+      "count": 25
     },
     {
       "source_code": "SRC-0014",
@@ -81,8 +81,8 @@
       "count": 20
     },
     {
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
+      "source_code": "SRC-0015",
+      "source": "ActuNiger",
       "count": 19
     },
     {
@@ -91,18 +91,18 @@
       "count": 19
     },
     {
+      "source_code": "SRC-0121",
+      "source": "AllAfrica (English Edition)",
+      "count": 19
+    },
+    {
       "source_code": "SRC-0003",
       "source": "Jeune Afrique",
       "count": 18
     },
     {
-      "source_code": "SRC-0015",
-      "source": "ActuNiger",
-      "count": 18
-    },
-    {
-      "source_code": "SRC-0034",
-      "source": "TV5MONDE Afrique",
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
       "count": 18
     }
   ],
@@ -152,16 +152,11 @@
       "count": 5
     },
     {
-      "location": "Tessalit",
+      "location": "Niger",
       "count": 5
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-03",
-      "reports": 7,
-      "events": 3
-    },
     {
       "date": "2026-10-04",
       "reports": 10,
@@ -299,16 +294,109 @@
     },
     {
       "date": "2026-10-31",
-      "reports": 16,
+      "reports": 17,
       "events": 1
     },
     {
       "date": "2026-11-01",
-      "reports": 11,
+      "reports": 14,
+      "events": 1
+    },
+    {
+      "date": "2026-11-02",
+      "reports": 5,
       "events": 0
     }
   ],
   "latest_events": [
+    {
+      "id": "b3031204a087f41fd6eb1f4950d93788a3e1a068",
+      "event_date": "2026-11-01",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-01T22:15:17Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-02T06:21:23.052777Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "kidnapping",
+      "country": "Niger",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger",
+      "summary": "Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
+      "sources": [
+        "RFI Afrique"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.rfi.fr/fr/en-bref/20261101-nigeria-enl%C3%A8vement-d-une-douzaine-d-enfants-dans-l-%C3%A9tat-de-niger"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.rfi.fr/fr/en-bref/20261101-nigeria-enl%C3%A8vement-d-une-douzaine-d-enfants-dans-l-%C3%A9tat-de-niger",
+          "source": "RFI Afrique",
+          "title": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger",
+          "summary": "Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
+          "summary_basis": "source-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "civilian"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-02T06:21:23.052777Z",
+      "updated_at": "2026-11-02T06:21:23.052777Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "civilian"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-02T06:21:23.052777Z",
+          "type": "event_created",
+          "source": "RFI Afrique"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "rfi.fr"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
+      ]
+    },
     {
       "id": "8985ba02d7ce0666e216aa0c1d246fd09c943af7",
       "event_date": "2026-10-31",
@@ -4152,130 +4240,153 @@
       "significance_reasons": [
         "strategic/severe event pattern"
       ]
-    },
-    {
-      "id": "5707824484a51795ed98d1e2c1b16411015266ca",
-      "event_date": "2026-10-23",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-10-23T21:49:12Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-23T23:16:17.458698Z",
-      "actor": "Africa Corps/Wagner",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": "Africa Corps/Wagner",
-      "mentioned_actors": [
-        "State",
-        "Africa Corps/Wagner"
-      ],
-      "parent_report_id": null,
-      "event_type": "clash",
-      "country": "Mali",
-      "city": "Kidal",
-      "lat": 18.4411,
-      "lng": 1.4078,
-      "locations": [
-        {
-          "name": "Kidal",
-          "country": "Mali",
-          "lat": 18.4411,
-          "lng": 1.4078,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Anéfis",
-          "country": "Mali",
-          "lat": 18.0667,
-          "lng": 0.6167,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Gao",
-          "country": "Mali",
-          "lat": 16.2717,
-          "lng": -0.0447,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Sévaré",
-          "country": "Mali",
-          "lat": 14.5272,
-          "lng": -4.0934,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Mali: 4,880 terrorists put out of action in five months, the army reveals the scale of operations",
-      "summary": "The Malian army continues its offensive against armed groups. During his monthly press briefing on Friday, October 23, 2026, Colonel-Major Bakary Bocar Maiga, Director of Information and Public Relations of the Armed Forces, took stock of the operations carried out by the Malian Armed Forces (FAMa) According to this report, 4,880 fighters of terrorist armed groups were put out of action between May and October 20, and more than 162 bases, 315 pick-ups and 1,300 motorcycles were destroyed.",
-      "sources": [
-        "La Nouvelle Tribune (Bénin)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://lanouvelletribune.info/2026/10/mali-4-880-terroristes-mis-hors-de-combat-en-cinq-mois-larmee-revele-lampleur-des-operations/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://lanouvelletribune.info/2026/10/mali-4-880-terroristes-mis-hors-de-combat-en-cinq-mois-larmee-revele-lampleur-des-operations/",
-          "source": "La Nouvelle Tribune (Bénin)",
-          "title": "Mali: 4,880 terrorists put out of action in five months, the army reveals the scale of operations",
-          "summary": "The Malian army continues its offensive against armed groups. During his monthly press briefing on Friday, October 23, 2026, Colonel-Major Bakary Bocar Maiga, Director of Information and Public Relations of the Armed Forces, took stock of the operations carried out by the Malian Armed Forces (FAMa) According to this report, 4,880 fighters of terrorist armed groups were put out of action between May and October 20, and more than 162 bases, 315 pick-ups and 1,300 motorcycles were destroyed.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-23T23:16:17.458698Z",
-      "updated_at": "2026-10-23T23:16:17.458698Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-23T23:16:17.458698Z",
-          "type": "event_created",
-          "source": "La Nouvelle Tribune (Bénin)"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "lanouvelletribune.info"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern",
-        "multi-location activity"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-02T06:02:13Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-02T06:21:14.900700Z",
+      "discovered_at": "2026-11-02T06:21:14.900700Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0012",
+      "source": "Sidwaya",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": "Kaya",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "66e anniversaire des Forces armées nationales : 86000 réservistes militaires inscrits en 9 mois",
+      "url": "https://www.sidwaya.info/2026/11/02/66e-anniversaire-des-forces-armees-nationales-86000-reservistes-militaires-inscrits-en-9-mois/"
+    },
+    {
+      "published_at": "2026-11-02T05:43:00Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-02T06:21:15.537927Z",
+      "discovered_at": "2026-11-02T06:21:15.537927Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0012",
+      "source": "Sidwaya",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": "Bobo-Dioulasso",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "66e anniversaire des forces armées nationales : 139 militaires décorés à Bobo-Dioulasso",
+      "url": "https://www.sidwaya.info/2026/11/02/66e-anniversaire-des-forces-armees-nationales-139-militaires-decores-a-bobo-dioulasso/"
+    },
+    {
+      "published_at": "2026-11-02T05:09:10Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-02T06:21:21.009354Z",
+      "discovered_at": "2026-11-02T06:21:21.009354Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0121",
+      "source": "AllAfrica (English Edition)",
+      "language": "en",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "Algeria: Algeria Is Sending Troops to Niger for the First Time in Decades - What's At Stake",
+      "url": "https://allafrica.com/stories/202611020013.html"
+    },
+    {
+      "published_at": "2026-11-02T02:10:02Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-02T06:21:16.314634Z",
+      "discovered_at": "2026-11-02T06:21:16.314634Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "abuses/war crimes",
+      "candidate_event": false,
+      "title": "Assassinats-meurtres-règlements de compte-homicides : Série de crimes odieux à Bamako",
+      "url": "https://www.maliweb.net/societe/assassinats-meurtres-reglements-de-compte-homicides-serie-de-crimes-3121105.html"
+    },
+    {
+      "published_at": "2026-11-02T00:18:41Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-02T06:21:16.101812Z",
+      "discovered_at": "2026-11-02T06:21:16.101812Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0056",
+      "source": "Asharq Al-Awsat",
+      "language": "ar",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "النيجر توقع بروتوكول اتفاق في ليبيا مع معسكر حفتر",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/5336466-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1-%D8%AA%D9%88%D9%82%D8%B9-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%85%D8%B9-%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%AD%D9%81%D8%AA%D8%B1"
+    },
+    {
+      "published_at": "2026-11-01T22:15:17Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-02T06:21:23.052777Z",
+      "discovered_at": "2026-11-02T06:21:23.052777Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Niger",
+      "city": null,
+      "event_type": "kidnapping",
+      "candidate_event": true,
+      "title": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger",
+      "url": "https://www.rfi.fr/fr/en-bref/20261101-nigeria-enl%C3%A8vement-d-une-douzaine-d-enfants-dans-l-%C3%A9tat-de-niger"
+    },
+    {
+      "published_at": "2026-11-01T22:07:16Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-02T06:21:21.630959Z",
+      "discovered_at": "2026-11-02T06:21:21.630959Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "Africa Corps/Wagner",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "« Nous apprécions hautement le ferme soutien de la Russie dans la lutte contre le terrorisme...",
+      "url": "https://www.maliweb.net/interview/nous-apprecions-hautement-le-ferme-soutien-de-la-russie-dans-la-lutte-3121120.html"
+    },
+    {
+      "published_at": "2026-11-01T20:38:05Z",
+      "published_date_source": "itemprop",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-02T06:21:17.249105Z",
+      "discovered_at": "2026-11-02T06:21:17.249105Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0015",
+      "source": "ActuNiger",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Agadez",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Niger : livraison à Agadez de 1,6 million de litres de carburant en provenance d’Algérie",
+      "url": "https://www.actuniger.com/societe/22534-niger-livraison-a-agadez-de-1-6-million-de-litres-de-carburant-en-provenance-dalgerie"
+    },
     {
       "published_at": "2026-11-01T19:31:11Z",
       "published_date_source": "jsonld:datePublished",
@@ -4565,6 +4676,24 @@
       "url": "https://lanouvelletribune.info/2026/10/mali-abdoulaye-diop-evoque-limpact-de-la-cooperation-avec-la-russie-sur-larmee/"
     },
     {
+      "published_at": "2026-10-31T17:48:31Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-02T06:21:32.941981Z",
+      "discovered_at": "2026-11-02T06:21:32.941981Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "Africa Corps/Wagner",
+      "country": "Mali",
+      "city": null,
+      "event_type": "clash",
+      "candidate_event": false,
+      "title": "Le ministre des Affaires étrangères du Mali a souligné le rôle de l’Africa Corps dans la lutte contre le terrorisme",
+      "url": "https://www.maliweb.net/insecurite/le-chef-du-ministere-des-affaires-etrangeres-du-mali-a-souligne-le-3121096.html"
+    },
+    {
       "published_at": "2026-10-31T13:56:03Z",
       "published_date_source": "itemprop",
       "published_time_precision": "datetime",
@@ -4833,168 +4962,6 @@
       "candidate_event": true,
       "title": "Press release following the drone strike in the Agadez region: the CDTN reaffirms its commitment to the sovereignty of Niger and the defence of the fundamental interests of the Nigerien people",
       "url": "https://www.lesahel.org/communique-de-presse-suite-a-la-frappe-de-drone-survenue-dans-la-region-dagadez-la-cdtn-reaffirme-son-attachement-a-la-souverainete-du-niger-et-a-la-defense-des-interets-fondamentaux-du-peuple-nig/"
-    },
-    {
-      "published_at": "2026-10-30T21:55:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T20:55:35.172493Z",
-      "discovered_at": "2026-10-30T20:55:35.172493Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0017",
-      "source": "Le Sahel",
-      "language": "fr",
-      "actor": "Other",
-      "country": "Niger",
-      "city": "Agadez",
-      "event_type": "attack",
-      "candidate_event": true,
-      "title": "Press release: USTN condemns in the strongest terms the drone attack on Nigerian territory by Chad",
-      "url": "https://www.lesahel.org/communique-de-presse-lustn-condamne-avec-la-plus-grande-fermete-lattaque-par-drone-sur-le-territoire-nigerien-par-le-tchad/"
-    },
-    {
-      "published_at": "2026-10-30T21:17:36Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-31T05:56:54.069594Z",
-      "discovered_at": "2026-10-31T05:56:54.069594Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0029",
-      "source": "Al Jazeera Arabic",
-      "language": "ar",
-      "actor": null,
-      "country": "Niger",
-      "city": "Arlit",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "In the first external move since 1973, Algeria deploys its forces in Niger",
-      "url": "https://www.aljazeera.net/news/2026/10/31/%d9%82%d8%a7%d9%81%d9%84%d8%a9-%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9?traffic_source=rss"
-    },
-    {
-      "published_at": "2026-10-30T20:16:01Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T20:55:24.551539Z",
-      "discovered_at": "2026-10-30T20:55:24.551539Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0174",
-      "source": "Youm7 (اليوم السابع)",
-      "language": "ar",
-      "actor": "State",
-      "country": "Niger",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "The world this evening.. Algerian troops arrive in Niger.. Brent crude exceeds the $117 a barrel barrier and a sharp fall in gold.. The US army is training to bury 2,400 bodies in 24 hours.. and Trump is celebrating Halloween with the children in the White House",
-      "url": "https://www.youm7.com/story/2026/10/30/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A1-%D9%82%D9%88%D8%A7%D8%AA-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B5%D9%84-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1-%D8%AE%D8%A7%D9%85-%D8%A8%D8%B1%D9%86%D8%AA-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2/7599824"
-    },
-    {
-      "published_at": "2026-10-30T18:55:05Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T20:55:22.438149Z",
-      "discovered_at": "2026-10-30T20:55:22.438149Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Gao",
-      "event_type": "kidnapping",
-      "candidate_event": false,
-      "title": "Gao: Tamy Moudary Touré, local development actor, still missing",
-      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312600-gao-tamy-moudary-toure-acteur-du-developpement-local-tou.html"
-    },
-    {
-      "published_at": "2026-10-30T18:31:08Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T20:55:25.462620Z",
-      "discovered_at": "2026-10-30T20:55:25.462620Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0056",
-      "source": "Asharq Al-Awsat",
-      "language": "ar",
-      "actor": "State",
-      "country": "Niger",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "First Algerian troops arrive in Niger",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/5335728-%D9%88%D8%B5%D9%88%D9%84-%D8%A3%D9%88%D9%84-%D9%82%D9%88%D8%A7%D8%AA-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1"
-    },
-    {
-      "published_at": "2026-10-30T17:57:12Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T20:55:24.998147Z",
-      "discovered_at": "2026-10-30T20:55:24.998147Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0003",
-      "source": "Jeune Afrique",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Burkina Faso: anti-terrorism or repression, why Ibrahim Traoré reinstated the death penalty",
-      "url": "https://www.jeuneafrique.com/1857569/politique/burkina-faso-antiterrorisme-ou-repression-pourquoi-ibrahim-traore-a-retabli-la-peine-de-mort/"
-    },
-    {
-      "published_at": "2026-10-30T16:41:15Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T20:55:22.592897Z",
-      "discovered_at": "2026-10-30T20:55:22.592897Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Gao",
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "New robberies reported on Gao-Intilit axis",
-      "url": "https://bamada.net/de-nouveaux-braquages-signales-sur-laxe-gao-intilit"
-    },
-    {
-      "published_at": "2026-10-30T14:28:55Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:19.666145Z",
-      "discovered_at": "2026-10-30T15:10:19.666145Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "language": "fr",
-      "actor": null,
-      "country": null,
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "Cryptocurrencies: Binance hit by $6.3 billion cyberattack, $3 billion frozen",
-      "url": "https://burkina24.com/2026/10/30/cryptomonnaies-binance-frappee-par-une-cyberattaque-de-63-milliards-de-dollars-3-milliards-geles/"
-    },
-    {
-      "published_at": "2026-10-30T13:31:49Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:19.603532Z",
-      "discovered_at": "2026-10-30T15:10:19.603532Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0091",
-      "source": "SeneNews",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Mali: Army conducts targeted strikes against armed groups in several regions",
-      "url": "https://www.senenews.com/actualites/afrique/mali-afrique/mali-les-fama-revendiquent-une-serie-de-frappes-contre-des-groupes-armes-dans-trois-zones-du-pays_604693.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
