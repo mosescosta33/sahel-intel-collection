@@ -1,5 +1,295 @@
 [
   {
+    "id": "c80280e3242522a4fe953b527322779374f15b22",
+    "event_date": "2026-11-03",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-03T16:26:41Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-03T19:37:44.396410Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "IED/explosion",
+    "country": "Burkina Faso",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Ghana: a deadly explosion kills several people near the Burkinabe border",
+    "summary": "An explosion involving a tricycle carrying suspected explosives killed several people on Tuesday, November 3, 2026, in Hamile, Upper West Region, Ghana. One immigration officer lost his life in the drama, while another was seriously injured. The locality of Hamile, located near the border between Ghana and Burkina Faso, was shaken by a deadly explosion .",
+    "sources": [
+      "La Nouvelle Tribune (Bénin)"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://lanouvelletribune.info/2026/11/ghana-une-explosion-meurtriere-fait-plusieurs-victimes-pres-de-la-frontiere-burkinabe/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://lanouvelletribune.info/2026/11/ghana-une-explosion-meurtriere-fait-plusieurs-victimes-pres-de-la-frontiere-burkinabe/",
+        "source": "La Nouvelle Tribune (Bénin)",
+        "title": "Ghana: a deadly explosion kills several people near the Burkinabe border",
+        "summary": "An explosion involving a tricycle carrying suspected explosives killed several people on Tuesday, November 3, 2026, in Hamile, Upper West Region, Ghana. One immigration officer lost his life in the drama, while another was seriously injured. The locality of Hamile, located near the border between Ghana and Burkina Faso, was shaken by a deadly explosion .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-03T19:37:44.396410Z",
+    "updated_at": "2026-11-03T19:37:44.396410Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-03T19:37:44.396410Z",
+        "type": "event_created",
+        "source": "La Nouvelle Tribune (Bénin)"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "lanouvelletribune.info"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
+    ]
+  },
+  {
+    "id": "54a3ff0999ab92ea7c079afffd471e5e540e3da3",
+    "event_date": "2026-11-03",
+    "event_date_confidence": "publication-proxy",
+    "event_date_source": "visible-publication-label",
+    "published_at": "2026-11-03T00:00:00Z",
+    "published_date_source": "visible-publication-label",
+    "published_time_precision": "date-only",
+    "collected_at": "2026-11-03T19:37:44.363859Z",
+    "actor": "State",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "clash",
+    "country": "Burkina Faso",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Burkina/Fight against terrorism: VDP Younga Yacouba honored for his bravery in combat",
+    "summary": "Burkina Faso/Fight against terrorism: The VDP Younga Yacouba honored for his bravery in combat According to the General Staff of the Armed Forces of Burkina Faso, the Volunteer for the Defense of the Fatherland (VDP) Younga Yacouba showed courage and determination during an attack on a position in the village of Youba, where he was engaged in a support mission .",
+    "sources": [
+      "LeFaso.net"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://lefaso.net/spip.php?article150487="
+    ],
+    "report_summaries": [
+      {
+        "url": "https://lefaso.net/spip.php?article150487=",
+        "source": "LeFaso.net",
+        "title": "Burkina/Fight against terrorism: VDP Younga Yacouba honored for his bravery in combat",
+        "summary": "Burkina Faso/Fight against terrorism: The VDP Younga Yacouba honored for his bravery in combat According to the General Staff of the Armed Forces of Burkina Faso, the Volunteer for the Defense of the Fatherland (VDP) Younga Yacouba showed courage and determination during an attack on a position in the village of Youba, where he was engaged in a support mission .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-03T19:37:44.363859Z",
+    "updated_at": "2026-11-03T19:37:44.363859Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-03T19:37:44.363859Z",
+        "type": "event_created",
+        "source": "LeFaso.net"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "lefaso.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
+    ]
+  },
+  {
+    "id": "2df60103781d61ad322fd311e25a17565280237c",
+    "event_date": "2026-11-03",
+    "event_date_confidence": "publication-proxy",
+    "event_date_source": "feed",
+    "published_at": "2026-11-03T15:10:36Z",
+    "published_date_source": "feed",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-03T19:37:43.888442Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Niono",
+    "lat": 14.25,
+    "lng": -5.9833,
+    "locations": [
+      {
+        "name": "Niono",
+        "country": "Mali",
+        "lat": 14.25,
+        "lng": -5.9833,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Tessalit",
+        "country": "Mali",
+        "lat": 20.2,
+        "lng": 1.0,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Gourma-Rharous",
+        "country": "Mali",
+        "lat": 16.8833,
+        "lng": -1.9333,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Operation Dougoukoloko: the FAMa accurately hit several terrorist positions in Niono, Tessalit and Gourma-Rharous",
+    "summary": "Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news",
+    "sources": [
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous",
+        "source": "Bamada",
+        "title": "Operation Dougoukoloko: the FAMa accurately hit several terrorist positions in Niono, Tessalit and Gourma-Rharous",
+        "summary": "Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-03T19:37:43.888442Z",
+    "updated_at": "2026-11-03T19:37:43.888442Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-03T19:37:43.888442Z",
+        "type": "event_created",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "bamada.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
     "id": "bd5c1182a530a3a6d1b3b70182c670ffb60c91f0",
     "event_date": "2026-11-03",
     "event_date_confidence": "publication-proxy",
