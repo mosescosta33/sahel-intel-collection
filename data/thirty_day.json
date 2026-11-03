@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-11-03T02:31:40.879720Z",
+  "generated_at": "2026-11-03T12:08:57.699437Z",
   "window_days": 30,
   "cutoff": "2026-10-04",
-  "reports": 782,
-  "incident_reports": 210,
-  "candidate_events": 125,
-  "corroborated_events": 41,
-  "mapped_events": 100,
-  "mapped_locations": 183,
-  "distinct_sources": 83,
+  "reports": 792,
+  "incident_reports": 217,
+  "candidate_events": 132,
+  "corroborated_events": 42,
+  "mapped_events": 103,
+  "mapped_locations": 189,
+  "distinct_sources": 84,
   "by_actor": {
-    "State": 69,
-    "Other": 25,
-    "JNIM": 15,
+    "State": 71,
+    "Other": 29,
+    "JNIM": 16,
     "Africa Corps/Wagner": 10,
     "IS Sahel": 6
   },
   "by_country": {
-    "Mali": 99,
+    "Mali": 105,
     "Niger": 24,
-    "Burkina Faso": 2
+    "Burkina Faso": 3
   },
   "by_event_type": {
     "security operation": 51,
-    "attack": 15,
+    "attack": 16,
+    "offensive/campaign": 16,
     "clash": 15,
-    "offensive/campaign": 14,
+    "kidnapping": 11,
     "civilian targeting": 10,
     "air/drone strike": 7,
-    "kidnapping": 7,
     "raid": 4,
     "ambush": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 625,
-    "en": 107,
+    "fr": 633,
+    "en": 109,
     "ar": 50
   },
   "by_confidence": {
-    "low": 60,
-    "moderate": 50,
+    "low": 64,
+    "moderate": 53,
     "moderate-high": 13,
     "high": 2
   },
@@ -53,12 +53,12 @@
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 77
+      "count": 75
     },
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 34
+      "count": 35
     },
     {
       "source_code": "SRC-0092",
@@ -66,14 +66,14 @@
       "count": 31
     },
     {
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "count": 26
-    },
-    {
       "source_code": "SRC-0090",
       "source": "AllAfrica (Édition Française)",
-      "count": 26
+      "count": 30
+    },
+    {
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "count": 28
     },
     {
       "source_code": "SRC-0014",
@@ -83,12 +83,12 @@
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 21
+      "count": 22
     },
     {
-      "source_code": "SRC-0015",
-      "source": "ActuNiger",
-      "count": 19
+      "source_code": "SRC-0121",
+      "source": "AllAfrica (English Edition)",
+      "count": 20
     },
     {
       "source_code": "SRC-0079",
@@ -101,9 +101,9 @@
       "count": 19
     },
     {
-      "source_code": "SRC-0121",
-      "source": "AllAfrica (English Edition)",
-      "count": 19
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
+      "count": 18
     }
   ],
   "top_locations": [
@@ -112,16 +112,16 @@
       "count": 35
     },
     {
+      "location": "Mali",
+      "count": 23
+    },
+    {
       "location": "Ménaka",
       "count": 22
     },
     {
-      "location": "Mali",
-      "count": 20
-    },
-    {
       "location": "Bamako",
-      "count": 18
+      "count": 20
     },
     {
       "location": "Agadez",
@@ -148,11 +148,11 @@
       "count": 8
     },
     {
-      "location": "Niger",
+      "location": "Mopti",
       "count": 5
     },
     {
-      "location": "Tessalit",
+      "location": "Niger",
       "count": 5
     }
   ],
@@ -280,12 +280,12 @@
     {
       "date": "2026-10-29",
       "reports": 21,
-      "events": 3
+      "events": 4
     },
     {
       "date": "2026-10-30",
-      "reports": 28,
-      "events": 1
+      "reports": 29,
+      "events": 2
     },
     {
       "date": "2026-10-31",
@@ -299,16 +299,504 @@
     },
     {
       "date": "2026-11-02",
-      "reports": 33,
-      "events": 1
+      "reports": 34,
+      "events": 4
     },
     {
       "date": "2026-11-03",
-      "reports": 1,
-      "events": 0
+      "reports": 15,
+      "events": 2
     }
   ],
   "latest_events": [
+    {
+      "id": "bd5c1182a530a3a6d1b3b70182c670ffb60c91f0",
+      "event_date": "2026-11-03",
+      "event_date_confidence": "publication-proxy",
+      "event_date_source": "opengraph",
+      "published_at": "2026-11-03T09:09:03Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:04.542511Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "kidnapping",
+      "country": "Mali",
+      "city": "Bamako",
+      "lat": 12.6392,
+      "lng": -8.0029,
+      "locations": [
+        {
+          "name": "Bamako",
+          "country": "Mali",
+          "lat": 12.6392,
+          "lng": -8.0029,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Mali: Six months after their abduction, Mountaga Tall and her son remain unaccounted for",
+      "summary": "The Malian authorities must urgently reveal the fate and whereabouts of pro-democracy lawyer and politician Mountaga Tall and her son Cheick Mamadou Tall, Amnesty International said six months after their abductions On the night of May 3, 2026, a few days after a wave of attacks by armed groups in several regions of Mali, Mountaga Tall, leader of the National Congress for Democratic Initiative, was abducted from his home in the capital, Bamako, by armed and hooded men travelling in vehicles without license plates.",
+      "sources": [
+        "AllAfrica (Édition Française)"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://fr.allafrica.com/stories/202611030180.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://fr.allafrica.com/stories/202611030180.html",
+          "source": "AllAfrica (Édition Française)",
+          "title": "Mali: Six months after their abduction, Mountaga Tall and her son remain unaccounted for",
+          "summary": "The Malian authorities must urgently reveal the fate and whereabouts of pro-democracy lawyer and politician Mountaga Tall and her son Cheick Mamadou Tall, Amnesty International said six months after their abductions On the night of May 3, 2026, a few days after a wave of attacks by armed groups in several regions of Mali, Mountaga Tall, leader of the National Congress for Democratic Initiative, was abducted from his home in the capital, Bamako, by armed and hooded men travelling in vehicles without license plates.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-03T12:05:04.542511Z",
+      "updated_at": "2026-11-03T12:05:04.542511Z",
+      "extraction_confidence": "low",
+      "victim_categories": [],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-03T12:05:04.542511Z",
+          "type": "event_created",
+          "source": "AllAfrica (Édition Française)"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "fr.allafrica.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "59b2dd5feb4c1894d344478034e2c52a8cddac90",
+      "event_date": "2026-11-03",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "relative-weekday",
+      "published_at": "2026-11-03T05:44:10Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:04:58.632012Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "kidnapping",
+      "country": "Mali",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Abduction of Mountaga Tall in Mali: silence \"does not erase the competences of justice or the obligations of the State\"",
+      "summary": "In Mali, it was six months ago, on Tuesday, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped from his home, at night, by hooded men of the State Security. It was the night of 2 to 3 May. A few days after him, the Malian services kidnapped his son, also detained since in an unknown place outside any legal procedure .",
+      "sources": [
+        "RFI Afrique"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261103-enl%C3%A8vement-de-mountaga-tall-au-mali-le-silence-n-efface-ni-les-comp%C3%A9tences-de-la-justice-ni-les-obligations-de-l-%C3%A9tat"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261103-enl%C3%A8vement-de-mountaga-tall-au-mali-le-silence-n-efface-ni-les-comp%C3%A9tences-de-la-justice-ni-les-obligations-de-l-%C3%A9tat",
+          "source": "RFI Afrique",
+          "title": "Abduction of Mountaga Tall in Mali: silence \"does not erase the competences of justice or the obligations of the State\"",
+          "summary": "In Mali, it was six months ago, on Tuesday, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped from his home, at night, by hooded men of the State Security. It was the night of 2 to 3 May. A few days after him, the Malian services kidnapped his son, also detained since in an unknown place outside any legal procedure .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-03T12:04:58.632012Z",
+      "updated_at": "2026-11-03T12:04:58.632012Z",
+      "extraction_confidence": "low",
+      "victim_categories": [],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-03T12:04:58.632012Z",
+          "type": "event_created",
+          "source": "RFI Afrique"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "rfi.fr"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
+      ]
+    },
+    {
+      "id": "3ed964df5d893e23c50d35e7d2587227b43bae8c",
+      "event_date": "2026-11-02",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-03T09:41:00Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:11.297416Z",
+      "actor": "JNIM",
+      "perpetrator": "JNIM",
+      "target": "Africa Corps/Wagner",
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "JNIM",
+        "Africa Corps/Wagner"
+      ],
+      "parent_report_id": null,
+      "event_type": "attack",
+      "country": "Mali",
+      "city": "Sévaré",
+      "lat": 14.5272,
+      "lng": -4.0934,
+      "locations": [
+        {
+          "name": "Sévaré",
+          "country": "Mali",
+          "lat": 14.5272,
+          "lng": -4.0934,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Mopti",
+          "country": "Mali",
+          "lat": 14.4843,
+          "lng": -4.1829,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Bamako",
+          "country": "Mali",
+          "lat": 12.6392,
+          "lng": -8.0029,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Douentza",
+          "country": "Mali",
+          "lat": 15.0014,
+          "lng": -2.9519,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "JNIM Claims IED Attack on Malian Army and Africa Corps Vehicle Between Sévaré and Konna",
+      "summary": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda's Sahel affiliate, says it targeted a vehicle carrying Malian army and Russian Africa Corps personnel with an improvised explosive device on the morning of Monday, 2 November 2026. The claimed strike took place on the road between Sévaré and Konna in Mali's Mopti region. Casualties, damage and even the exact location rest on JNIM's claim alone and should be treated as unverified.",
+      "sources": [
+        "Modern Ghana"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.modernghana.com/news/1541551/jnim-claims-ied-attack-on-malian-army-and-africa.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.modernghana.com/news/1541551/jnim-claims-ied-attack-on-malian-army-and-africa.html",
+          "source": "Modern Ghana",
+          "title": "JNIM Claims IED Attack on Malian Army and Africa Corps Vehicle Between Sévaré and Konna",
+          "summary": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda's Sahel affiliate, says it targeted a vehicle carrying Malian army and Russian Africa Corps personnel with an improvised explosive device on the morning of Monday, 2 November 2026. The claimed strike took place on the road between Sévaré and Konna in Mali's Mopti region. Casualties, damage and even the exact location rest on JNIM's claim alone and should be treated as unverified.",
+          "summary_basis": "source-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-03T12:05:11.297416Z",
+      "updated_at": "2026-11-03T12:05:11.297416Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "security_force"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-03T12:05:11.297416Z",
+          "type": "event_created",
+          "source": "Modern Ghana"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "modernghana.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "multi-location activity"
+      ]
+    },
+    {
+      "id": "0cb5edf5d13683ff1bf399a87249c4f5294ab885",
+      "event_date": "2026-11-02",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-03T09:57:49Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:05.225916Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "kidnapping",
+      "country": "Mali",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Mali: NGOs call on the Transition on the kidnapping of Mountaga Tall (RFI)",
+      "summary": "In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared. Their health worries.",
+      "sources": [
+        "AllAfrica (Édition Française)"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://fr.allafrica.com/stories/202611030258.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://fr.allafrica.com/stories/202611030258.html",
+          "source": "AllAfrica (Édition Française)",
+          "title": "Mali: NGOs call on the Transition on the kidnapping of Mountaga Tall (RFI)",
+          "summary": "In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared. Their health worries.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-03T12:05:05.225916Z",
+      "updated_at": "2026-11-03T12:05:05.225916Z",
+      "extraction_confidence": "low",
+      "victim_categories": [],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-03T12:05:05.225916Z",
+          "type": "event_created",
+          "source": "AllAfrica (Édition Française)"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "fr.allafrica.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
+      ]
+    },
+    {
+      "id": "96fa2690e02192c43772edc487ae7b2b95502cc7",
+      "event_date": "2026-11-02",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-03T05:48:30Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:04:58.734345Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "kidnapping",
+      "country": "Mali",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
+      "summary": "Mali: Mountaga Tall kidnapped by the State Security for six months, NGOs call on the Transitional authorities In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared .",
+      "sources": [
+        "RFI Afrique",
+        "Dakaractu"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 2,
+      "report_urls": [
+        "https://www.rfi.fr/fr/afrique/20261103-mali-mountaga-tall-enlev%C3%A9-par-la-s%C3%A9curit%C3%A9-d-%C3%A9tat-depuis-six-mois-des-ong-interpellent-les-autorit%C3%A9s-de-transition",
+        "https://www.dakaractu.com/Mali-Mountaga-Tall-enleve-par-la-Securite-d-Etat-depuis-six-mois-des-ONG-interpellent-les-autorites-de-Transition_a277748.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.rfi.fr/fr/afrique/20261103-mali-mountaga-tall-enlev%C3%A9-par-la-s%C3%A9curit%C3%A9-d-%C3%A9tat-depuis-six-mois-des-ong-interpellent-les-autorit%C3%A9s-de-transition",
+          "source": "RFI Afrique",
+          "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
+          "summary": "Mali: Mountaga Tall kidnapped by the State Security for six months, NGOs call on the Transitional authorities In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        },
+        {
+          "url": "https://www.dakaractu.com/Mali-Mountaga-Tall-enleve-par-la-Securite-d-Etat-depuis-six-mois-des-ONG-interpellent-les-autorites-de-Transition_a277748.html",
+          "source": "Dakaractu",
+          "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
+          "summary": "Mountaga Tall was kidnapped on the night of 2 to 3 May. A few days later, the Malian services kidnapped her son, who has also been detained since, in an unknown location outside of any legal procedure. Despite the steps taken by the family's lawyers, the Malian transitional authorities remain silent.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-03T12:04:58.734345Z",
+      "updated_at": "2026-11-03T12:04:59.261598Z",
+      "extraction_confidence": "low",
+      "victim_categories": [],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-03T12:04:58.734345Z",
+          "type": "event_created",
+          "source": "RFI Afrique"
+        },
+        {
+          "at": "2026-11-03T12:04:59.261598Z",
+          "type": "corroboration_or_geography_update",
+          "source": "Dakaractu"
+        }
+      ],
+      "corroboration": "limited corroboration",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "rfi.fr",
+        "dakaractu.com"
+      ],
+      "independent_source_count": 2,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
+      ]
+    },
     {
       "id": "3ed4158c070e5338f9a7e647f4db394e5d1d2031",
       "event_date": "2026-11-02",
@@ -421,8 +909,8 @@
       "lat": null,
       "lng": null,
       "locations": [],
-      "title": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger",
-      "summary": "Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
+      "title": "Nigeria: Abduction of a dozen children in the State of Niger",
+      "summary": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
       "sources": [
         "RFI Afrique"
       ],
@@ -437,8 +925,8 @@
         {
           "url": "https://www.rfi.fr/fr/en-bref/20261101-nigeria-enl%C3%A8vement-d-une-douzaine-d-enfants-dans-l-%C3%A9tat-de-niger",
           "source": "RFI Afrique",
-          "title": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger",
-          "summary": "Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
+          "title": "Nigeria: Abduction of a dozen children in the State of Niger",
+          "summary": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
           "summary_basis": "source-excerpt",
           "fatalities_min": null,
           "fatalities_max": null,
@@ -584,6 +1072,104 @@
       ]
     },
     {
+      "id": "05f37dfad0626d834c55cc2d384b469dc75fb2cc",
+      "event_date": "2026-10-30",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-03T07:40:52Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:04:58.909012Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "offensive/campaign",
+      "country": "Mali",
+      "city": "Niono",
+      "lat": 14.25,
+      "lng": -5.9833,
+      "locations": [
+        {
+          "name": "Niono",
+          "country": "Mali",
+          "lat": 14.25,
+          "lng": -5.9833,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "FAMA GOES INTO ACTION IN NIONO: SEVERAL TERRORIST POSITIONS DESTROYED IN 48 HOURS",
+      "summary": "Three (03) individuals neutralized, one (01) motorcycle destroyed and a targeted terrorist group, this is the balance sheet communicated by the General Staff of the Armed Forces at the end of two (02) operations carried out on 29 and 30 October 2026, in (…)By Mahamane TOURE – NOUVEL HORIZONRETROUVE the REST OF YOUR ARTICLE IN the NEW HORIZON OF TUESDAY 03 NOVEMBER 2026 Follow us on Facebook, Telegram, WhatsApp to not miss anything of Malian news Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news",
+      "sources": [
+        "Bamada"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://bamada.net/les-fama-passent-a-loffensive-a-niono-plusieurs-positions-terroristes-detruites-en-48-heures"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://bamada.net/les-fama-passent-a-loffensive-a-niono-plusieurs-positions-terroristes-detruites-en-48-heures",
+          "source": "Bamada",
+          "title": "FAMA GOES INTO ACTION IN NIONO: SEVERAL TERRORIST POSITIONS DESTROYED IN 48 HOURS",
+          "summary": "Three (03) individuals neutralized, one (01) motorcycle destroyed and a targeted terrorist group, this is the balance sheet communicated by the General Staff of the Armed Forces at the end of two (02) operations carried out on 29 and 30 October 2026, in (…)By Mahamane TOURE – NOUVEL HORIZONRETROUVE the REST OF YOUR ARTICLE IN the NEW HORIZON OF TUESDAY 03 NOVEMBER 2026 Follow us on Facebook, Telegram, WhatsApp to not miss anything of Malian news Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-03T12:04:58.909012Z",
+      "updated_at": "2026-11-03T12:04:58.909012Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-03T12:04:58.909012Z",
+          "type": "event_created",
+          "source": "Bamada"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "bamada.net"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
       "id": "e50895c8a43ad6754626736cfc2d85e2b7ac1113",
       "event_date": "2026-10-30",
       "event_date_confidence": "explicit-text",
@@ -666,6 +1252,97 @@
       ],
       "corroboration": "single-source",
       "confidence": "moderate",
+      "independent_source_domains": [
+        "maliweb.net"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "b458a2348c4e55125a2d529fd6fcf8a5bebe5e47",
+      "event_date": "2026-10-29",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-03T11:44:25Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:03.587983Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State",
+        "JNIM"
+      ],
+      "parent_report_id": null,
+      "event_type": "offensive/campaign",
+      "country": "Burkina Faso",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Burkina Faso: terrorist leader Djabiri...",
+      "summary": "Burkina Faso: terrorist leader Djabiri Mangan, known as \"Le Borgne\", neutralized by special forces The Burkina Faso Armed Forces have just dealt a new blow to the armed groups of the Group for the Support of Islam and Muslims (JNIM). .. Yesterday, Monday, the army announced the neutralization of terrorist leader Saidou Diallo, alias Djabiri Mangan, known as \"The One-eyed One\", during an offensive launched against him and his acolytes on October 29, 2026 .",
+      "sources": [
+        "Maliweb"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.maliweb.net/insecurite/burkina-faso-le-chef-terroriste-djabiri-mangan-dit-le-borgne-3121159.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.maliweb.net/insecurite/burkina-faso-le-chef-terroriste-djabiri-mangan-dit-le-borgne-3121159.html",
+          "source": "Maliweb",
+          "title": "Burkina Faso: terrorist leader Djabiri...",
+          "summary": "Burkina Faso: terrorist leader Djabiri Mangan, known as \"Le Borgne\", neutralized by special forces The Burkina Faso Armed Forces have just dealt a new blow to the armed groups of the Group for the Support of Islam and Muslims (JNIM). .. Yesterday, Monday, the army announced the neutralization of terrorist leader Saidou Diallo, alias Djabiri Mangan, known as \"The One-eyed One\", during an offensive launched against him and his acolytes on October 29, 2026 .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-03T12:05:03.587983Z",
+      "updated_at": "2026-11-03T12:05:03.587983Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-03T12:05:03.587983Z",
+          "type": "event_created",
+          "source": "Maliweb"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
       "independent_source_domains": [
         "maliweb.net"
       ],
@@ -3100,1203 +3777,261 @@
       "significance_reasons": [
         "multi-location activity"
       ]
-    },
-    {
-      "id": "a972699a5222fc3223e2f5d0773ce384927b4669",
-      "event_date": "2026-10-24",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-10-24T13:52:53Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-24T18:53:00.136048Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Ménaka",
-      "lat": 15.9182,
-      "lng": 2.4022,
-      "locations": [
-        {
-          "name": "Ménaka",
-          "country": "Mali",
-          "lat": 15.9182,
-          "lng": 2.4022,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Mopti",
-          "country": "Mali",
-          "lat": 14.4843,
-          "lng": -4.1829,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Ségou",
-          "country": "Mali",
-          "lat": 13.4317,
-          "lng": -6.2157,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Koulikoro",
-          "country": "Mali",
-          "lat": 12.8628,
-          "lng": -7.5599,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Mali: FAMa strike several terrorist positions in three regions",
-      "summary": "Mali: FAMa strikes several terrorist positions in Koulikoro and Mopti The Malian Armed Forces (FAMa), supported by their partners, carried out several strikes against suspected terrorist groups in the Koulikoro and Mopti regions on 24 and 25 October 2026, as part of Operation Dougoukoloko According to the General Staff of the Armed Forces, the intelligence collected on 24 October made it possible to locate a group of terrorist elements with motorcycles and logistical means, about two kilometres south-west of the village of Kenenkoun, in the Koulikoro region.",
-      "sources": [
-        "La Nouvelle Tribune (Bénin)",
-        "Bamada",
-        "Malijet",
-        "Maliweb"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 4,
-      "report_urls": [
-        "https://lanouvelletribune.info/2026/10/mali-les-fama-frappent-plusieurs-positions-terroristes-dans-trois-regions/",
-        "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-positions-terroristes-a-koulikoro-et-mopti",
-        "https://malijet.com/actualte_dans_les_regions_du_mali/312511-mali-les-fama-frappent-plusieurs-positions-terroristes-a-k.html",
-        "https://www.maliweb.net/insecurite/operation-dougoukoloko-deux-positions-terroristes-frappees-a-3120973.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://lanouvelletribune.info/2026/10/mali-les-fama-frappent-plusieurs-positions-terroristes-dans-trois-regions/",
-          "source": "La Nouvelle Tribune (Bénin)",
-          "title": "Mali: FAMa strike several terrorist positions in three regions",
-          "summary": "The Malian army announces that it has targeted several groups of individuals presented as terrorists in the regions of Menaka, Mopti and Segou. These operations, carried out on 22 October 2026, are part of Operation Dougoukoloko, according to the General Staff of the Armed Forces.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-positions-terroristes-a-koulikoro-et-mopti",
-          "source": "Bamada",
-          "title": "Operation Dougoukoloko: FAMa neutralize several terrorist positions in Koulikoro and Mopti",
-          "summary": "The General Staff of the Armed Forces informs the national opinion that the Malian Armed Forces (FAMa), supported by their partners, are continuing the permanent operations of surveillance, control and security of the national territory as part of Operation Dougoukoloko . On October 24, 2026, the exploitation of precise intelligence made it possible to locate, about 2 km southwest of the village of Kenenkoun, in the Koulikoro region, a point of regroupment of terrorist elements with several motorcycles as well as logistical means.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312511-mali-les-fama-frappent-plusieurs-positions-terroristes-a-k.html",
-          "source": "Malijet",
-          "title": "Mali: FAMa strike several terrorist positions in Koulikoro and Mopti",
-          "summary": "Mali: FAMa strikes several terrorist positions in Koulikoro and Mopti The Malian Armed Forces (FAMa), supported by their partners, carried out several strikes against suspected terrorist groups in the Koulikoro and Mopti regions on 24 and 25 October 2026, as part of Operation Dougoukoloko According to the General Staff of the Armed Forces, the intelligence collected on 24 October made it possible to locate a group of terrorist elements with motorcycles and logistical means, about two kilometres south-west of the village of Kenenkoun, in the Koulikoro region.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://www.maliweb.net/insecurite/operation-dougoukoloko-deux-positions-terroristes-frappees-a-3120973.html",
-          "source": "Maliweb",
-          "title": "Operation Dougoukoloko: Two terrorist positions struck in Koulikoro and Mopti",
-          "summary": "On 24 and 25 October 2026, the Malian Armed Forces (FAMa) carried out strikes against three points of regroupment of terrorist elements in the Koulikoro and Mopti regions.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-24T18:53:00.136048Z",
-      "updated_at": "2026-11-03T02:29:06.014023Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-24T18:53:00.136048Z",
-          "type": "event_created",
-          "source": "La Nouvelle Tribune (Bénin)"
-        },
-        {
-          "at": "2026-10-26T15:19:33.280716Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Bamada"
-        },
-        {
-          "at": "2026-10-26T15:19:33.167189Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Malijet"
-        },
-        {
-          "at": "2026-11-03T02:29:06.014023Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Maliweb"
-        }
-      ],
-      "corroboration": "multi-source",
-      "confidence": "moderate-high",
-      "independent_source_domains": [
-        "lanouvelletribune.info",
-        "bamada.net",
-        "malijet.com",
-        "maliweb.net"
-      ],
-      "independent_source_count": 4,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-source corroboration",
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "ac8993b21f6a7557a8f6ff5e637508ce51102547",
-      "event_date": "2026-10-24",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-02T09:14:12Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T18:33:39.163994Z",
-      "actor": "IS Sahel",
-      "perpetrator": "IS Sahel",
-      "target": "State",
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State",
-        "IS Sahel"
-      ],
-      "parent_report_id": null,
-      "event_type": "attack",
-      "country": "Mali",
-      "city": "Ménaka",
-      "lat": 15.9182,
-      "lng": 2.4022,
-      "locations": [
-        {
-          "name": "Ménaka",
-          "country": "Mali",
-          "lat": 15.9182,
-          "lng": 2.4022,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Menaka region: 54 corpses discovered...",
-      "summary": "Menaka region: 54 corpses discovered at the Tagadayat encampment A joint FAMa-Partners patrol led to the discovery of 54 lifeless bodies at a Tagadayat encampment, approximately 35 kilometres south-east of the town of Menaka. The first testimonies hold as perpetrators of these killings the Islamic State in the Great Sahara (EIGS). The information was disclosed on 24 October by the General Staff of the Armed Forces .",
-      "sources": [
-        "Maliweb",
-        "Bamada"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://www.maliweb.net/insecurite/region-de-menaka-54-cadavres-decouverts-au-campement-a-tagadayat-3121125.html",
-        "https://bamada.net/region-de-menaka-54-cadavres-decouverts-au-campement-a-tagadayat"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.maliweb.net/insecurite/region-de-menaka-54-cadavres-decouverts-au-campement-a-tagadayat-3121125.html",
-          "source": "Maliweb",
-          "title": "Menaka region: 54 corpses discovered...",
-          "summary": "Menaka region: 54 corpses discovered at the Tagadayat encampment A joint FAMa-Partners patrol led to the discovery of 54 lifeless bodies at a Tagadayat encampment, approximately 35 kilometres south-east of the town of Menaka. The first testimonies hold as perpetrators of these killings the Islamic State in the Great Sahara (EIGS). The information was disclosed on 24 October by the General Staff of the Armed Forces .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://bamada.net/region-de-menaka-54-cadavres-decouverts-au-campement-a-tagadayat",
-          "source": "Bamada",
-          "title": "Menaka region: 54 corpses discovered at the camp in Tagadayat",
-          "summary": "A joint FAMa-Partners patrol led to the discovery, about 35 kilometers southeast of the city of Menaka, of 54 lifeless bodies in a camp in Tagadayat. The first testimonies hold as perpetrators of these killings the Islamic State in the Great Sahara (EIGS). The information was disclosed on 24 October by the General Staff of the Armed Forces .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-02T18:33:39.163994Z",
-      "updated_at": "2026-11-02T18:33:32.923572Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian",
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-02T18:33:39.163994Z",
-          "type": "event_created",
-          "source": "Maliweb"
-        },
-        {
-          "at": "2026-11-02T18:33:32.923572Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Bamada"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "maliweb.net",
-        "bamada.net"
-      ],
-      "independent_source_count": 2,
-      "significance": "SIGNIFICANT",
-      "significance_reasons": [
-        "operational security event"
-      ]
-    },
-    {
-      "id": "60e394f657424faf5e2804d97082cfd5d9d015ab",
-      "event_date": "2026-10-24",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-10-30T21:55:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T20:55:35.172493Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "attack",
-      "country": "Niger",
-      "city": "Agadez",
-      "lat": 16.9733,
-      "lng": 7.9911,
-      "locations": [
-        {
-          "name": "Agadez",
-          "country": "Niger",
-          "lat": 16.9733,
-          "lng": 7.9911,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Press release: USTN condemns in the strongest terms the drone attack on Nigerian territory by Chad",
-      "summary": "The National Executive Office of the Union of Workers' Unions of Niger (BEN/USTN) took note, with deep indignation, of the government statement reporting a drone airstrike that occurred on October 24, 2026, around 1 a.m., in the area of Miloulou, Agadez region. This attack claimed the lives of two civilians, injured others and caused significant material damage .",
-      "sources": [
-        "Le Sahel"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.lesahel.org/communique-de-presse-lustn-condamne-avec-la-plus-grande-fermete-lattaque-par-drone-sur-le-territoire-nigerien-par-le-tchad/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.lesahel.org/communique-de-presse-lustn-condamne-avec-la-plus-grande-fermete-lattaque-par-drone-sur-le-territoire-nigerien-par-le-tchad/",
-          "source": "Le Sahel",
-          "title": "Press release: USTN condemns in the strongest terms the drone attack on Nigerian territory by Chad",
-          "summary": "The National Executive Office of the Union of Workers' Unions of Niger (BEN/USTN) took note, with deep indignation, of the government statement reporting a drone airstrike that occurred on October 24, 2026, around 1 a.m., in the area of Miloulou, Agadez region. This attack claimed the lives of two civilians, injured others and caused significant material damage .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-30T20:55:35.172493Z",
-      "updated_at": "2026-10-30T20:55:35.172493Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-30T20:55:35.172493Z",
-          "type": "event_created",
-          "source": "Le Sahel"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "lesahel.org"
-      ],
-      "independent_source_count": 1,
-      "significance": "ROUTINE",
-      "significance_reasons": [
-        "limited currently observed significance"
-      ]
-    },
-    {
-      "id": "650b78cc2599595d82288c663ad05e0045ebe5e2",
-      "event_date": "2026-10-24",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-10-26T22:08:30Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-27T05:16:11.158904Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "air/drone strike",
-      "country": "Niger",
-      "city": "Niamey",
-      "lat": 13.5116,
-      "lng": 2.1254,
-      "locations": [
-        {
-          "name": "Niamey",
-          "country": "Niger",
-          "lat": 13.5116,
-          "lng": 2.1254,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Agadez",
-          "country": "Niger",
-          "lat": 16.9733,
-          "lng": 7.9911,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Niger: Niamey accuses Chad of a deadly drone strike with the support of France",
-      "summary": "Chad does not admit to conducting a drone strike on Emi loulou (hill in the Agadez region) on Saturday, October 24. He firmly rejected these accusations of Niamey, in a statement read this Tuesday, October 27 by his Minister of Communication, Gassim Chérif Mahamat, on national television . The Nigerien authorities invited to make public the evidence they say N’Djaména is holding assures that he has \"in no way ordered, conducted or supported any air military operation from his soil against Niger\" .",
-      "sources": [
-        "Tchadinfos (النسخة العربية)",
-        "La Nouvelle Tribune (Bénin)",
-        "Bamada",
-        "Malijet",
-        "Seneweb",
-        "Ouestaf News"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 6,
-      "report_urls": [
-        "https://tchadinfos.com/2026/10/26/niger-niamey-accuse-le-tchad-dune-frappe-de-drone-meurtriere-avec-lappui-de-la-france/",
-        "https://lanouvelletribune.info/2026/10/le-niger-accuse-le-tchad-et-la-france-apres-une-frappe-de-drone-sur-son-territoire/",
-        "https://bamada.net/niger-deux-civils-tues-dans-une-frappe-de-drone-niamey-accuse-le-tchad-et-la-france",
-        "https://malijet.com/actualite-sur-afrique/312520-niger-niamey-accuse-le-tchad-dune-frappe-de-drone-ayant-f.html",
-        "https://www.seneweb.com/fr/news/Afrique/niger-niamey-accuse-le-tchad-et-la-france-apres-une-frappe-de-drone-meurtriere_n_999001878.html",
-        "https://www.ouestaf.com/niger-niamey-accuse-le-tchad-et-la-france-apres-une-frappe-de-drone/",
-        "https://www.seneweb.com/fr/news/Afrique/frappe-de-drone-sur-agadez-le-tchad-reagit-aux-accusations-du-niger_n_999001906.html",
-        "https://malijet.com/actualite-sur-afrique/312537-tchad-niger-ndjamena-rejette-les-accusations-de-frappe-de.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://tchadinfos.com/2026/10/26/niger-niamey-accuse-le-tchad-dune-frappe-de-drone-meurtriere-avec-lappui-de-la-france/",
-          "source": "Tchadinfos (النسخة العربية)",
-          "title": "Niger: Niamey accuses Chad of a deadly drone strike with the support of France",
-          "summary": "The Nigerien government has accused Chad of having carried out, with the support of France, a drone strike on its territory that killed two people and injured several civilians, according to an official statement in which Niamey announces the referral to the United Nations and the African Union. According to the Nigerien authorities, the attack occurred on October 24, around 01:00, in the Emiloulou area, in the Agadez region (north) .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 2,
-          "fatalities_max": 2,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "security_force"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 2,
-              "victim_text": "people",
-              "claimant": "Tchadinfos (النسخة العربية)",
-              "status": "reported",
-              "evidence": "ccused Chad of having carried out, with the support of France, a drone strike on its territory that killed two people and injured several civilians, according to an official statement in which Niamey announces the ref"
-            }
-          ]
-        },
-        {
-          "url": "https://lanouvelletribune.info/2026/10/le-niger-accuse-le-tchad-et-la-france-apres-une-frappe-de-drone-sur-son-territoire/",
-          "source": "La Nouvelle Tribune (Bénin)",
-          "title": "Niger accuses Chad and France after drone strike on its territory",
-          "summary": "For some time now, relations between Niger and Chad have been experiencing friction and this is not about to be resolved in the immediate future. Indeed, relations between Niamey and N 'djamena are experiencing new tensions after a drone strike that the Nigerien authorities attribute to Chad in collaboration with France . The Nigerien authorities claim that the strike claimed the lives of two civilians and left several injured.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://bamada.net/niger-deux-civils-tues-dans-une-frappe-de-drone-niamey-accuse-le-tchad-et-la-france",
-          "source": "Bamada",
-          "title": "Niger: two civilians killed in drone strike, Niamey accuses Chad and France",
-          "summary": "The Nigerien government accused Chad and France of being involved in a drone airstrike that left two civilians dead and several injured on October 24 in the Emi Lulu area, in the Agadez region, announcing a series of diplomatic measures and the referral to international bodies According to a government statement, the strike occurred around 1:00 am and was allegedly carried out from Chadian territory \"with the support of a foreign power, France\".",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 2,
-          "fatalities_max": 2,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "security_force"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 2,
-              "victim_text": "civilians",
-              "claimant": "state/official source",
-              "status": "reported",
-              "evidence": "Niger: two civilians killed in drone strike, Niamey accuses Chad and France The Nigerien government accused Chad and France of"
-            }
-          ]
-        },
-        {
-          "url": "https://malijet.com/actualite-sur-afrique/312520-niger-niamey-accuse-le-tchad-dune-frappe-de-drone-ayant-f.html",
-          "source": "Malijet",
-          "title": "Niger: Niamey accuses Chad of a drone strike that killed two people",
-          "summary": "The Nigerien government accuses Chad of having carried out a drone strike against the Emiloulou area, in the Agadez region, on October 24, 2026, around 1 a.m. According to a statement broadcast on national television, the attack left two civilians dead, several wounded and damaged vehicles . Niamey claims that the drone left Chadian territory with the support of France.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 2,
-          "fatalities_max": 2,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 2,
-              "victim_text": "civilians",
-              "claimant": "Malijet",
-              "status": "reported",
-              "evidence": "24, 2026, around 1 a.m. According to a statement broadcast on national television, the attack left two civilians dead, several wounded and damaged vehicles . Niamey claims that the drone left Chadian territory with th"
-            },
-            {
-              "kind": "fatalities",
-              "count": 2,
-              "victim_text": "people",
-              "claimant": "state/official source",
-              "status": "reported",
-              "evidence": "Niger: Niamey accuses Chad of a drone strike that killed two people Niger: Niamey accuses Chad of a drone strike that killed two people The Nigerien government accuses"
-            }
-          ]
-        },
-        {
-          "url": "https://www.seneweb.com/fr/news/Afrique/niger-niamey-accuse-le-tchad-et-la-france-apres-une-frappe-de-drone-meurtriere_n_999001878.html",
-          "source": "Seneweb",
-          "title": "Niger: Niamey blames Chad and France after deadly drone strike",
-          "summary": "Niger: Niamey accuses Chad and France after a deadly drone strike The Nigerien government claims that its territory was targeted, Saturday around 00:00 GMT, by an airstrike carried out by drone from Chad, with the alleged support of France. The attack reportedly took place in the Emi Lulu area, in the Agadez region, near the Algerian border According to the Niamey authorities, the strike left two civilians dead, several injured and damaged vehicles.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 2,
-          "fatalities_max": 2,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 2,
-              "victim_text": "civilians",
-              "claimant": "state/official source",
-              "status": "reported",
-              "evidence": "in the Agadez region, near the Algerian border According to the Niamey authorities, the strike left two civilians dead, several injured and damaged vehicles. The government holds Chad responsible for the attack and its"
-            }
-          ]
-        },
-        {
-          "url": "https://www.ouestaf.com/niger-niamey-accuse-le-tchad-et-la-france-apres-une-frappe-de-drone/",
-          "source": "Ouestaf News",
-          "title": "Niger: Niamey accuses Chad and France after a drone strike",
-          "summary": "The Nigerien territory was targeted, on October 24, 2026 at around 1 a.m., by a drone strike carried out from Chadian territory with the \"support\" of France, informs a statement from the government of Niamey read on public television. According to the announcement, made on October 26, 2026, the attack left two civilians dead, several wounded . The drone strike also damaged vehicles in the Agadez region, near the Algerian border.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 2,
-          "fatalities_max": 2,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 2,
-              "victim_text": "civilians",
-              "claimant": "Ouestaf News",
-              "status": "reported",
-              "evidence": "read on public television. According to the announcement, made on October 26, 2026, the attack left two civilians dead, several wounded . The drone strike also damaged vehicles in the Agadez region, near the Algerian b"
-            }
-          ]
-        },
-        {
-          "url": "https://www.seneweb.com/fr/news/Afrique/frappe-de-drone-sur-agadez-le-tchad-reagit-aux-accusations-du-niger_n_999001906.html",
-          "source": "Seneweb",
-          "title": "Drone strike on Agadez: Chad reacts to Niger's accusations",
-          "summary": "Chad does not admit to conducting a drone strike on Emi loulou (hill in the Agadez region) on Saturday, October 24. He firmly rejected these accusations of Niamey, in a statement read this Tuesday, October 27 by his Minister of Communication, Gassim Chérif Mahamat, on national television . The Nigerien authorities invited to make public the evidence they say N’Djaména is holding assures that he has \"in no way ordered, conducted or supported any air military operation from his soil against Niger\" .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://malijet.com/actualite-sur-afrique/312537-tchad-niger-ndjamena-rejette-les-accusations-de-frappe-de.html",
-          "source": "Malijet",
-          "title": "Chad-Niger: N’Djamena rejects accusations of drone strikes in Agadez",
-          "summary": "The Chadian government firmly rejects the accusations of Niger, which attributes to him a drone strike that occurred on October 24, 2026, at around 1 a.m., in the Emiloulou area, in the Agadez region. In a statement, N’Djamena denies having ordered, conducted or supported an air military operation against Nigerian territory The Chadian authorities also deny any assistance given to a foreign power to carry out hostile action against Niger.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-27T05:16:11.158904Z",
-      "updated_at": "2026-10-28T05:52:58.857382Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian",
-        "security_force"
-      ],
-      "civilian_targeting_flag": true,
-      "casualty_claims": [
-        {
-          "kind": "fatalities",
-          "count": 2,
-          "victim_text": "people",
-          "claimant": "Tchadinfos (النسخة العربية)",
-          "status": "reported",
-          "evidence": "ccused Chad of having carried out, with the support of France, a drone strike on its territory that killed two people and injured several civilians, according to an official statement in which Niamey announces the ref",
-          "source": "Tchadinfos (النسخة العربية)"
-        },
-        {
-          "kind": "fatalities",
-          "count": 2,
-          "victim_text": "civilians",
-          "claimant": "state/official source",
-          "status": "reported",
-          "evidence": "Niger: two civilians killed in drone strike, Niamey accuses Chad and France The Nigerien government accused Chad and France of",
-          "source": "Bamada"
-        },
-        {
-          "kind": "fatalities",
-          "count": 2,
-          "victim_text": "civilians",
-          "claimant": "Malijet",
-          "status": "reported",
-          "evidence": "24, 2026, around 1 a.m. According to a statement broadcast on national television, the attack left two civilians dead, several wounded and damaged vehicles . Niamey claims that the drone left Chadian territory with th",
-          "source": "Malijet"
-        },
-        {
-          "kind": "fatalities",
-          "count": 2,
-          "victim_text": "people",
-          "claimant": "state/official source",
-          "status": "reported",
-          "evidence": "Niger: Niamey accuses Chad of a drone strike that killed two people Niger: Niamey accuses Chad of a drone strike that killed two people The Nigerien government accuses",
-          "source": "Malijet"
-        },
-        {
-          "kind": "fatalities",
-          "count": 2,
-          "victim_text": "civilians",
-          "claimant": "state/official source",
-          "status": "reported",
-          "evidence": "in the Agadez region, near the Algerian border According to the Niamey authorities, the strike left two civilians dead, several injured and damaged vehicles. The government holds Chad responsible for the attack and its",
-          "source": "Seneweb"
-        },
-        {
-          "kind": "fatalities",
-          "count": 2,
-          "victim_text": "civilians",
-          "claimant": "Ouestaf News",
-          "status": "reported",
-          "evidence": "read on public television. According to the announcement, made on October 26, 2026, the attack left two civilians dead, several wounded . The drone strike also damaged vehicles in the Agadez region, near the Algerian b",
-          "source": "Ouestaf News"
-        }
-      ],
-      "fatalities_min": 2,
-      "fatalities_max": 2,
-      "fatalities_best": 2,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-27T05:16:11.158904Z",
-          "type": "event_created",
-          "source": "Tchadinfos (النسخة العربية)"
-        },
-        {
-          "at": "2026-10-27T05:16:12.513153Z",
-          "type": "corroboration_or_geography_update",
-          "source": "La Nouvelle Tribune (Bénin)"
-        },
-        {
-          "at": "2026-10-27T14:40:20.943807Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Bamada"
-        },
-        {
-          "at": "2026-10-27T14:40:20.741219Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Malijet"
-        },
-        {
-          "at": "2026-10-27T14:40:23.172980Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Seneweb"
-        },
-        {
-          "at": "2026-10-27T20:49:43.740904Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Ouestaf News"
-        }
-      ],
-      "corroboration": "multi-source",
-      "confidence": "moderate-high",
-      "independent_source_domains": [
-        "tchadinfos.com",
-        "lanouvelletribune.info",
-        "bamada.net",
-        "malijet.com",
-        "seneweb.com",
-        "ouestaf.com"
-      ],
-      "independent_source_count": 6,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern",
-        "multi-source corroboration",
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "6f747bfbe7220ec5d03987c312902f25f36033a7",
-      "event_date": "2026-10-24",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-10-27T07:08:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-27T14:40:21.798902Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Niger",
-      "city": "Niamey",
-      "lat": 13.5116,
-      "lng": 2.1254,
-      "locations": [
-        {
-          "name": "Niamey",
-          "country": "Niger",
-          "lat": 13.5116,
-          "lng": 2.1254,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Agadez",
-          "country": "Niger",
-          "lat": 16.9733,
-          "lng": 7.9911,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Chadian drone strikes on Nigerian territory: Niamey condemns this action and announces diplomatic and security measures",
-      "summary": "Niamey, Oct 26 (ANP) – The Nigerien government has condemned in the strongest terms an airstrike carried out by drone, on October 24, 2026, around one o'clock in the morning, in the Emi Loulou area, Agadez region, which it attributes to the Chadian state with the support of France. According to the Nigerien authorities, this strike caused the death of two civilians, injured people and damaged vehicles In a statement, the government says that this attack targeted the national territory and deplores the loss of life as well as the material damage recorded.",
-      "sources": [
-        "Agence Nigérienne de Presse",
-        "Le Sahel"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://anp.ne/frappes-de-drones-tchadiens-sur-le-territoire-nigerien-niamey-condamne-cette-action-et-annonce-des-mesures-diplomatiques-et-securitaires/",
-        "https://www.lesahel.org/communique-officiel-du-gouvernement-suite-a-une-frappe-par-drone-en-territoire-nigerien-par-le-tchad/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://anp.ne/frappes-de-drones-tchadiens-sur-le-territoire-nigerien-niamey-condamne-cette-action-et-annonce-des-mesures-diplomatiques-et-securitaires/",
-          "source": "Agence Nigérienne de Presse",
-          "title": "Chadian drone strikes on Nigerian territory: Niamey condemns this action and announces diplomatic and security measures",
-          "summary": "Niamey, Oct 26 (ANP) – The Nigerien government has condemned in the strongest terms an airstrike carried out by drone, on October 24, 2026, around one o'clock in the morning, in the Emi Loulou area, Agadez region, which it attributes to the Chadian state with the support of France. According to the Nigerien authorities, this strike caused the death of two civilians, injured people and damaged vehicles In a statement, the government says that this attack targeted the national territory and deplores the loss of life as well as the material damage recorded.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "security_force"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://www.lesahel.org/communique-officiel-du-gouvernement-suite-a-une-frappe-par-drone-en-territoire-nigerien-par-le-tchad/",
-          "source": "Le Sahel",
-          "title": "Official statement of the government following a drone strike in Nigerian territory by Chad",
-          "summary": "The Government informs national and international opinion that on October 24, 2026, at around 1 a.m., the national territory was the target of a drone airstrike carried out from the territory of Chad in the Emiloulou area, Agadez region, with the support of a foreign power, France. This strike resulted in the death of two civilians and injuries. It also damaged vehicles .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "security_force"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-27T14:40:21.798902Z",
-      "updated_at": "2026-10-27T14:40:28.268567Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian",
-        "security_force"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-27T14:40:21.798902Z",
-          "type": "event_created",
-          "source": "Agence Nigérienne de Presse"
-        },
-        {
-          "at": "2026-10-27T14:40:28.268567Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Le Sahel"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "anp.ne",
-        "lesahel.org"
-      ],
-      "independent_source_count": 2,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern",
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "b2c78eb2178c800c1ff378667b0e773fe8d0e8a1",
-      "event_date": "2026-10-24",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-10-27T13:02:47Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-27T14:40:27.250730Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Niger",
-      "city": "Niamey",
-      "lat": 13.5116,
-      "lng": 2.1254,
-      "locations": [
-        {
-          "name": "Niamey",
-          "country": "Niger",
-          "lat": 13.5116,
-          "lng": 2.1254,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Agadez",
-          "country": "Niger",
-          "lat": 16.9733,
-          "lng": 7.9911,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Accusations of strikes in Niger: Chad denies and demands proof of Niamey",
-      "summary": "The tone rises between N’Djamena and Niamey. The Chadian government on Tuesday rejected accusations by the Nigerien authorities that a drone strike carried out from Chadian territory targeted an area of the Agadez region on the night of 24 October, causing the death of two civilians and injuring several others, according to the toll announced by Niamey In a statement read on national television, the Minister of Communication and government spokesman, Gassim Chérif Mahamat, assured that Chad had \"in no way ordered, conducted or supported\" an air military operation against Niger.",
-      "sources": [
-        "Tchadinfos (النسخة العربية)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://tchadinfos.com/2026/10/27/accusations-de-frappes-au-niger-le-tchad-dement-et-exige-des-preuves-de-niamey/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://tchadinfos.com/2026/10/27/accusations-de-frappes-au-niger-le-tchad-dement-et-exige-des-preuves-de-niamey/",
-          "source": "Tchadinfos (النسخة العربية)",
-          "title": "Accusations of strikes in Niger: Chad denies and demands proof of Niamey",
-          "summary": "The tone rises between N’Djamena and Niamey. The Chadian government on Tuesday rejected accusations by the Nigerien authorities that a drone strike carried out from Chadian territory targeted an area of the Agadez region on the night of 24 October, causing the death of two civilians and injuring several others, according to the toll announced by Niamey In a statement read on national television, the Minister of Communication and government spokesman, Gassim Chérif Mahamat, assured that Chad had \"in no way ordered, conducted or supported\" an air military operation against Niger.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-27T14:40:27.250730Z",
-      "updated_at": "2026-10-27T14:40:27.250730Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": true,
-      "revision_history": [
-        {
-          "at": "2026-10-27T14:40:27.250730Z",
-          "type": "event_created",
-          "source": "Tchadinfos (النسخة العربية)"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "tchadinfos.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern",
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "5709a07050390df9218d4afe1cab57829d87d4cc",
-      "event_date": "2026-10-24",
-      "event_date_confidence": "publication-proxy",
-      "event_date_source": "jsonld:datePublished",
-      "published_at": "2026-10-24T22:15:35Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-24T22:36:18.109562Z",
-      "actor": "IS Sahel",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "IS Sahel",
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "attack",
-      "country": "Mali",
-      "city": "Ménaka",
-      "lat": 15.9182,
-      "lng": 2.4022,
-      "locations": [
-        {
-          "name": "Ménaka",
-          "country": "Mali",
-          "lat": 15.9182,
-          "lng": 2.4022,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Mali: 54 dead bodies discovered in a camp, EIGs implicated",
-      "summary": "A massacre of civilian populations was reported in the region of Menaka, Mali. Fifty-four dead bodies were discovered in a camp located about 35 kilometers southeast of the city. The Islamic State in the Greater Sahara (EIGs) is implicated in these killings, according to the first testimonies collected by the Malian army In a statement seen by Seneweb, the General Staff of the Armed Forces indicates that a joint patrol of the Malian Armed Forces (FAMa) and their partners was deployed on the ground after reports of a terrorist attack against civilian populations in the operational sub-sector of Menaka.",
-      "sources": [
-        "Seneweb",
-        "Maliweb",
-        "Journal du Mali"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 3,
-      "report_urls": [
-        "https://www.seneweb.com/fr/news/Afrique/mali-54-corps-sans-vie-decouverts-dans-un-campement-leigs-mis-en-cause_n_999001644.html",
-        "https://www.maliweb.net/insecurite/menaka-54-corps-decouverts-dans-un-campement-a-tagadeyat-3120932.html",
-        "https://journaldumali.com/tagadayat-larmee-annonce-la-decouverte-de-54-corps/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.seneweb.com/fr/news/Afrique/mali-54-corps-sans-vie-decouverts-dans-un-campement-leigs-mis-en-cause_n_999001644.html",
-          "source": "Seneweb",
-          "title": "Mali: 54 dead bodies discovered in a camp, EIGs implicated",
-          "summary": "A massacre of civilian populations was reported in the region of Menaka, Mali. Fifty-four dead bodies were discovered in a camp located about 35 kilometers southeast of the city. The Islamic State in the Greater Sahara (EIGs) is implicated in these killings, according to the first testimonies collected by the Malian army In a statement seen by Seneweb, the General Staff of the Armed Forces indicates that a joint patrol of the Malian Armed Forces (FAMa) and their partners was deployed on the ground after reports of a terrorist attack against civilian populations in the operational sub-sector of Menaka.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://www.maliweb.net/insecurite/menaka-54-corps-decouverts-dans-un-campement-a-tagadeyat-3120932.html",
-          "source": "Maliweb",
-          "title": "Menaka: 54 bodies discovered in a...",
-          "summary": "Menaka: 54 bodies discovered in a camp in Tagadeyat The General Staff of the Armed Forces announced, in a statement, the macabre discovery of 54 lifeless bodies about 35 kilometers south-east of Menaka. Nine survivors were also found and evacuated to the city. The first testimonies attribute these killings to the Islamic State in the Greater Sahara (EIGS).",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://journaldumali.com/tagadayat-larmee-annonce-la-decouverte-de-54-corps/",
-          "source": "Journal du Mali",
-          "title": "Tagadayat: the army announces the discovery of 54 bodies",
-          "summary": "RIGHT NOW A patrol found 54 bodies in a camp located southeast of Menaka, according to the General Staff of the Armed Forces. Nine survivors were evacuated to the city for treatment. The General Staff of the Armed Forces announced on Saturday, October 24, the discovery of 54 bodies in a camp in Tagadayat, about 35 kilometers southeast of Menaka .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-24T22:36:18.109562Z",
-      "updated_at": "2026-10-26T15:19:34.084935Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian",
-        "armed_group"
-      ],
-      "civilian_targeting_flag": true,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-24T22:36:18.109562Z",
-          "type": "event_created",
-          "source": "Seneweb"
-        },
-        {
-          "at": "2026-10-29T21:17:19.565142Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Maliweb"
-        },
-        {
-          "at": "2026-10-26T15:19:34.084935Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Journal du Mali"
-        }
-      ],
-      "corroboration": "multi-source",
-      "confidence": "moderate-high",
-      "independent_source_domains": [
-        "seneweb.com",
-        "maliweb.net",
-        "journaldumali.com"
-      ],
-      "independent_source_count": 3,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern",
-        "multi-source corroboration"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-03T13:05:00Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:09.516585Z",
+      "discovered_at": "2026-11-03T12:05:09.516585Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0017",
+      "source": "Le Sahel",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": "clash",
+      "candidate_event": false,
+      "title": "Presentation to the national flag of the soldiers of the 2025 FAN contingent: The Nigerian Armed Forces are strengthening their rank with young soldiers ready to serve the homeland",
+      "url": "https://www.lesahel.org/presentation-au-drapeau-national-des-soldats-du-contingent-2025-des-fan-les-forces-armees-nigeriennes-renforcent-leur-rang-avec-des-jeunes-soldats-prets-a-servir-la-patrie/"
+    },
+    {
+      "published_at": "2026-11-03T11:44:25Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:03.587983Z",
+      "discovered_at": "2026-11-03T12:05:03.587983Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": "offensive/campaign",
+      "candidate_event": true,
+      "title": "Burkina Faso: terrorist leader Djabiri...",
+      "url": "https://www.maliweb.net/insecurite/burkina-faso-le-chef-terroriste-djabiri-mangan-dit-le-borgne-3121159.html"
+    },
+    {
+      "published_at": "2026-11-03T11:39:50Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:11.487868Z",
+      "discovered_at": "2026-11-03T12:05:11.487868Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0013",
+      "source": "Wakat Sera",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Burkina: in one month, the National Police collected more than 99 million CFA francs during an operation",
+      "url": "https://www.wakatsera.com/burkina-en-un-mois-la-police-nationale-recolte-plus-de-99-millions-f-cfa-lors-dune-operation/"
+    },
+    {
+      "published_at": "2026-11-03T10:21:14Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:09.994315Z",
+      "discovered_at": "2026-11-03T12:05:09.994315Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Afrique: La Chine fournit des équipements militaires sophistiqués aux pays africains, dont le Mali et le Burkina Faso",
+      "url": "https://fr.allafrica.com/stories/202611030292.html"
+    },
+    {
+      "published_at": "2026-11-03T09:57:49Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:05.225916Z",
+      "discovered_at": "2026-11-03T12:05:05.225916Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Mali",
+      "city": null,
+      "event_type": "kidnapping",
+      "candidate_event": true,
+      "title": "Mali: NGOs call on the Transition on the kidnapping of Mountaga Tall (RFI)",
+      "url": "https://fr.allafrica.com/stories/202611030258.html"
+    },
+    {
+      "published_at": "2026-11-03T09:41:00Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:11.297416Z",
+      "discovered_at": "2026-11-03T12:05:11.297416Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0130",
+      "source": "Modern Ghana",
+      "language": "en",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Sévaré",
+      "event_type": "attack",
+      "candidate_event": true,
+      "title": "JNIM Claims IED Attack on Malian Army and Africa Corps Vehicle Between Sévaré and Konna",
+      "url": "https://www.modernghana.com/news/1541551/jnim-claims-ied-attack-on-malian-army-and-africa.html"
+    },
+    {
+      "published_at": "2026-11-03T09:09:03Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:04.542511Z",
+      "discovered_at": "2026-11-03T12:05:04.542511Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "kidnapping",
+      "candidate_event": true,
+      "title": "Mali: Six months after their abduction, Mountaga Tall and her son remain unaccounted for",
+      "url": "https://fr.allafrica.com/stories/202611030180.html"
+    },
+    {
+      "published_at": "2026-11-03T08:29:39Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:00.911520Z",
+      "discovered_at": "2026-11-03T12:05:00.911520Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Ebola in Africa: two-thirds of funds pledged to the response still pending",
+      "url": "https://amap.ml/2026/11/03/ebola-en-afrique-deux-tiers-des-fonds-promis-a-la-riposte-toujours-en-attente/"
+    },
+    {
+      "published_at": "2026-11-03T08:14:51Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:04:59.019675Z",
+      "discovered_at": "2026-11-03T12:04:59.019675Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Burkina Faso: Saïdou Diallo, alias \"Djabiri Mangan\", GSIM officer, killed during an operation in Sourou",
+      "url": "https://malijet.com/actualite-sur-afrique/312645-burkina-faso-saidou-diallo-alias-djabiri-mangan-cadr.html"
+    },
+    {
+      "published_at": "2026-11-03T07:40:52Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:04:58.909012Z",
+      "discovered_at": "2026-11-03T12:04:58.909012Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Niono",
+      "event_type": "offensive/campaign",
+      "candidate_event": true,
+      "title": "FAMA GOES INTO ACTION IN NIONO: SEVERAL TERRORIST POSITIONS DESTROYED IN 48 HOURS",
+      "url": "https://bamada.net/les-fama-passent-a-loffensive-a-niono-plusieurs-positions-terroristes-detruites-en-48-heures"
+    },
+    {
+      "published_at": "2026-11-03T07:35:00Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:04:59.261598Z",
+      "discovered_at": "2026-11-03T12:04:59.261598Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0086",
+      "source": "Dakaractu",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Mali",
+      "city": null,
+      "event_type": "kidnapping",
+      "candidate_event": true,
+      "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
+      "url": "https://www.dakaractu.com/Mali-Mountaga-Tall-enleve-par-la-Securite-d-Etat-depuis-six-mois-des-ONG-interpellent-les-autorites-de-Transition_a277748.html"
+    },
+    {
+      "published_at": "2026-11-03T05:48:30Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:04:58.734345Z",
+      "discovered_at": "2026-11-03T12:04:58.734345Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Mali",
+      "city": null,
+      "event_type": "kidnapping",
+      "candidate_event": true,
+      "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
+      "url": "https://www.rfi.fr/fr/afrique/20261103-mali-mountaga-tall-enlev%C3%A9-par-la-s%C3%A9curit%C3%A9-d-%C3%A9tat-depuis-six-mois-des-ong-interpellent-les-autorit%C3%A9s-de-transition"
+    },
+    {
+      "published_at": "2026-11-03T05:44:10Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:04:58.632012Z",
+      "discovered_at": "2026-11-03T12:04:58.632012Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Mali",
+      "city": null,
+      "event_type": "kidnapping",
+      "candidate_event": true,
+      "title": "Abduction of Mountaga Tall in Mali: silence \"does not erase the competences of justice or the obligations of the State\"",
+      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261103-enl%C3%A8vement-de-mountaga-tall-au-mali-le-silence-n-efface-ni-les-comp%C3%A9tences-de-la-justice-ni-les-obligations-de-l-%C3%A9tat"
+    },
+    {
+      "published_at": "2026-11-03T04:58:31Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:08.460999Z",
+      "discovered_at": "2026-11-03T12:05:08.460999Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0121",
+      "source": "AllAfrica (English Edition)",
+      "language": "en",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "offensive/campaign",
+      "candidate_event": false,
+      "title": "Mali: Still No Accountability Six Months After Abduction of Pro-Democracy Politician Mountaga Tall and His Son",
+      "url": "https://allafrica.com/stories/202611030071.html"
+    },
     {
       "published_at": "2026-11-03T01:00:00Z",
       "published_date_source": "jsonld:datePublished",
@@ -4564,7 +4299,7 @@
       "city": "Ouagadougou",
       "event_type": null,
       "candidate_event": false,
-      "title": "Burkina Faso : plus de 86 000 réservistes inscrits sur les 100 000 attendus d’ici fin 2026",
+      "title": "Burkina Faso: more than 86,000 reservists registered out of the 100,000 expected by the end of 2026",
       "url": "https://lanouvelletribune.info/2026/11/burkina-faso-plus-de-86-000-reservistes-inscrits-sur-les-100-000-attendus-dici-fin-2026/"
     },
     {
@@ -4602,6 +4337,24 @@
       "candidate_event": false,
       "title": "Niger : après quatre Su-30 en août, Alger déploie des unités militaires au sol",
       "url": "https://lanouvelletribune.info/2026/11/niger-apres-quatre-su-30-en-aout-alger-deploie-des-unites-militaires-au-sol/"
+    },
+    {
+      "published_at": "2026-11-02T11:23:36Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-03T12:05:09.729438Z",
+      "discovered_at": "2026-11-03T12:05:09.729438Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": null,
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "6 Niger: Les dessous du voyage stratégique du Premier ministre Ali Mahaman Lamine Zeine à Benghazi",
+      "url": "https://fr.allafrica.com/stories/202611020354.html"
     },
     {
       "published_at": "2026-11-02T10:53:37Z",
@@ -4708,7 +4461,7 @@
       "city": "Niamey",
       "event_type": "political/security policy",
       "candidate_event": false,
-      "title": "Libye: Benghazi et Niamey affichent leur volonté de renforcer leur coopération sécuritaire",
+      "title": "Libya: Benghazi and Niamey show their willingness to strengthen their security cooperation",
       "url": "https://fr.apanews.net/diplomacy/libye-benghazi-et-niamey-affichent-leur-volonte-de-renforcer-leur-cooperation-securitaire/"
     },
     {
@@ -4746,276 +4499,6 @@
       "candidate_event": false,
       "title": "Mali: Assassinats de Ghislaine Dupont et Claude Verlon en 2013 - «On attend une nouvelle déclassification depuis 3 ans» (RFI)",
       "url": "https://fr.allafrica.com/stories/202611020166.html"
-    },
-    {
-      "published_at": "2026-11-02T09:14:12Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T18:33:39.163994Z",
-      "discovered_at": "2026-11-02T18:33:39.163994Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "IS Sahel",
-      "country": "Mali",
-      "city": "Ménaka",
-      "event_type": "attack",
-      "candidate_event": true,
-      "title": "Menaka region: 54 corpses discovered...",
-      "url": "https://www.maliweb.net/insecurite/region-de-menaka-54-cadavres-decouverts-au-campement-a-tagadayat-3121125.html"
-    },
-    {
-      "published_at": "2026-11-02T08:11:34Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T18:33:40.527609Z",
-      "discovered_at": "2026-11-02T18:33:40.527609Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "abuses/war crimes",
-      "candidate_event": false,
-      "title": "Assassinats de Ghislaine Dupont et Claude Verlon en 2013 au Mali: «On attend une nouvelle déclassification depuis trois ans»",
-      "url": "https://www.rfi.fr/fr/afrique/20261102-assassinats-de-ghislaine-dupont-et-claude-verlon-en-2013-au-mali-on-attend-une-nouvelle-d%C3%A9classification-depuis-3-ans"
-    },
-    {
-      "published_at": "2026-11-02T06:57:09Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T18:33:47.041785Z",
-      "discovered_at": "2026-11-02T18:33:47.041785Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0057",
-      "source": "Al-Araby Al-Jadeed",
-      "language": "ar",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Agadez",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "الجيش الجزائري يؤمّن قافلة وقود إلى أغاديز في النيجر",
-      "url": "https://www.alaraby.co.uk/economy/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D8%A4%D9%85%D9%91%D9%86-%D9%82%D8%A7%D9%81%D9%84%D8%A9-%D9%88%D9%82%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D8%A3%D8%BA%D8%A7%D8%AF%D9%8A%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1"
-    },
-    {
-      "published_at": "2026-11-02T06:02:13Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T06:21:14.900700Z",
-      "discovered_at": "2026-11-02T06:21:14.900700Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0012",
-      "source": "Sidwaya",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Kaya",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "66th anniversary of the National Armed Forces: 86,000 military reservists enrolled in 9 months",
-      "url": "https://www.sidwaya.info/2026/11/02/66e-anniversaire-des-forces-armees-nationales-86000-reservistes-militaires-inscrits-en-9-mois/"
-    },
-    {
-      "published_at": "2026-11-02T05:43:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T06:21:15.537927Z",
-      "discovered_at": "2026-11-02T06:21:15.537927Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0012",
-      "source": "Sidwaya",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Bobo-Dioulasso",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "66th anniversary of the national armed forces: 139 soldiers decorated in Bobo-Dioulasso",
-      "url": "https://www.sidwaya.info/2026/11/02/66e-anniversaire-des-forces-armees-nationales-139-militaires-decores-a-bobo-dioulasso/"
-    },
-    {
-      "published_at": "2026-11-02T05:09:10Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T06:21:21.009354Z",
-      "discovered_at": "2026-11-02T06:21:21.009354Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0121",
-      "source": "AllAfrica (English Edition)",
-      "language": "en",
-      "actor": "State",
-      "country": "Niger",
-      "city": null,
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Algeria: Algeria Is Sending Troops to Niger for the First Time in Decades - What's At Stake",
-      "url": "https://allafrica.com/stories/202611020013.html"
-    },
-    {
-      "published_at": "2026-11-02T02:10:02Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T06:21:16.314634Z",
-      "discovered_at": "2026-11-02T06:21:16.314634Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "abuses/war crimes",
-      "candidate_event": false,
-      "title": "Murder - Homicide Account Settlement: Series of heinous crimes in Bamako",
-      "url": "https://www.maliweb.net/societe/assassinats-meurtres-reglements-de-compte-homicides-serie-de-crimes-3121105.html"
-    },
-    {
-      "published_at": "2026-11-02T00:18:41Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T06:21:16.101812Z",
-      "discovered_at": "2026-11-02T06:21:16.101812Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0056",
-      "source": "Asharq Al-Awsat",
-      "language": "ar",
-      "actor": "State",
-      "country": "Niger",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "النيجر توقع بروتوكول اتفاق في ليبيا مع معسكر حفتر",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/5336466-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1-%D8%AA%D9%88%D9%82%D8%B9-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%85%D8%B9-%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%AD%D9%81%D8%AA%D8%B1"
-    },
-    {
-      "published_at": "2026-11-02T00:00:00Z",
-      "published_date_source": "visible-publication-label",
-      "published_time_precision": "date-only",
-      "collected_at": "2026-11-02T18:33:37.701266Z",
-      "discovered_at": "2026-11-02T18:33:37.701266Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0011",
-      "source": "LeFaso.net",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Burkina Faso: \"The use of the Laabal card has been diverted from its original purpose\", denounces the Minister of Security",
-      "url": "https://lefaso.net/spip.php?article150447="
-    },
-    {
-      "published_at": "2026-11-01T22:15:17Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T06:21:23.052777Z",
-      "discovered_at": "2026-11-02T06:21:23.052777Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": "Other",
-      "country": "Niger",
-      "city": null,
-      "event_type": "kidnapping",
-      "candidate_event": true,
-      "title": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger",
-      "url": "https://www.rfi.fr/fr/en-bref/20261101-nigeria-enl%C3%A8vement-d-une-douzaine-d-enfants-dans-l-%C3%A9tat-de-niger"
-    },
-    {
-      "published_at": "2026-11-01T22:07:16Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T06:21:21.630959Z",
-      "discovered_at": "2026-11-02T06:21:21.630959Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "Africa Corps/Wagner",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "“We highly appreciate Russia's strong support in the fight against terrorism…",
-      "url": "https://www.maliweb.net/interview/nous-apprecions-hautement-le-ferme-soutien-de-la-russie-dans-la-lutte-3121120.html"
-    },
-    {
-      "published_at": "2026-11-01T20:38:05Z",
-      "published_date_source": "itemprop",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T06:21:17.249105Z",
-      "discovered_at": "2026-11-02T06:21:17.249105Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0015",
-      "source": "ActuNiger",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Agadez",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Niger: delivery to Agadez of 1.6 million litres of fuel from Algeria",
-      "url": "https://www.actuniger.com/societe/22534-niger-livraison-a-agadez-de-1-6-million-de-litres-de-carburant-en-provenance-dalgerie"
-    },
-    {
-      "published_at": "2026-11-01T19:31:11Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-01T20:37:30.962680Z",
-      "discovered_at": "2026-11-01T20:37:30.962680Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouahigouya",
-      "event_type": "IED/explosion",
-      "candidate_event": true,
-      "title": "66th anniversary of the army: \"The military reserve, a strategic instrument for sovereign and inclusive defence\" (Major General Célestin Simporé)",
-      "url": "https://burkina24.com/2026/11/01/66e-anniversaire-de-larmee-la-reserve-militaire-un-instrument-strategique-pour-une-defense-souveraine-et-inclusive-general-de-division-celestin-simpore/"
-    },
-    {
-      "published_at": "2026-11-01T19:26:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-01T20:37:33.124179Z",
-      "discovered_at": "2026-11-01T20:37:33.124179Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0014",
-      "source": "Agence Nigérienne de Presse",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Arrival this Sunday in Benghazi, Libya of the Nigerien Prime Minister",
-      "url": "https://anp.ne/arrivee-ce-dimanche-a-benghazi-en-libye-du-premier-ministre-nigerien/"
-    },
-    {
-      "published_at": "2026-11-01T19:07:15Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-01T20:37:32.204943Z",
-      "discovered_at": "2026-11-01T20:37:32.204943Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0013",
-      "source": "Wakat Sera",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouahigouya",
-      "event_type": "IED/explosion",
-      "candidate_event": false,
-      "title": "VDP Issaka Guira: a hero in the ordeal",
-      "url": "https://www.wakatsera.com/vdp-issaka-guira-un-heros-dans-lepreuve/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

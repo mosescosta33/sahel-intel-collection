@@ -1,5 +1,493 @@
 [
   {
+    "id": "bd5c1182a530a3a6d1b3b70182c670ffb60c91f0",
+    "event_date": "2026-11-03",
+    "event_date_confidence": "publication-proxy",
+    "event_date_source": "opengraph",
+    "published_at": "2026-11-03T09:09:03Z",
+    "published_date_source": "opengraph",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-03T12:05:04.542511Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "kidnapping",
+    "country": "Mali",
+    "city": "Bamako",
+    "lat": 12.6392,
+    "lng": -8.0029,
+    "locations": [
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.6392,
+        "lng": -8.0029,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Mali: Six months after their abduction, Mountaga Tall and her son remain unaccounted for",
+    "summary": "The Malian authorities must urgently reveal the fate and whereabouts of pro-democracy lawyer and politician Mountaga Tall and her son Cheick Mamadou Tall, Amnesty International said six months after their abductions On the night of May 3, 2026, a few days after a wave of attacks by armed groups in several regions of Mali, Mountaga Tall, leader of the National Congress for Democratic Initiative, was abducted from his home in the capital, Bamako, by armed and hooded men travelling in vehicles without license plates.",
+    "sources": [
+      "AllAfrica (Édition Française)"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://fr.allafrica.com/stories/202611030180.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://fr.allafrica.com/stories/202611030180.html",
+        "source": "AllAfrica (Édition Française)",
+        "title": "Mali: Six months after their abduction, Mountaga Tall and her son remain unaccounted for",
+        "summary": "The Malian authorities must urgently reveal the fate and whereabouts of pro-democracy lawyer and politician Mountaga Tall and her son Cheick Mamadou Tall, Amnesty International said six months after their abductions On the night of May 3, 2026, a few days after a wave of attacks by armed groups in several regions of Mali, Mountaga Tall, leader of the National Congress for Democratic Initiative, was abducted from his home in the capital, Bamako, by armed and hooded men travelling in vehicles without license plates.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-03T12:05:04.542511Z",
+    "updated_at": "2026-11-03T12:05:04.542511Z",
+    "extraction_confidence": "low",
+    "victim_categories": [],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-03T12:05:04.542511Z",
+        "type": "event_created",
+        "source": "AllAfrica (Édition Française)"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "fr.allafrica.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "59b2dd5feb4c1894d344478034e2c52a8cddac90",
+    "event_date": "2026-11-03",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "relative-weekday",
+    "published_at": "2026-11-03T05:44:10Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-03T12:04:58.632012Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "kidnapping",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Abduction of Mountaga Tall in Mali: silence \"does not erase the competences of justice or the obligations of the State\"",
+    "summary": "In Mali, it was six months ago, on Tuesday, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped from his home, at night, by hooded men of the State Security. It was the night of 2 to 3 May. A few days after him, the Malian services kidnapped his son, also detained since in an unknown place outside any legal procedure .",
+    "sources": [
+      "RFI Afrique"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261103-enl%C3%A8vement-de-mountaga-tall-au-mali-le-silence-n-efface-ni-les-comp%C3%A9tences-de-la-justice-ni-les-obligations-de-l-%C3%A9tat"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261103-enl%C3%A8vement-de-mountaga-tall-au-mali-le-silence-n-efface-ni-les-comp%C3%A9tences-de-la-justice-ni-les-obligations-de-l-%C3%A9tat",
+        "source": "RFI Afrique",
+        "title": "Abduction of Mountaga Tall in Mali: silence \"does not erase the competences of justice or the obligations of the State\"",
+        "summary": "In Mali, it was six months ago, on Tuesday, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped from his home, at night, by hooded men of the State Security. It was the night of 2 to 3 May. A few days after him, the Malian services kidnapped his son, also detained since in an unknown place outside any legal procedure .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-03T12:04:58.632012Z",
+    "updated_at": "2026-11-03T12:04:58.632012Z",
+    "extraction_confidence": "low",
+    "victim_categories": [],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-03T12:04:58.632012Z",
+        "type": "event_created",
+        "source": "RFI Afrique"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "rfi.fr"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
+    ]
+  },
+  {
+    "id": "3ed964df5d893e23c50d35e7d2587227b43bae8c",
+    "event_date": "2026-11-02",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-03T09:41:00Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-03T12:05:11.297416Z",
+    "actor": "JNIM",
+    "perpetrator": "JNIM",
+    "target": "Africa Corps/Wagner",
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "JNIM",
+      "Africa Corps/Wagner"
+    ],
+    "parent_report_id": null,
+    "event_type": "attack",
+    "country": "Mali",
+    "city": "Sévaré",
+    "lat": 14.5272,
+    "lng": -4.0934,
+    "locations": [
+      {
+        "name": "Sévaré",
+        "country": "Mali",
+        "lat": 14.5272,
+        "lng": -4.0934,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Mopti",
+        "country": "Mali",
+        "lat": 14.4843,
+        "lng": -4.1829,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.6392,
+        "lng": -8.0029,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Douentza",
+        "country": "Mali",
+        "lat": 15.0014,
+        "lng": -2.9519,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "JNIM Claims IED Attack on Malian Army and Africa Corps Vehicle Between Sévaré and Konna",
+    "summary": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda's Sahel affiliate, says it targeted a vehicle carrying Malian army and Russian Africa Corps personnel with an improvised explosive device on the morning of Monday, 2 November 2026. The claimed strike took place on the road between Sévaré and Konna in Mali's Mopti region. Casualties, damage and even the exact location rest on JNIM's claim alone and should be treated as unverified.",
+    "sources": [
+      "Modern Ghana"
+    ],
+    "languages": [
+      "en"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.modernghana.com/news/1541551/jnim-claims-ied-attack-on-malian-army-and-africa.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.modernghana.com/news/1541551/jnim-claims-ied-attack-on-malian-army-and-africa.html",
+        "source": "Modern Ghana",
+        "title": "JNIM Claims IED Attack on Malian Army and Africa Corps Vehicle Between Sévaré and Konna",
+        "summary": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda's Sahel affiliate, says it targeted a vehicle carrying Malian army and Russian Africa Corps personnel with an improvised explosive device on the morning of Monday, 2 November 2026. The claimed strike took place on the road between Sévaré and Konna in Mali's Mopti region. Casualties, damage and even the exact location rest on JNIM's claim alone and should be treated as unverified.",
+        "summary_basis": "source-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-03T12:05:11.297416Z",
+    "updated_at": "2026-11-03T12:05:11.297416Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "security_force"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-03T12:05:11.297416Z",
+        "type": "event_created",
+        "source": "Modern Ghana"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "modernghana.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
+    "id": "0cb5edf5d13683ff1bf399a87249c4f5294ab885",
+    "event_date": "2026-11-02",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-03T09:57:49Z",
+    "published_date_source": "opengraph",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-03T12:05:05.225916Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "kidnapping",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Mali: NGOs call on the Transition on the kidnapping of Mountaga Tall (RFI)",
+    "summary": "In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared. Their health worries.",
+    "sources": [
+      "AllAfrica (Édition Française)"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://fr.allafrica.com/stories/202611030258.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://fr.allafrica.com/stories/202611030258.html",
+        "source": "AllAfrica (Édition Française)",
+        "title": "Mali: NGOs call on the Transition on the kidnapping of Mountaga Tall (RFI)",
+        "summary": "In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared. Their health worries.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-03T12:05:05.225916Z",
+    "updated_at": "2026-11-03T12:05:05.225916Z",
+    "extraction_confidence": "low",
+    "victim_categories": [],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-03T12:05:05.225916Z",
+        "type": "event_created",
+        "source": "AllAfrica (Édition Française)"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "fr.allafrica.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
+    ]
+  },
+  {
+    "id": "96fa2690e02192c43772edc487ae7b2b95502cc7",
+    "event_date": "2026-11-02",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-03T05:48:30Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-03T12:04:58.734345Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "kidnapping",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
+    "summary": "Mali: Mountaga Tall kidnapped by the State Security for six months, NGOs call on the Transitional authorities In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared .",
+    "sources": [
+      "RFI Afrique",
+      "Dakaractu"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 2,
+    "report_urls": [
+      "https://www.rfi.fr/fr/afrique/20261103-mali-mountaga-tall-enlev%C3%A9-par-la-s%C3%A9curit%C3%A9-d-%C3%A9tat-depuis-six-mois-des-ong-interpellent-les-autorit%C3%A9s-de-transition",
+      "https://www.dakaractu.com/Mali-Mountaga-Tall-enleve-par-la-Securite-d-Etat-depuis-six-mois-des-ONG-interpellent-les-autorites-de-Transition_a277748.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.rfi.fr/fr/afrique/20261103-mali-mountaga-tall-enlev%C3%A9-par-la-s%C3%A9curit%C3%A9-d-%C3%A9tat-depuis-six-mois-des-ong-interpellent-les-autorit%C3%A9s-de-transition",
+        "source": "RFI Afrique",
+        "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
+        "summary": "Mali: Mountaga Tall kidnapped by the State Security for six months, NGOs call on the Transitional authorities In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://www.dakaractu.com/Mali-Mountaga-Tall-enleve-par-la-Securite-d-Etat-depuis-six-mois-des-ONG-interpellent-les-autorites-de-Transition_a277748.html",
+        "source": "Dakaractu",
+        "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
+        "summary": "Mountaga Tall was kidnapped on the night of 2 to 3 May. A few days later, the Malian services kidnapped her son, who has also been detained since, in an unknown location outside of any legal procedure. Despite the steps taken by the family's lawyers, the Malian transitional authorities remain silent.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-03T12:04:58.734345Z",
+    "updated_at": "2026-11-03T12:04:59.261598Z",
+    "extraction_confidence": "low",
+    "victim_categories": [],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-03T12:04:58.734345Z",
+        "type": "event_created",
+        "source": "RFI Afrique"
+      },
+      {
+        "at": "2026-11-03T12:04:59.261598Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Dakaractu"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "rfi.fr",
+      "dakaractu.com"
+    ],
+    "independent_source_count": 2,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
+    ]
+  },
+  {
     "id": "3ed4158c070e5338f9a7e647f4db394e5d1d2031",
     "event_date": "2026-11-02",
     "event_date_confidence": "explicit-text",
@@ -111,8 +599,8 @@
     "lat": null,
     "lng": null,
     "locations": [],
-    "title": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger",
-    "summary": "Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
+    "title": "Nigeria: Abduction of a dozen children in the State of Niger",
+    "summary": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
     "sources": [
       "RFI Afrique"
     ],
@@ -127,8 +615,8 @@
       {
         "url": "https://www.rfi.fr/fr/en-bref/20261101-nigeria-enl%C3%A8vement-d-une-douzaine-d-enfants-dans-l-%C3%A9tat-de-niger",
         "source": "RFI Afrique",
-        "title": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger",
-        "summary": "Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
+        "title": "Nigeria: Abduction of a dozen children in the State of Niger",
+        "summary": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
         "summary_basis": "source-excerpt",
         "fatalities_min": null,
         "fatalities_max": null,
@@ -274,6 +762,104 @@
     ]
   },
   {
+    "id": "05f37dfad0626d834c55cc2d384b469dc75fb2cc",
+    "event_date": "2026-10-30",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-03T07:40:52Z",
+    "published_date_source": "feed",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-03T12:04:58.909012Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "offensive/campaign",
+    "country": "Mali",
+    "city": "Niono",
+    "lat": 14.25,
+    "lng": -5.9833,
+    "locations": [
+      {
+        "name": "Niono",
+        "country": "Mali",
+        "lat": 14.25,
+        "lng": -5.9833,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "FAMA GOES INTO ACTION IN NIONO: SEVERAL TERRORIST POSITIONS DESTROYED IN 48 HOURS",
+    "summary": "Three (03) individuals neutralized, one (01) motorcycle destroyed and a targeted terrorist group, this is the balance sheet communicated by the General Staff of the Armed Forces at the end of two (02) operations carried out on 29 and 30 October 2026, in (…)By Mahamane TOURE – NOUVEL HORIZONRETROUVE the REST OF YOUR ARTICLE IN the NEW HORIZON OF TUESDAY 03 NOVEMBER 2026 Follow us on Facebook, Telegram, WhatsApp to not miss anything of Malian news Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news",
+    "sources": [
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://bamada.net/les-fama-passent-a-loffensive-a-niono-plusieurs-positions-terroristes-detruites-en-48-heures"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://bamada.net/les-fama-passent-a-loffensive-a-niono-plusieurs-positions-terroristes-detruites-en-48-heures",
+        "source": "Bamada",
+        "title": "FAMA GOES INTO ACTION IN NIONO: SEVERAL TERRORIST POSITIONS DESTROYED IN 48 HOURS",
+        "summary": "Three (03) individuals neutralized, one (01) motorcycle destroyed and a targeted terrorist group, this is the balance sheet communicated by the General Staff of the Armed Forces at the end of two (02) operations carried out on 29 and 30 October 2026, in (…)By Mahamane TOURE – NOUVEL HORIZONRETROUVE the REST OF YOUR ARTICLE IN the NEW HORIZON OF TUESDAY 03 NOVEMBER 2026 Follow us on Facebook, Telegram, WhatsApp to not miss anything of Malian news Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-03T12:04:58.909012Z",
+    "updated_at": "2026-11-03T12:04:58.909012Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-03T12:04:58.909012Z",
+        "type": "event_created",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "bamada.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "e50895c8a43ad6754626736cfc2d85e2b7ac1113",
     "event_date": "2026-10-30",
     "event_date_confidence": "explicit-text",
@@ -356,6 +942,97 @@
     ],
     "corroboration": "single-source",
     "confidence": "moderate",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "b458a2348c4e55125a2d529fd6fcf8a5bebe5e47",
+    "event_date": "2026-10-29",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-03T11:44:25Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-03T12:05:03.587983Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State",
+      "JNIM"
+    ],
+    "parent_report_id": null,
+    "event_type": "offensive/campaign",
+    "country": "Burkina Faso",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Burkina Faso: terrorist leader Djabiri...",
+    "summary": "Burkina Faso: terrorist leader Djabiri Mangan, known as \"Le Borgne\", neutralized by special forces The Burkina Faso Armed Forces have just dealt a new blow to the armed groups of the Group for the Support of Islam and Muslims (JNIM). .. Yesterday, Monday, the army announced the neutralization of terrorist leader Saidou Diallo, alias Djabiri Mangan, known as \"The One-eyed One\", during an offensive launched against him and his acolytes on October 29, 2026 .",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/insecurite/burkina-faso-le-chef-terroriste-djabiri-mangan-dit-le-borgne-3121159.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/burkina-faso-le-chef-terroriste-djabiri-mangan-dit-le-borgne-3121159.html",
+        "source": "Maliweb",
+        "title": "Burkina Faso: terrorist leader Djabiri...",
+        "summary": "Burkina Faso: terrorist leader Djabiri Mangan, known as \"Le Borgne\", neutralized by special forces The Burkina Faso Armed Forces have just dealt a new blow to the armed groups of the Group for the Support of Islam and Muslims (JNIM). .. Yesterday, Monday, the army announced the neutralization of terrorist leader Saidou Diallo, alias Djabiri Mangan, known as \"The One-eyed One\", during an offensive launched against him and his acolytes on October 29, 2026 .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-03T12:05:03.587983Z",
+    "updated_at": "2026-11-03T12:05:03.587983Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-03T12:05:03.587983Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
     "independent_source_domains": [
       "maliweb.net"
     ],

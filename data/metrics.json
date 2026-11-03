@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:31:40.879704Z",
+  "generated_at": "2026-11-03T12:08:57.699427Z",
   "series": {
     "JNIM": [
       {
@@ -716,7 +716,7 @@
       },
       {
         "date": "2026-11-02",
-        "count": 0
+        "count": 1
       },
       {
         "date": "2026-11-03",
@@ -2144,11 +2144,11 @@
       },
       {
         "date": "2026-10-29",
-        "count": 2
+        "count": 3
       },
       {
         "date": "2026-10-30",
-        "count": 1
+        "count": 2
       },
       {
         "date": "2026-10-31",
@@ -2882,7 +2882,7 @@
       },
       {
         "date": "2026-11-02",
-        "count": 0
+        "count": 1
       },
       {
         "date": "2026-11-03",
@@ -2892,7 +2892,7 @@
   },
   "trends_7d": {
     "JNIM": {
-      "current": 1,
+      "current": 2,
       "previous": 1,
       "change_pct": null
     },
@@ -2902,21 +2902,21 @@
       "change_pct": -100.0
     },
     "State": {
-      "current": 7,
+      "current": 9,
       "previous": 13,
-      "change_pct": -46.2
+      "change_pct": -30.8
     },
     "Africa Corps/Wagner": {
-      "current": 1,
+      "current": 2,
       "previous": 4,
-      "change_pct": -75.0
+      "change_pct": -50.0
     }
   },
   "trends_30d": {
     "JNIM": {
-      "current": 14,
+      "current": 15,
       "previous": 9,
-      "change_pct": 55.6
+      "change_pct": 66.7
     },
     "IS Sahel": {
       "current": 6,
@@ -2924,14 +2924,14 @@
       "change_pct": null
     },
     "State": {
-      "current": 68,
+      "current": 70,
       "previous": 28,
-      "change_pct": 142.9
+      "change_pct": 150.0
     },
     "Africa Corps/Wagner": {
-      "current": 18,
+      "current": 19,
       "previous": 13,
-      "change_pct": 38.5
+      "change_pct": 46.2
     }
   },
   "method_note": "Counts are fused candidate events extracted from monitored open-source reporting. Africa Corps/Wagner is an involvement series and can overlap State activity when Russian personnel are coded as a supporting force. These are not independently verified incident counts; changes can reflect both real-world activity and reporting/collection effects."
