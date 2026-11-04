@@ -178,118 +178,6 @@
     ]
   },
   {
-    "id": "2df60103781d61ad322fd311e25a17565280237c",
-    "event_date": "2026-11-03",
-    "event_date_confidence": "publication-proxy",
-    "event_date_source": "feed",
-    "published_at": "2026-11-03T15:10:36Z",
-    "published_date_source": "feed",
-    "published_time_precision": "datetime",
-    "collected_at": "2026-11-03T19:37:43.888442Z",
-    "actor": "State",
-    "perpetrator": "State",
-    "target": null,
-    "claimant": null,
-    "supporting_force": null,
-    "mentioned_actors": [
-      "State"
-    ],
-    "parent_report_id": null,
-    "event_type": "security operation",
-    "country": "Mali",
-    "city": "Niono",
-    "lat": 14.25,
-    "lng": -5.9833,
-    "locations": [
-      {
-        "name": "Niono",
-        "country": "Mali",
-        "lat": 14.25,
-        "lng": -5.9833,
-        "confidence": "explicit-place"
-      },
-      {
-        "name": "Tessalit",
-        "country": "Mali",
-        "lat": 20.2,
-        "lng": 1.0,
-        "confidence": "explicit-place"
-      },
-      {
-        "name": "Gourma-Rharous",
-        "country": "Mali",
-        "lat": 16.8833,
-        "lng": -1.9333,
-        "confidence": "explicit-place"
-      }
-    ],
-    "title": "Operation Dougoukoloko: the FAMa accurately hit several terrorist positions in Niono, Tessalit and Gourma-Rharous",
-    "summary": "Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news",
-    "sources": [
-      "Bamada"
-    ],
-    "languages": [
-      "fr"
-    ],
-    "source_count": 1,
-    "report_urls": [
-      "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous"
-    ],
-    "report_summaries": [
-      {
-        "url": "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous",
-        "source": "Bamada",
-        "title": "Operation Dougoukoloko: the FAMa accurately hit several terrorist positions in Niono, Tessalit and Gourma-Rharous",
-        "summary": "Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news",
-        "summary_basis": "translated-excerpt",
-        "fatalities_min": null,
-        "fatalities_max": null,
-        "injured_min": null,
-        "injured_max": null,
-        "abducted_min": null,
-        "abducted_max": null,
-        "victim_categories": [
-          "armed_group"
-        ],
-        "civilian_targeting_flag": false,
-        "casualty_claims": []
-      }
-    ],
-    "created_at": "2026-11-03T19:37:43.888442Z",
-    "updated_at": "2026-11-03T19:37:43.888442Z",
-    "extraction_confidence": "moderate",
-    "victim_categories": [
-      "armed_group"
-    ],
-    "civilian_targeting_flag": false,
-    "casualty_claims": [],
-    "fatalities_min": null,
-    "fatalities_max": null,
-    "fatalities_best": null,
-    "injured_min": null,
-    "injured_max": null,
-    "abducted_min": null,
-    "abducted_max": null,
-    "casualty_disputed": false,
-    "revision_history": [
-      {
-        "at": "2026-11-03T19:37:43.888442Z",
-        "type": "event_created",
-        "source": "Bamada"
-      }
-    ],
-    "corroboration": "single-source",
-    "confidence": "moderate",
-    "independent_source_domains": [
-      "bamada.net"
-    ],
-    "independent_source_count": 1,
-    "significance": "MAJOR",
-    "significance_reasons": [
-      "multi-location activity"
-    ]
-  },
-  {
     "id": "bd5c1182a530a3a6d1b3b70182c670ffb60c91f0",
     "event_date": "2026-11-03",
     "event_date_confidence": "publication-proxy",
@@ -463,6 +351,145 @@
     "significance": "SIGNIFICANT",
     "significance_reasons": [
       "operational security event"
+    ]
+  },
+  {
+    "id": "922a794f807253b36cff27da28262a2598e3d587",
+    "event_date": "2026-11-02",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-03T22:43:19Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-04T00:42:41.865051Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Niono",
+    "lat": 14.25,
+    "lng": -5.9833,
+    "locations": [
+      {
+        "name": "Niono",
+        "country": "Mali",
+        "lat": 14.25,
+        "lng": -5.9833,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Tessalit",
+        "country": "Mali",
+        "lat": 20.2,
+        "lng": 1.0,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Gourma-Rharous",
+        "country": "Mali",
+        "lat": 16.8833,
+        "lng": -1.9333,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Operation Dougoukoloko: FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous",
+    "summary": "Operation Dougoukoloko: the FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous The Malian Armed Forces (FAMa), supported by their partners, continue their operations to secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces gave an update on several strikes carried out in the last two days . On Monday, November 2, 2026, accurate intelligence identified a large terrorist base 30 kilometers east of Niono.",
+    "sources": [
+      "Malijet",
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 2,
+    "report_urls": [
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312657-operation-dougoukoloko-les-fama-frappent-des-positions-ter-3.html",
+      "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312657-operation-dougoukoloko-les-fama-frappent-des-positions-ter-3.html",
+        "source": "Malijet",
+        "title": "Operation Dougoukoloko: FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous",
+        "summary": "Operation Dougoukoloko: the FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous The Malian Armed Forces (FAMa), supported by their partners, continue their operations to secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces gave an update on several strikes carried out in the last two days . On Monday, November 2, 2026, accurate intelligence identified a large terrorist base 30 kilometers east of Niono.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous",
+        "source": "Bamada",
+        "title": "Operation Dougoukoloko: the FAMa accurately hit several terrorist positions in Niono, Tessalit and Gourma-Rharous",
+        "summary": "Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-04T00:42:41.865051Z",
+    "updated_at": "2026-11-03T19:37:43.888442Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-04T00:42:41.865051Z",
+        "type": "event_created",
+        "source": "Malijet"
+      },
+      {
+        "at": "2026-11-03T19:37:43.888442Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "malijet.com",
+      "bamada.net"
+    ],
+    "independent_source_count": 2,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern",
+      "multi-location activity"
     ]
   },
   {
@@ -21340,6 +21367,104 @@
     "significance_reasons": [
       "strategic/severe event pattern",
       "multi-location activity"
+    ]
+  },
+  {
+    "id": "4b8a9192ff7bd8b1dae0b2dca8aff1c96bba976c",
+    "event_date": "2026-09-02",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-03T08:52:05.832000Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-04T00:42:41.552728Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "attack",
+    "country": "Mali",
+    "city": "Ségou",
+    "lat": 13.4317,
+    "lng": -6.2157,
+    "locations": [
+      {
+        "name": "Ségou",
+        "country": "Mali",
+        "lat": 13.4317,
+        "lng": -6.2157,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Mali: nearly 4,000 displaced after the attack on the village of Souleye",
+    "summary": "In Mali, nearly 4,000 displaced people have found refuge in Macina and Sarro, in the Ségou region in the centre of the country. These are mainly women and children who fled the attack on the village of Souleye, carried out in early September by hundreds of jihadist fighters. On the spot, solidarity is organized, but the needs remain immense .",
+    "sources": [
+      "DW Afrique (FR)"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.dw.com/fr/mali-femmes-et-enfants-fuient-les-violences-djihadistes-%C3%A0-souleye/a-79836344"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.dw.com/fr/mali-femmes-et-enfants-fuient-les-violences-djihadistes-%C3%A0-souleye/a-79836344",
+        "source": "DW Afrique (FR)",
+        "title": "Mali: nearly 4,000 displaced after the attack on the village of Souleye",
+        "summary": "In Mali, nearly 4,000 displaced people have found refuge in Macina and Sarro, in the Ségou region in the centre of the country. These are mainly women and children who fled the attack on the village of Souleye, carried out in early September by hundreds of jihadist fighters. On the spot, solidarity is organized, but the needs remain immense .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-04T00:42:41.552728Z",
+    "updated_at": "2026-11-04T00:42:41.552728Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "civilian",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-04T00:42:41.552728Z",
+        "type": "event_created",
+        "source": "DW Afrique (FR)"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "dw.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
     ]
   },
   {
