@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T12:21:25.482906Z",
+  "generated_at": "2026-11-04T19:59:41.573805Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
@@ -13,35 +13,36 @@
       "trend": "IMPROVING",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 11,
-      "events_30d": 96,
+      "events_7d": 12,
+      "events_30d": 97,
       "baseline_7d_equivalent": 25.9,
-      "tempo_ratio": 0.45,
+      "tempo_ratio": 0.48,
       "drivers": [
-        "11 fused candidate event(s) in 7 days",
+        "12 fused candidate event(s) in 7 days",
         "1 JNIM/IS Sahel-linked event(s)",
-        "10 significant/major event(s)",
+        "11 significant/major event(s)",
         "activity across 8 named locations"
       ],
-      "independent_domains_7d": 8
+      "independent_domains_7d": 9
     },
     "Burkina Faso": {
-      "score": 52,
-      "level": "MEDIUM",
+      "score": 72,
+      "level": "HIGH",
       "trend": "DETERIORATING",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 4,
-      "events_30d": 5,
+      "events_7d": 5,
+      "events_30d": 6,
       "baseline_7d_equivalent": 0.3,
-      "tempo_ratio": 3.83,
+      "tempo_ratio": 4.6,
       "drivers": [
-        "4 fused candidate event(s) in 7 days",
-        "1 JNIM/IS Sahel-linked event(s)",
-        "3 significant/major event(s)",
+        "5 fused candidate event(s) in 7 days",
+        "2 JNIM/IS Sahel-linked event(s)",
+        "4 significant/major event(s)",
+        "1 civilian-threat indicator(s)",
         "7-day tempo above recent country baseline"
       ],
-      "independent_domains_7d": 4
+      "independent_domains_7d": 6
     },
     "Niger": {
       "score": 28,
