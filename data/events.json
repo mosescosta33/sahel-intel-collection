@@ -400,17 +400,19 @@
       }
     ],
     "title": "Operation Dougoukoloko: FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous",
-    "summary": "Operation Dougoukoloko: the FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous The Malian Armed Forces (FAMa), supported by their partners, continue their operations to secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces gave an update on several strikes carried out in the last two days . On Monday, November 2, 2026, accurate intelligence identified a large terrorist base 30 kilometers east of Niono.",
+    "summary": "Niono, Tessalit and Gourma-Rharous: the Noose is tightening around terrorist groups As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, carried out airstrikes in different localities of our country between 2 and 3 November 2026 . In a statement issued yesterday by the General Staff of the Armed Forces, it appears that on Monday, November 2, 2026, the use of precise information made it possible to locate, thirty kilometers east of Niono, a major base housing armed terrorist groups as well as war material, including armed vehicles.",
     "sources": [
       "Malijet",
+      "Maliweb",
       "Bamada"
     ],
     "languages": [
       "fr"
     ],
-    "source_count": 2,
+    "source_count": 3,
     "report_urls": [
       "https://malijet.com/actualte_dans_les_regions_du_mali/312657-operation-dougoukoloko-les-fama-frappent-des-positions-ter-3.html",
+      "https://www.maliweb.net/insecurite/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-3121186.html",
       "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous"
     ],
     "report_summaries": [
@@ -419,6 +421,24 @@
         "source": "Malijet",
         "title": "Operation Dougoukoloko: FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous",
         "summary": "Operation Dougoukoloko: the FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous The Malian Armed Forces (FAMa), supported by their partners, continue their operations to secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces gave an update on several strikes carried out in the last two days . On Monday, November 2, 2026, accurate intelligence identified a large terrorist base 30 kilometers east of Niono.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://www.maliweb.net/insecurite/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-3121186.html",
+        "source": "Maliweb",
+        "title": "Niono, Tessalit and Gourma-Rharous:...",
+        "summary": "Niono, Tessalit and Gourma-Rharous: the Noose is tightening around terrorist groups As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, carried out airstrikes in different localities of our country between 2 and 3 November 2026 . In a statement issued yesterday by the General Staff of the Armed Forces, it appears that on Monday, November 2, 2026, the use of precise information made it possible to locate, thirty kilometers east of Niono, a major base housing armed terrorist groups as well as war material, including armed vehicles.",
         "summary_basis": "translated-excerpt",
         "fatalities_min": null,
         "fatalities_max": null,
@@ -474,21 +494,28 @@
         "source": "Malijet"
       },
       {
+        "at": "2026-11-04T12:18:55.840810Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Maliweb"
+      },
+      {
         "at": "2026-11-03T19:37:43.888442Z",
         "type": "corroboration_or_geography_update",
         "source": "Bamada"
       }
     ],
-    "corroboration": "limited corroboration",
-    "confidence": "moderate",
+    "corroboration": "multi-source",
+    "confidence": "moderate-high",
     "independent_source_domains": [
       "malijet.com",
+      "maliweb.net",
       "bamada.net"
     ],
-    "independent_source_count": 2,
+    "independent_source_count": 3,
     "significance": "MAJOR",
     "significance_reasons": [
       "strategic/severe event pattern",
+      "multi-source corroboration",
       "multi-location activity"
     ]
   },
@@ -21465,6 +21492,123 @@
     "significance": "SIGNIFICANT",
     "significance_reasons": [
       "operational security event"
+    ]
+  },
+  {
+    "id": "8817310ea72699fb1d4cc72495a670433cbdd6fa",
+    "event_date": "2026-09-01",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "analytical-child-claim",
+    "published_at": "2026-11-04T05:00:00Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-04T12:18:51.569197Z",
+    "actor": "JNIM",
+    "perpetrator": "JNIM",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "JNIM"
+    ],
+    "parent_report_id": "65e7348221477126cc7fceb6b663a1da01d817c3",
+    "event_type": "attack",
+    "country": "Burkina Faso",
+    "city": "Ouahigouya",
+    "lat": 13.5769,
+    "lng": -2.41786,
+    "locations": [
+      {
+        "name": "Ouahigouya",
+        "country": "Burkina Faso",
+        "lat": 13.5769,
+        "lng": -2.41786,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "On September 1, the Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, or JNIM) attacked a gold mining site in Soubo, Ouahigouya district, killing 24 civilians, injuring at least 20 others, and burning property.",
+    "summary": "- An Al-Qaeda-linked armed group killed at least 27 civilians in two attacks in Burkina Faso’s northern Yatenga province in September 2026. - The group’s relentless, unlawful attacks put civilians across Burkina Faso at grave risk. The laws of war prohibit attacking civilians, and those who order, commit, or assist serious violations of the laws of war with criminal intent may be prosecuted for war crimes.",
+    "sources": [
+      "Human Rights Watch Africa"
+    ],
+    "languages": [
+      "en"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.hrw.org/news/2026/11/04/burkina-faso-islamist-armed-group-targets-civilians"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.hrw.org/news/2026/11/04/burkina-faso-islamist-armed-group-targets-civilians",
+        "source": "Human Rights Watch Africa",
+        "title": "On September 1, the Group for the Support of Islam and Muslims (Jama’at Nusrat al-Islam wal-Muslimin, or JNIM) attacked a gold mining site in Soubo, Ouahigouya district, killing 24 civilians, injuring at least 20 others, and burning property.",
+        "summary": "- An Al-Qaeda-linked armed group killed at least 27 civilians in two attacks in Burkina Faso’s northern Yatenga province in September 2026. - The group’s relentless, unlawful attacks put civilians across Burkina Faso at grave risk. The laws of war prohibit attacking civilians, and those who order, commit, or assist serious violations of the laws of war with criminal intent may be prosecuted for war crimes.",
+        "summary_basis": "source-excerpt",
+        "fatalities_min": 27,
+        "fatalities_max": 27,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian"
+        ],
+        "civilian_targeting_flag": true,
+        "casualty_claims": [
+          {
+            "kind": "fatalities",
+            "count": 27,
+            "victim_text": "civilians",
+            "claimant": "Human Rights Watch Africa",
+            "status": "reported",
+            "evidence": "Burkina Faso: Islamist Armed Group Targets Civilians - An Al-Qaeda-linked armed group killed at least 27 civilians in two attacks in Burkina Faso’s northern Yatenga province in September 2026. - The group’s relentl"
+          }
+        ]
+      }
+    ],
+    "created_at": "2026-11-04T12:18:51.569197Z",
+    "updated_at": "2026-11-04T12:18:51.569197Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "civilian"
+    ],
+    "civilian_targeting_flag": true,
+    "casualty_claims": [
+      {
+        "kind": "fatalities",
+        "count": 27,
+        "victim_text": "civilians",
+        "claimant": "Human Rights Watch Africa",
+        "status": "reported",
+        "evidence": "Burkina Faso: Islamist Armed Group Targets Civilians - An Al-Qaeda-linked armed group killed at least 27 civilians in two attacks in Burkina Faso’s northern Yatenga province in September 2026. - The group’s relentl",
+        "source": "Human Rights Watch Africa"
+      }
+    ],
+    "fatalities_min": 27,
+    "fatalities_max": 27,
+    "fatalities_best": 27,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-04T12:18:51.569197Z",
+        "type": "event_created",
+        "source": "Human Rights Watch Africa"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "hrw.org"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
     ]
   },
   {
