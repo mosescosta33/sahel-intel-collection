@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-05T12:35:00.762381Z",
+  "generated_at": "2026-11-05T22:12:31.004329Z",
   "window_days": 30,
   "cutoff": "2026-10-06",
-  "reports": 825,
-  "incident_reports": 220,
+  "reports": 790,
+  "incident_reports": 207,
   "candidate_events": 131,
   "corroborated_events": 41,
   "mapped_events": 98,
   "mapped_locations": 180,
-  "distinct_sources": 86,
+  "distinct_sources": 85,
   "by_actor": {
     "State": 70,
     "Other": 29,
@@ -35,9 +35,9 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 667,
-    "en": 111,
-    "ar": 47
+    "fr": 644,
+    "en": 104,
+    "ar": 42
   },
   "by_confidence": {
     "low": 64,
@@ -49,17 +49,17 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 109
+      "count": 105
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 82
+      "count": 81
     },
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 42
+      "count": 38
     },
     {
       "source_code": "SRC-0090",
@@ -69,7 +69,7 @@
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
-      "count": 31
+      "count": 30
     },
     {
       "source_code": "SRC-0005",
@@ -79,7 +79,7 @@
     {
       "source_code": "SRC-0001",
       "source": "RFI Afrique",
-      "count": 26
+      "count": 25
     },
     {
       "source_code": "SRC-0014",
@@ -89,7 +89,7 @@
     {
       "source_code": "SRC-0079",
       "source": "L'Essor",
-      "count": 24
+      "count": 23
     },
     {
       "source_code": "SRC-0121",
@@ -99,12 +99,12 @@
     {
       "source_code": "SRC-0015",
       "source": "ActuNiger",
-      "count": 20
+      "count": 19
     },
     {
       "source_code": "SRC-0034",
       "source": "TV5MONDE Afrique",
-      "count": 19
+      "count": 17
     }
   ],
   "top_locations": [
@@ -290,7 +290,7 @@
     },
     {
       "date": "2026-11-02",
-      "reports": 35,
+      "reports": 36,
       "events": 5
     },
     {
@@ -305,7 +305,7 @@
     },
     {
       "date": "2026-11-05",
-      "reports": 19,
+      "reports": 24,
       "events": 2
     }
   ],
@@ -3559,6 +3559,96 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-05T21:49:37Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T22:10:23.283848Z",
+      "discovered_at": "2026-11-05T22:10:23.283848Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0018",
+      "source": "Aïr Info",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Niamey",
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "Niger–Mali: Tiani and Goïta reaffirm their commitment to strengthening the ESA and the fight against terrorism",
+      "url": "https://airinfoagadez.com/2026/11/05/niger-mali-tiani-et-goita-reaffirment-leur-engagement-a-renforcer-laes-et-la-lutte-contre-le-terrorisme/"
+    },
+    {
+      "published_at": "2026-11-05T19:53:27Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T22:10:19.847148Z",
+      "discovered_at": "2026-11-05T22:10:19.847148Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Return of the Burkinabe gold miners from Guinea: the Prime Minister chairs a crisis meeting",
+      "url": "https://malijet.com/a_la_une_du_mali/312693-retour-des-orpailleurs-burkinabes-de-guinee-le-premier-min.html"
+    },
+    {
+      "published_at": "2026-11-05T17:46:13Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T22:10:14.535172Z",
+      "discovered_at": "2026-11-05T22:10:14.535172Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0012",
+      "source": "Sidwaya",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": "Tenkodogo",
+      "event_type": "clash",
+      "candidate_event": false,
+      "title": "Song-Taaba Cooperative: Biscuits to Support SDS and VDP at the Front",
+      "url": "https://www.sidwaya.info/2026/11/05/cooperative-song-taaba-des-biscuits-pour-soutenir-les-fds-et-les-vdp-au-front-2/"
+    },
+    {
+      "published_at": "2026-11-05T16:47:42Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T22:10:19.450137Z",
+      "discovered_at": "2026-11-05T22:10:19.450137Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0007",
+      "source": "Journal du Mali",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Gold miners from Guinea: Bamako facing the influx",
+      "url": "https://journaldumali.com/orpailleurs-venus-de-guinee-bamako-face-a-lafflux/"
+    },
+    {
+      "published_at": "2026-11-05T14:57:09Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T22:10:24.916109Z",
+      "discovered_at": "2026-11-05T22:10:24.916109Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0119",
+      "source": "Daily Trust (Nigeria)",
+      "language": "en",
+      "actor": null,
+      "country": null,
+      "city": null,
+      "event_type": "kidnapping",
+      "candidate_event": false,
+      "title": "Sahel Conference urges media to drive food security accountability",
+      "url": "https://dailytrust.com/sahel-conference-urges-media-to-drive-food-security-accountability/"
+    },
+    {
       "published_at": "2026-11-05T11:56:37Z",
       "published_date_source": "feed",
       "published_time_precision": "datetime",
@@ -3609,7 +3699,7 @@
       "city": "Bamako",
       "event_type": "security operation",
       "candidate_event": false,
-      "title": "Orpaillage interdit en Guinée : Bamako et Ouagadougou s'accordent pour le retour de leurs ressortissants",
+      "title": "Prohibited gold panning in Guinea: Bamako and Ouagadougou agree on the return of their nationals",
       "url": "https://www.dakaractu.com/Orpaillage-interdit-en-Guinee-Bamako-et-Ouagadougou-s-accordent-pour-le-retour-de-leurs-ressortissants_a277853.html"
     },
     {
@@ -3681,7 +3771,7 @@
       "city": null,
       "event_type": null,
       "candidate_event": false,
-      "title": "Orpailleurs expulsés de Guinée : Au moins quatre morts et une centaine de malades",
+      "title": "Gold miners expelled from Guinea: At least four dead and a hundred sick",
       "url": "https://amap.ml/2026/11/05/orpailleurs-expulses-de-guinee-au-moins-quatre-morts-et-une-centaine-de-malades/"
     },
     {
@@ -3699,7 +3789,7 @@
       "city": "Koulikoro",
       "event_type": null,
       "candidate_event": false,
-      "title": "Kouremalé : Les autorités du Faso saluent l’assistance «totale et inconditionnelle» à plus 40.000 orpailleurs burkinabè expulsés de Guinée",
+      "title": "Kouremalé: The authorities of Faso welcome the \"total and unconditional\" assistance to more than 40,000 Burkinabe gold miners expelled from Guinea",
       "url": "https://amap.ml/2026/11/05/kouremale-les-autorites-du-faso-saluent-lassistance-totale-et-inconditionnelle-a-plus-40-000-orpailleurs-burkinabe-expulses-de-guinee/"
     },
     {
@@ -3789,7 +3879,7 @@
       "city": null,
       "event_type": null,
       "candidate_event": false,
-      "title": "Des milliers de Burkinabè rapatriés de Guinée après des mesures contre l’orpaillage illégal",
+      "title": "Thousands of Burkinabe repatriated from Guinea after measures against illegal gold panning",
       "url": "https://afrique.le360.ma/afrique-de-louest/burkina-faso/des-milliers-de-burkinabe-rapatries-de-guinee-apres-des-mesures-contre-lorpaillage-illegal_VGZVJRDBVBGX5LQAE5FXWDWZ6E/"
     },
     {
@@ -3861,7 +3951,7 @@
       "city": "Bamako",
       "event_type": null,
       "candidate_event": false,
-      "title": "Mali : Kouremalé face à l’afflux de milliers de personnes venues de la Guinée",
+      "title": "Mali: Kouremalé faced with the influx of thousands of people from Guinea",
       "url": "https://bamada.net/mali-kouremale-face-a-lafflux-de-milliers-de-personnes-venues-de-la-guinee"
     },
     {
@@ -4187,96 +4277,6 @@
       "candidate_event": true,
       "title": "Niono, Tessalit and Gourma-Rharous:...",
       "url": "https://www.maliweb.net/insecurite/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-3121186.html"
-    },
-    {
-      "published_at": "2026-11-04T10:47:38Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-04T12:19:00.222364Z",
-      "discovered_at": "2026-11-04T12:19:00.222364Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Kangaba: Six dead in the landslide...",
-      "url": "https://www.maliweb.net/faits-divers/kangaba-six-morts-dans-leboulement-dun-puits-minier-a-nouga-3121183.html"
-    },
-    {
-      "published_at": "2026-11-04T10:10:06Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-04T19:57:11.455698Z",
-      "discovered_at": "2026-11-04T19:57:11.455698Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Kangaba: Six dead in the landslide of a mining well in Nouga Six people died last Friday in the landslide of a mining well, transformed into a gallery, in the rural commune of Nouga, precisely on a very isolated gold panning site in the village of Dioulafoundou.",
-      "url": "https://www.lessor.ml/posts/kangaba-six-morts-dans-leboulement-dun-puits-minier-a-nouga-6aeb047e09196"
-    },
-    {
-      "published_at": "2026-11-04T10:00:50Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-04T19:57:14.194391Z",
-      "discovered_at": "2026-11-04T19:57:14.194391Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Burkina Faso",
-      "city": "Tougan",
-      "event_type": "offensive/campaign",
-      "candidate_event": true,
-      "title": "Burkina: The army eliminates terrorist leader Saidou Diallo, aka Djabiri Mangan the one-eyed",
-      "url": "https://www.lessor.ml/posts/burkina-larmee-elimine-le-chef-terroriste-saidou-diallo-alias-djabiri-mangan-le-borgne-6aeb02522c511"
-    },
-    {
-      "published_at": "2026-11-04T09:57:05Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-04T19:57:04.420674Z",
-      "discovered_at": "2026-11-04T19:57:04.420674Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Niono",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Niono, Tessalit and Gourma-Rharous: the Noose is tightening around terrorist groups As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, carried out airstrikes in different localities of our country between 2 and 3 November 2026.",
-      "url": "https://www.lessor.ml/posts/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-terroristes-6aeb0171b814f"
-    },
-    {
-      "published_at": "2026-11-04T09:51:39Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T01:00:23.505864Z",
-      "discovered_at": "2026-11-05T01:00:23.505864Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "2nd coordination meeting of the military frequencies of the ESA countries: The work opened in Bamako The Minister of Communication, the Digital Economy and the Modernization of the Administration, Alhamdou Ag Ilyène, took part, on Monday, November 2, 2026, in Bamako, in the opening ceremony of the second coordination meeting of the military frequencies of the member countries of the Confederation of Sahel States (ESA).",
-      "url": "https://www.lessor.ml/posts/2e-reunion-de-coordination-des-frequences-militaires-des-pays-de-laes-les-travaux-ouverts-a-bamako-6aeb002b25144"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
