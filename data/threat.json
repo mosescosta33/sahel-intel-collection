@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-11-04T19:59:41.573805Z",
+  "generated_at": "2026-11-05T01:02:00.394674Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
     "level": "HIGH",
-    "confidence": "HIGH"
+    "confidence": "MODERATE"
   },
   "countries": {
     "Mali": {
-      "score": 72,
+      "score": 69,
       "level": "HIGH",
       "trend": "IMPROVING",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 12,
-      "events_30d": 97,
-      "baseline_7d_equivalent": 25.9,
-      "tempo_ratio": 0.48,
+      "events_7d": 10,
+      "events_30d": 84,
+      "baseline_7d_equivalent": 22.5,
+      "tempo_ratio": 0.47,
       "drivers": [
-        "12 fused candidate event(s) in 7 days",
+        "10 fused candidate event(s) in 7 days",
         "1 JNIM/IS Sahel-linked event(s)",
-        "11 significant/major event(s)",
-        "activity across 8 named locations"
+        "9 significant/major event(s)",
+        "activity across 7 named locations"
       ],
       "independent_domains_7d": 9
     },
     "Burkina Faso": {
-      "score": 72,
-      "level": "HIGH",
+      "score": 44,
+      "level": "MEDIUM",
       "trend": "DETERIORATING",
-      "confidence": "HIGH",
+      "confidence": "MODERATE",
       "assessment_status": "ASSESSED",
-      "events_7d": 5,
-      "events_30d": 6,
-      "baseline_7d_equivalent": 0.3,
-      "tempo_ratio": 4.6,
+      "events_7d": 3,
+      "events_30d": 7,
+      "baseline_7d_equivalent": 1.2,
+      "tempo_ratio": 1.8,
       "drivers": [
-        "5 fused candidate event(s) in 7 days",
-        "2 JNIM/IS Sahel-linked event(s)",
-        "4 significant/major event(s)",
+        "3 fused candidate event(s) in 7 days",
+        "1 JNIM/IS Sahel-linked event(s)",
+        "2 significant/major event(s)",
         "1 civilian-threat indicator(s)",
         "7-day tempo above recent country baseline"
       ],
-      "independent_domains_7d": 6
+      "independent_domains_7d": 3
     },
     "Niger": {
       "score": 28,

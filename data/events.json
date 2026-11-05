@@ -2375,6 +2375,104 @@
     ]
   },
   {
+    "id": "d8c04c49766542781b370cca231e45c45cef7195",
+    "event_date": "2026-10-27",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-10-30T18:48:59Z",
+    "published_date_source": "itemprop",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-05T01:00:26.705485Z",
+    "actor": "State",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "clash",
+    "country": "Burkina Faso",
+    "city": "Ouagadougou",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "locations": [
+      {
+        "name": "Ouagadougou",
+        "country": "Burkina Faso",
+        "lat": 12.3714,
+        "lng": -1.5197,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Field-tested, the Burkinabe army has developed \"unique combat modes in the world\", PM",
+    "summary": "In the field, the Burkinabe army has developed \"unique combat modes in the world\", PM Ouagadougou, Oct. 30, 2026 (AIB)-The Burkinabe Combat Forces have developed, thanks to the experience gained in the field, unique combat modes in the world that they can share with their Russian brothers, welcomed Prime Minister Rimtalba Jean Emmanuel Ouédraogo, during an interview in Moscow with Russian television RT .",
+    "sources": [
+      "Agence d'Information du Burkina"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.aib.media/?p=172828"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.aib.media/?p=172828",
+        "source": "Agence d'Information du Burkina",
+        "title": "Field-tested, the Burkinabe army has developed \"unique combat modes in the world\", PM",
+        "summary": "In the field, the Burkinabe army has developed \"unique combat modes in the world\", PM Ouagadougou, Oct. 30, 2026 (AIB)-The Burkinabe Combat Forces have developed, thanks to the experience gained in the field, unique combat modes in the world that they can share with their Russian brothers, welcomed Prime Minister Rimtalba Jean Emmanuel Ouédraogo, during an interview in Moscow with Russian television RT .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-05T01:00:26.705485Z",
+    "updated_at": "2026-11-05T01:00:26.705485Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-05T01:00:26.705485Z",
+        "type": "event_created",
+        "source": "Agence d'Information du Burkina"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "aib.media"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "a04ddf0542df99d0ba801a86be5c0abf83a528b8",
     "event_date": "2026-10-27",
     "event_date_confidence": "explicit-text",

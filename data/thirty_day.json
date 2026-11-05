@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-11-04T19:59:41.319766Z",
+  "generated_at": "2026-11-05T01:02:00.254501Z",
   "window_days": 30,
-  "cutoff": "2026-10-05",
-  "reports": 815,
-  "incident_reports": 222,
-  "candidate_events": 135,
-  "corroborated_events": 43,
-  "mapped_events": 103,
-  "mapped_locations": 188,
-  "distinct_sources": 85,
+  "cutoff": "2026-10-06",
+  "reports": 818,
+  "incident_reports": 220,
+  "candidate_events": 128,
+  "corroborated_events": 41,
+  "mapped_events": 97,
+  "mapped_locations": 179,
+  "distinct_sources": 86,
   "by_actor": {
-    "State": 73,
-    "Other": 30,
-    "JNIM": 16,
+    "State": 68,
+    "Other": 29,
+    "JNIM": 15,
     "Africa Corps/Wagner": 10,
     "IS Sahel": 6
   },
   "by_country": {
-    "Mali": 105,
+    "Mali": 97,
     "Niger": 24,
-    "Burkina Faso": 6
+    "Burkina Faso": 7
   },
   "by_event_type": {
-    "security operation": 52,
+    "security operation": 48,
     "attack": 16,
     "clash": 16,
-    "offensive/campaign": 16,
-    "kidnapping": 11,
+    "offensive/campaign": 15,
     "civilian targeting": 10,
+    "kidnapping": 10,
     "air/drone strike": 7,
-    "raid": 4,
+    "raid": 3,
     "IED/explosion": 1,
     "ambush": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 655,
-    "en": 111,
-    "ar": 49
+    "fr": 658,
+    "en": 112,
+    "ar": 48
   },
   "by_confidence": {
-    "low": 65,
-    "moderate": 54,
+    "low": 63,
+    "moderate": 50,
     "moderate-high": 14,
-    "high": 2
+    "high": 1
   },
   "top_sources": [
     {
@@ -54,12 +54,12 @@
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 81
+      "count": 79
     },
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 38
+      "count": 39
     },
     {
       "source_code": "SRC-0090",
@@ -74,7 +74,7 @@
     {
       "source_code": "SRC-0001",
       "source": "RFI Afrique",
-      "count": 27
+      "count": 26
     },
     {
       "source_code": "SRC-0005",
@@ -84,12 +84,12 @@
     {
       "source_code": "SRC-0014",
       "source": "Agence Nigérienne de Presse",
-      "count": 23
+      "count": 24
     },
     {
       "source_code": "SRC-0079",
       "source": "L'Essor",
-      "count": 22
+      "count": 24
     },
     {
       "source_code": "SRC-0121",
@@ -102,19 +102,19 @@
       "count": 19
     },
     {
-      "source_code": "SRC-0085",
-      "source": "Seneweb",
+      "source_code": "SRC-0034",
+      "source": "TV5MONDE Afrique",
       "count": 19
     }
   ],
   "top_locations": [
     {
       "location": "Kidal",
-      "count": 33
+      "count": 28
     },
     {
       "location": "Mali",
-      "count": 23
+      "count": 22
     },
     {
       "location": "Ménaka",
@@ -134,35 +134,30 @@
     },
     {
       "location": "Ségou",
-      "count": 10
+      "count": 9
     },
     {
       "location": "Anéfis",
-      "count": 9
+      "count": 8
     },
     {
       "location": "Gao",
-      "count": 9
+      "count": 8
     },
     {
       "location": "Timbuktu",
-      "count": 8
+      "count": 7
     },
     {
       "location": "Tessalit",
       "count": 6
     },
     {
-      "location": "Mopti",
+      "location": "Niger",
       "count": 5
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-06",
-      "reports": 56,
-      "events": 13
-    },
     {
       "date": "2026-10-07",
       "reports": 30,
@@ -266,7 +261,7 @@
     {
       "date": "2026-10-27",
       "reports": 50,
-      "events": 7
+      "events": 8
     },
     {
       "date": "2026-10-28",
@@ -280,7 +275,7 @@
     },
     {
       "date": "2026-10-30",
-      "reports": 29,
+      "reports": 30,
       "events": 2
     },
     {
@@ -300,13 +295,18 @@
     },
     {
       "date": "2026-11-03",
-      "reports": 28,
+      "reports": 29,
       "events": 4
     },
     {
       "date": "2026-11-04",
-      "reports": 26,
+      "reports": 31,
       "events": 2
+    },
+    {
+      "date": "2026-11-05",
+      "reports": 1,
+      "events": 0
     }
   ],
   "latest_events": [
@@ -2686,6 +2686,104 @@
       ]
     },
     {
+      "id": "d8c04c49766542781b370cca231e45c45cef7195",
+      "event_date": "2026-10-27",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-10-30T18:48:59Z",
+      "published_date_source": "itemprop",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T01:00:26.705485Z",
+      "actor": "State",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "clash",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "lat": 12.3714,
+      "lng": -1.5197,
+      "locations": [
+        {
+          "name": "Ouagadougou",
+          "country": "Burkina Faso",
+          "lat": 12.3714,
+          "lng": -1.5197,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Field-tested, the Burkinabe army has developed \"unique combat modes in the world\", PM",
+      "summary": "In the field, the Burkinabe army has developed \"unique combat modes in the world\", PM Ouagadougou, Oct. 30, 2026 (AIB)-The Burkinabe Combat Forces have developed, thanks to the experience gained in the field, unique combat modes in the world that they can share with their Russian brothers, welcomed Prime Minister Rimtalba Jean Emmanuel Ouédraogo, during an interview in Moscow with Russian television RT .",
+      "sources": [
+        "Agence d'Information du Burkina"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.aib.media/?p=172828"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.aib.media/?p=172828",
+          "source": "Agence d'Information du Burkina",
+          "title": "Field-tested, the Burkinabe army has developed \"unique combat modes in the world\", PM",
+          "summary": "In the field, the Burkinabe army has developed \"unique combat modes in the world\", PM Ouagadougou, Oct. 30, 2026 (AIB)-The Burkinabe Combat Forces have developed, thanks to the experience gained in the field, unique combat modes in the world that they can share with their Russian brothers, welcomed Prime Minister Rimtalba Jean Emmanuel Ouédraogo, during an interview in Moscow with Russian television RT .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-05T01:00:26.705485Z",
+      "updated_at": "2026-11-05T01:00:26.705485Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-05T01:00:26.705485Z",
+          "type": "event_created",
+          "source": "Agence d'Information du Burkina"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "aib.media"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
       "id": "a04ddf0542df99d0ba801a86be5c0abf83a528b8",
       "event_date": "2026-10-27",
       "event_date_confidence": "explicit-text",
@@ -3526,181 +3624,99 @@
       "significance_reasons": [
         "strategic/severe event pattern"
       ]
-    },
-    {
-      "id": "fc73d186a51ce77b3a0cde565fa123e8205faca0",
-      "event_date": "2026-10-26",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-10-28T10:35:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-29T03:06:52.193326Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Timbuktu",
-      "lat": 16.7666,
-      "lng": -3.0026,
-      "locations": [
-        {
-          "name": "Timbuktu",
-          "country": "Mali",
-          "lat": 16.7666,
-          "lng": -3.0026,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Ségou",
-          "country": "Mali",
-          "lat": 13.4317,
-          "lng": -6.2157,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Léré",
-          "country": "Mali",
-          "lat": 15.7167,
-          "lng": -4.8333,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Bamako",
-          "country": "Mali",
-          "lat": 12.6392,
-          "lng": -8.0029,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Mali: FAMa strike two terrorist positions",
-      "summary": "The Malian Armed Forces (FAMa) announced that they had struck a suspected terrorist group on October 26, about 75 kilometers northwest of Léré, in the Timbuktu region. In addition, a second strike was carried out the next day in the Ségou region. The Malian Armed Forces (FAMa) continue their operations against armed groups in the north and centre of the country Indeed, according to a statement from the General Staff of the Armed Forces, two strikes were carried out on 26 and 27 October 2026 as part of Operation Dougoukoloko, with the support of military partners.",
-      "sources": [
-        "APAnews (FR)",
-        "La Nouvelle Tribune (Bénin)",
-        "AMAP (Agence Malienne de Presse et de Publicité)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 3,
-      "report_urls": [
-        "https://fr.apanews.net/society/mali-les-fama-frappent-deux-positions-terroristes/",
-        "https://lanouvelletribune.info/2026/10/mali-les-fama-frappent-un-regroupement-presume-terroriste-pres-de-tombouctou/",
-        "https://amap.ml/2026/10/28/operation-dougoukoloko-deux-positions-terroristes-neutralisees-dans-les-regions-de-tombouctou-et-de-segou/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://fr.apanews.net/society/mali-les-fama-frappent-deux-positions-terroristes/",
-          "source": "APAnews (FR)",
-          "title": "Mali: FAMa strike two terrorist positions",
-          "summary": "The Malian Armed Forces (FAMa), supported by their partners, successfully carried out two strikes against suspected terrorist groups in the Timbuktu and Segou regions on 26 and 27 October, as part of Operation Dougoukoloko, according to a statement from the General Staff of the Armed Forces According to the same source, the first operation was conducted on October 26, about 75 kilometers northwest of Léré, in the Timbuktu region.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://lanouvelletribune.info/2026/10/mali-les-fama-frappent-un-regroupement-presume-terroriste-pres-de-tombouctou/",
-          "source": "La Nouvelle Tribune (Bénin)",
-          "title": "Mali: FAMa strikes an alleged terrorist group near Timbuktu",
-          "summary": "The Malian Armed Forces (FAMa) announced that they had struck a suspected terrorist group on October 26, about 75 kilometers northwest of Léré, in the Timbuktu region. In addition, a second strike was carried out the next day in the Ségou region. The Malian Armed Forces (FAMa) continue their operations against armed groups in the north and centre of the country Indeed, according to a statement from the General Staff of the Armed Forces, two strikes were carried out on 26 and 27 October 2026 as part of Operation Dougoukoloko, with the support of military partners.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://amap.ml/2026/10/28/operation-dougoukoloko-deux-positions-terroristes-neutralisees-dans-les-regions-de-tombouctou-et-de-segou/",
-          "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-          "title": "Operation Dougoukoloko: two terrorist positions neutralized in the Timbuktu and Segou regions",
-          "summary": "Bamako, October 28 (AMAP) The Malian Armed Forces (FAMa), supported by their partners, neutralized two positions of regroupment of terrorist elements on October 26 and 27, 2026, as part of Operation Dougoukoloko, announced Wednesday the General Staff of the Armed Forces According to the statement, the surveillance and reconnaissance operations carried out on October 26 made it possible to locate, about 75 kilometers northwest of Léré, in the Timbuktu region, about fifteen terrorist elements grouped under a shelter.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-29T03:06:52.193326Z",
-      "updated_at": "2026-10-28T21:13:32.084826Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-29T03:06:52.193326Z",
-          "type": "event_created",
-          "source": "APAnews (FR)"
-        },
-        {
-          "at": "2026-10-28T15:16:25.151661Z",
-          "type": "corroboration_or_geography_update",
-          "source": "La Nouvelle Tribune (Bénin)"
-        },
-        {
-          "at": "2026-10-28T21:13:32.084826Z",
-          "type": "corroboration_or_geography_update",
-          "source": "AMAP (Agence Malienne de Presse et de Publicité)"
-        }
-      ],
-      "corroboration": "multi-source",
-      "confidence": "moderate-high",
-      "independent_source_domains": [
-        "fr.apanews.net",
-        "lanouvelletribune.info",
-        "amap.ml"
-      ],
-      "independent_source_count": 3,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-source corroboration",
-        "multi-location activity"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-05T00:38:07Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T01:00:22.250936Z",
+      "discovered_at": "2026-11-05T01:00:22.250936Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kayes",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Hydrocarbons in Kayes: Resumption of supply",
+      "url": "https://amap.ml/2026/11/05/hydrocarbures-a-kayes-reprise-de-lapprovisionnement/"
+    },
+    {
+      "published_at": "2026-11-04T21:04:04Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T01:00:23.858360Z",
+      "discovered_at": "2026-11-05T01:00:23.858360Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0034",
+      "source": "TV5MONDE Afrique",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Image Africa Illegal gold panning: thousands of Burkinabe repatriated from Guinea",
+      "url": "https://information.tv5monde.com/afrique/orpaillage-illegal-des-milliers-de-burkinabe-rapatries-de-guinee-2844505"
+    },
+    {
+      "published_at": "2026-11-04T20:54:42Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T01:00:22.202102Z",
+      "discovered_at": "2026-11-05T01:00:22.202102Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Zinder",
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "Presentation ceremony at the flag of the 2025 contingent of the FANs at the Aroungouza Training Centre in Zinder",
+      "url": "https://anp.ne/ceremonie-de-presentation-au-drapeau-du-contingent-2025-des-f-a-n-au-centre-dinstruction-d-aroungouza-de-zinder/"
+    },
+    {
+      "published_at": "2026-11-04T19:54:41Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T01:00:25.191676Z",
+      "discovered_at": "2026-11-05T01:00:25.191676Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0038",
+      "source": "APAnews (FR)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Burkinabe returnees from Guinea: a government delegation on mission in Bamako",
+      "url": "https://fr.apanews.net/diplomacy/burkinabe-refoules-de-guinee-une-delegation-du-gouvernement-en-mission-a-bamako/"
+    },
+    {
+      "published_at": "2026-11-04T19:15:26Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T01:00:23.213134Z",
+      "discovered_at": "2026-11-05T01:00:23.213134Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0022",
+      "source": "Africanews",
+      "language": "en",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Chadian president meets Algerian foreign minister in Ndjamena",
+      "url": "https://www.africanews.com/2026/11/04/chadian-president-meets-algerian-foreign-minister-in-ndjamena/"
+    },
     {
       "published_at": "2026-11-04T17:42:52Z",
       "published_date_source": "jsonld:datePublished",
@@ -3988,6 +4004,24 @@
       "candidate_event": true,
       "title": "Niono, Tessalit and Gourma-Rharous: the Noose is tightening around terrorist groups As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, carried out airstrikes in different localities of our country between 2 and 3 November 2026.",
       "url": "https://www.lessor.ml/posts/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-terroristes-6aeb0171b814f"
+    },
+    {
+      "published_at": "2026-11-04T09:51:39Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-05T01:00:23.505864Z",
+      "discovered_at": "2026-11-05T01:00:23.505864Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "2nd coordination meeting of the military frequencies of the ESA countries: The work opened in Bamako The Minister of Communication, the Digital Economy and the Modernization of the Administration, Alhamdou Ag Ilyène, took part, on Monday, November 2, 2026, in Bamako, in the opening ceremony of the second coordination meeting of the military frequencies of the member countries of the Confederation of Sahel States (ESA).",
+      "url": "https://www.lessor.ml/posts/2e-reunion-de-coordination-des-frequences-militaires-des-pays-de-laes-les-travaux-ouverts-a-bamako-6aeb002b25144"
     },
     {
       "published_at": "2026-11-04T09:32:18Z",
@@ -4312,114 +4346,6 @@
       "candidate_event": false,
       "title": "Defence: presentation to the flag of the 2025 contingent of the Nigerien Armed Forces trained at the Tondibiah Training Group",
       "url": "https://www.actuniger.com/societe/22538-defense-presentation-au-drapeau-du-contingent-2025-des-forces-armees-nigeriennes-forme-au-groupement-dinstruction-de-tondibiah"
-    },
-    {
-      "published_at": "2026-11-03T13:16:19Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-03T19:37:46.138261Z",
-      "discovered_at": "2026-11-03T19:37:46.138261Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "ambush",
-      "candidate_event": false,
-      "title": "Nigeria: Five law enforcement officers killed in an ambush in the northwest",
-      "url": "https://amap.ml/2026/11/03/nigeria-cinq-agents-des-forces-de-lordre-tues-dans-une-embuscade-dans-le-nord-ouest/"
-    },
-    {
-      "published_at": "2026-11-03T13:05:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-03T12:05:09.516585Z",
-      "discovered_at": "2026-11-03T12:05:09.516585Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0017",
-      "source": "Le Sahel",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": null,
-      "event_type": "clash",
-      "candidate_event": false,
-      "title": "Presentation to the national flag of the soldiers of the 2025 FAN contingent: The Nigerian Armed Forces are strengthening their rank with young soldiers ready to serve the homeland",
-      "url": "https://www.lesahel.org/presentation-au-drapeau-national-des-soldats-du-contingent-2025-des-fan-les-forces-armees-nigeriennes-renforcent-leur-rang-avec-des-jeunes-soldats-prets-a-servir-la-patrie/"
-    },
-    {
-      "published_at": "2026-11-03T11:44:25Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-03T12:05:03.587983Z",
-      "discovered_at": "2026-11-03T12:05:03.587983Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": "offensive/campaign",
-      "candidate_event": true,
-      "title": "Burkina Faso: terrorist leader Djabiri...",
-      "url": "https://www.maliweb.net/insecurite/burkina-faso-le-chef-terroriste-djabiri-mangan-dit-le-borgne-3121159.html"
-    },
-    {
-      "published_at": "2026-11-03T11:39:50Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-03T12:05:11.487868Z",
-      "discovered_at": "2026-11-03T12:05:11.487868Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0013",
-      "source": "Wakat Sera",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Burkina: in one month, the National Police collected more than 99 million CFA francs during an operation",
-      "url": "https://www.wakatsera.com/burkina-en-un-mois-la-police-nationale-recolte-plus-de-99-millions-f-cfa-lors-dune-operation/"
-    },
-    {
-      "published_at": "2026-11-03T10:21:14Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-03T12:05:09.994315Z",
-      "discovered_at": "2026-11-03T12:05:09.994315Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Africa: China provides sophisticated military equipment to African countries, including Mali and Burkina Faso",
-      "url": "https://fr.allafrica.com/stories/202611030292.html"
-    },
-    {
-      "published_at": "2026-11-03T09:57:49Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-03T12:05:05.225916Z",
-      "discovered_at": "2026-11-03T12:05:05.225916Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": "Other",
-      "country": "Mali",
-      "city": null,
-      "event_type": "kidnapping",
-      "candidate_event": true,
-      "title": "Mali: NGOs call on the Transition on the kidnapping of Mountaga Tall (RFI)",
-      "url": "https://fr.allafrica.com/stories/202611030258.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
