@@ -1,5 +1,304 @@
 [
   {
+    "id": "ba33c4986ab119ffc8a924dae0462742e4288a92",
+    "event_date": "2026-11-05",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-05T11:12:59Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-05T12:32:15.258695Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Koro, Sandaré, Sofara: the FAMa strike...",
+    "summary": "Koro, Sandaré, Sofara: the FAMa strike three terrorist positions in two days In a statement dated November 5, 2026, the General Staff of the Armed Forces announced two bases destroyed by precision strikes, near Koro and Sandaré, as well as a pair of terrorists on motorcycles targeted northwest of Sofara, as part of Operation Dougoukoloko . The operations of surveillance, control and security of the territory continue.",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/insecurite/koro-sandare-sofara-les-fama-frappent-trois-positions-terroristes-en-3121203.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/koro-sandare-sofara-les-fama-frappent-trois-positions-terroristes-en-3121203.html",
+        "source": "Maliweb",
+        "title": "Koro, Sandaré, Sofara: the FAMa strike...",
+        "summary": "Koro, Sandaré, Sofara: the FAMa strike three terrorist positions in two days In a statement dated November 5, 2026, the General Staff of the Armed Forces announced two bases destroyed by precision strikes, near Koro and Sandaré, as well as a pair of terrorists on motorcycles targeted northwest of Sofara, as part of Operation Dougoukoloko . The operations of surveillance, control and security of the territory continue.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-05T12:32:15.258695Z",
+    "updated_at": "2026-11-05T12:32:15.258695Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-05T12:32:15.258695Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "1652f8374bee7c274f413ec7fbaecbef54b83945",
+    "event_date": "2026-11-05",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-05T11:56:37Z",
+    "published_date_source": "feed",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-05T12:32:15.160916Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "offensive/campaign",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Operation Dougoukoloko: the FAMa strike several terrorist positions and continue their offensive to secure the national territory",
+    "summary": "The Malian Armed Forces (FAMa) are resolutely pursuing their mission of defending territorial integrity and protecting populations. As part of Operation Dougoukoloko, units engaged on the ground maintain sustained operational pressure against armed terrorist groups, through surveillance, intelligence, reconnaissance and targeted strikes The latest operations, conducted on 3 and 4 November 2026 in several sectors of the national territory, testify to the continuity of the military commitment and the willingness of the military authorities to leave no space for the terrorist threat .",
+    "sources": [
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://bamada.net/operation-dougoukoloko-les-fama-frappent-plusieurs-positions-terroristes-et-poursuivent-leur-offensive-de-securisation-du-territoire-national"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://bamada.net/operation-dougoukoloko-les-fama-frappent-plusieurs-positions-terroristes-et-poursuivent-leur-offensive-de-securisation-du-territoire-national",
+        "source": "Bamada",
+        "title": "Operation Dougoukoloko: the FAMa strike several terrorist positions and continue their offensive to secure the national territory",
+        "summary": "The Malian Armed Forces (FAMa) are resolutely pursuing their mission of defending territorial integrity and protecting populations. As part of Operation Dougoukoloko, units engaged on the ground maintain sustained operational pressure against armed terrorist groups, through surveillance, intelligence, reconnaissance and targeted strikes The latest operations, conducted on 3 and 4 November 2026 in several sectors of the national territory, testify to the continuity of the military commitment and the willingness of the military authorities to leave no space for the terrorist threat .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-05T12:32:15.160916Z",
+    "updated_at": "2026-11-05T12:32:15.160916Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-05T12:32:15.160916Z",
+        "type": "event_created",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "bamada.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "4ccba35d8dd49a30b4ee8952edf39ab46aae0ed3",
+    "event_date": "2026-11-04",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-05T11:40:40Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-05T12:32:21.278868Z",
+    "actor": "JNIM",
+    "perpetrator": null,
+    "target": "JNIM",
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "JNIM"
+    ],
+    "parent_report_id": null,
+    "event_type": "attack",
+    "country": "Burkina Faso",
+    "city": "Ouahigouya",
+    "lat": 13.5769,
+    "lng": -2.41786,
+    "locations": [
+      {
+        "name": "Ouahigouya",
+        "country": "Burkina Faso",
+        "lat": 13.5769,
+        "lng": -2.41786,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Burkina Faso: in Soubo, a gold mine burned in retaliation for abuses against the Fulani, according to witnesses",
+    "summary": "In a statement released on November 4, Human Rights Watch documented the September 1 JNIM attack on a gold mining site in northern Burkina Faso, which claimed the lives of 24 civilians.",
+    "sources": [
+      "Afrik.com"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.afrik.com/burkina-faso-a-soubo-une-mine-d-or-incendiee-en-represailles-aux-exactions-contre-les-peuls-selon-des-temoins"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.afrik.com/burkina-faso-a-soubo-une-mine-d-or-incendiee-en-represailles-aux-exactions-contre-les-peuls-selon-des-temoins",
+        "source": "Afrik.com",
+        "title": "Burkina Faso: in Soubo, a gold mine burned in retaliation for abuses against the Fulani, according to witnesses",
+        "summary": "In a statement released on November 4, Human Rights Watch documented the September 1 JNIM attack on a gold mining site in northern Burkina Faso, which claimed the lives of 24 civilians.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": 24,
+        "fatalities_max": 24,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": true,
+        "casualty_claims": [
+          {
+            "kind": "fatalities",
+            "count": 24,
+            "victim_text": "civilians",
+            "claimant": "Afrik.com",
+            "status": "reported",
+            "evidence": "e trying to flee, before moving from hangar to hangar. The assault lasted nearly two hours and left 24 civilians dead and at least 20 wounded. Hidden in a pit, a 45-year-old man heard one of the attackers say, “You ch"
+          }
+        ]
+      }
+    ],
+    "created_at": "2026-11-05T12:32:21.278868Z",
+    "updated_at": "2026-11-05T12:32:21.278868Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "civilian",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": true,
+    "casualty_claims": [
+      {
+        "kind": "fatalities",
+        "count": 24,
+        "victim_text": "civilians",
+        "claimant": "Afrik.com",
+        "status": "reported",
+        "evidence": "e trying to flee, before moving from hangar to hangar. The assault lasted nearly two hours and left 24 civilians dead and at least 20 wounded. Hidden in a pit, a 45-year-old man heard one of the attackers say, “You ch",
+        "source": "Afrik.com"
+      }
+    ],
+    "fatalities_min": 24,
+    "fatalities_max": 24,
+    "fatalities_best": 24,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-05T12:32:21.278868Z",
+        "type": "event_created",
+        "source": "Afrik.com"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "afrik.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
+    ]
+  },
+  {
     "id": "d487de3acfdfe8c4c68e06123be3d0562c9a7b71",
     "event_date": "2026-11-04",
     "event_date_confidence": "explicit-text",
@@ -613,7 +912,7 @@
     "collected_at": "2026-11-04T00:42:41.865051Z",
     "actor": "State",
     "perpetrator": "State",
-    "target": null,
+    "target": "State",
     "claimant": null,
     "supporting_force": null,
     "mentioned_actors": [
@@ -664,7 +963,8 @@
       "https://malijet.com/actualte_dans_les_regions_du_mali/312657-operation-dougoukoloko-les-fama-frappent-des-positions-ter-3.html",
       "https://www.lessor.ml/posts/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-terroristes-6aeb0171b814f",
       "https://www.maliweb.net/insecurite/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-3121186.html",
-      "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous"
+      "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous",
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312682-operation-dougoukoloko-les-fama-frappent-des-bases-terrori.html"
     ],
     "report_summaries": [
       {
@@ -738,10 +1038,28 @@
         ],
         "civilian_targeting_flag": false,
         "casualty_claims": []
+      },
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312682-operation-dougoukoloko-les-fama-frappent-des-bases-terrori.html",
+        "source": "Malijet",
+        "title": "Operation Dougoukoloko: FAMa strike terrorist bases near Koro, Sandaré and Sofara",
+        "summary": "Operation Dougoukoloko: the FAMa strike terrorist bases near Koro, Sandaré and Sofara As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa) and their allies continue to carry out missions to secure the country. The General Staff of the Armed Forces gave an update on several strikes carried out in recent days. On Tuesday, November 3, 2026, a terrorist base was spotted 52 kilometers northeast of Koro .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
       }
     ],
     "created_at": "2026-11-04T00:42:41.865051Z",
-    "updated_at": "2026-11-03T19:37:43.888442Z",
+    "updated_at": "2026-11-05T12:32:14.874592Z",
     "extraction_confidence": "moderate",
     "victim_categories": [
       "armed_group"
