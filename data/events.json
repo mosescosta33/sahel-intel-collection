@@ -1,5 +1,89 @@
 [
   {
+    "id": "f239d8d69497cf5763f35887d9f46a3549ef2134",
+    "event_date": "2026-11-06",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-06T13:55:15Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-06T21:37:10.471767Z",
+    "actor": "State",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "offensive/campaign",
+    "country": "Burkina Faso",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Burkina Faso: 200 new tractors to accelerate agricultural mechanization",
+    "summary": "To accelerate the mechanization of Burkina Faso's agriculture, the National Office for Major Projects handed over a large batch of agricultural equipment, mainly tractors, to the Ministry of Agriculture on Friday, November 6, 2026. In total, 200 tractors with a power of 40 horses, accompanied in particular by plows and harrows, were handed over to the department in charge of Agriculture .",
+    "sources": [
+      "Burkina24"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://burkina24.com/2026/11/06/burkina-faso-200-nouveaux-tracteurs-pour-accelerer-la-mecanisation-agricole/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://burkina24.com/2026/11/06/burkina-faso-200-nouveaux-tracteurs-pour-accelerer-la-mecanisation-agricole/",
+        "source": "Burkina24",
+        "title": "Burkina Faso: 200 new tractors to accelerate agricultural mechanization",
+        "summary": "To accelerate the mechanization of Burkina Faso's agriculture, the National Office for Major Projects handed over a large batch of agricultural equipment, mainly tractors, to the Ministry of Agriculture on Friday, November 6, 2026. In total, 200 tractors with a power of 40 horses, accompanied in particular by plows and harrows, were handed over to the department in charge of Agriculture .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-06T21:37:10.471767Z",
+    "updated_at": "2026-11-06T21:37:10.471767Z",
+    "extraction_confidence": "low",
+    "victim_categories": [],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-06T21:37:10.471767Z",
+        "type": "event_created",
+        "source": "Burkina24"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "burkina24.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "5c4380516d93ed2bd459d2e86b0e7ec849a5b755",
     "event_date": "2026-11-05",
     "event_date_confidence": "explicit-text",
