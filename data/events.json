@@ -1,5 +1,121 @@
 [
   {
+    "id": "5c4380516d93ed2bd459d2e86b0e7ec849a5b755",
+    "event_date": "2026-11-05",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-06T10:36:31Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-06T16:03:39.264886Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Kouakourou and Sofara: the FAMa strike a base and a terrorist group",
+    "summary": "Thanks to the use of precise intelligence and the coordination of operational means, the Malian Armed Forces (FAMa) conducted, on Thursday, November 5, 2026, two targeted actions against armed terrorist groups in the Kouakourou and Sofara sectors These interventions illustrate the continuation of efforts to secure the national territory and the determination of the Malian army to prevent any restoration of the operational capacities of terrorist groups.",
+    "sources": [
+      "Malijet",
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 2,
+    "report_urls": [
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312707-kouakourou-et-sofara-les-fama-frappent-une-base-et-un-grou.html",
+      "https://bamada.net/operation-dougoukoloko-fama-frappent-positions-terroristes-kouakourou-sofara"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312707-kouakourou-et-sofara-les-fama-frappent-une-base-et-un-grou.html",
+        "source": "Malijet",
+        "title": "Kouakourou and Sofara: the FAMa strike a base and a terrorist group",
+        "summary": "As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their allies, continue to carry out actions to secure the territory. The General Staff of the Armed Forces gave an update on two strikes carried out on Thursday, November 5, 2026 . 6 kilometers northeast of Kouakourou, precise intelligence identified a terrorist base that housed several fighters, war materials and a fuel depot.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://bamada.net/operation-dougoukoloko-fama-frappent-positions-terroristes-kouakourou-sofara",
+        "source": "Bamada",
+        "title": "Operation Dougoukoloko: the FAMa strike two terrorist positions near Kouakourou and Sofara with precision",
+        "summary": "Thanks to the use of precise intelligence and the coordination of operational means, the Malian Armed Forces (FAMa) conducted, on Thursday, November 5, 2026, two targeted actions against armed terrorist groups in the Kouakourou and Sofara sectors These interventions illustrate the continuation of efforts to secure the national territory and the determination of the Malian army to prevent any restoration of the operational capacities of terrorist groups.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-06T16:03:39.264886Z",
+    "updated_at": "2026-11-06T16:03:39.326801Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-06T16:03:39.264886Z",
+        "type": "event_created",
+        "source": "Malijet"
+      },
+      {
+        "at": "2026-11-06T16:03:39.326801Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "malijet.com",
+      "bamada.net"
+    ],
+    "independent_source_count": 2,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "ba33c4986ab119ffc8a924dae0462742e4288a92",
     "event_date": "2026-11-05",
     "event_date_confidence": "explicit-text",
@@ -545,6 +661,96 @@
     "significance": "SIGNIFICANT",
     "significance_reasons": [
       "operational security event"
+    ]
+  },
+  {
+    "id": "ebe40e7ac8bf277f80c49c6c97315934d5e67c8c",
+    "event_date": "2026-11-03",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-05T12:05:00Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-06T16:03:39.947153Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Koro, Sandaré and Sofara: Flood of fire on terrorists As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, conducted airstrikes between 03 and 04 November 2026. These operations made it possible to target two bases of armed terrorist groups in different localities of our country.",
+    "summary": "According to the statement of the General Staff of the Armed Forces published this Thursday, the exploitation of precise intelligence on Tuesday, November 03, 2026 made it possible to locate, fifty-two (52) kilometers north-east of Koro, a base of armed terrorist groups housing several individuals as well as war equipment, including motorcycles and a fuel depot .",
+    "sources": [
+      "L'Essor"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.lessor.ml/posts/koro-sandare-et-sofara-deluge-de-feu-sur-les-terroristes-6aec70ecc564e"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.lessor.ml/posts/koro-sandare-et-sofara-deluge-de-feu-sur-les-terroristes-6aec70ecc564e",
+        "source": "L'Essor",
+        "title": "Koro, Sandaré and Sofara: Flood of fire on terrorists As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, conducted airstrikes between 03 and 04 November 2026. These operations made it possible to target two bases of armed terrorist groups in different localities of our country.",
+        "summary": "According to the statement of the General Staff of the Armed Forces published this Thursday, the exploitation of precise intelligence on Tuesday, November 03, 2026 made it possible to locate, fifty-two (52) kilometers north-east of Koro, a base of armed terrorist groups housing several individuals as well as war equipment, including motorcycles and a fuel depot .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-06T16:03:39.947153Z",
+    "updated_at": "2026-11-06T16:03:39.947153Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-06T16:03:39.947153Z",
+        "type": "event_created",
+        "source": "L'Essor"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "lessor.ml"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
     ]
   },
   {
