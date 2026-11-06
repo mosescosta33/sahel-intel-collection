@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-05T22:12:31.004329Z",
+  "generated_at": "2026-11-06T07:00:27.144703Z",
   "window_days": 30,
-  "cutoff": "2026-10-06",
-  "reports": 790,
-  "incident_reports": 207,
-  "candidate_events": 131,
-  "corroborated_events": 41,
-  "mapped_events": 98,
-  "mapped_locations": 180,
+  "cutoff": "2026-10-07",
+  "reports": 787,
+  "incident_reports": 203,
+  "candidate_events": 118,
+  "corroborated_events": 37,
+  "mapped_events": 85,
+  "mapped_locations": 146,
   "distinct_sources": 85,
   "by_actor": {
-    "State": 70,
+    "State": 60,
     "Other": 29,
-    "JNIM": 16,
-    "Africa Corps/Wagner": 10,
+    "JNIM": 14,
+    "Africa Corps/Wagner": 9,
     "IS Sahel": 6
   },
   "by_country": {
-    "Mali": 99,
+    "Mali": 86,
     "Niger": 24,
     "Burkina Faso": 8
   },
   "by_event_type": {
-    "security operation": 49,
+    "security operation": 45,
     "attack": 17,
-    "clash": 16,
-    "offensive/campaign": 16,
+    "clash": 13,
     "civilian targeting": 10,
     "kidnapping": 10,
+    "offensive/campaign": 10,
     "air/drone strike": 7,
     "raid": 3,
     "IED/explosion": 1,
@@ -35,21 +35,21 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 644,
-    "en": 104,
+    "fr": 642,
+    "en": 103,
     "ar": 42
   },
   "by_confidence": {
-    "low": 64,
-    "moderate": 52,
-    "moderate-high": 14,
+    "low": 56,
+    "moderate": 50,
+    "moderate-high": 11,
     "high": 1
   },
   "top_sources": [
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 105
+      "count": 104
     },
     {
       "source_code": "SRC-0006",
@@ -79,7 +79,7 @@
     {
       "source_code": "SRC-0001",
       "source": "RFI Afrique",
-      "count": 25
+      "count": 24
     },
     {
       "source_code": "SRC-0014",
@@ -89,7 +89,7 @@
     {
       "source_code": "SRC-0079",
       "source": "L'Essor",
-      "count": 23
+      "count": 24
     },
     {
       "source_code": "SRC-0121",
@@ -102,31 +102,31 @@
       "count": 19
     },
     {
-      "source_code": "SRC-0034",
-      "source": "TV5MONDE Afrique",
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
       "count": 17
     }
   ],
   "top_locations": [
-    {
-      "location": "Kidal",
-      "count": 28
-    },
     {
       "location": "Mali",
       "count": 24
     },
     {
       "location": "Ménaka",
-      "count": 22
-    },
-    {
-      "location": "Bamako",
-      "count": 20
+      "count": 21
     },
     {
       "location": "Agadez",
       "count": 16
+    },
+    {
+      "location": "Kidal",
+      "count": 15
+    },
+    {
+      "location": "Bamako",
+      "count": 14
     },
     {
       "location": "Niamey",
@@ -137,32 +137,27 @@
       "count": 9
     },
     {
-      "location": "Anéfis",
-      "count": 8
-    },
-    {
       "location": "Gao",
-      "count": 8
-    },
-    {
-      "location": "Timbuktu",
       "count": 7
-    },
-    {
-      "location": "Tessalit",
-      "count": 6
     },
     {
       "location": "Niger",
       "count": 5
+    },
+    {
+      "location": "Timbuktu",
+      "count": 5
+    },
+    {
+      "location": "Burkina Faso",
+      "count": 4
+    },
+    {
+      "location": "Douentza",
+      "count": 4
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-07",
-      "reports": 30,
-      "events": 2
-    },
     {
       "date": "2026-10-08",
       "reports": 28,
@@ -290,7 +285,7 @@
     },
     {
       "date": "2026-11-02",
-      "reports": 36,
+      "reports": 37,
       "events": 5
     },
     {
@@ -305,8 +300,13 @@
     },
     {
       "date": "2026-11-05",
-      "reports": 24,
+      "reports": 26,
       "events": 2
+    },
+    {
+      "date": "2026-11-06",
+      "reports": 1,
+      "events": 0
     }
   ],
   "latest_events": [
@@ -3559,6 +3559,24 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-06T03:44:57Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-06T06:59:19.780460Z",
+      "discovered_at": "2026-11-06T06:59:19.780460Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0121",
+      "source": "AllAfrica (English Edition)",
+      "language": "en",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Agadez",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Niger: Niger Receives 1.65m Liters of Algerian Fuel As Shortages Persist",
+      "url": "https://allafrica.com/stories/202611060035.html"
+    },
+    {
       "published_at": "2026-11-05T21:49:37Z",
       "published_date_source": "opengraph",
       "published_time_precision": "datetime",
@@ -3575,6 +3593,24 @@
       "candidate_event": false,
       "title": "Niger–Mali: Tiani and Goïta reaffirm their commitment to strengthening the ESA and the fight against terrorism",
       "url": "https://airinfoagadez.com/2026/11/05/niger-mali-tiani-et-goita-reaffirment-leur-engagement-a-renforcer-laes-et-la-lutte-contre-le-terrorisme/"
+    },
+    {
+      "published_at": "2026-11-05T21:14:50Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-06T06:59:17.618995Z",
+      "discovered_at": "2026-11-06T06:59:17.618995Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Massive influx of gold miners from Guinea: The Malian Government takes stock of the situation It was this Thursday, during a press briefing jointly hosted by the two ministers in the conference room of the Ministry of Security, that the details of this humanitarian and security crisis were shared with the",
+      "url": "https://www.lessor.ml/posts/afflux-massif-dorpailleurs-en-provenance-de-guinee-le-gouvernement-malien-fait-le-point-sur-la-situation-6aecf1ca20dc1"
     },
     {
       "published_at": "2026-11-05T19:53:27Z",
@@ -3991,6 +4027,24 @@
       "url": "https://amap.ml/2026/11/05/hydrocarbures-a-kayes-reprise-de-lapprovisionnement/"
     },
     {
+      "published_at": "2026-11-05T00:00:00Z",
+      "published_date_source": "visible-publication-label",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-06T06:59:19.922361Z",
+      "discovered_at": "2026-11-06T06:59:19.922361Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
+      "language": "fr",
+      "actor": null,
+      "country": null,
+      "city": null,
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "In the crisis in the Sahel, a voice is seriously lacking: that of black African intellectuals",
+      "url": "https://lefaso.net/spip.php?article150549="
+    },
+    {
       "published_at": "2026-11-04T21:04:04Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4223,60 +4277,6 @@
       "candidate_event": true,
       "title": "FIGHT AGAINST TERRORISM: THE AIR FORCE ANNIHILATES A TERRORIST GROUP NEAR GOURMA-RHAROUS",
       "url": "https://bamada.net/lutte-contre-le-terrorisme-larmee-de-lair-aneantit-un-groupe-terroriste-pres-de-gourma-rharous"
-    },
-    {
-      "published_at": "2026-11-04T11:37:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-04T12:18:55.631843Z",
-      "discovered_at": "2026-11-04T12:18:55.631843Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0091",
-      "source": "SeneNews",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Burkina Faso repatriates more than 8,000 nationals of Guinea after the ban on gold panning",
-      "url": "https://www.senenews.com/actualites/politique/des-milliers-de-burkinabe-rapatries-de-guinee-apres-des-mesures-contre-lorpaillage-illegal_605177.html"
-    },
-    {
-      "published_at": "2026-11-04T11:18:12Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-04T19:57:02.988824Z",
-      "discovered_at": "2026-11-04T19:57:02.988824Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "An Islamist armed group targeted civilians in Burkina Faso",
-      "url": "https://fr.allafrica.com/view/group/main/main/id/00098696.html"
-    },
-    {
-      "published_at": "2026-11-04T11:00:52Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-04T12:18:55.840810Z",
-      "discovered_at": "2026-11-04T12:18:55.840810Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Niono",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Niono, Tessalit and Gourma-Rharous:...",
-      "url": "https://www.maliweb.net/insecurite/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-3121186.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
