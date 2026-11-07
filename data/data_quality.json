@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:12:31.760586Z",
+  "generated_at": "2026-11-07T15:02:02.127177Z",
   "events_30d": 116,
   "date_resolution_pct": 87,
   "precise_geography_pct": 70,
@@ -8,9 +8,9 @@
   "collection_blind_spots": [],
   "collection_status": "NOMINAL",
   "language_reports_30d": {
-    "fr": 664,
-    "en": 98,
-    "ar": 42
+    "fr": 655,
+    "en": 97,
+    "ar": 43
   },
   "note": "Quality percentages describe fields present in Sahel Intel fused candidate events; they are not accuracy estimates."
 }

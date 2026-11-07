@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-07T06:12:31.432147Z",
+  "generated_at": "2026-11-07T15:02:01.933067Z",
   "window_days": 30,
   "cutoff": "2026-10-08",
-  "reports": 783,
-  "incident_reports": 202,
+  "reports": 775,
+  "incident_reports": 198,
   "candidate_events": 120,
   "corroborated_events": 37,
   "mapped_events": 84,
   "mapped_locations": 145,
-  "distinct_sources": 84,
+  "distinct_sources": 83,
   "by_actor": {
     "State": 64,
     "Other": 29,
@@ -35,9 +35,9 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 646,
-    "en": 97,
-    "ar": 40
+    "fr": 638,
+    "en": 96,
+    "ar": 41
   },
   "by_confidence": {
     "low": 57,
@@ -49,22 +49,22 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 102
+      "count": 100
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 82
+      "count": 78
     },
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 37
+      "count": 39
     },
     {
       "source_code": "SRC-0090",
       "source": "AllAfrica (Édition Française)",
-      "count": 36
+      "count": 35
     },
     {
       "source_code": "SRC-0005",
@@ -74,7 +74,7 @@
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
-      "count": 29
+      "count": 28
     },
     {
       "source_code": "SRC-0079",
@@ -89,7 +89,7 @@
     {
       "source_code": "SRC-0014",
       "source": "Agence Nigérienne de Presse",
-      "count": 25
+      "count": 24
     },
     {
       "source_code": "SRC-0121",
@@ -305,7 +305,7 @@
     },
     {
       "date": "2026-11-07",
-      "reports": 2,
+      "reports": 7,
       "events": 0
     }
   ],
@@ -3490,6 +3490,96 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-07T13:50:08Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T15:00:35.459606Z",
+      "discovered_at": "2026-11-07T15:00:35.459606Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Mali – Repatriation of Africans returned from Guinea: the government mobilizes logistical resources",
+      "url": "https://amap.ml/2026/11/07/mali-rapatriement-des-africains-refoules-de-guinee-le-gouvernement-mobilise-des-moyens-logistiques/"
+    },
+    {
+      "published_at": "2026-11-07T13:18:52Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T15:00:35.416540Z",
+      "discovered_at": "2026-11-07T15:00:35.416540Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Ségou",
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "Bla: The National Defense Forces repels a terrorist attack at the checkpoint",
+      "url": "https://amap.ml/2026/11/07/48497/"
+    },
+    {
+      "published_at": "2026-11-07T12:00:54Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T15:00:37.342318Z",
+      "discovered_at": "2026-11-07T15:00:37.342318Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0060",
+      "source": "Al-Quds Al-Arabi",
+      "language": "ar",
+      "actor": null,
+      "country": "Niger",
+      "city": "Arlit",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Report: Algeria's Military Deployment in Niger Redraws Lines of Rivalry with Morocco and Rift in Sahel",
+      "url": "https://www.alquds.co.uk/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d9%8a%d8%ac/"
+    },
+    {
+      "published_at": "2026-11-07T11:56:55Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T15:00:36.463433Z",
+      "discovered_at": "2026-11-07T15:00:36.463433Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0040",
+      "source": "Mondafrique",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Behind the lull, the war continues in Burkina Faso",
+      "url": "https://mondafrique.com/decryptage/derriere-laccalmie-la-guerre-continue-au-burkina-faso/"
+    },
+    {
+      "published_at": "2026-11-07T08:09:16Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T15:00:33.498379Z",
+      "discovered_at": "2026-11-07T15:00:33.498379Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0175",
+      "source": "Ultra Sawt (ألترا صوت)",
+      "language": "ar",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "An Algerian diplomat responds to the European Union on the deployment of the army in Niger.. What is the story?",
+      "url": "https://ultraalgeria.ultrasawt.com/%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1-%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D8%A9%D8%9F/%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85-%D8%A8%D9%88%D8%A8%D9%83%D8%B1/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9"
+    },
+    {
       "published_at": "2026-11-07T02:10:02Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4118,96 +4208,6 @@
       "candidate_event": false,
       "title": "Prohibited gold panning in Guinea: Bamako and Ouagadougou agree on the return of their nationals",
       "url": "https://www.dakaractu.com/Orpaillage-interdit-en-Guinee-Bamako-et-Ouagadougou-s-accordent-pour-le-retour-de-leurs-ressortissants_a277853.html"
-    },
-    {
-      "published_at": "2026-11-05T11:20:10Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:15.320721Z",
-      "discovered_at": "2026-11-05T12:32:15.320721Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Rejected gold miners from Guinea: the CNDH calls for the protection of migrants, especially children and young people",
-      "url": "https://malijet.com/la_societe_malienne_aujourdhui/312686-orpailleurs-refoules-de-guinee-la-cndh-appelle-a-proteger.html"
-    },
-    {
-      "published_at": "2026-11-05T11:13:59Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:16.995273Z",
-      "discovered_at": "2026-11-05T12:32:16.995273Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Guinea: Ambassadors invited to a meeting in the context of operations in Siguiri",
-      "url": "https://amap.ml/2026/11/05/guinee-les-ambassadeurs-convies-a-une-reunion-dans-le-contexte-des-operations-a-siguiri/"
-    },
-    {
-      "published_at": "2026-11-05T11:12:59Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:15.258695Z",
-      "discovered_at": "2026-11-05T12:32:15.258695Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Koro, Sandaré, Sofara: the FAMa strike...",
-      "url": "https://www.maliweb.net/insecurite/koro-sandare-sofara-les-fama-frappent-trois-positions-terroristes-en-3121203.html"
-    },
-    {
-      "published_at": "2026-11-05T10:36:30Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:18.755489Z",
-      "discovered_at": "2026-11-05T12:32:18.755489Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Gold miners expelled from Guinea: At least four dead and a hundred sick",
-      "url": "https://amap.ml/2026/11/05/orpailleurs-expulses-de-guinee-au-moins-quatre-morts-et-une-centaine-de-malades/"
-    },
-    {
-      "published_at": "2026-11-05T10:14:07Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:19.079504Z",
-      "discovered_at": "2026-11-05T12:32:19.079504Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Koulikoro",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Kouremalé: The authorities of Faso welcome the \"total and unconditional\" assistance to more than 40,000 Burkinabe gold miners expelled from Guinea",
-      "url": "https://amap.ml/2026/11/05/kouremale-les-autorites-du-faso-saluent-lassistance-totale-et-inconditionnelle-a-plus-40-000-orpailleurs-burkinabe-expulses-de-guinee/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
