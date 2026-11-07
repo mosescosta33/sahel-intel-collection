@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-07T20:23:35.726913Z",
+  "generated_at": "2026-11-07T23:47:25.336672Z",
   "window_days": 30,
   "cutoff": "2026-10-08",
-  "reports": 773,
-  "incident_reports": 197,
+  "reports": 774,
+  "incident_reports": 196,
   "candidate_events": 120,
   "corroborated_events": 37,
   "mapped_events": 84,
@@ -35,7 +35,7 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 638,
+    "fr": 639,
     "en": 93,
     "ar": 42
   },
@@ -49,7 +49,7 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 99
+      "count": 100
     },
     {
       "source_code": "SRC-0006",
@@ -74,12 +74,12 @@
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
-      "count": 28
+      "count": 27
     },
     {
       "source_code": "SRC-0001",
       "source": "RFI Afrique",
-      "count": 25
+      "count": 26
     },
     {
       "source_code": "SRC-0014",
@@ -305,7 +305,7 @@
     },
     {
       "date": "2026-11-07",
-      "reports": 12,
+      "reports": 15,
       "events": 0
     }
   ],
@@ -3490,6 +3490,60 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-07T20:35:24Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T23:46:19.023209Z",
+      "discovered_at": "2026-11-07T23:46:19.023209Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Mali: several tens of thousands of gold miners expelled from Guinea taken care of in Mali",
+      "url": "https://www.rfi.fr/fr/afrique/20261107-mali-plusieurs-dizaines-de-milliers-d-orpailleurs-expuls%C3%A9s-de-guin%C3%A9e-pris-en-charge-au-mali"
+    },
+    {
+      "published_at": "2026-11-07T20:31:09Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T23:46:18.409656Z",
+      "discovered_at": "2026-11-07T23:46:18.409656Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Management of the humanitarian crisis at the border: The Malian Government mobilizes large resources for evacuation",
+      "url": "https://bamada.net/gestion-de-la-crise-humanitaire-a-la-frontiere-le-gouvernement-malien-mobilise-de-grands-moyens-pour-levacuation"
+    },
+    {
+      "published_at": "2026-11-07T20:25:29Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T23:46:18.305314Z",
+      "discovered_at": "2026-11-07T23:46:18.305314Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Ségou",
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Murder of Safiatou Boré in Segou: a suspect arrested",
+      "url": "https://malijet.com/les_faits_divers_au_mali/312724-meurtre-de-safiatou-bore-a-segou-un-suspect-arrete.html"
+    },
+    {
       "published_at": "2026-11-07T19:22:36Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4154,60 +4208,6 @@
       "candidate_event": false,
       "title": "Massive influx of gold miners from Guinea: The Malian Government takes stock of the situation It was this Thursday, during a press briefing jointly hosted by the two ministers in the conference room of the Ministry of Security, that the details of this humanitarian and security crisis were shared with the",
       "url": "https://www.lessor.ml/posts/afflux-massif-dorpailleurs-en-provenance-de-guinee-le-gouvernement-malien-fait-le-point-sur-la-situation-6aecf1ca20dc1"
-    },
-    {
-      "published_at": "2026-11-05T19:53:27Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T22:10:19.847148Z",
-      "discovered_at": "2026-11-05T22:10:19.847148Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Return of the Burkinabe gold miners from Guinea: the Prime Minister chairs a crisis meeting",
-      "url": "https://malijet.com/a_la_une_du_mali/312693-retour-des-orpailleurs-burkinabes-de-guinee-le-premier-min.html"
-    },
-    {
-      "published_at": "2026-11-05T17:46:13Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T22:10:14.535172Z",
-      "discovered_at": "2026-11-05T22:10:14.535172Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0012",
-      "source": "Sidwaya",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Tenkodogo",
-      "event_type": "clash",
-      "candidate_event": false,
-      "title": "Song-Taaba Cooperative: Biscuits to Support SDS and VDP at the Front",
-      "url": "https://www.sidwaya.info/2026/11/05/cooperative-song-taaba-des-biscuits-pour-soutenir-les-fds-et-les-vdp-au-front-2/"
-    },
-    {
-      "published_at": "2026-11-05T17:01:16Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-07T06:10:56.573364Z",
-      "discovered_at": "2026-11-07T06:10:56.573364Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Niafunké: Two kamikaze drones miss their targets, FAMa reaction welcomed",
-      "url": "https://amap.ml/2026/11/05/niafunke-deux-drones-kamikazes-manquent-leurs-cibles-la-reaction-des-fama-saluee/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
