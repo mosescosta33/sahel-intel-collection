@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T21:38:40.844234Z",
+  "generated_at": "2026-11-07T06:12:31.677561Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
@@ -14,9 +14,9 @@
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
       "events_7d": 12,
-      "events_30d": 86,
-      "baseline_7d_equivalent": 22.5,
-      "tempo_ratio": 0.55,
+      "events_30d": 83,
+      "baseline_7d_equivalent": 21.6,
+      "tempo_ratio": 0.57,
       "drivers": [
         "12 fused candidate event(s) in 7 days",
         "1 JNIM/IS Sahel-linked event(s)",
@@ -45,20 +45,20 @@
       "independent_domains_7d": 5
     },
     "Niger": {
-      "score": 28,
-      "level": "LOW",
-      "trend": "IMPROVING",
-      "confidence": "MODERATE",
-      "assessment_status": "ASSESSED",
-      "events_7d": 2,
+      "score": 12,
+      "level": "INSUFFICIENT DATA",
+      "trend": "STABLE",
+      "confidence": "LOW",
+      "assessment_status": "INSUFFICIENT_DATA",
+      "events_7d": 1,
       "events_30d": 24,
-      "baseline_7d_equivalent": 6.7,
-      "tempo_ratio": 0.39,
+      "baseline_7d_equivalent": 7.0,
+      "tempo_ratio": 0.25,
       "drivers": [
-        "2 fused candidate event(s) in 7 days",
-        "2 significant/major event(s)"
+        "1 fused candidate event(s) in 7 days",
+        "1 significant/major event(s)"
       ],
-      "independent_domains_7d": 2
+      "independent_domains_7d": 1
     }
   },
   "method_note": "Experimental research indicator derived from fused candidate events, recent country-relative tempo, significance, militant activity, civilian-threat signals, geographic spread and corroboration. It is not a travel advisory, verified incident count, or forecast. Collection gaps reduce confidence rather than automatically reducing threat."

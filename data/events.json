@@ -6208,6 +6208,104 @@
     ]
   },
   {
+    "id": "787c77ecb5863085ad224839479ebc2a0ea1b94d",
+    "event_date": "2026-10-23",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-07T01:45:02Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-07T06:10:55.065037Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Kidal",
+    "lat": 18.4411,
+    "lng": 1.4078,
+    "locations": [
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Assessment of the military operations of the Fama of mid-September 2026: The Dirpa reports 4880 fighters...",
+    "summary": "Review of the military operations of the Fama of mid-September 2026: Dirpa reports 4,880 neutralized fighters and more than 162 bases destroyed During its traditional press briefing, held on Friday, October 23, 2026, the Directorate of Information and Public Relations of the Armed Forces (Dirpa) presented the review of the operations conducted by the Malian Armed Forces (FAMa) between May and September 2026 According to its director, Colonel-Major Boubacar Bocar Maiga, the operations made it possible to neutralize more than 4,880 fighters of the armed groups and to destroy more than 162 bases.",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/armee/bilan-des-operations-militaires-des-fama-de-mi-septembre-2026-la-3121236.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/armee/bilan-des-operations-militaires-des-fama-de-mi-septembre-2026-la-3121236.html",
+        "source": "Maliweb",
+        "title": "Assessment of the military operations of the Fama of mid-September 2026: The Dirpa reports 4880 fighters...",
+        "summary": "Review of the military operations of the Fama of mid-September 2026: Dirpa reports 4,880 neutralized fighters and more than 162 bases destroyed During its traditional press briefing, held on Friday, October 23, 2026, the Directorate of Information and Public Relations of the Armed Forces (Dirpa) presented the review of the operations conducted by the Malian Armed Forces (FAMa) between May and September 2026 According to its director, Colonel-Major Boubacar Bocar Maiga, the operations made it possible to neutralize more than 4,880 fighters of the armed groups and to destroy more than 162 bases.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-07T06:10:55.065037Z",
+    "updated_at": "2026-11-07T06:10:55.065037Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-07T06:10:55.065037Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "6c2ca32feafd33520d66468a1040ec99d82a484b",
     "event_date": "2026-10-23",
     "event_date_confidence": "explicit-text",
