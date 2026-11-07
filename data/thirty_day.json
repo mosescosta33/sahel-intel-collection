@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-07T15:02:01.933067Z",
+  "generated_at": "2026-11-07T20:23:35.726913Z",
   "window_days": 30,
   "cutoff": "2026-10-08",
-  "reports": 775,
-  "incident_reports": 198,
+  "reports": 773,
+  "incident_reports": 197,
   "candidate_events": 120,
   "corroborated_events": 37,
   "mapped_events": 84,
   "mapped_locations": 145,
-  "distinct_sources": 83,
+  "distinct_sources": 82,
   "by_actor": {
     "State": 64,
     "Other": 29,
@@ -36,8 +36,8 @@
   },
   "by_language": {
     "fr": 638,
-    "en": 96,
-    "ar": 41
+    "en": 93,
+    "ar": 42
   },
   "by_confidence": {
     "low": 57,
@@ -49,12 +49,12 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 100
+      "count": 99
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 78
+      "count": 80
     },
     {
       "source_code": "SRC-0075",
@@ -64,7 +64,7 @@
     {
       "source_code": "SRC-0090",
       "source": "AllAfrica (Édition Française)",
-      "count": 35
+      "count": 34
     },
     {
       "source_code": "SRC-0005",
@@ -77,11 +77,6 @@
       "count": 28
     },
     {
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "count": 26
-    },
-    {
       "source_code": "SRC-0001",
       "source": "RFI Afrique",
       "count": 25
@@ -89,12 +84,12 @@
     {
       "source_code": "SRC-0014",
       "source": "Agence Nigérienne de Presse",
-      "count": 24
+      "count": 25
     },
     {
-      "source_code": "SRC-0121",
-      "source": "AllAfrica (English Edition)",
-      "count": 20
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "count": 25
     },
     {
       "source_code": "SRC-0015",
@@ -102,8 +97,13 @@
       "count": 19
     },
     {
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
+      "source_code": "SRC-0121",
+      "source": "AllAfrica (English Edition)",
+      "count": 19
+    },
+    {
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
       "count": 17
     }
   ],
@@ -300,12 +300,12 @@
     },
     {
       "date": "2026-11-06",
-      "reports": 22,
+      "reports": 23,
       "events": 1
     },
     {
       "date": "2026-11-07",
-      "reports": 7,
+      "reports": 12,
       "events": 0
     }
   ],
@@ -3490,6 +3490,96 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-07T19:22:36Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T20:21:57.502852Z",
+      "discovered_at": "2026-11-07T20:21:57.502852Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0164",
+      "source": "Echorouk Online (الشروق أونلاين)",
+      "language": "en",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "No European Oversight of Algeria–Niger Sovereign Agreement",
+      "url": "https://www.echoroukonline.com/no-european-oversight-of-algeria-niger-sovereign-agreement"
+    },
+    {
+      "published_at": "2026-11-07T18:30:57Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T20:21:57.225164Z",
+      "discovered_at": "2026-11-07T20:21:57.225164Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0164",
+      "source": "Echorouk Online (الشروق أونلاين)",
+      "language": "ar",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "No European Custody of the Sovereign Agreement between Algeria and Niger",
+      "url": "https://www.echoroukonline.com/%d9%84%d8%a7-%d9%88%d8%b5%d8%a7%d9%8a%d8%a9-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d9%8a-%d8%a8"
+    },
+    {
+      "published_at": "2026-11-07T15:40:12Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T20:21:57.304380Z",
+      "discovered_at": "2026-11-07T20:21:57.304380Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0034",
+      "source": "TV5MONDE Afrique",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Image Africa Prohibition of clandestine gold panning in Guinea: thousands of foreigners arrested, including Malians and Burkinabe, forced to leave",
+      "url": "https://information.tv5monde.com/afrique/interdiction-de-lorpaillage-clandestin-en-guinee-des-milliers-detrangers-interpelles-dont-des-maliens-et-burkinabe-contraints-de-partir-2844920"
+    },
+    {
+      "published_at": "2026-11-07T15:11:21Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T20:21:57.026404Z",
+      "discovered_at": "2026-11-07T20:21:57.026404Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "DGCC news flash: 665 tankers arrive in Bamako",
+      "url": "https://malijet.com/actualite_economique_du_mali/312720-flash-info-dgcc-665-camions-citernes-arrivent-a-bamako.html"
+    },
+    {
+      "published_at": "2026-11-07T14:51:46Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T20:21:56.783993Z",
+      "discovered_at": "2026-11-07T20:21:56.783993Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Rejected gold miners from Guinea: Mali organizes repatriation and reception",
+      "url": "https://malijet.com/a_la_une_du_mali/312719-orpailleurs-refoules-de-guinee-le-mali-organise-le-rapatri.html"
+    },
+    {
       "published_at": "2026-11-07T13:50:08Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -3976,6 +4066,24 @@
       "url": "https://www.rfi.fr/fr/afrique/20261106-guin%C3%A9e-l-orpaillage-anarchique-interdit-dans-le-nord-est-ouagadougou-d%C3%A9nonce-l-expulsion-de-burkinab%C3%A8"
     },
     {
+      "published_at": "2026-11-06T07:56:07Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-07T20:21:58.232035Z",
+      "discovered_at": "2026-11-07T20:21:58.232035Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Agadez",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Celebration in Agadez of the 72nd anniversary of the outbreak of the glorious Algerian Revolution",
+      "url": "https://anp.ne/celebration-a-agadez-du-72%e1%b5%89-anniversaire-du-declenchement-de-la-glorieuse-revolution-algerienne/"
+    },
+    {
       "published_at": "2026-11-06T07:03:43Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4100,114 +4208,6 @@
       "candidate_event": false,
       "title": "Niafunké: Two kamikaze drones miss their targets, FAMa reaction welcomed",
       "url": "https://amap.ml/2026/11/05/niafunke-deux-drones-kamikazes-manquent-leurs-cibles-la-reaction-des-fama-saluee/"
-    },
-    {
-      "published_at": "2026-11-05T16:47:42Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T22:10:19.450137Z",
-      "discovered_at": "2026-11-05T22:10:19.450137Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0007",
-      "source": "Journal du Mali",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "Gold miners from Guinea: Bamako facing the influx",
-      "url": "https://journaldumali.com/orpailleurs-venus-de-guinee-bamako-face-a-lafflux/"
-    },
-    {
-      "published_at": "2026-11-05T14:57:09Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T22:10:24.916109Z",
-      "discovered_at": "2026-11-05T22:10:24.916109Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0119",
-      "source": "Daily Trust (Nigeria)",
-      "language": "en",
-      "actor": null,
-      "country": null,
-      "city": null,
-      "event_type": "kidnapping",
-      "candidate_event": false,
-      "title": "Sahel Conference urges media to drive food security accountability",
-      "url": "https://dailytrust.com/sahel-conference-urges-media-to-drive-food-security-accountability/"
-    },
-    {
-      "published_at": "2026-11-05T12:05:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:39.947153Z",
-      "discovered_at": "2026-11-06T16:03:39.947153Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Koro, Sandaré and Sofara: Flood of fire on terrorists As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, conducted airstrikes between 03 and 04 November 2026. These operations made it possible to target two bases of armed terrorist groups in different localities of our country.",
-      "url": "https://www.lessor.ml/posts/koro-sandare-et-sofara-deluge-de-feu-sur-les-terroristes-6aec70ecc564e"
-    },
-    {
-      "published_at": "2026-11-05T11:56:37Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:15.160916Z",
-      "discovered_at": "2026-11-05T12:32:15.160916Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "offensive/campaign",
-      "candidate_event": true,
-      "title": "Operation Dougoukoloko: the FAMa strike several terrorist positions and continue their offensive to secure the national territory",
-      "url": "https://bamada.net/operation-dougoukoloko-les-fama-frappent-plusieurs-positions-terroristes-et-poursuivent-leur-offensive-de-securisation-du-territoire-national"
-    },
-    {
-      "published_at": "2026-11-05T11:40:40Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:21.278868Z",
-      "discovered_at": "2026-11-05T12:32:21.278868Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0039",
-      "source": "Afrik.com",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Burkina Faso",
-      "city": "Ouahigouya",
-      "event_type": "attack",
-      "candidate_event": true,
-      "title": "Burkina Faso: in Soubo, a gold mine burned in retaliation for abuses against the Fulani, according to witnesses",
-      "url": "https://www.afrik.com/burkina-faso-a-soubo-une-mine-d-or-incendiee-en-represailles-aux-exactions-contre-les-peuls-selon-des-temoins"
-    },
-    {
-      "published_at": "2026-11-05T11:22:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:20.102956Z",
-      "discovered_at": "2026-11-05T12:32:20.102956Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0086",
-      "source": "Dakaractu",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "Prohibited gold panning in Guinea: Bamako and Ouagadougou agree on the return of their nationals",
-      "url": "https://www.dakaractu.com/Orpaillage-interdit-en-Guinee-Bamako-et-Ouagadougou-s-accordent-pour-le-retour-de-leurs-ressortissants_a277853.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
