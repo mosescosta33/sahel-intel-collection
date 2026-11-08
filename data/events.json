@@ -39,16 +39,20 @@
       }
     ],
     "title": "Operation Dougoukoloko: the FAMa neutralize several terrorist groups in Menaka and Kidal",
-    "summary": "The General Staff of the Armed Forces informs the national opinion that the Malian Armed Forces (FAMa), supported by their partners, are continuing the permanent operations of surveillance, control and security of the national territory as part of Operation Dougoukoloko . On Friday, November 6, 2026, the exploitation of precise intelligence made it possible to locate, about fifty (50) kilometers southwest of the city of Menaka, a group of terrorists with war materials.",
+    "summary": "In its statement issued this Sunday, the General Staff of the Armed Forces indicates that on Friday, November 6, 2026, the exploitation of precise intelligence made it possible to locate, about fifty kilometers southwest of the city of Menaka, a group of terrorists with war materials. He specifies that after confirming the target, the position was hit successfully In addition, the military hierarchy reports that on Saturday, November 7, 2026, another group of terrorists, also equipped with war materials, was identified about ninety kilometers south of the city of Kidal.",
     "sources": [
-      "Bamada"
+      "Bamada",
+      "L'Essor",
+      "Malijet"
     ],
     "languages": [
       "fr"
     ],
-    "source_count": 1,
+    "source_count": 3,
     "report_urls": [
-      "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-regroupements-terroristes-a-menaka-et-kidal"
+      "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-regroupements-terroristes-a-menaka-et-kidal",
+      "https://www.lessor.ml/posts/menaka-et-kidal-plusieurs-regroupements-terroristes-neutralises-par-les-fama-6af0cfe0183ca",
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312728-operation-dougoukoloko-les-fama-frappent-plusieurs-positio-1.html"
     ],
     "report_summaries": [
       {
@@ -68,10 +72,46 @@
         ],
         "civilian_targeting_flag": false,
         "casualty_claims": []
+      },
+      {
+        "url": "https://www.lessor.ml/posts/menaka-et-kidal-plusieurs-regroupements-terroristes-neutralises-par-les-fama-6af0cfe0183ca",
+        "source": "L'Essor",
+        "title": "Menaka and Kidal: Several terrorist groups neutralized by the FAMa",
+        "summary": "In its statement issued this Sunday, the General Staff of the Armed Forces indicates that on Friday, November 6, 2026, the exploitation of precise intelligence made it possible to locate, about fifty kilometers southwest of the city of Menaka, a group of terrorists with war materials. He specifies that after confirming the target, the position was hit successfully In addition, the military hierarchy reports that on Saturday, November 7, 2026, another group of terrorists, also equipped with war materials, was identified about ninety kilometers south of the city of Kidal.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312728-operation-dougoukoloko-les-fama-frappent-plusieurs-positio-1.html",
+        "source": "Malijet",
+        "title": "Operation Dougoukoloko: the FAMa strike several terrorist positions in Menaka and Kidal",
+        "summary": "The Malian Armed Forces (FAMa) carried out several strikes against positions of terrorist armed groups in the regions of Menaka and Kidal, on 6 and 7 November 2026, as part of Operation Dougoukoloko According to the General Staff of the Armed Forces, a first group of terrorists with war material was located on Friday, November 6, about 50 km southwest of Menaka.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
       }
     ],
     "created_at": "2026-11-08T15:22:34.680035Z",
-    "updated_at": "2026-11-08T15:22:34.680035Z",
+    "updated_at": "2026-11-08T20:36:53.055866Z",
     "extraction_confidence": "moderate",
     "victim_categories": [
       "armed_group"
@@ -91,16 +131,29 @@
         "at": "2026-11-08T15:22:34.680035Z",
         "type": "event_created",
         "source": "Bamada"
+      },
+      {
+        "at": "2026-11-08T20:36:54.698824Z",
+        "type": "corroboration_or_geography_update",
+        "source": "L'Essor"
+      },
+      {
+        "at": "2026-11-08T20:36:53.055866Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Malijet"
       }
     ],
-    "corroboration": "single-source",
-    "confidence": "moderate",
+    "corroboration": "multi-source",
+    "confidence": "moderate-high",
     "independent_source_domains": [
-      "bamada.net"
+      "bamada.net",
+      "lessor.ml",
+      "malijet.com"
     ],
-    "independent_source_count": 1,
+    "independent_source_count": 3,
     "significance": "MAJOR",
     "significance_reasons": [
+      "multi-source corroboration",
       "multi-location activity"
     ]
   },

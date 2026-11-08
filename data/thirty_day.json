@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-08T15:24:27.498317Z",
+  "generated_at": "2026-11-08T20:38:28.839796Z",
   "window_days": 30,
   "cutoff": "2026-10-09",
   "reports": 773,
   "incident_reports": 194,
   "candidate_events": 117,
-  "corroborated_events": 36,
+  "corroborated_events": 37,
   "mapped_events": 82,
   "mapped_locations": 143,
   "distinct_sources": 82,
@@ -34,26 +34,26 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 637,
-    "en": 94,
+    "fr": 638,
+    "en": 93,
     "ar": 42
   },
   "by_confidence": {
     "low": 56,
-    "moderate": 49,
-    "moderate-high": 11,
+    "moderate": 48,
+    "moderate-high": 12,
     "high": 1
   },
   "top_sources": [
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 100
+      "count": 101
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 79
+      "count": 80
     },
     {
       "source_code": "SRC-0075",
@@ -78,7 +78,7 @@
     {
       "source_code": "SRC-0001",
       "source": "RFI Afrique",
-      "count": 26
+      "count": 25
     },
     {
       "source_code": "SRC-0014",
@@ -88,7 +88,7 @@
     {
       "source_code": "SRC-0079",
       "source": "L'Essor",
-      "count": 24
+      "count": 25
     },
     {
       "source_code": "SRC-0015",
@@ -304,7 +304,7 @@
     },
     {
       "date": "2026-11-08",
-      "reports": 14,
+      "reports": 19,
       "events": 0
     }
   ],
@@ -349,16 +349,20 @@
         }
       ],
       "title": "Operation Dougoukoloko: the FAMa neutralize several terrorist groups in Menaka and Kidal",
-      "summary": "The General Staff of the Armed Forces informs the national opinion that the Malian Armed Forces (FAMa), supported by their partners, are continuing the permanent operations of surveillance, control and security of the national territory as part of Operation Dougoukoloko . On Friday, November 6, 2026, the exploitation of precise intelligence made it possible to locate, about fifty (50) kilometers southwest of the city of Menaka, a group of terrorists with war materials.",
+      "summary": "In its statement issued this Sunday, the General Staff of the Armed Forces indicates that on Friday, November 6, 2026, the exploitation of precise intelligence made it possible to locate, about fifty kilometers southwest of the city of Menaka, a group of terrorists with war materials. He specifies that after confirming the target, the position was hit successfully In addition, the military hierarchy reports that on Saturday, November 7, 2026, another group of terrorists, also equipped with war materials, was identified about ninety kilometers south of the city of Kidal.",
       "sources": [
-        "Bamada"
+        "Bamada",
+        "L'Essor",
+        "Malijet"
       ],
       "languages": [
         "fr"
       ],
-      "source_count": 1,
+      "source_count": 3,
       "report_urls": [
-        "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-regroupements-terroristes-a-menaka-et-kidal"
+        "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-regroupements-terroristes-a-menaka-et-kidal",
+        "https://www.lessor.ml/posts/menaka-et-kidal-plusieurs-regroupements-terroristes-neutralises-par-les-fama-6af0cfe0183ca",
+        "https://malijet.com/actualte_dans_les_regions_du_mali/312728-operation-dougoukoloko-les-fama-frappent-plusieurs-positio-1.html"
       ],
       "report_summaries": [
         {
@@ -378,10 +382,46 @@
           ],
           "civilian_targeting_flag": false,
           "casualty_claims": []
+        },
+        {
+          "url": "https://www.lessor.ml/posts/menaka-et-kidal-plusieurs-regroupements-terroristes-neutralises-par-les-fama-6af0cfe0183ca",
+          "source": "L'Essor",
+          "title": "Menaka and Kidal: Several terrorist groups neutralized by the FAMa",
+          "summary": "In its statement issued this Sunday, the General Staff of the Armed Forces indicates that on Friday, November 6, 2026, the exploitation of precise intelligence made it possible to locate, about fifty kilometers southwest of the city of Menaka, a group of terrorists with war materials. He specifies that after confirming the target, the position was hit successfully In addition, the military hierarchy reports that on Saturday, November 7, 2026, another group of terrorists, also equipped with war materials, was identified about ninety kilometers south of the city of Kidal.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        },
+        {
+          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312728-operation-dougoukoloko-les-fama-frappent-plusieurs-positio-1.html",
+          "source": "Malijet",
+          "title": "Operation Dougoukoloko: the FAMa strike several terrorist positions in Menaka and Kidal",
+          "summary": "The Malian Armed Forces (FAMa) carried out several strikes against positions of terrorist armed groups in the regions of Menaka and Kidal, on 6 and 7 November 2026, as part of Operation Dougoukoloko According to the General Staff of the Armed Forces, a first group of terrorists with war material was located on Friday, November 6, about 50 km southwest of Menaka.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
         }
       ],
       "created_at": "2026-11-08T15:22:34.680035Z",
-      "updated_at": "2026-11-08T15:22:34.680035Z",
+      "updated_at": "2026-11-08T20:36:53.055866Z",
       "extraction_confidence": "moderate",
       "victim_categories": [
         "armed_group"
@@ -401,16 +441,29 @@
           "at": "2026-11-08T15:22:34.680035Z",
           "type": "event_created",
           "source": "Bamada"
+        },
+        {
+          "at": "2026-11-08T20:36:54.698824Z",
+          "type": "corroboration_or_geography_update",
+          "source": "L'Essor"
+        },
+        {
+          "at": "2026-11-08T20:36:53.055866Z",
+          "type": "corroboration_or_geography_update",
+          "source": "Malijet"
         }
       ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
+      "corroboration": "multi-source",
+      "confidence": "moderate-high",
       "independent_source_domains": [
-        "bamada.net"
+        "bamada.net",
+        "lessor.ml",
+        "malijet.com"
       ],
-      "independent_source_count": 1,
+      "independent_source_count": 3,
       "significance": "MAJOR",
       "significance_reasons": [
+        "multi-source corroboration",
         "multi-location activity"
       ]
     },
@@ -3498,6 +3551,96 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-08T19:58:17Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T20:36:52.891950Z",
+      "discovered_at": "2026-11-08T20:36:52.891950Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0081",
+      "source": "Le Pays (Burkina Faso)",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Diré",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "EXPULSION OF BURKINABE orphans from Guinea: Lessons to be learned",
+      "url": "https://lepays.bf/expulsion-dorpailleurs-burkinabe-de-guinee-les-lecons-a-tirer/"
+    },
+    {
+      "published_at": "2026-11-08T19:50:16Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T20:36:52.235545Z",
+      "discovered_at": "2026-11-08T20:36:52.235545Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "MALIAN ARMED FORCES: The Chief of the General Staff of the Armed Forces completes his tour of authority visits to the Directorate of Information and Public Relations of the Armed Forces (DIRPA)",
+      "url": "https://bamada.net/forces-armees-maliennes-le-chef-detat-major-general-des-armees-acheve-sa-tournee-de-visites-dautorite-a-la-direction-de-linformation-et-des-relations-publiques-des-armees"
+    },
+    {
+      "published_at": "2026-11-08T19:39:12Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T20:36:54.698824Z",
+      "discovered_at": "2026-11-08T20:36:54.698824Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Ménaka",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Menaka and Kidal: Several terrorist groups neutralized by the FAMa",
+      "url": "https://www.lessor.ml/posts/menaka-et-kidal-plusieurs-regroupements-terroristes-neutralises-par-les-fama-6af0cfe0183ca"
+    },
+    {
+      "published_at": "2026-11-08T17:39:33Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T20:36:56.381778Z",
+      "discovered_at": "2026-11-08T20:36:56.381778Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0018",
+      "source": "Aïr Info",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Arlit",
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Arlit: civil society calls on the European Union and puts on the table the consequences of more than 50 years of uranium exploitation by Orano",
+      "url": "https://airinfoagadez.com/2026/11/08/arlit-la-societe-civile-interpelle-lunion-europeenne-et-remet-sur-la-table-les-consequences-de-plus-de-50-ans-dexploitation-de-luranium-par-orano/"
+    },
+    {
+      "published_at": "2026-11-08T15:40:34Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T20:36:53.055866Z",
+      "discovered_at": "2026-11-08T20:36:53.055866Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Ménaka",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Operation Dougoukoloko: the FAMa strike several terrorist positions in Menaka and Kidal",
+      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312728-operation-dougoukoloko-les-fama-frappent-plusieurs-positio-1.html"
+    },
+    {
       "published_at": "2026-11-08T14:16:02Z",
       "published_date_source": "feed",
       "published_time_precision": "datetime",
@@ -4126,96 +4269,6 @@
       "candidate_event": false,
       "title": "Zinder/Defense: Official presentation to the flag of the 2025 contingent at the CI/FAN of Aroungouza",
       "url": "https://www.lesahel.org/zinder-defense-presentation-officielle-au-drapeau-du-contingent-2025-au-ci-fan-daroungouza/"
-    },
-    {
-      "published_at": "2026-11-06T16:21:05Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T21:37:13.071020Z",
-      "discovered_at": "2026-11-06T21:37:13.071020Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: One month after the takeover of Kidal, why the army has not advanced in the region",
-      "url": "https://fr.allafrica.com/stories/202611060574.html"
-    },
-    {
-      "published_at": "2026-11-06T16:19:04Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T21:37:15.265998Z",
-      "discovered_at": "2026-11-06T21:37:15.265998Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0013",
-      "source": "Wakat Sera",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": "kidnapping",
-      "candidate_event": false,
-      "title": "Burkina: King Gan \"officially\" declared \"dead\" four years after his abduction",
-      "url": "https://www.wakatsera.com/burkina-le-roi-gan-officiellement-declare-mort-quatre-ans-apres-son-enlevement/"
-    },
-    {
-      "published_at": "2026-11-06T15:14:16Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:46.388850Z",
-      "discovered_at": "2026-11-06T16:03:46.388850Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Niger: EU calls on Algeria to deploy its troops",
-      "url": "https://lanouvelletribune.info/2026/11/niger-lue-interpelle-lalgerie-sur-le-deploiement-de-ses-troupes/"
-    },
-    {
-      "published_at": "2026-11-06T13:55:15Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T21:37:10.471767Z",
-      "discovered_at": "2026-11-06T21:37:10.471767Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": "offensive/campaign",
-      "candidate_event": true,
-      "title": "Burkina Faso: 200 new tractors to accelerate agricultural mechanization",
-      "url": "https://burkina24.com/2026/11/06/burkina-faso-200-nouveaux-tracteurs-pour-accelerer-la-mecanisation-agricole/"
-    },
-    {
-      "published_at": "2026-11-06T12:42:21Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:39.601480Z",
-      "discovered_at": "2026-11-06T16:03:39.601480Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: one month after the takeover of Kidal, why the army has not advanced in the region",
-      "url": "https://www.rfi.fr/fr/afrique/20261106-mali-un-mois-apr%C3%A8s-la-reprise-de-kidal-pourquoi-l-arm%C3%A9e-n-a-plus-progress%C3%A9-dans-la-r%C3%A9gion"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
