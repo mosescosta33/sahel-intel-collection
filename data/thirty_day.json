@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-08T06:15:56.991874Z",
+  "generated_at": "2026-11-08T15:24:27.498317Z",
   "window_days": 30,
   "cutoff": "2026-10-09",
-  "reports": 771,
-  "incident_reports": 195,
-  "candidate_events": 116,
+  "reports": 773,
+  "incident_reports": 194,
+  "candidate_events": 117,
   "corroborated_events": 36,
-  "mapped_events": 81,
-  "mapped_locations": 141,
+  "mapped_events": 82,
+  "mapped_locations": 143,
   "distinct_sources": 82,
   "by_actor": {
-    "State": 61,
+    "State": 62,
     "Other": 29,
     "JNIM": 13,
     "Africa Corps/Wagner": 7,
     "IS Sahel": 6
   },
   "by_country": {
-    "Mali": 83,
+    "Mali": 84,
     "Niger": 24,
     "Burkina Faso": 9
   },
   "by_event_type": {
-    "security operation": 46,
+    "security operation": 47,
     "attack": 17,
     "clash": 12,
     "civilian targeting": 10,
@@ -35,12 +35,12 @@
   },
   "by_language": {
     "fr": 637,
-    "en": 92,
+    "en": 94,
     "ar": 42
   },
   "by_confidence": {
     "low": 56,
-    "moderate": 48,
+    "moderate": 49,
     "moderate-high": 11,
     "high": 1
   },
@@ -53,7 +53,7 @@
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 80
+      "count": 79
     },
     {
       "source_code": "SRC-0075",
@@ -61,24 +61,24 @@
       "count": 38
     },
     {
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "count": 34
-    },
-    {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 30
+      "count": 33
     },
     {
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "count": 27
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
+      "count": 32
     },
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
-      "count": 27
+      "count": 28
+    },
+    {
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "count": 26
     },
     {
       "source_code": "SRC-0014",
@@ -88,17 +88,17 @@
     {
       "source_code": "SRC-0079",
       "source": "L'Essor",
-      "count": 25
+      "count": 24
     },
     {
       "source_code": "SRC-0015",
       "source": "ActuNiger",
-      "count": 19
+      "count": 20
     },
     {
-      "source_code": "SRC-0121",
-      "source": "AllAfrica (English Edition)",
-      "count": 18
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
+      "count": 17
     },
     {
       "source_code": "SRC-0034",
@@ -113,7 +113,7 @@
     },
     {
       "location": "Ménaka",
-      "count": 21
+      "count": 22
     },
     {
       "location": "Agadez",
@@ -129,7 +129,7 @@
     },
     {
       "location": "Kidal",
-      "count": 11
+      "count": 12
     },
     {
       "location": "Ségou",
@@ -279,7 +279,7 @@
     },
     {
       "date": "2026-11-03",
-      "reports": 29,
+      "reports": 30,
       "events": 5
     },
     {
@@ -295,7 +295,7 @@
     {
       "date": "2026-11-06",
       "reports": 23,
-      "events": 1
+      "events": 2
     },
     {
       "date": "2026-11-07",
@@ -304,11 +304,116 @@
     },
     {
       "date": "2026-11-08",
-      "reports": 2,
+      "reports": 14,
       "events": 0
     }
   ],
   "latest_events": [
+    {
+      "id": "b0e994fa053a6232295e77ddf8acc1ba013f983c",
+      "event_date": "2026-11-06",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-08T14:16:02Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:34.680035Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Ménaka",
+      "lat": 15.9182,
+      "lng": 2.4022,
+      "locations": [
+        {
+          "name": "Ménaka",
+          "country": "Mali",
+          "lat": 15.9182,
+          "lng": 2.4022,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Kidal",
+          "country": "Mali",
+          "lat": 18.4411,
+          "lng": 1.4078,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Operation Dougoukoloko: the FAMa neutralize several terrorist groups in Menaka and Kidal",
+      "summary": "The General Staff of the Armed Forces informs the national opinion that the Malian Armed Forces (FAMa), supported by their partners, are continuing the permanent operations of surveillance, control and security of the national territory as part of Operation Dougoukoloko . On Friday, November 6, 2026, the exploitation of precise intelligence made it possible to locate, about fifty (50) kilometers southwest of the city of Menaka, a group of terrorists with war materials.",
+      "sources": [
+        "Bamada"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-regroupements-terroristes-a-menaka-et-kidal"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-regroupements-terroristes-a-menaka-et-kidal",
+          "source": "Bamada",
+          "title": "Operation Dougoukoloko: the FAMa neutralize several terrorist groups in Menaka and Kidal",
+          "summary": "The General Staff of the Armed Forces informs the national opinion that the Malian Armed Forces (FAMa), supported by their partners, are continuing the permanent operations of surveillance, control and security of the national territory as part of Operation Dougoukoloko . On Friday, November 6, 2026, the exploitation of precise intelligence made it possible to locate, about fifty (50) kilometers southwest of the city of Menaka, a group of terrorists with war materials.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-08T15:22:34.680035Z",
+      "updated_at": "2026-11-08T15:22:34.680035Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-08T15:22:34.680035Z",
+          "type": "event_created",
+          "source": "Bamada"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "bamada.net"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "multi-location activity"
+      ]
+    },
     {
       "id": "f239d8d69497cf5763f35887d9f46a3549ef2134",
       "event_date": "2026-11-06",
@@ -3389,105 +3494,207 @@
       "significance_reasons": [
         "strategic/severe event pattern"
       ]
-    },
-    {
-      "id": "a04ddf0542df99d0ba801a86be5c0abf83a528b8",
-      "event_date": "2026-10-27",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-10-30T21:55:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T20:55:34.404097Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "air/drone strike",
-      "country": "Niger",
-      "city": "Agadez",
-      "lat": 16.9733,
-      "lng": 7.9911,
-      "locations": [
-        {
-          "name": "Agadez",
-          "country": "Niger",
-          "lat": 16.9733,
-          "lng": 7.9911,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Press release following the drone strike in the Agadez region: the CDTN reaffirms its commitment to the sovereignty of Niger and the defence of the fundamental interests of the Nigerien people",
-      "summary": "The Democratic Confederation of Niger Workers (CDTN) has taken note of the official communiqué of the Government dated 27 October 2026, relating to the drone strike that occurred on 24 October 2026 in the Emiloulou area, Agadez region, which, according to the authorities, resulted in the death of two civilians, injuries and material damage.",
-      "sources": [
-        "Le Sahel"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.lesahel.org/communique-de-presse-suite-a-la-frappe-de-drone-survenue-dans-la-region-dagadez-la-cdtn-reaffirme-son-attachement-a-la-souverainete-du-niger-et-a-la-defense-des-interets-fondamentaux-du-peuple-nig/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.lesahel.org/communique-de-presse-suite-a-la-frappe-de-drone-survenue-dans-la-region-dagadez-la-cdtn-reaffirme-son-attachement-a-la-souverainete-du-niger-et-a-la-defense-des-interets-fondamentaux-du-peuple-nig/",
-          "source": "Le Sahel",
-          "title": "Press release following the drone strike in the Agadez region: the CDTN reaffirms its commitment to the sovereignty of Niger and the defence of the fundamental interests of the Nigerien people",
-          "summary": "The Democratic Confederation of Niger Workers (CDTN) has taken note of the official communiqué of the Government dated 27 October 2026, relating to the drone strike that occurred on 24 October 2026 in the Emiloulou area, Agadez region, which, according to the authorities, resulted in the death of two civilians, injuries and material damage.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-30T20:55:34.404097Z",
-      "updated_at": "2026-10-30T20:55:34.404097Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-30T20:55:34.404097Z",
-          "type": "event_created",
-          "source": "Le Sahel"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "lesahel.org"
-      ],
-      "independent_source_count": 1,
-      "significance": "ROUTINE",
-      "significance_reasons": [
-        "limited currently observed significance"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-08T14:16:02Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:34.680035Z",
+      "discovered_at": "2026-11-08T15:22:34.680035Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Ménaka",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Operation Dougoukoloko: the FAMa neutralize several terrorist groups in Menaka and Kidal",
+      "url": "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-regroupements-terroristes-a-menaka-et-kidal"
+    },
+    {
+      "published_at": "2026-11-08T14:06:47Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:34.656558Z",
+      "discovered_at": "2026-11-08T15:22:34.656558Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "DSSA: Chief of the General Staff of the Armed Forces on an official visit",
+      "url": "https://bamada.net/dssa-le-chef-detat-major-general-des-armees-en-visite-dautorite"
+    },
+    {
+      "published_at": "2026-11-08T13:46:59Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:34.439478Z",
+      "discovered_at": "2026-11-08T15:22:34.439478Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0119",
+      "source": "Daily Trust (Nigeria)",
+      "language": "en",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Kaya",
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "Bandits Burn 12 Family Members Alive In Zamfara Community",
+      "url": "https://dailytrust.com/bandits-burn-12-family-members-alive-in-zamfara-community/"
+    },
+    {
+      "published_at": "2026-11-08T13:36:35Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:34.947106Z",
+      "discovered_at": "2026-11-08T15:22:34.947106Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0117",
+      "source": "Vanguard News (Nigeria)",
+      "language": "en",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Kaya",
+      "event_type": "kidnapping",
+      "candidate_event": false,
+      "title": "Bandits kill 12 family members, abduct others in Zamfara",
+      "url": "https://www.vanguardngr.com/2026/11/bandits-kill-12-family-members-abduct-others-in-zamfara/"
+    },
+    {
+      "published_at": "2026-11-08T12:23:20Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:36.440463Z",
+      "discovered_at": "2026-11-08T15:22:36.440463Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Gao",
+      "event_type": "kidnapping",
+      "candidate_event": false,
+      "title": "Gounzoureye: a community leader kidnapped by Al-Qaeda-linked terrorists, his son reportedly killed",
+      "url": "https://amap.ml/2026/11/08/gounzoureye-un-responsable-communautaire-enleve-par-des-terroristes-lies-a-al-qaida-son-fils-aurait-ete-tue/"
+    },
+    {
+      "published_at": "2026-11-08T10:08:05Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:40.185240Z",
+      "discovered_at": "2026-11-08T15:22:40.185240Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Guinea: 1,263 people arrested in the fight against illegal gold panning in Siguiri",
+      "url": "https://www.maliweb.net/societe/immigration-emigration/guinee-1-263-personnes-interpellees-dans-la-lutte-contre-lorpaillage-3121275.html"
+    },
+    {
+      "published_at": "2026-11-08T09:51:48Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:38.390131Z",
+      "discovered_at": "2026-11-08T15:22:38.390131Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Guinea's refouled crisis: 160,000 people registered, Mali and Burkina Faso are accelerating the...",
+      "url": "https://www.maliweb.net/societe/crise-des-refoules-de-guinee-160-000-personnes-recensees-le-mali-et-3121274.html"
+    },
+    {
+      "published_at": "2026-11-08T09:34:44Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:37.177753Z",
+      "discovered_at": "2026-11-08T15:22:37.177753Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Refouled from Guinea: Mali mobilizes 74 trucks and 21 buses for the repatriation of 15,000 gold miners",
+      "url": "https://www.maliweb.net/societe/refoules-de-guinee-le-mali-mobilise-74-camions-et-21-bus-pour-le-3121270.html"
+    },
+    {
+      "published_at": "2026-11-08T09:27:21.414000Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:38.019208Z",
+      "discovered_at": "2026-11-08T15:22:38.019208Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0089",
+      "source": "Le360 Afrique",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Anti-peeling operations in Guinea: 160,000 people returned to Mali",
+      "url": "https://afrique.le360.ma/societe/operations-anti-orpaillage-en-guinee-160000-personnes-refoulees-vers-le-mali_VGQ2KKFLJ5HRDC37FTPHDZ7S6Y/"
+    },
+    {
+      "published_at": "2026-11-08T08:18:10Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:37.398886Z",
+      "discovered_at": "2026-11-08T15:22:37.398886Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0092",
+      "source": "La Nouvelle Tribune (Bénin)",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Diré",
+      "event_type": "clash",
+      "candidate_event": false,
+      "title": "France: Claudy Siar denounces the racism behind the expression \"immigrant background\"",
+      "url": "https://lanouvelletribune.info/2026/11/france-claudy-siar-denonce-le-racisme-derriere-lexpression-issus-de-limmigration/"
+    },
+    {
+      "published_at": "2026-11-08T06:47:19Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T15:22:39.209203Z",
+      "discovered_at": "2026-11-08T15:22:39.209203Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0115",
+      "source": "The Premium Times (Nigeria)",
+      "language": "en",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Tinubu condoles with Niger junta leader over father’s death",
+      "url": "https://www.premiumtimesng.com/news/top-news/923639-tinubu-condoles-with-niger-junta-leader-over-fathers-death.html"
+    },
     {
       "published_at": "2026-11-08T05:02:25Z",
       "published_date_source": "jsonld:datePublished",
@@ -3523,6 +3730,24 @@
       "candidate_event": false,
       "title": "Anti-peeling operations in Guinea: 160,000 people returned to Mali",
       "url": "https://www.seneweb.com/fr/news/Afrique/operations-anti-orpaillage-en-guinee-160000-personnes-refoulees-vers-le-mali_n_999002991.html"
+    },
+    {
+      "published_at": "2026-11-08T00:00:00Z",
+      "published_date_source": "visible-publication-label",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-08T15:22:35.996062Z",
+      "discovered_at": "2026-11-08T15:22:35.996062Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Guinea/ Fight against illegal gold mining: 1,263 people arrested, including Burkinabe",
+      "url": "https://lefaso.net/spip.php?article150611="
     },
     {
       "published_at": "2026-11-07T20:35:24Z",
@@ -3991,222 +4216,6 @@
       "candidate_event": false,
       "title": "Mali: one month after the takeover of Kidal, why the army has not advanced in the region",
       "url": "https://www.rfi.fr/fr/afrique/20261106-mali-un-mois-apr%C3%A8s-la-reprise-de-kidal-pourquoi-l-arm%C3%A9e-n-a-plus-progress%C3%A9-dans-la-r%C3%A9gion"
-    },
-    {
-      "published_at": "2026-11-06T12:04:02Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:39.326801Z",
-      "discovered_at": "2026-11-06T16:03:39.326801Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Operation Dougoukoloko: the FAMa strike two terrorist positions near Kouakourou and Sofara with precision",
-      "url": "https://bamada.net/operation-dougoukoloko-fama-frappent-positions-terroristes-kouakourou-sofara"
-    },
-    {
-      "published_at": "2026-11-06T11:54:20Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:47.012093Z",
-      "discovered_at": "2026-11-06T16:03:47.012093Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Guinea: \"Anarchic\" gold panning banned in the north-east, Ouagadougou denounces the eviction of Burkinabe",
-      "url": "https://fr.allafrica.com/stories/202611060227.html"
-    },
-    {
-      "published_at": "2026-11-06T10:41:34Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:44.697264Z",
-      "discovered_at": "2026-11-06T16:03:44.697264Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0178",
-      "source": "Studio Yafa",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "The terrorism-proof bronze showcase",
-      "url": "https://www.studioyafa.bf/21441-la-vitrine-du-bronze-a-lepreuve-du-terrorisme"
-    },
-    {
-      "published_at": "2026-11-06T10:36:31Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:39.264886Z",
-      "discovered_at": "2026-11-06T16:03:39.264886Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Kouakourou and Sofara: the FAMa strike a base and a terrorist group",
-      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312707-kouakourou-et-sofara-les-fama-frappent-une-base-et-un-grou.html"
-    },
-    {
-      "published_at": "2026-11-06T10:30:39Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:45.770246Z",
-      "discovered_at": "2026-11-06T16:03:45.770246Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0168",
-      "source": "Tchadinfos (النسخة العربية)",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "The think tank CEDYS calls for a diplomatic approach to defuse tensions between Chad and Niger",
-      "url": "https://tchadinfos.com/2026/11/06/le-think-tank-cedys-appelle-a-privilegier-la-voie-diplomatique-pour-desamorcer-les-tensions-entre-le-tchad-et-le-niger/"
-    },
-    {
-      "published_at": "2026-11-06T10:29:38Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:48.999661Z",
-      "discovered_at": "2026-11-06T16:03:48.999661Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Agadez",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Niger receives 1.65 million litres of Algerian fuel",
-      "url": "https://fr.allafrica.com/view/group/main/main/id/00098726.html"
-    },
-    {
-      "published_at": "2026-11-06T10:17:42Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:50.849520Z",
-      "discovered_at": "2026-11-06T16:03:50.849520Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": null,
-      "country": null,
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mamarybougou and Ouenzindougou: The Prime Minister visited the sites of rejected gold miners in Guinea Accompanied by the Minister of Security and Civil Protection and the Minister of Health and Social Development, Prime Minister Abdoulaye Maïga visited the sites of Mamarybougou and Ouenzindougou yesterday, which host citizens of the AES confederation. As you can see, this is a real humanitarian disaster . Thousands of people were registered in Kourémalé before the",
-      "url": "https://www.lessor.ml/posts/mamarybougou-et-ouenzindougou-le-premier-ministre-visite-les-sites-dorpailleurs-refoules-de-la-guinee-6aeda9463d988"
-    },
-    {
-      "published_at": "2026-11-06T09:31:04Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:48.951629Z",
-      "discovered_at": "2026-11-06T16:03:48.951629Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Agadez",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Niger: Niger receives 1.65 million litres of Algerian fuel as shortage persists",
-      "url": "https://fr.allafrica.com/stories/202611060154.html"
-    },
-    {
-      "published_at": "2026-11-06T09:07:25Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:46.565915Z",
-      "discovered_at": "2026-11-06T16:03:46.565915Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Guinea: \"anarchic\" gold panning banned in the north-east, Ouagadougou denounces the eviction of Burkinabe",
-      "url": "https://www.rfi.fr/fr/afrique/20261106-guin%C3%A9e-l-orpaillage-anarchique-interdit-dans-le-nord-est-ouagadougou-d%C3%A9nonce-l-expulsion-de-burkinab%C3%A8"
-    },
-    {
-      "published_at": "2026-11-06T07:56:07Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-07T20:21:58.232035Z",
-      "discovered_at": "2026-11-07T20:21:58.232035Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0014",
-      "source": "Agence Nigérienne de Presse",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Agadez",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Celebration in Agadez of the 72nd anniversary of the outbreak of the glorious Algerian Revolution",
-      "url": "https://anp.ne/celebration-a-agadez-du-72%e1%b5%89-anniversaire-du-declenchement-de-la-glorieuse-revolution-algerienne/"
-    },
-    {
-      "published_at": "2026-11-06T07:03:43Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:50.275292Z",
-      "discovered_at": "2026-11-06T16:03:50.275292Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": "offensive/campaign",
-      "candidate_event": false,
-      "title": "Sahel: Algeria intensifies its offensive...",
-      "url": "https://www.maliweb.net/international/sahel-lalgerie-intensifie-son-offensive-diplomatique-au-niger-et-au-3121232.html"
-    },
-    {
-      "published_at": "2026-11-06T03:44:57Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T06:59:19.780460Z",
-      "discovered_at": "2026-11-06T06:59:19.780460Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0121",
-      "source": "AllAfrica (English Edition)",
-      "language": "en",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Agadez",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Niger: Niger Receives 1.65m Liters of Algerian Fuel As Shortages Persist",
-      "url": "https://allafrica.com/stories/202611060035.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
