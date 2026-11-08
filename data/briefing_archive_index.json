@@ -1,10 +1,18 @@
 {
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
-  "generated_at": "2026-11-07T23:47:28.148969Z",
+  "generated_at": "2026-11-08T06:16:00.036651Z",
   "archive_location": "private repository state/daily_briefing_archive",
-  "archived_count": 259,
+  "archived_count": 260,
   "briefings": [
+    {
+      "reporting_date": "2026-10-06",
+      "events": 5,
+      "reports_collected": 56,
+      "multi_source_events": 4,
+      "collection_confidence": "LOW",
+      "executive_assessment": "Reporting dated 2026-10-06 gives the desk 5 incident accounts to examine in Mali. 4 have support from separate sources. The record is provisional; it does not establish the full extent of violence that day."
+    },
     {
       "reporting_date": "2026-10-05",
       "events": 6,

@@ -1,8 +1,365 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-07T23:47:26.194783Z",
-  "briefing_count": 37,
+  "generated_at": "2026-11-08T06:15:57.774490Z",
+  "briefing_count": 38,
   "briefings": [
+    {
+      "schema_version": "2.0",
+      "product": "Sultana 24-Hour AES Intelligence Brief",
+      "reporting_date": "2026-11-08",
+      "generated_at": "2026-11-08T06:15:57.774490Z",
+      "window_start": "2026-11-07T06:15:57.774490Z",
+      "window_end": "2026-11-08T06:15:57.774490Z",
+      "window_hours": 24,
+      "method": "Sultana 24-hour all-retained-report intelligence synthesis",
+      "freshness_status": "LIVE",
+      "assessment_confidence": "MODERATE",
+      "coverage": {
+        "retained_articles_reviewed": 16,
+        "retained_articles_in_window": 16,
+        "coverage_complete": true,
+        "distinct_sources": 11,
+        "linked_candidate_events": 0,
+        "multi_source_candidate_events": 0,
+        "countries": {
+          "Mali": 8,
+          "Burkina Faso": 2,
+          "Niger": 6
+        },
+        "actors": {
+          "State": 7,
+          "Other": 9
+        },
+        "event_types": {
+          "law enforcement": 3,
+          "attack": 1
+        }
+      },
+      "sections": [
+        {
+          "heading": "BOTTOM LINE",
+          "text": "Sultana reviewed all 16 retained reports collected during the 24-hour window from 11 distinct sources. Reporting was heaviest on Mali (8 reports), while State appeared most often in actor-attributed reporting (7 reports). The same source set is linked to 0 fused candidate events, including 0 with at least two independent sources."
+        },
+        {
+          "heading": "KEY JUDGMENTS",
+          "bullets": [
+            "Reporting distribution: Mali 8, Niger 6, Burkina Faso 2 retained reports.",
+            "Actor posture: State dominated actor-attributed reporting in this window; JNIM 0, IS Sahel 0, AES/state forces 7, Africa Corps/Wagner 0.",
+            "Operational pattern: the leading coded report types were law enforcement (3), attack (1)."
+          ]
+        },
+        {
+          "heading": "Mali",
+          "text": "8 retained reports were reviewed for Mali. Anti-peeling operations in Guinea: 160,000 people returned to Mali: Anti-peening operations in Guinea: 160,000 people turned back to Mali Mali announced on Saturday that it had received about 160,000 people turned back from Guinea after operations conducted by Conakry against illegal… Mali: several tens of thousands of gold miners expelled from Guinea taken care of in Mali: Several tens of thousands of gold miners expelled from Guinea have arrived in Mali in recent days. This massive influx follows the measures taken on 2 November by Conakry to put an end to illegal gold mining . The… Reporting was concentrated on State (3)."
+        },
+        {
+          "heading": "Burkina Faso",
+          "text": "2 retained reports were reviewed for Burkina Faso. Image Africa Prohibition of clandestine gold panning in Guinea: thousands of foreigners arrested, including…: Thousands of foreign gold miners have been arrested in Guinea after the ban on artisanal gold mining in several areas of Siguiri. Conakry invokes environmental protection. Burkina Faso denounces expulsions and… Behind the lull, the war continues in Burkina Faso: Since July, Burkina Faso has recorded a dramatic decline in the number of deaths related to jihadist violence. The military power sees this as confirmation of its security strategy. Yet attacks persist, armed groups…"
+        },
+        {
+          "heading": "Niger",
+          "text": "6 retained reports were reviewed for Niger. Niger: former minister Kalla Moutari still in the gendarmerie, two months after his arrest: In Niger, Kalla Moutari has just spent more than two months in the gendarmerie of Niamey. The former minister and well-known figure of the PNDS was arrested a few days after the destabilization attempt at the end of… No European Oversight of Algeria–Niger Sovereign Agreement: The European Union’s demand for clarification over the deployment of Algerian People’s National Army units in Niger has drawn sharp criticism in Algeria. The deployment, which received parliamentary approval, falls… Reporting was concentrated on State (4)."
+        },
+        {
+          "heading": "ACTOR POSTURE",
+          "text": "JNIM appears in 0 retained reports; IS Sahel in 0; AES/state forces in 7; Africa Corps/Wagner in 0. JNIM is up to 3 from 2; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is down to 9 from 13."
+        },
+        {
+          "heading": "WHAT CHANGED VS BASELINE",
+          "text": "JNIM is up to 3 from 2; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is down to 9 from 13."
+        },
+        {
+          "heading": "INDICATORS TO WATCH — NEXT 24–72 HOURS",
+          "bullets": [
+            "Watch for corroboration, revised dates/locations, and new reporting that changes the current assessment."
+          ]
+        },
+        {
+          "heading": "CONFIDENCE / CAVEATS",
+          "bullets": [
+            "Multiple sources were reviewed, but some developments remain single-source or incompletely corroborated.",
+            "Collection health: 137 sources live, 17 degraded, 30 failed in the latest collector cycle.",
+            "Candidate events and actor attributions remain OSINT-derived analytical records and may change with better sourcing, dates, or geolocation."
+          ]
+        }
+      ],
+      "text": "SULTANA AL-QAHTANI — 24-HOUR AES INTELLIGENCE BRIEF\nReporting date: 2026-11-08\nWindow: 2026-11-07T06:15:57.774490Z to 2026-11-08T06:15:57.774490Z\nAssessment confidence: MODERATE\n\nBOTTOM LINE\nSultana reviewed all 16 retained reports collected during the 24-hour window from 11 distinct sources. Reporting was heaviest on Mali (8 reports), while State appeared most often in actor-attributed reporting (7 reports). The same source set is linked to 0 fused candidate events, including 0 with at least two independent sources.\n\nKEY JUDGMENTS\n• Reporting distribution: Mali 8, Niger 6, Burkina Faso 2 retained reports.\n• Actor posture: State dominated actor-attributed reporting in this window; JNIM 0, IS Sahel 0, AES/state forces 7, Africa Corps/Wagner 0.\n• Operational pattern: the leading coded report types were law enforcement (3), attack (1).\n\nMali\n8 retained reports were reviewed for Mali. Anti-peeling operations in Guinea: 160,000 people returned to Mali: Anti-peening operations in Guinea: 160,000 people turned back to Mali Mali announced on Saturday that it had received about 160,000 people turned back from Guinea after operations conducted by Conakry against illegal… Mali: several tens of thousands of gold miners expelled from Guinea taken care of in Mali: Several tens of thousands of gold miners expelled from Guinea have arrived in Mali in recent days. This massive influx follows the measures taken on 2 November by Conakry to put an end to illegal gold mining . The… Reporting was concentrated on State (3).\n\nBurkina Faso\n2 retained reports were reviewed for Burkina Faso. Image Africa Prohibition of clandestine gold panning in Guinea: thousands of foreigners arrested, including…: Thousands of foreign gold miners have been arrested in Guinea after the ban on artisanal gold mining in several areas of Siguiri. Conakry invokes environmental protection. Burkina Faso denounces expulsions and… Behind the lull, the war continues in Burkina Faso: Since July, Burkina Faso has recorded a dramatic decline in the number of deaths related to jihadist violence. The military power sees this as confirmation of its security strategy. Yet attacks persist, armed groups…\n\nNiger\n6 retained reports were reviewed for Niger. Niger: former minister Kalla Moutari still in the gendarmerie, two months after his arrest: In Niger, Kalla Moutari has just spent more than two months in the gendarmerie of Niamey. The former minister and well-known figure of the PNDS was arrested a few days after the destabilization attempt at the end of… No European Oversight of Algeria–Niger Sovereign Agreement: The European Union’s demand for clarification over the deployment of Algerian People’s National Army units in Niger has drawn sharp criticism in Algeria. The deployment, which received parliamentary approval, falls… Reporting was concentrated on State (4).\n\nACTOR POSTURE\nJNIM appears in 0 retained reports; IS Sahel in 0; AES/state forces in 7; Africa Corps/Wagner in 0. JNIM is up to 3 from 2; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is down to 9 from 13.\n\nWHAT CHANGED VS BASELINE\nJNIM is up to 3 from 2; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is down to 9 from 13.\n\nINDICATORS TO WATCH — NEXT 24–72 HOURS\n• Watch for corroboration, revised dates/locations, and new reporting that changes the current assessment.\n\nCONFIDENCE / CAVEATS\n• Multiple sources were reviewed, but some developments remain single-source or incompletely corroborated.\n• Collection health: 137 sources live, 17 degraded, 30 failed in the latest collector cycle.\n• Candidate events and actor attributions remain OSINT-derived analytical records and may change with better sourcing, dates, or geolocation.",
+      "article_manifest": [
+        {
+          "id": "d7a6c516f0374816577e8cdfcc3986e7b5e07424",
+          "source": "RFI Afrique",
+          "title": "Niger: former minister Kalla Moutari still in the gendarmerie, two months after his arrest",
+          "original_title": "Niger: l'ancien ministre Kalla Moutari toujours à la gendarmerie, deux mois après son arrestation",
+          "summary": "In Niger, Kalla Moutari has just spent more than two months in the gendarmerie of Niamey. The former minister and well-known figure of the PNDS was arrested a few days after the destabilization attempt at the end of August 2026. According to several sources, the man has not yet been brought before a judge .",
+          "url": "https://www.rfi.fr/fr/afrique/20261108-niger-l-ancien-ministre-kalla-moutari-toujours-%C3%A0-la-gendarmerie-deux-mois-apr%C3%A8s-son-arrestation",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-11-08T05:02:25Z",
+          "collected_at": "2026-11-08T06:14:51.260788Z",
+          "event_date": "2026-11-08",
+          "actor": "State",
+          "event_type": "law enforcement",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "421c23a07a385349f608484e7817d4c890a8ba77",
+          "source": "Seneweb",
+          "title": "Anti-peeling operations in Guinea: 160,000 people returned to Mali",
+          "original_title": "Opérations anti-orpaillage en Guinée : 160.000 personnes refoulées vers le Mali",
+          "summary": "Anti-peening operations in Guinea: 160,000 people turned back to Mali Mali announced on Saturday that it had received about 160,000 people turned back from Guinea after operations conducted by Conakry against illegal gold panning, stating that it had recorded six deaths and expressing concern about a situation of \"humanitarian emergency\" .",
+          "url": "https://www.seneweb.com/fr/news/Afrique/operations-anti-orpaillage-en-guinee-160000-personnes-refoulees-vers-le-mali_n_999002991.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-08T01:21:29Z",
+          "collected_at": "2026-11-08T06:14:51.675608Z",
+          "event_date": "2026-11-07",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "6c37fcaff22d55abf2155acdc18f3b0d7fe935a1",
+          "source": "RFI Afrique",
+          "title": "Mali: several tens of thousands of gold miners expelled from Guinea taken care of in Mali",
+          "original_title": "Mali: plusieurs dizaines de milliers d'orpailleurs expulsés de Guinée pris en charge au Mali",
+          "summary": "Several tens of thousands of gold miners expelled from Guinea have arrived in Mali in recent days. This massive influx follows the measures taken on 2 November by Conakry to put an end to illegal gold mining . The Malian transitional authorities, with the support of international partners, have put in place emergency arrangements to receive these gold miners returned from Guinea and repatriate them to their homes, mainly in Burkina Faso .",
+          "url": "https://www.rfi.fr/fr/afrique/20261107-mali-plusieurs-dizaines-de-milliers-d-orpailleurs-expuls%C3%A9s-de-guin%C3%A9e-pris-en-charge-au-mali",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-07T20:35:24Z",
+          "collected_at": "2026-11-07T23:46:19.023209Z",
+          "event_date": "2026-11-07",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "8567ce7f0d8d232eeda6ee48cfc38c99239b09c7",
+          "source": "Bamada",
+          "title": "Management of the humanitarian crisis at the border: The Malian Government mobilizes large resources for evacuation",
+          "original_title": "Gestion de la crise humanitaire à la frontière : Le Gouvernement malien mobilise de grands moyens pour l’évacuation",
+          "summary": "The PRIME MINISTER CHAIRS AN EXTRAORDINARY MEETING OF CECOGEC The Prime Minister, Head of Government chaired this Saturday, November 7, 2026, an extraordinary meeting of the Interministerial Committee for Crisis and Disaster Management on the humanitarian crisis following the arrival of Africans, numbering six nationalities, driven back from the gold mining areas of Guinea .",
+          "url": "https://bamada.net/gestion-de-la-crise-humanitaire-a-la-frontiere-le-gouvernement-malien-mobilise-de-grands-moyens-pour-levacuation",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-07T20:31:09Z",
+          "collected_at": "2026-11-07T23:46:18.409656Z",
+          "event_date": "2026-11-07",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "355eca54833628a08242ad74b0bfd29b0868fe0e",
+          "source": "Malijet",
+          "title": "Murder of Safiatou Boré in Segou: a suspect arrested",
+          "original_title": "Meurtre de Safiatou Boré à Ségou : un suspect arrêté",
+          "summary": "The investigation into the death of Safiatou Boré, known as \"Safi\", is progressing. A suspect was arrested in this case that upset Ségou. The young nurse had been found dead in a ditch between Dialabougou and Pelengana.",
+          "url": "https://malijet.com/les_faits_divers_au_mali/312724-meurtre-de-safiatou-bore-a-segou-un-suspect-arrete.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-07T20:25:29Z",
+          "collected_at": "2026-11-07T23:46:18.305314Z",
+          "event_date": "2026-11-07",
+          "actor": "State",
+          "event_type": "law enforcement",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "80bffb753ec7685b482a2ec703b8e15276978c94",
+          "source": "Echorouk Online (الشروق أونلاين)",
+          "title": "No European Oversight of Algeria–Niger Sovereign Agreement",
+          "original_title": "No European Oversight of Algeria–Niger Sovereign Agreement",
+          "summary": "The European Union’s demand for clarification over the deployment of Algerian People’s National Army units in Niger has drawn sharp criticism in Algeria. The deployment, which received parliamentary approval, falls under a bilateral military agreement between two sovereign states and was carried out at the request of the Nigerien authorities. As such, it requires neither the approval of external parties nor any accounting to institutions that have no legal standing in the agreement.",
+          "url": "https://www.echoroukonline.com/no-european-oversight-of-algeria-niger-sovereign-agreement",
+          "country": "Niger",
+          "language": "en",
+          "published_at": "2026-11-07T19:22:36Z",
+          "collected_at": "2026-11-07T20:21:57.502852Z",
+          "event_date": "2026-11-07",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "8be13e1592756810c09e43e7844e47a40faadeec",
+          "source": "Echorouk Online (الشروق أونلاين)",
+          "title": "No European Custody of the Sovereign Agreement between Algeria and Niger",
+          "original_title": "لا وصاية أوروبية على الاتفاق السيادي بين الجزائر والنيجر",
+          "summary": "There is no European guardianship over the sovereign agreement between Algeria and Niger Rahabi: What right does Europe ask for clarifications?",
+          "url": "https://www.echoroukonline.com/%d9%84%d8%a7-%d9%88%d8%b5%d8%a7%d9%8a%d8%a9-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d9%8a-%d8%a8",
+          "country": "Niger",
+          "language": "ar",
+          "published_at": "2026-11-07T18:30:57Z",
+          "collected_at": "2026-11-07T20:21:57.225164Z",
+          "event_date": "2026-11-07",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "8389338280deb29fd30677abfdd321e7a4a164c1",
+          "source": "TV5MONDE Afrique",
+          "title": "Image Africa Prohibition of clandestine gold panning in Guinea: thousands of foreigners arrested, including Malians and Burkinabe, forced to leave",
+          "original_title": "Image Afrique Interdiction de l'orpaillage clandestin en Guinée: des milliers d'étrangers interpellés, dont des Maliens et Burkinabè, contraints de partir",
+          "summary": "Thousands of foreign gold miners have been arrested in Guinea after the ban on artisanal gold mining in several areas of Siguiri. Conakry invokes environmental protection. Burkina Faso denounces expulsions and organizes the return of its nationals.",
+          "url": "https://information.tv5monde.com/afrique/interdiction-de-lorpaillage-clandestin-en-guinee-des-milliers-detrangers-interpelles-dont-des-maliens-et-burkinabe-contraints-de-partir-2844920",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-07T15:40:12Z",
+          "collected_at": "2026-11-07T20:21:57.304380Z",
+          "event_date": "2026-11-05",
+          "actor": "Other",
+          "event_type": "law enforcement",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "670abf540ed9a0c2be89ae01272a31acf45d550a",
+          "source": "Malijet",
+          "title": "DGCC news flash: 665 tankers arrive in Bamako",
+          "original_title": "Flash info DGCC: 665 camions-citernes arrivent à Bamako",
+          "summary": "DGCC news flash: 665 tanker trucks arrive in Bamako According to the DGCC, a convoy of 665 tanker trucks arrived in Bamako on Saturday, November 7, at around 3 a.m., under the escort of the Malian Armed Forces (FAMa). The DGCC agents recorded and counted the tanks upon arrival. After customs formalities, the national police must escort them to the destination service stations .",
+          "url": "https://malijet.com/actualite_economique_du_mali/312720-flash-info-dgcc-665-camions-citernes-arrivent-a-bamako.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-07T15:11:21Z",
+          "collected_at": "2026-11-07T20:21:57.026404Z",
+          "event_date": "2026-11-07",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "679810092e7b3536eebb5cfa0dfbb0d73e3082c6",
+          "source": "Malijet",
+          "title": "Rejected gold miners from Guinea: Mali organizes repatriation and reception",
+          "original_title": "Orpailleurs refoulés de Guinée : Le Mali organise le rapatriement et l'accueil",
+          "summary": "Faced with the humanitarian crisis caused by the expulsion of gold mining areas from Guinea, the Malian government is moving up a gear. This Saturday, the Prime Minister urgently convened the crisis committee (CECOGEC) to organize the reception and evacuation of the thousands of people concerned, from six different nationalities A first convoy of 47 buses has already reached Burkina Faso, while about fifty trucks are waiting to hit the road.",
+          "url": "https://malijet.com/a_la_une_du_mali/312719-orpailleurs-refoules-de-guinee-le-mali-organise-le-rapatri.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-07T14:51:46Z",
+          "collected_at": "2026-11-07T20:21:56.783993Z",
+          "event_date": "2026-11-07",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "5d4768e16095ae468de0239b1e148575a94eba29",
+          "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+          "title": "Mali – Repatriation of Africans returned from Guinea: the government mobilizes logistical resources",
+          "original_title": "Mali – Rapatriement des Africains refoulés de Guinée : le gouvernement mobilise des moyens logistiques",
+          "summary": "Bamako, November 7 (AMAP) The Prime Minister, Major General Abdoulaye Maïga, chaired an extraordinary meeting of the Interministerial Committee for Crisis and Disaster Management (CECOGEC) on Saturday, devoted to the care of nationals of six nationalities returned from gold mining areas in Guinea, according to a statement from the Prime Minister's Office As part of this African solidarity operation, Mali mobilized 74 trucks and 21 buses.",
+          "url": "https://amap.ml/2026/11/07/mali-rapatriement-des-africains-refoules-de-guinee-le-gouvernement-mobilise-des-moyens-logistiques/",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-07T13:50:08Z",
+          "collected_at": "2026-11-07T15:00:35.459606Z",
+          "event_date": "2026-11-07",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "937a192dec78755cc0403226fb81e3cda682d0be",
+          "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+          "title": "Bla: The National Defense Forces repels a terrorist attack at the checkpoint",
+          "original_title": "Bla: Les Forces Nationales de Défense repousse une attaque terroriste au poste de Contrôle",
+          "summary": "Bla, November 7 (AMAP) The Bla checkpoint, located Ségou – Bla road, was attacked Friday around 4:45 PM, by armed terrorist groups, causing many deaths and injuries of occult forces and one death and injuries on the side of the FAMa, learned AMAP from local source According to the first testimonies collected from the agents on duty on the spot, the assailants came in number of 32, including 2 by motorcycle 16 motorcycles, opened fire without warning on the elements posted at the control.",
+          "url": "https://amap.ml/2026/11/07/48497/",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-07T13:18:52Z",
+          "collected_at": "2026-11-07T15:00:35.416540Z",
+          "event_date": "2026-11-07",
+          "actor": "State",
+          "event_type": "attack",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "4fee5d42092f2f6b52204eec27c5e1c3e39b8001",
+          "source": "Al-Quds Al-Arabi",
+          "title": "Report: Algeria's Military Deployment in Niger Redraws Lines of Rivalry with Morocco and Rift in Sahel",
+          "original_title": "تقرير: انتشار الجزائر العسكري في النيجر يعيد رسم خطوط التنافس مع المغرب والصدع في الساحل",
+          "summary": "London - “Al-Quds Al-Arabi”: The Cradle published an analytical report entitled “Algeria's Military Deployment in Niger Redraws Fault Lines in the Coast” by Aidan J. Simardon provided an analysis of Algeria's historic move with the military deployment in Niger, the backgrounds of this shift in Algerian foreign policy, and its objectives related to security and the struggle for regional influence Algeria's first declared overseas land deployment since the 1973 war represents a broader conflict over the security of the Sahel, Moroccan influence, and control of energy corridors in Africa.",
+          "url": "https://www.alquds.co.uk/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d9%8a%d8%ac/",
+          "country": "Niger",
+          "language": "ar",
+          "published_at": "2026-11-07T12:00:54Z",
+          "collected_at": "2026-11-07T15:00:37.342318Z",
+          "event_date": "2026-11-07",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "a8291775dfd9676cae5e2f889a1cb56bda9f23d7",
+          "source": "Mondafrique",
+          "title": "Behind the lull, the war continues in Burkina Faso",
+          "original_title": "Derrière l’accalmie, la guerre continue au Burkina Faso",
+          "summary": "Since July, Burkina Faso has recorded a dramatic decline in the number of deaths related to jihadist violence. The military power sees this as confirmation of its security strategy. Yet attacks persist, armed groups retain their ability to harm and civilian populations remain exposed to a war far from over .",
+          "url": "https://mondafrique.com/decryptage/derriere-laccalmie-la-guerre-continue-au-burkina-faso/",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-07T11:56:55Z",
+          "collected_at": "2026-11-07T15:00:36.463433Z",
+          "event_date": "2026-11-07",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "2b4ccd7f3840fa1c19713f856e7ba843818cd59a",
+          "source": "Ultra Sawt (ألترا صوت)",
+          "title": "An Algerian diplomat responds to the European Union on the deployment of the army in Niger.. What is the story?",
+          "original_title": "دبلوماسي جزائري يرد على الاتحاد الأوروبي بشأن انتشار الجيش في النيجر.. ما القصة؟",
+          "summary": "An Algerian diplomat responds to the European Union on the deployment of the army in Niger. What is the story?",
+          "url": "https://ultraalgeria.ultrasawt.com/%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1-%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D8%A9%D8%9F/%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85-%D8%A8%D9%88%D8%A8%D9%83%D8%B1/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9",
+          "country": "Niger",
+          "language": "ar",
+          "published_at": "2026-11-07T08:09:16Z",
+          "collected_at": "2026-11-07T15:00:33.498379Z",
+          "event_date": "2026-11-07",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "0822bcca591108272c7f86889b40da0e60b9218f",
+          "source": "Agence Nigérienne de Presse",
+          "title": "Celebration in Agadez of the 72nd anniversary of the outbreak of the glorious Algerian Revolution",
+          "original_title": "Célébration à Agadez du 72ᵉ anniversaire du déclenchement de la glorieuse Révolution algérienne",
+          "summary": "Agadez, 05 November (ANP) – The Deputy Secretary General of the Governorate of Agadez, Mr. Diallo Hamidou Saidou took part, this Thursday, November 5, 2026 at the Consulate of Algeria in Agadez, in the commemorative ceremony of the 72nd anniversary of the outbreak of the glorious Algerian Revolution, initiated on November 1, 1954 .",
+          "url": "https://anp.ne/celebration-a-agadez-du-72%e1%b5%89-anniversaire-du-declenchement-de-la-glorieuse-revolution-algerienne/",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-11-06T07:56:07Z",
+          "collected_at": "2026-11-07T20:21:58.232035Z",
+          "event_date": "2026-11-05",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        }
+      ],
+      "linked_event_ids": []
+    },
     {
       "schema_version": "2.0",
       "product": "Sultana 24-Hour AES Intelligence Brief",

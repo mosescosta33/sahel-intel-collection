@@ -1,47 +1,46 @@
 {
-  "generated_at": "2026-11-07T23:47:25.336672Z",
+  "generated_at": "2026-11-08T06:15:56.991874Z",
   "window_days": 30,
-  "cutoff": "2026-10-08",
-  "reports": 774,
-  "incident_reports": 196,
-  "candidate_events": 120,
-  "corroborated_events": 37,
-  "mapped_events": 84,
-  "mapped_locations": 145,
+  "cutoff": "2026-10-09",
+  "reports": 771,
+  "incident_reports": 195,
+  "candidate_events": 116,
+  "corroborated_events": 36,
+  "mapped_events": 81,
+  "mapped_locations": 141,
   "distinct_sources": 82,
   "by_actor": {
-    "State": 64,
+    "State": 61,
     "Other": 29,
-    "JNIM": 14,
+    "JNIM": 13,
     "Africa Corps/Wagner": 7,
     "IS Sahel": 6
   },
   "by_country": {
-    "Mali": 87,
+    "Mali": 83,
     "Niger": 24,
     "Burkina Faso": 9
   },
   "by_event_type": {
-    "security operation": 48,
+    "security operation": 46,
     "attack": 17,
     "clash": 12,
     "civilian targeting": 10,
     "kidnapping": 10,
-    "offensive/campaign": 10,
+    "offensive/campaign": 9,
     "air/drone strike": 7,
     "raid": 3,
     "IED/explosion": 1,
-    "ambush": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 639,
-    "en": 93,
+    "fr": 637,
+    "en": 92,
     "ar": 42
   },
   "by_confidence": {
-    "low": 57,
-    "moderate": 51,
+    "low": 56,
+    "moderate": 48,
     "moderate-high": 11,
     "high": 1
   },
@@ -59,7 +58,7 @@
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 39
+      "count": 38
     },
     {
       "source_code": "SRC-0090",
@@ -72,14 +71,14 @@
       "count": 30
     },
     {
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
       "count": 27
     },
     {
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "count": 26
+      "source_code": "SRC-0092",
+      "source": "La Nouvelle Tribune (Bénin)",
+      "count": 27
     },
     {
       "source_code": "SRC-0014",
@@ -99,18 +98,18 @@
     {
       "source_code": "SRC-0121",
       "source": "AllAfrica (English Edition)",
-      "count": 19
+      "count": 18
     },
     {
-      "source_code": "SRC-0011",
-      "source": "LeFaso.net",
+      "source_code": "SRC-0034",
+      "source": "TV5MONDE Afrique",
       "count": 17
     }
   ],
   "top_locations": [
     {
       "location": "Mali",
-      "count": 26
+      "count": 25
     },
     {
       "location": "Ménaka",
@@ -125,12 +124,12 @@
       "count": 14
     },
     {
-      "location": "Kidal",
-      "count": 14
-    },
-    {
       "location": "Niamey",
       "count": 13
+    },
+    {
+      "location": "Kidal",
+      "count": 11
     },
     {
       "location": "Ségou",
@@ -149,20 +148,15 @@
       "count": 5
     },
     {
-      "location": "Timbuktu",
-      "count": 5
+      "location": "Douentza",
+      "count": 4
     },
     {
-      "location": "Douentza",
+      "location": "Mopti",
       "count": 4
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-09",
-      "reports": 24,
-      "events": 5
-    },
     {
       "date": "2026-10-10",
       "reports": 12,
@@ -306,6 +300,11 @@
     {
       "date": "2026-11-07",
       "reports": 15,
+      "events": 0
+    },
+    {
+      "date": "2026-11-08",
+      "reports": 2,
       "events": 0
     }
   ],
@@ -3490,6 +3489,42 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-08T05:02:25Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T06:14:51.260788Z",
+      "discovered_at": "2026-11-08T06:14:51.260788Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Niamey",
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Niger: former minister Kalla Moutari still in the gendarmerie, two months after his arrest",
+      "url": "https://www.rfi.fr/fr/afrique/20261108-niger-l-ancien-ministre-kalla-moutari-toujours-%C3%A0-la-gendarmerie-deux-mois-apr%C3%A8s-son-arrestation"
+    },
+    {
+      "published_at": "2026-11-08T01:21:29Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-08T06:14:51.675608Z",
+      "discovered_at": "2026-11-08T06:14:51.675608Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0085",
+      "source": "Seneweb",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Anti-peeling operations in Guinea: 160,000 people returned to Mali",
+      "url": "https://www.seneweb.com/fr/news/Afrique/operations-anti-orpaillage-en-guinee-160000-personnes-refoulees-vers-le-mali_n_999002991.html"
+    },
+    {
       "published_at": "2026-11-07T20:35:24Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4172,42 +4207,6 @@
       "candidate_event": false,
       "title": "Niger: Niger Receives 1.65m Liters of Algerian Fuel As Shortages Persist",
       "url": "https://allafrica.com/stories/202611060035.html"
-    },
-    {
-      "published_at": "2026-11-05T21:49:37Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T22:10:23.283848Z",
-      "discovered_at": "2026-11-05T22:10:23.283848Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0018",
-      "source": "Aïr Info",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Niger–Mali: Tiani and Goïta reaffirm their commitment to strengthening the ESA and the fight against terrorism",
-      "url": "https://airinfoagadez.com/2026/11/05/niger-mali-tiani-et-goita-reaffirment-leur-engagement-a-renforcer-laes-et-la-lutte-contre-le-terrorisme/"
-    },
-    {
-      "published_at": "2026-11-05T21:14:50Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T06:59:17.618995Z",
-      "discovered_at": "2026-11-06T06:59:17.618995Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Massive influx of gold miners from Guinea: The Malian Government takes stock of the situation It was this Thursday, during a press briefing jointly hosted by the two ministers in the conference room of the Ministry of Security, that the details of this humanitarian and security crisis were shared with the",
-      "url": "https://www.lessor.ml/posts/afflux-massif-dorpailleurs-en-provenance-de-guinee-le-gouvernement-malien-fait-le-point-sur-la-situation-6aecf1ca20dc1"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
