@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-08T20:38:28.839796Z",
+  "generated_at": "2026-11-09T06:48:44.305348Z",
   "window_days": 30,
-  "cutoff": "2026-10-09",
-  "reports": 773,
-  "incident_reports": 194,
-  "candidate_events": 117,
-  "corroborated_events": 37,
-  "mapped_events": 82,
-  "mapped_locations": 143,
+  "cutoff": "2026-10-10",
+  "reports": 769,
+  "incident_reports": 192,
+  "candidate_events": 112,
+  "corroborated_events": 35,
+  "mapped_events": 78,
+  "mapped_locations": 138,
   "distinct_sources": 82,
   "by_actor": {
-    "State": 62,
+    "State": 60,
     "Other": 29,
-    "JNIM": 13,
-    "Africa Corps/Wagner": 7,
+    "JNIM": 11,
+    "Africa Corps/Wagner": 6,
     "IS Sahel": 6
   },
   "by_country": {
-    "Mali": 84,
+    "Mali": 79,
     "Niger": 24,
     "Burkina Faso": 9
   },
   "by_event_type": {
-    "security operation": 47,
-    "attack": 17,
-    "clash": 12,
+    "security operation": 45,
+    "attack": 16,
     "civilian targeting": 10,
+    "clash": 10,
     "kidnapping": 10,
     "offensive/campaign": 9,
     "air/drone strike": 7,
@@ -34,13 +34,13 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 638,
-    "en": 93,
+    "fr": 633,
+    "en": 94,
     "ar": 42
   },
   "by_confidence": {
-    "low": 56,
-    "moderate": 48,
+    "low": 53,
+    "moderate": 46,
     "moderate-high": 12,
     "high": 1
   },
@@ -48,7 +48,7 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 101
+      "count": 96
     },
     {
       "source_code": "SRC-0006",
@@ -78,7 +78,7 @@
     {
       "source_code": "SRC-0001",
       "source": "RFI Afrique",
-      "count": 25
+      "count": 26
     },
     {
       "source_code": "SRC-0014",
@@ -93,7 +93,7 @@
     {
       "source_code": "SRC-0015",
       "source": "ActuNiger",
-      "count": 20
+      "count": 19
     },
     {
       "source_code": "SRC-0011",
@@ -109,11 +109,11 @@
   "top_locations": [
     {
       "location": "Mali",
-      "count": 25
+      "count": 24
     },
     {
       "location": "Ménaka",
-      "count": 22
+      "count": 21
     },
     {
       "location": "Agadez",
@@ -121,7 +121,7 @@
     },
     {
       "location": "Bamako",
-      "count": 14
+      "count": 13
     },
     {
       "location": "Niamey",
@@ -129,7 +129,7 @@
     },
     {
       "location": "Kidal",
-      "count": 12
+      "count": 10
     },
     {
       "location": "Ségou",
@@ -157,11 +157,6 @@
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-10",
-      "reports": 12,
-      "events": 4
-    },
     {
       "date": "2026-10-11",
       "reports": 7,
@@ -305,6 +300,11 @@
     {
       "date": "2026-11-08",
       "reports": 19,
+      "events": 0
+    },
+    {
+      "date": "2026-11-09",
+      "reports": 2,
       "events": 0
     }
   ],
@@ -3551,6 +3551,42 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-09T05:44:45Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-09T06:47:52.054433Z",
+      "discovered_at": "2026-11-09T06:47:52.054433Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Kati",
+      "event_type": "kidnapping",
+      "candidate_event": false,
+      "title": "Mali: \"At one point, I stopped counting deaths,\" says El Bachir Thiam, a former State Security detainee",
+      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261109-mali-%C3%A0-un-moment-j-ai-arr%C3%AAt%C3%A9-de-compter-les-d%C3%A9c%C3%A8s-t%C3%A9moigne-el-bachir-thiam-ancien-d%C3%A9tenu-de-la-s%C3%A9curit%C3%A9-d-%C3%A9tat"
+    },
+    {
+      "published_at": "2026-11-09T04:05:12Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-09T06:47:51.885583Z",
+      "discovered_at": "2026-11-09T06:47:51.885583Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0119",
+      "source": "Daily Trust (Nigeria)",
+      "language": "en",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Kaya",
+      "event_type": "ambush",
+      "candidate_event": false,
+      "title": "Bandits burn 12 family members",
+      "url": "https://dailytrust.com/bandits-burn-12-family-members/"
+    },
+    {
       "published_at": "2026-11-08T19:58:17Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4233,42 +4269,6 @@
       "candidate_event": false,
       "title": "Mali-Burkina: Assimi Goïta and Ibrahim Traoré strengthen their cooperation",
       "url": "https://malijet.com/a_la_une_du_mali/312711-mali-burkina-assimi-goita-et-ibrahim-traore-renforcent-leu.html"
-    },
-    {
-      "published_at": "2026-11-06T18:07:38Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T21:37:11.175073Z",
-      "discovered_at": "2026-11-06T21:37:11.175073Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0004",
-      "source": "Studio Tamani",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "AES: regional integration and economic development at the heart of exchanges between leaders",
-      "url": "https://www.studiotamani.org/209980-aes-integration-regionale-et-developpement-economique-au-coeur-des-echanges-entre-les-dirigeants"
-    },
-    {
-      "published_at": "2026-11-06T17:03:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:45.012979Z",
-      "discovered_at": "2026-11-06T16:03:45.012979Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0017",
-      "source": "Le Sahel",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Zinder",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Zinder/Defense: Official presentation to the flag of the 2025 contingent at the CI/FAN of Aroungouza",
-      "url": "https://www.lesahel.org/zinder-defense-presentation-officielle-au-drapeau-du-contingent-2025-au-ci-fan-daroungouza/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

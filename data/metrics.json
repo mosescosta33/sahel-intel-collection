@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-11-08T20:38:28.839784Z",
+  "generated_at": "2026-11-09T06:48:44.305336Z",
   "series": {
     "JNIM": [
-      {
-        "date": "2026-05-13",
-        "count": 0
-      },
       {
         "date": "2026-05-14",
         "count": 0
@@ -721,13 +717,13 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "IS Sahel": [
-      {
-        "date": "2026-05-13",
-        "count": 0
-      },
       {
         "date": "2026-05-14",
         "count": 0
@@ -1443,13 +1439,13 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "State": [
-      {
-        "date": "2026-05-13",
-        "count": 0
-      },
       {
         "date": "2026-05-14",
         "count": 0
@@ -2165,13 +2161,13 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "Africa Corps/Wagner": [
-      {
-        "date": "2026-05-13",
-        "count": 0
-      },
       {
         "date": "2026-05-14",
         "count": 0
@@ -2887,14 +2883,18 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ]
   },
   "trends_7d": {
     "JNIM": {
-      "current": 3,
+      "current": 2,
       "previous": 2,
-      "change_pct": 50.0
+      "change_pct": null
     },
     "IS Sahel": {
       "current": 0,
@@ -2902,12 +2902,12 @@
       "change_pct": null
     },
     "State": {
-      "current": 10,
-      "previous": 13,
-      "change_pct": -23.1
+      "current": 8,
+      "previous": 11,
+      "change_pct": -27.3
     },
     "Africa Corps/Wagner": {
-      "current": 1,
+      "current": 0,
       "previous": 2,
       "change_pct": null
     }
@@ -2915,8 +2915,8 @@
   "trends_30d": {
     "JNIM": {
       "current": 11,
-      "previous": 13,
-      "change_pct": -15.4
+      "previous": 11,
+      "change_pct": 0.0
     },
     "IS Sahel": {
       "current": 6,
@@ -2924,14 +2924,14 @@
       "change_pct": null
     },
     "State": {
-      "current": 60,
-      "previous": 49,
-      "change_pct": 22.4
+      "current": 58,
+      "previous": 51,
+      "change_pct": 13.7
     },
     "Africa Corps/Wagner": {
-      "current": 11,
+      "current": 10,
       "previous": 19,
-      "change_pct": -42.1
+      "change_pct": -47.4
     }
   },
   "method_note": "Counts are fused candidate events extracted from monitored open-source reporting. Africa Corps/Wagner is an involvement series and can overlap State activity when Russian personnel are coded as a supporting force. These are not independently verified incident counts; changes can reflect both real-world activity and reporting/collection effects."
