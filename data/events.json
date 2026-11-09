@@ -1,5 +1,110 @@
 [
   {
+    "id": "5d71bd31b2d5e35b1db7bcfa4816a6c77034832f",
+    "event_date": "2026-11-06",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-09T07:37:56Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-09T18:56:57.536144Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Ménaka",
+    "lat": 15.9182,
+    "lng": 2.4022,
+    "locations": [
+      {
+        "name": "Ménaka",
+        "country": "Mali",
+        "lat": 15.9182,
+        "lng": 2.4022,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Ménaka and Kidal: Several groupings...",
+    "summary": "Menaka and Kidal: Several terrorist groups neutralized by the FAMa As part of the Dougoukoloko security operation, the Malian Armed Forces (FAMa), supported by their partners, conducted airstrikes and targeted interventions on 6 and 7 November 2026 .",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/insecurite/menaka-et-kidal-plusieurs-regroupements-terroristes-neutralises-par-3121293.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/menaka-et-kidal-plusieurs-regroupements-terroristes-neutralises-par-3121293.html",
+        "source": "Maliweb",
+        "title": "Ménaka and Kidal: Several groupings...",
+        "summary": "Menaka and Kidal: Several terrorist groups neutralized by the FAMa As part of the Dougoukoloko security operation, the Malian Armed Forces (FAMa), supported by their partners, conducted airstrikes and targeted interventions on 6 and 7 November 2026 .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-09T18:56:57.536144Z",
+    "updated_at": "2026-11-09T18:56:57.536144Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-09T18:56:57.536144Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
     "id": "b0e994fa053a6232295e77ddf8acc1ba013f983c",
     "event_date": "2026-11-06",
     "event_date_confidence": "explicit-text",
@@ -36,6 +141,13 @@
         "lat": 18.4411,
         "lng": 1.4078,
         "confidence": "explicit-place"
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.6392,
+        "lng": -8.0029,
+        "confidence": "explicit-place"
       }
     ],
     "title": "Operation Dougoukoloko: the FAMa neutralize several terrorist groups in Menaka and Kidal",
@@ -43,15 +155,17 @@
     "sources": [
       "Bamada",
       "L'Essor",
+      "AMAP (Agence Malienne de Presse et de Publicité)",
       "Malijet"
     ],
     "languages": [
       "fr"
     ],
-    "source_count": 3,
+    "source_count": 4,
     "report_urls": [
       "https://bamada.net/operation-dougoukoloko-les-fama-neutralisent-plusieurs-regroupements-terroristes-a-menaka-et-kidal",
       "https://www.lessor.ml/posts/menaka-et-kidal-plusieurs-regroupements-terroristes-neutralises-par-les-fama-6af0cfe0183ca",
+      "https://amap.ml/2026/11/09/48557/",
       "https://malijet.com/actualte_dans_les_regions_du_mali/312728-operation-dougoukoloko-les-fama-frappent-plusieurs-positio-1.html"
     ],
     "report_summaries": [
@@ -78,6 +192,24 @@
         "source": "L'Essor",
         "title": "Menaka and Kidal: Several terrorist groups neutralized by the FAMa",
         "summary": "In its statement issued this Sunday, the General Staff of the Armed Forces indicates that on Friday, November 6, 2026, the exploitation of precise intelligence made it possible to locate, about fifty kilometers southwest of the city of Menaka, a group of terrorists with war materials. He specifies that after confirming the target, the position was hit successfully In addition, the military hierarchy reports that on Saturday, November 7, 2026, another group of terrorists, also equipped with war materials, was identified about ninety kilometers south of the city of Kidal.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://amap.ml/2026/11/09/48557/",
+        "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+        "title": "Operation Dougoukoloko: terrorists neutralized in the Ménaka and Kidal sectors",
+        "summary": "Bamako, November 9 (AMAP) The General Staff of the Armed Forces announced on Sunday that the Malian Armed Forces (FAMa), supported by their partners, have successfully carried out several strikes against groups of armed terrorist groups with war materiel, in the Ménaka and Kidal sectors, as part of Operation Dougoukoloko According to a statement from the General Staff of the Armed Forces, the use of precise intelligence made it possible, on Friday, November 6, 2026, to locate a group of terrorists about 50 kilometers southwest of the city of Menaka.",
         "summary_basis": "translated-excerpt",
         "fatalities_min": null,
         "fatalities_max": null,
@@ -138,6 +270,11 @@
         "source": "L'Essor"
       },
       {
+        "at": "2026-11-09T18:56:56.149048Z",
+        "type": "corroboration_or_geography_update",
+        "source": "AMAP (Agence Malienne de Presse et de Publicité)"
+      },
+      {
         "at": "2026-11-08T20:36:53.055866Z",
         "type": "corroboration_or_geography_update",
         "source": "Malijet"
@@ -148,9 +285,10 @@
     "independent_source_domains": [
       "bamada.net",
       "lessor.ml",
+      "amap.ml",
       "malijet.com"
     ],
-    "independent_source_count": 3,
+    "independent_source_count": 4,
     "significance": "MAJOR",
     "significance_reasons": [
       "multi-source corroboration",
@@ -2144,6 +2282,96 @@
     "significance": "MAJOR",
     "significance_reasons": [
       "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "044ddd2f8c9e45cb46a3198c1f25fcea9642e179",
+    "event_date": "2026-10-30",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-09T16:09:38Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-09T18:56:57.650105Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "clash",
+    "country": "Niger",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Deployment in Niger: the EU becomes the new battleground between Algiers and Paris",
+    "summary": "After EU statements on the deployment of Algerian troops in Niger, Algiers accuses Paris of being behind this position. A new diplomatic arms pass that buries a little more hopes of warming between the two countries .",
+    "sources": [
+      "Jeune Afrique"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.jeuneafrique.com/1860041/politique/deploiement-au-niger-lue-devient-le-nouveau-terrain-daffrontement-entre-alger-et-paris/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.jeuneafrique.com/1860041/politique/deploiement-au-niger-lue-devient-le-nouveau-terrain-daffrontement-entre-alger-et-paris/",
+        "source": "Jeune Afrique",
+        "title": "Deployment in Niger: the EU becomes the new battleground between Algiers and Paris",
+        "summary": "After EU statements on the deployment of Algerian troops in Niger, Algiers accuses Paris of being behind this position. A new diplomatic arms pass that buries a little more hopes of warming between the two countries .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "journalist"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-09T18:56:57.650105Z",
+    "updated_at": "2026-11-09T18:56:57.650105Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force",
+      "journalist"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-09T18:56:57.650105Z",
+        "type": "event_created",
+        "source": "Jeune Afrique"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "jeuneafrique.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
     ]
   },
   {

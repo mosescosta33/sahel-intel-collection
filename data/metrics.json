@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:48:44.305336Z",
+  "generated_at": "2026-11-09T18:59:00.072160Z",
   "series": {
     "JNIM": [
       {
@@ -2152,7 +2152,7 @@
       },
       {
         "date": "2026-11-06",
-        "count": 2
+        "count": 3
       },
       {
         "date": "2026-11-07",
@@ -2902,9 +2902,9 @@
       "change_pct": null
     },
     "State": {
-      "current": 8,
+      "current": 9,
       "previous": 11,
-      "change_pct": -27.3
+      "change_pct": -18.2
     },
     "Africa Corps/Wagner": {
       "current": 0,
@@ -2924,9 +2924,9 @@
       "change_pct": null
     },
     "State": {
-      "current": 58,
+      "current": 59,
       "previous": 51,
-      "change_pct": 13.7
+      "change_pct": 15.7
     },
     "Africa Corps/Wagner": {
       "current": 10,
