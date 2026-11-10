@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-11-09T18:59:00.072170Z",
+  "generated_at": "2026-11-10T02:52:02.128477Z",
   "window_days": 30,
-  "cutoff": "2026-10-10",
-  "reports": 775,
-  "incident_reports": 192,
-  "candidate_events": 114,
-  "corroborated_events": 35,
-  "mapped_events": 79,
-  "mapped_locations": 141,
+  "cutoff": "2026-10-11",
+  "reports": 777,
+  "incident_reports": 194,
+  "candidate_events": 112,
+  "corroborated_events": 34,
+  "mapped_events": 78,
+  "mapped_locations": 139,
   "distinct_sources": 82,
   "by_actor": {
     "State": 61,
-    "Other": 30,
+    "Other": 29,
     "JNIM": 11,
-    "Africa Corps/Wagner": 6,
-    "IS Sahel": 6
+    "IS Sahel": 6,
+    "Africa Corps/Wagner": 5
   },
   "by_country": {
-    "Mali": 80,
-    "Niger": 25,
+    "Mali": 79,
+    "Niger": 24,
     "Burkina Faso": 9
   },
   "by_event_type": {
-    "security operation": 46,
-    "attack": 16,
+    "security operation": 47,
+    "attack": 15,
     "clash": 11,
     "civilian targeting": 10,
-    "kidnapping": 10,
-    "offensive/campaign": 9,
+    "kidnapping": 9,
+    "offensive/campaign": 8,
     "air/drone strike": 7,
     "raid": 3,
     "IED/explosion": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 638,
-    "en": 96,
+    "fr": 641,
+    "en": 95,
     "ar": 41
   },
   "by_confidence": {
-    "low": 55,
+    "low": 53,
     "moderate": 46,
     "moderate-high": 12,
     "high": 1
@@ -48,12 +48,12 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 96
+      "count": 95
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 78
+      "count": 81
     },
     {
       "source_code": "SRC-0075",
@@ -63,7 +63,7 @@
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 34
+      "count": 35
     },
     {
       "source_code": "SRC-0090",
@@ -128,23 +128,23 @@
       "count": 13
     },
     {
-      "location": "Kidal",
-      "count": 11
-    },
-    {
       "location": "Ségou",
       "count": 9
     },
     {
       "location": "Gao",
-      "count": 7
+      "count": 8
     },
     {
-      "location": "Niger",
-      "count": 6
+      "location": "Kidal",
+      "count": 8
     },
     {
       "location": "Burkina Faso",
+      "count": 5
+    },
+    {
+      "location": "Niger",
       "count": 5
     },
     {
@@ -157,11 +157,6 @@
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-11",
-      "reports": 7,
-      "events": 3
-    },
     {
       "date": "2026-10-12",
       "reports": 15,
@@ -300,15 +295,219 @@
     {
       "date": "2026-11-08",
       "reports": 19,
-      "events": 0
+      "events": 1
     },
     {
       "date": "2026-11-09",
-      "reports": 14,
+      "reports": 17,
       "events": 0
+    },
+    {
+      "date": "2026-11-10",
+      "reports": 2,
+      "events": 1
     }
   ],
   "latest_events": [
+    {
+      "id": "ac987b279d16c9517789717c1dd6a962c7e8ae48",
+      "event_date": "2026-11-10",
+      "event_date_confidence": "publication-proxy",
+      "event_date_source": "jsonld:datePublished",
+      "published_at": "2026-11-10T00:12:15Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T02:50:26.585574Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Gao",
+      "lat": 16.2717,
+      "lng": -0.0447,
+      "locations": [
+        {
+          "name": "Gao",
+          "country": "Mali",
+          "lat": 16.2717,
+          "lng": -0.0447,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travelers",
+      "summary": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travellers The Malian Armed Forces (FAMa) put an end to the actions of armed men who set up illegal roadblocks on the Gao-N'tahaka axis to extort money from travellers. This operation should make it possible to strengthen security on this strategic route, heavily used by carriers and the populations of the region .",
+      "sources": [
+        "Malijet"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://malijet.com/les_faits_divers_au_mali/312753-axe-gao-ntahaka-les-fama-neutralisent-des-hommes-armes-qu.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://malijet.com/les_faits_divers_au_mali/312753-axe-gao-ntahaka-les-fama-neutralisent-des-hommes-armes-qu.html",
+          "source": "Malijet",
+          "title": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travelers",
+          "summary": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travellers The Malian Armed Forces (FAMa) put an end to the actions of armed men who set up illegal roadblocks on the Gao-N'tahaka axis to extort money from travellers. This operation should make it possible to strengthen security on this strategic route, heavily used by carriers and the populations of the region .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-10T02:50:26.585574Z",
+      "updated_at": "2026-11-10T02:50:26.585574Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-10T02:50:26.585574Z",
+          "type": "event_created",
+          "source": "Malijet"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "malijet.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "ROUTINE",
+      "significance_reasons": [
+        "limited currently observed significance"
+      ]
+    },
+    {
+      "id": "2148ef3a81c6732cf595b45935a780dd129f10aa",
+      "event_date": "2026-11-08",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-09T19:01:53Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T02:50:26.789141Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Tessalit",
+      "lat": 20.2,
+      "lng": 1.0,
+      "locations": [
+        {
+          "name": "Tessalit",
+          "country": "Mali",
+          "lat": 20.2,
+          "lng": 1.0,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Nioro du Sahel",
+          "country": "Mali",
+          "lat": 15.23,
+          "lng": -9.59,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Operation Dougoukoloko: three terrorists neutralized near Nampala, several strikes in Tessalit, Nioro and Tonka",
+      "summary": "The Malian Armed Forces (FAMa), supported by their partners, continue their operations to secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces has taken stock of the operations carried out in the last 48 hours . On Sunday, November 8, 2026, in Kolima, 13 kilometers northeast of Nampala, an FAMa patrol neutralized three terrorists who were trying to forcibly collect zakaah from the inhabitants.",
+      "sources": [
+        "Malijet"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://malijet.com/actualte_dans_les_regions_du_mali/312750-operation-dougoukoloko-trois-terroristes-neutralises-pres.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312750-operation-dougoukoloko-trois-terroristes-neutralises-pres.html",
+          "source": "Malijet",
+          "title": "Operation Dougoukoloko: three terrorists neutralized near Nampala, several strikes in Tessalit, Nioro and Tonka",
+          "summary": "The Malian Armed Forces (FAMa), supported by their partners, continue their operations to secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces has taken stock of the operations carried out in the last 48 hours . On Sunday, November 8, 2026, in Kolima, 13 kilometers northeast of Nampala, an FAMa patrol neutralized three terrorists who were trying to forcibly collect zakaah from the inhabitants.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-10T02:50:26.789141Z",
+      "updated_at": "2026-11-10T02:50:26.789141Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-10T02:50:26.789141Z",
+          "type": "event_created",
+          "source": "Malijet"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "malijet.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "multi-location activity"
+      ]
+    },
     {
       "id": "5d71bd31b2d5e35b1db7bcfa4816a6c77034832f",
       "event_date": "2026-11-06",
@@ -3325,263 +3524,45 @@
         "strategic/severe event pattern",
         "multi-location activity"
       ]
-    },
-    {
-      "id": "7e727199e1600ee1b1593f782c641bf78ede0085",
-      "event_date": "2026-10-28",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-10-30T10:37:52Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:18.817829Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Djenné",
-      "lat": 13.9061,
-      "lng": -4.555,
-      "locations": [
-        {
-          "name": "Djenné",
-          "country": "Mali",
-          "lat": 13.9061,
-          "lng": -4.555,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Bamako",
-          "country": "Mali",
-          "lat": 12.6392,
-          "lng": -8.0029,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Operation Dougoukoloko: the FAMa strike terrorist positions in several localities",
-      "summary": "Bamako, October 30 (AMAP) The Malian Armed Forces (FAMa), supported by their partners, are continuing their operations to monitor, control and secure the national territory as part of Operation Dougoukoloko, the General Staff of the Armed Forces said in a statement on Friday. According to the same source, the exploitation of precise information on Wednesday, October 28, 2026, made it possible to locate, north of the village of Talhandak, a strategic regroupment point housing armed terrorist groups as well as war material and logistics.",
-      "sources": [
-        "Malijet",
-        "AMAP (Agence Malienne de Presse et de Publicité)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://malijet.com/actualte_dans_les_regions_du_mali/312588-operation-dougoukoloko-les-fama-frappent-des-positions-ter-2.html",
-        "https://amap.ml/2026/10/30/operation-dougoukoloko-les-fama-frappent-plusieurs-cibles-terroristes-dans-les-zones-de-doila-et-de-djenne/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312588-operation-dougoukoloko-les-fama-frappent-des-positions-ter-2.html",
-          "source": "Malijet",
-          "title": "Operation Dougoukoloko: the FAMa strike terrorist positions in several localities",
-          "summary": "The Malian Armed Forces (FAMa), supported by their partners, continue their operations to monitor and secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces gave an update on several strikes carried out on Wednesday, October 28, 2026 . North of the village of Talhandak, precise information made it possible to locate a major terrorist assembly point, where war materiel and logistics were stored.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://amap.ml/2026/10/30/operation-dougoukoloko-les-fama-frappent-plusieurs-cibles-terroristes-dans-les-zones-de-doila-et-de-djenne/",
-          "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-          "title": "Operation Dougoukoloko: Fama strikes several terrorist targets in the Doïla and Djénné areas",
-          "summary": "Bamako, October 30 (AMAP) The Malian Armed Forces (FAMa), supported by their partners, are continuing their operations to monitor, control and secure the national territory as part of Operation Dougoukoloko, the General Staff of the Armed Forces said in a statement on Friday. According to the same source, the exploitation of precise information on Wednesday, October 28, 2026, made it possible to locate, north of the village of Talhandak, a strategic regroupment point housing armed terrorist groups as well as war material and logistics.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-30T15:10:18.817829Z",
-      "updated_at": "2026-10-30T15:10:21.090274Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-30T15:10:18.817829Z",
-          "type": "event_created",
-          "source": "Malijet"
-        },
-        {
-          "at": "2026-10-30T15:10:21.090274Z",
-          "type": "corroboration_or_geography_update",
-          "source": "AMAP (Agence Malienne de Presse et de Publicité)"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "malijet.com",
-        "amap.ml"
-      ],
-      "independent_source_count": 2,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern",
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "3a54923f27f6f61bd81e9efcf19078732eb31f40",
-      "event_date": "2026-10-28",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-10-30T11:07:24Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-30T15:10:24.579061Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Bamako",
-      "lat": 12.6392,
-      "lng": -8.0029,
-      "locations": [
-        {
-          "name": "Bamako",
-          "country": "Mali",
-          "lat": 12.6392,
-          "lng": -8.0029,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Mali: Targeted army strikes against terrorist logistics",
-      "summary": "The Malian Armed Forces (FAMa), supported by their partners, carried out on Wednesday, October 28, 2026 a series of targeted strikes against several terrorist groups in the North, Southeast and Center of the country, announced the General Staff of the Armed Forces in a statement released Friday in Bamako These combined interventions are part of the Dougoukoloko operation, dedicated to the surveillance, control and security of the national territory, reported Friday the general staff of the Malian army.",
-      "sources": [
-        "APAnews (FR)",
-        "SeneNews"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://fr.apanews.net/security/mali-serie-de-frappes-ciblees-de-larmee-contre-des-logistiques-terroristes/",
-        "https://www.senenews.com/actualites/afrique/mali-afrique/mali-les-fama-revendiquent-une-serie-de-frappes-contre-des-groupes-armes-dans-trois-zones-du-pays_604693.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://fr.apanews.net/security/mali-serie-de-frappes-ciblees-de-larmee-contre-des-logistiques-terroristes/",
-          "source": "APAnews (FR)",
-          "title": "Mali: Targeted army strikes against terrorist logistics",
-          "summary": "The Malian Armed Forces (FAMa), supported by their partners, carried out on Wednesday, October 28, 2026 a series of targeted strikes against several terrorist groups in the North, Southeast and Center of the country, announced the General Staff of the Armed Forces in a statement released Friday in Bamako These combined interventions are part of the Dougoukoloko operation, dedicated to the surveillance, control and security of the national territory, reported Friday the general staff of the Malian army.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://www.senenews.com/actualites/afrique/mali-afrique/mali-les-fama-revendiquent-une-serie-de-frappes-contre-des-groupes-armes-dans-trois-zones-du-pays_604693.html",
-          "source": "SeneNews",
-          "title": "Mali: Army conducts targeted strikes against armed groups in several regions",
-          "summary": "Mali: the army carries out targeted strikes against armed groups in several regions These interventions are part of Operation Dougoukoloko, dedicated to the surveillance, control and security of the national territory, specifies the military command.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-30T15:10:24.579061Z",
-      "updated_at": "2026-10-30T15:10:19.603532Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-30T15:10:24.579061Z",
-          "type": "event_created",
-          "source": "APAnews (FR)"
-        },
-        {
-          "at": "2026-10-30T15:10:19.603532Z",
-          "type": "corroboration_or_geography_update",
-          "source": "SeneNews"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "fr.apanews.net",
-        "senenews.com"
-      ],
-      "independent_source_count": 2,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-10T00:18:51Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T02:50:31.193141Z",
+      "discovered_at": "2026-11-10T02:50:31.193141Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": "offensive/campaign",
+      "candidate_event": false,
+      "title": "Illegal gold panning in Guinea: 1,263 people arrested in the Siguiri region",
+      "url": "https://malijet.com/actualite-sur-afrique/312754-orpaillage-illegal-en-guinee-1-263-personnes-interpellees.html"
+    },
+    {
+      "published_at": "2026-11-10T00:12:15Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T02:50:26.585574Z",
+      "discovered_at": "2026-11-10T02:50:26.585574Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Gao",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travelers",
+      "url": "https://malijet.com/les_faits_divers_au_mali/312753-axe-gao-ntahaka-les-fama-neutralisent-des-hommes-armes-qu.html"
+    },
     {
       "published_at": "2026-11-09T19:56:00Z",
       "published_date_source": "html:time",
@@ -3599,6 +3580,42 @@
       "candidate_event": false,
       "title": "Defence and security: Presentation to the flag of the soldiers of the 2025 contingent at the Instruction and Training Center – CIE AGALI-",
       "url": "https://www.lesahel.org/defense-et-securite-presentation-au-drapeau-des-soldats-du-contingent-2025-au-centre-dinstruction-et-dentrainement-cie-agali/"
+    },
+    {
+      "published_at": "2026-11-09T19:13:40Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T02:50:32.400135Z",
+      "discovered_at": "2026-11-10T02:50:32.400135Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "BAMEX 2026: Abdoulaye Maïga advocates for African security based on innovation and anticipation",
+      "url": "https://www.maliweb.net/armee/bamex-2026-abdoulaye-maiga-plaide-pour-une-securite-africaine-fondee-3121314.html"
+    },
+    {
+      "published_at": "2026-11-09T19:01:53Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T02:50:26.789141Z",
+      "discovered_at": "2026-11-10T02:50:26.789141Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Tessalit",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Operation Dougoukoloko: three terrorists neutralized near Nampala, several strikes in Tessalit, Nioro and Tonka",
+      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312750-operation-dougoukoloko-trois-terroristes-neutralises-pres.html"
     },
     {
       "published_at": "2026-11-09T16:46:21Z",
@@ -3653,6 +3670,24 @@
       "candidate_event": false,
       "title": "Niger and Chad’s drone-strike row exposes deep rifts in the Sahel",
       "url": "https://www.theafricareport.com/435867/niger-and-chads-drone-strike-row-exposes-deep-rifts-in-the-sahel/"
+    },
+    {
+      "published_at": "2026-11-09T12:44:07Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T02:50:29.045495Z",
+      "discovered_at": "2026-11-10T02:50:29.045495Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Burkina Faso-EU: Ouagadougou wants humanitarian aid that leads to autonomy",
+      "url": "https://malijet.com/actualite-politique-au-mali/312743-burkina-faso-ue-ouagadougou-veut-une-aide-humanitaire-qui.html"
     },
     {
       "published_at": "2026-11-09T12:41:28Z",
@@ -4211,96 +4246,6 @@
       "candidate_event": false,
       "title": "Management of the humanitarian crisis at the border: The Malian Government mobilizes large resources for evacuation",
       "url": "https://bamada.net/gestion-de-la-crise-humanitaire-a-la-frontiere-le-gouvernement-malien-mobilise-de-grands-moyens-pour-levacuation"
-    },
-    {
-      "published_at": "2026-11-07T20:25:29Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-07T23:46:18.305314Z",
-      "discovered_at": "2026-11-07T23:46:18.305314Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Ségou",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Murder of Safiatou Boré in Segou: a suspect arrested",
-      "url": "https://malijet.com/les_faits_divers_au_mali/312724-meurtre-de-safiatou-bore-a-segou-un-suspect-arrete.html"
-    },
-    {
-      "published_at": "2026-11-07T19:22:36Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-07T20:21:57.502852Z",
-      "discovered_at": "2026-11-07T20:21:57.502852Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0164",
-      "source": "Echorouk Online (الشروق أونلاين)",
-      "language": "en",
-      "actor": "State",
-      "country": "Niger",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "No European Oversight of Algeria–Niger Sovereign Agreement",
-      "url": "https://www.echoroukonline.com/no-european-oversight-of-algeria-niger-sovereign-agreement"
-    },
-    {
-      "published_at": "2026-11-07T18:30:57Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-07T20:21:57.225164Z",
-      "discovered_at": "2026-11-07T20:21:57.225164Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0164",
-      "source": "Echorouk Online (الشروق أونلاين)",
-      "language": "ar",
-      "actor": "State",
-      "country": "Niger",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "No European Custody of the Sovereign Agreement between Algeria and Niger",
-      "url": "https://www.echoroukonline.com/%d9%84%d8%a7-%d9%88%d8%b5%d8%a7%d9%8a%d8%a9-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d9%8a-%d8%a8"
-    },
-    {
-      "published_at": "2026-11-07T15:40:12Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-07T20:21:57.304380Z",
-      "discovered_at": "2026-11-07T20:21:57.304380Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0034",
-      "source": "TV5MONDE Afrique",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Image Africa Prohibition of clandestine gold panning in Guinea: thousands of foreigners arrested, including Malians and Burkinabe, forced to leave",
-      "url": "https://information.tv5monde.com/afrique/interdiction-de-lorpaillage-clandestin-en-guinee-des-milliers-detrangers-interpelles-dont-des-maliens-et-burkinabe-contraints-de-partir-2844920"
-    },
-    {
-      "published_at": "2026-11-07T15:11:21Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-07T20:21:57.026404Z",
-      "discovered_at": "2026-11-07T20:21:57.026404Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "DGCC news flash: 665 tankers arrive in Bamako",
-      "url": "https://malijet.com/actualite_economique_du_mali/312720-flash-info-dgcc-665-camions-citernes-arrivent-a-bamako.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

@@ -1,5 +1,204 @@
 [
   {
+    "id": "ac987b279d16c9517789717c1dd6a962c7e8ae48",
+    "event_date": "2026-11-10",
+    "event_date_confidence": "publication-proxy",
+    "event_date_source": "jsonld:datePublished",
+    "published_at": "2026-11-10T00:12:15Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-10T02:50:26.585574Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Gao",
+    "lat": 16.2717,
+    "lng": -0.0447,
+    "locations": [
+      {
+        "name": "Gao",
+        "country": "Mali",
+        "lat": 16.2717,
+        "lng": -0.0447,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travelers",
+    "summary": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travellers The Malian Armed Forces (FAMa) put an end to the actions of armed men who set up illegal roadblocks on the Gao-N'tahaka axis to extort money from travellers. This operation should make it possible to strengthen security on this strategic route, heavily used by carriers and the populations of the region .",
+    "sources": [
+      "Malijet"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://malijet.com/les_faits_divers_au_mali/312753-axe-gao-ntahaka-les-fama-neutralisent-des-hommes-armes-qu.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/les_faits_divers_au_mali/312753-axe-gao-ntahaka-les-fama-neutralisent-des-hommes-armes-qu.html",
+        "source": "Malijet",
+        "title": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travelers",
+        "summary": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travellers The Malian Armed Forces (FAMa) put an end to the actions of armed men who set up illegal roadblocks on the Gao-N'tahaka axis to extort money from travellers. This operation should make it possible to strengthen security on this strategic route, heavily used by carriers and the populations of the region .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-10T02:50:26.585574Z",
+    "updated_at": "2026-11-10T02:50:26.585574Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-10T02:50:26.585574Z",
+        "type": "event_created",
+        "source": "Malijet"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "malijet.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
+    ]
+  },
+  {
+    "id": "2148ef3a81c6732cf595b45935a780dd129f10aa",
+    "event_date": "2026-11-08",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-09T19:01:53Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-10T02:50:26.789141Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Tessalit",
+    "lat": 20.2,
+    "lng": 1.0,
+    "locations": [
+      {
+        "name": "Tessalit",
+        "country": "Mali",
+        "lat": 20.2,
+        "lng": 1.0,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Nioro du Sahel",
+        "country": "Mali",
+        "lat": 15.23,
+        "lng": -9.59,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Operation Dougoukoloko: three terrorists neutralized near Nampala, several strikes in Tessalit, Nioro and Tonka",
+    "summary": "The Malian Armed Forces (FAMa), supported by their partners, continue their operations to secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces has taken stock of the operations carried out in the last 48 hours . On Sunday, November 8, 2026, in Kolima, 13 kilometers northeast of Nampala, an FAMa patrol neutralized three terrorists who were trying to forcibly collect zakaah from the inhabitants.",
+    "sources": [
+      "Malijet"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312750-operation-dougoukoloko-trois-terroristes-neutralises-pres.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312750-operation-dougoukoloko-trois-terroristes-neutralises-pres.html",
+        "source": "Malijet",
+        "title": "Operation Dougoukoloko: three terrorists neutralized near Nampala, several strikes in Tessalit, Nioro and Tonka",
+        "summary": "The Malian Armed Forces (FAMa), supported by their partners, continue their operations to secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces has taken stock of the operations carried out in the last 48 hours . On Sunday, November 8, 2026, in Kolima, 13 kilometers northeast of Nampala, an FAMa patrol neutralized three terrorists who were trying to forcibly collect zakaah from the inhabitants.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-10T02:50:26.789141Z",
+    "updated_at": "2026-11-10T02:50:26.789141Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-10T02:50:26.789141Z",
+        "type": "event_created",
+        "source": "Malijet"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "malijet.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
     "id": "5d71bd31b2d5e35b1db7bcfa4816a6c77034832f",
     "event_date": "2026-11-06",
     "event_date_confidence": "explicit-text",
