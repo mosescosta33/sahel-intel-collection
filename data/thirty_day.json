@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T02:52:02.128477Z",
+  "generated_at": "2026-11-10T12:50:07.325364Z",
   "window_days": 30,
   "cutoff": "2026-10-11",
-  "reports": 777,
-  "incident_reports": 194,
+  "reports": 778,
+  "incident_reports": 193,
   "candidate_events": 112,
   "corroborated_events": 34,
   "mapped_events": 78,
@@ -36,7 +36,7 @@
   "by_language": {
     "fr": 641,
     "en": 95,
-    "ar": 41
+    "ar": 42
   },
   "by_confidence": {
     "low": 53,
@@ -48,7 +48,7 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 95
+      "count": 94
     },
     {
       "source_code": "SRC-0006",
@@ -76,14 +76,14 @@
       "count": 28
     },
     {
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "count": 26
-    },
-    {
       "source_code": "SRC-0079",
       "source": "L'Essor",
       "count": 26
+    },
+    {
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "count": 25
     },
     {
       "source_code": "SRC-0014",
@@ -304,7 +304,7 @@
     },
     {
       "date": "2026-11-10",
-      "reports": 2,
+      "reports": 7,
       "events": 1
     }
   ],
@@ -3528,6 +3528,96 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-10T12:16:53Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T12:48:36.745132Z",
+      "discovered_at": "2026-11-10T12:48:36.745132Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0117",
+      "source": "Vanguard News (Nigeria)",
+      "language": "en",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "MOSOP accuses Niger Delta governors of mismanaging 13% derivation funds",
+      "url": "https://www.vanguardngr.com/2026/11/mosop-accuses-niger-delta-governors-of-mismanaging-13-derivation-funds/"
+    },
+    {
+      "published_at": "2026-11-10T11:05:08Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T12:48:36.385840Z",
+      "discovered_at": "2026-11-10T12:48:36.385840Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0038",
+      "source": "APAnews (FR)",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Niamey",
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "Niger-EU: Niamey raises its voice after statements on the Algerian military deployment",
+      "url": "https://fr.apanews.net/diplomacy/niger-ue-niamey-hausse-le-ton-apres-les-declarations-sur-le-deploiement-militaire-algerien/"
+    },
+    {
+      "published_at": "2026-11-10T09:36:23Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T12:48:35.431541Z",
+      "discovered_at": "2026-11-10T12:48:35.431541Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0060",
+      "source": "Al-Quds Al-Arabi",
+      "language": "ar",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Shangarha explains the nature of the mission of the Algerian army in Niger… and the President of the African Parliament responds to the statements of the spokesman of the European Union",
+      "url": "https://www.alquds.co.uk/%d8%b4%d9%86%d9%82%d8%b1%d9%8a%d8%ad%d8%a9-%d9%8a%d8%b4%d8%b1%d8%ad-%d8%b7%d8%a8%d9%8a%d8%b9%d8%a9-%d9%85%d9%87%d9%85%d8%a9-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1/"
+    },
+    {
+      "published_at": "2026-11-10T09:35:29Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T12:48:34.334546Z",
+      "discovered_at": "2026-11-10T12:48:34.334546Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0085",
+      "source": "Seneweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Ménaka",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Mali: Fama bomb terrorist groups in Menaka and Kidal",
+      "url": "https://www.seneweb.com/fr/news/Afrique/mali-les-fama-bombardent-des-regroupements-terroristes-a-menaka-et-kidal_n_999003188.html"
+    },
+    {
+      "published_at": "2026-11-10T05:32:42Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-10T12:48:39.262483Z",
+      "discovered_at": "2026-11-10T12:48:39.262483Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0170",
+      "source": "Arabi21 (عربي 21)",
+      "language": "ar",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "A European request that angered Algeria about the deployment of its army in Niger",
+      "url": "https://arabi21.com/story/1802032/%D8%B7%D9%84%D8%A8-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%BA%D8%B6%D8%A8-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%AC%D9%8A%D8%B4%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1"
+    },
+    {
       "published_at": "2026-11-10T00:18:51Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4156,96 +4246,6 @@
       "candidate_event": false,
       "title": "Tinubu condoles with Niger junta leader over father’s death",
       "url": "https://www.premiumtimesng.com/news/top-news/923639-tinubu-condoles-with-niger-junta-leader-over-fathers-death.html"
-    },
-    {
-      "published_at": "2026-11-08T05:02:25Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-08T06:14:51.260788Z",
-      "discovered_at": "2026-11-08T06:14:51.260788Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Niger: former minister Kalla Moutari still in the gendarmerie, two months after his arrest",
-      "url": "https://www.rfi.fr/fr/afrique/20261108-niger-l-ancien-ministre-kalla-moutari-toujours-%C3%A0-la-gendarmerie-deux-mois-apr%C3%A8s-son-arrestation"
-    },
-    {
-      "published_at": "2026-11-08T01:21:29Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-08T06:14:51.675608Z",
-      "discovered_at": "2026-11-08T06:14:51.675608Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0085",
-      "source": "Seneweb",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Anti-peeling operations in Guinea: 160,000 people returned to Mali",
-      "url": "https://www.seneweb.com/fr/news/Afrique/operations-anti-orpaillage-en-guinee-160000-personnes-refoulees-vers-le-mali_n_999002991.html"
-    },
-    {
-      "published_at": "2026-11-08T00:00:00Z",
-      "published_date_source": "visible-publication-label",
-      "published_time_precision": "date-only",
-      "collected_at": "2026-11-08T15:22:35.996062Z",
-      "discovered_at": "2026-11-08T15:22:35.996062Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0011",
-      "source": "LeFaso.net",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Guinea/ Fight against illegal gold mining: 1,263 people arrested, including Burkinabe",
-      "url": "https://lefaso.net/spip.php?article150611="
-    },
-    {
-      "published_at": "2026-11-07T20:35:24Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-07T23:46:19.023209Z",
-      "discovered_at": "2026-11-07T23:46:19.023209Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: several tens of thousands of gold miners expelled from Guinea taken care of in Mali",
-      "url": "https://www.rfi.fr/fr/afrique/20261107-mali-plusieurs-dizaines-de-milliers-d-orpailleurs-expuls%C3%A9s-de-guin%C3%A9e-pris-en-charge-au-mali"
-    },
-    {
-      "published_at": "2026-11-07T20:31:09Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-07T23:46:18.409656Z",
-      "discovered_at": "2026-11-07T23:46:18.409656Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Management of the humanitarian crisis at the border: The Malian Government mobilizes large resources for evacuation",
-      "url": "https://bamada.net/gestion-de-la-crise-humanitaire-a-la-frontiere-le-gouvernement-malien-mobilise-de-grands-moyens-pour-levacuation"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
