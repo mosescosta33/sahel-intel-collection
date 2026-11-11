@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
   "reporting_date": "2026-11-13",
-  "generated_at": "2026-11-11T16:21:09.024378Z",
+  "generated_at": "2026-11-11T22:54:51.197835Z",
   "coverage": [
     "Mali",
     "Burkina Faso",
@@ -53,7 +53,7 @@
   ],
   "emerging_patterns": [
     "JNIM 7-day activity is lower than the preceding 7-day window (2 → 0).",
-    "State 7-day activity is lower than the preceding 7-day window (8 → 2)."
+    "State 7-day activity is lower than the preceding 7-day window (8 → 4)."
   ],
   "intelligence_gaps": [
     "Collection confidence is low, so absence of reporting should not be interpreted as absence of activity."
@@ -93,7 +93,7 @@
     "State": {
       "events": 0,
       "delta_vs_previous_day": 0,
-      "current_7d": 2,
+      "current_7d": 4,
       "previous_7d": 8,
       "countries": [],
       "event_types": []

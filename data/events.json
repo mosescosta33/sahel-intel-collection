@@ -1,5 +1,255 @@
 [
   {
+    "id": "7406e318043ac1614d68cf30f1346051ba771042",
+    "event_date": "2026-11-11",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-11T19:41:38Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-11T22:52:05.622083Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Kidal",
+    "lat": 18.4411,
+    "lng": 1.4078,
+    "locations": [
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Timbuktu",
+        "country": "Mali",
+        "lat": 16.7666,
+        "lng": -3.0026,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Sikasso",
+        "country": "Mali",
+        "lat": 11.31755,
+        "lng": -5.66654,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "FAMa: three airstrikes against...",
+    "summary": "FAMa: Three airstrikes against terrorist positions in Kidal, Timbuktu and Sikasso The General Staff of the Armed Forces announces new military operations as part of Operation Dougoukoloko. The Malian Armed Forces (FAMa), supported by their partners, carried out several precision strikes on 10 and 11 November 2026 against identified targets in the Kidal, Timbuktu and Sikasso regions.",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/insecurite/fama-trois-frappes-aeriennes-contre-des-positions-terroristes-a-kidal-3121384.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/fama-trois-frappes-aeriennes-contre-des-positions-terroristes-a-kidal-3121384.html",
+        "source": "Maliweb",
+        "title": "FAMa: three airstrikes against...",
+        "summary": "FAMa: Three airstrikes against terrorist positions in Kidal, Timbuktu and Sikasso The General Staff of the Armed Forces announces new military operations as part of Operation Dougoukoloko. The Malian Armed Forces (FAMa), supported by their partners, carried out several precision strikes on 10 and 11 November 2026 against identified targets in the Kidal, Timbuktu and Sikasso regions.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-11T22:52:05.622083Z",
+    "updated_at": "2026-11-11T22:52:05.622083Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-11T22:52:05.622083Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
+    "id": "0d3336b6e3ed1d215b6bb206d7c19bad829f7142",
+    "event_date": "2026-11-10",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-11T16:38:28Z",
+    "published_date_source": "feed",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-11T22:52:05.421551Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": "State",
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Sikasso",
+    "lat": 11.31755,
+    "lng": -5.66654,
+    "locations": [
+      {
+        "name": "Sikasso",
+        "country": "Mali",
+        "lat": 11.31755,
+        "lng": -5.66654,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Timbuktu",
+        "country": "Mali",
+        "lat": 16.7666,
+        "lng": -3.0026,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Operation Dougoukoloko: The Malian Army neutralises several terrorist targets in Tinzaouatène, Tonka and Sikasso",
+    "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Tuesday, 10 November 2026, approximately twenty-seven (27) kilometres north-west of Tinzaouatène, in the Kidal region, a previously identified terrorist target was struck three (03) times.",
+    "sources": [
+      "Bamada",
+      "Malijet"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 2,
+    "report_urls": [
+      "https://bamada.net/operation-dougoukoloko-larmee-malienne-neutralise-plusieurs-objectifs-terroristes-a-tinzaouatene-tonka-et-sikasso",
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312790-operation-dougoukoloko-les-fama-frappent-des-positions-ter-4.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://bamada.net/operation-dougoukoloko-larmee-malienne-neutralise-plusieurs-objectifs-terroristes-a-tinzaouatene-tonka-et-sikasso",
+        "source": "Bamada",
+        "title": "Operation Dougoukoloko: The Malian Army neutralises several terrorist targets in Tinzaouatène, Tonka and Sikasso",
+        "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Tuesday, 10 November 2026, approximately twenty-seven (27) kilometres north-west of Tinzaouatène, in the Kidal region, a previously identified terrorist target was struck three (03) times.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312790-operation-dougoukoloko-les-fama-frappent-des-positions-ter-4.html",
+        "source": "Malijet",
+        "title": "Operation Dougoukoloko: FAMa strike terrorist positions in Tinzaouatène, Tonka, and near Sikasso",
+        "summary": "Operation Dougoukoloko: The FAMa strike terrorist positions in Tinzaouatène, Tonka and near Sikasso The Malian Armed Forces (FAMa), supported by their partners, are continuing their operations to secure the territory as part of Operation Dougoukoloko. Several strikes carried out over the past two days have been reviewed by the General Staff of the Armed Forces.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-11T22:52:05.421551Z",
+    "updated_at": "2026-11-11T22:52:05.350244Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-11T22:52:05.421551Z",
+        "type": "event_created",
+        "source": "Bamada"
+      },
+      {
+        "at": "2026-11-11T22:52:05.350244Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Malijet"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "bamada.net",
+      "malijet.com"
+    ],
+    "independent_source_count": 2,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
     "id": "ac987b279d16c9517789717c1dd6a962c7e8ae48",
     "event_date": "2026-11-10",
     "event_date_confidence": "publication-proxy",

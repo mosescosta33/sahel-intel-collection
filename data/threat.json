@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-11T16:21:06.957910Z",
+  "generated_at": "2026-11-11T22:54:48.543195Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
-    "level": "MEDIUM",
+    "level": "HIGH",
     "confidence": "LOW"
   },
   "countries": {
     "Mali": {
-      "score": 64,
-      "level": "MEDIUM",
+      "score": 67,
+      "level": "HIGH",
       "trend": "IMPROVING",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 7,
-      "events_30d": 73,
+      "events_7d": 9,
+      "events_30d": 75,
       "baseline_7d_equivalent": 20.1,
-      "tempo_ratio": 0.38,
+      "tempo_ratio": 0.47,
       "drivers": [
-        "7 fused candidate event(s) in 7 days",
-        "6 significant/major event(s)",
-        "activity across 6 named locations"
+        "9 fused candidate event(s) in 7 days",
+        "8 significant/major event(s)",
+        "activity across 8 named locations"
       ],
       "independent_domains_7d": 5
     },
