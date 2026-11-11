@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-11-10T21:54:59.824367Z",
+  "generated_at": "2026-11-11T06:40:17.255960Z",
   "series": {
     "JNIM": [
-      {
-        "date": "2026-05-15",
-        "count": 0
-      },
       {
         "date": "2026-05-16",
         "count": 0
@@ -721,13 +717,13 @@
       {
         "date": "2026-11-10",
         "count": 0
+      },
+      {
+        "date": "2026-11-11",
+        "count": 0
       }
     ],
     "IS Sahel": [
-      {
-        "date": "2026-05-15",
-        "count": 0
-      },
       {
         "date": "2026-05-16",
         "count": 0
@@ -1443,13 +1439,13 @@
       {
         "date": "2026-11-10",
         "count": 0
+      },
+      {
+        "date": "2026-11-11",
+        "count": 0
       }
     ],
     "State": [
-      {
-        "date": "2026-05-15",
-        "count": 0
-      },
       {
         "date": "2026-05-16",
         "count": 0
@@ -2165,13 +2161,13 @@
       {
         "date": "2026-11-10",
         "count": 1
+      },
+      {
+        "date": "2026-11-11",
+        "count": 0
       }
     ],
     "Africa Corps/Wagner": [
-      {
-        "date": "2026-05-15",
-        "count": 0
-      },
       {
         "date": "2026-05-16",
         "count": 0
@@ -2887,13 +2883,17 @@
       {
         "date": "2026-11-10",
         "count": 0
+      },
+      {
+        "date": "2026-11-11",
+        "count": 0
       }
     ]
   },
   "trends_7d": {
     "JNIM": {
-      "current": 2,
-      "previous": 2,
+      "current": 0,
+      "previous": 4,
       "change_pct": null
     },
     "IS Sahel": {
@@ -2902,9 +2902,9 @@
       "change_pct": null
     },
     "State": {
-      "current": 9,
-      "previous": 12,
-      "change_pct": -25.0
+      "current": 8,
+      "previous": 10,
+      "change_pct": -20.0
     },
     "Africa Corps/Wagner": {
       "current": 0,
@@ -2914,9 +2914,9 @@
   },
   "trends_30d": {
     "JNIM": {
-      "current": 11,
-      "previous": 11,
-      "change_pct": 0.0
+      "current": 10,
+      "previous": 12,
+      "change_pct": -16.7
     },
     "IS Sahel": {
       "current": 6,
@@ -2924,9 +2924,9 @@
       "change_pct": null
     },
     "State": {
-      "current": 58,
-      "previous": 54,
-      "change_pct": 7.4
+      "current": 56,
+      "previous": 56,
+      "change_pct": 0.0
     },
     "Africa Corps/Wagner": {
       "current": 10,
