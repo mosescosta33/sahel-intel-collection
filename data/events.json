@@ -1,5 +1,122 @@
 [
   {
+    "id": "ef226e2b37c8329e4d61880c9b356bddb598e03b",
+    "event_date": "2026-11-12",
+    "event_date_confidence": "publication-proxy",
+    "event_date_source": "jsonld:datePublished",
+    "published_at": "2026-11-12T06:44:00Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-12T07:23:40.055074Z",
+    "actor": "JNIM",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "JNIM"
+    ],
+    "parent_report_id": null,
+    "event_type": "attack",
+    "country": "Burkina Faso",
+    "city": "Ouagadougou",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "locations": [
+      {
+        "name": "Ouagadougou",
+        "country": "Burkina Faso",
+        "lat": 12.3714,
+        "lng": -1.5197,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Barsalogho",
+        "country": "Burkina Faso",
+        "lat": 13.4167,
+        "lng": -1.0167,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Niamey",
+        "country": "Niger",
+        "lat": 13.5116,
+        "lng": 2.1254,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Niger: Journalist Serge Mathurin Adou released after two years in prison",
+    "summary": "In the preparation of the plot that the Burkinabe authorities claimed to have thwarted in 2024, they accused the Nigerien-Ivorian journalist Serge Mathurin Adou, along with around fifteen prominent figures from Burkina Faso, including Lieutenant Colonel Paul-Henri Damiba, the former coup leader, himself overthrown by Captain Ibrahim Traoré, and the former ministers Djibrill Bassolé and Alpha Barry, with Ahmed Kinda as the head of operations, the former commander of the Special Forces.",
+    "sources": [
+      "Dakaractu"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.dakaractu.com/Niger-le-journaliste-Serge-Mathurin-Adou-libere-apres-deux-ans-de-prison_a278083.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.dakaractu.com/Niger-le-journaliste-Serge-Mathurin-Adou-libere-apres-deux-ans-de-prison_a278083.html",
+        "source": "Dakaractu",
+        "title": "Niger: Journalist Serge Mathurin Adou released after two years in prison",
+        "summary": "In the preparation of the plot that the Burkinabe authorities claimed to have thwarted in 2024, they accused the Nigerien-Ivorian journalist Serge Mathurin Adou, along with around fifteen prominent figures from Burkina Faso, including Lieutenant Colonel Paul-Henri Damiba, the former coup leader, himself overthrown by Captain Ibrahim Traoré, and the former ministers Djibrill Bassolé and Alpha Barry, with Ahmed Kinda as the head of operations, the former commander of the Special Forces.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group",
+          "journalist"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-12T07:23:40.055074Z",
+    "updated_at": "2026-11-12T07:23:40.055074Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force",
+      "armed_group",
+      "journalist"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-12T07:23:40.055074Z",
+        "type": "event_created",
+        "source": "Dakaractu"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "dakaractu.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern",
+      "multi-location activity"
+    ]
+  },
+  {
     "id": "7406e318043ac1614d68cf30f1346051ba771042",
     "event_date": "2026-11-11",
     "event_date_confidence": "explicit-text",

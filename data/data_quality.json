@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-11T22:54:48.610324Z",
+  "generated_at": "2026-11-12T07:25:34.407128Z",
   "events_30d": 108,
-  "date_resolution_pct": 88,
+  "date_resolution_pct": 87,
   "precise_geography_pct": 71,
-  "actor_attribution_pct": 73,
+  "actor_attribution_pct": 74,
   "multi_source_corroboration_pct": 31,
   "collection_blind_spots": [],
   "collection_status": "NOMINAL",
   "language_reports_30d": {
-    "fr": 669,
+    "fr": 673,
     "en": 102,
     "ar": 43
   },
