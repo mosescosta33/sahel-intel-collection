@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:25:34.317351Z",
+  "generated_at": "2026-11-12T16:58:19.254289Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
@@ -13,13 +13,13 @@
       "trend": "IMPROVING",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 6,
-      "events_30d": 74,
+      "events_7d": 9,
+      "events_30d": 77,
       "baseline_7d_equivalent": 20.7,
-      "tempo_ratio": 0.32,
+      "tempo_ratio": 0.46,
       "drivers": [
-        "6 fused candidate event(s) in 7 days",
-        "5 significant/major event(s)",
+        "9 fused candidate event(s) in 7 days",
+        "8 significant/major event(s)",
         "activity across 8 named locations"
       ],
       "independent_domains_7d": 5

@@ -1,5 +1,105 @@
 [
   {
+    "id": "472e04680ff3147b326628e140ea0bd4d16d7e5c",
+    "event_date": "2026-11-12",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-12T14:22:06Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-12T16:55:36.011724Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Bamako",
+    "lat": 12.6392,
+    "lng": -8.0029,
+    "locations": [
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.6392,
+        "lng": -8.0029,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "FAMa: Five terrorists neutralised and equipment recovered in two operations in Koumantou and Tonkan",
+    "summary": "Bamako, 12 November (AMAP) The Malian Armed Forces (FAMa), supported by their partners, neutralised five terrorists during two operations carried out on Wednesday, respectively at the Bablena crossroads, west of Koumantou, and south of Tonka, as part of Operation Dougoukoloko, according to a statement from the General Staff of the Armed Forces published on Thursday.",
+    "sources": [
+      "AMAP (Agence Malienne de Presse et de Publicité)"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://amap.ml/2026/11/12/fama-cinq-terroristes-neutralises-et-des-equipements-recuperes-dans-deux-operations-a-koumantou-et-a-tonkan/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://amap.ml/2026/11/12/fama-cinq-terroristes-neutralises-et-des-equipements-recuperes-dans-deux-operations-a-koumantou-et-a-tonkan/",
+        "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+        "title": "FAMa: Five terrorists neutralised and equipment recovered in two operations in Koumantou and Tonkan",
+        "summary": "Bamako, 12 November (AMAP) The Malian Armed Forces (FAMa), supported by their partners, neutralised five terrorists during two operations carried out on Wednesday, respectively at the Bablena crossroads, west of Koumantou, and south of Tonka, as part of Operation Dougoukoloko, according to a statement from the General Staff of the Armed Forces published on Thursday.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-12T16:55:36.011724Z",
+    "updated_at": "2026-11-12T16:55:36.011724Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "security_force",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-12T16:55:36.011724Z",
+        "type": "event_created",
+        "source": "AMAP (Agence Malienne de Presse et de Publicité)"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "amap.ml"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "ef226e2b37c8329e4d61880c9b356bddb598e03b",
     "event_date": "2026-11-12",
     "event_date_confidence": "publication-proxy",
@@ -114,6 +214,186 @@
     "significance_reasons": [
       "strategic/severe event pattern",
       "multi-location activity"
+    ]
+  },
+  {
+    "id": "d75857e1880a6cb739b19039a50ec97ec5011ad5",
+    "event_date": "2026-11-11",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-12T14:36:04Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-12T16:55:34.732766Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Operation Dougoukoloko: The army announces two successful operations near Koumantou and Tonka",
+    "summary": "The General Staff of the Armed Forces has announced two actions carried out on Wednesday, 11 November 2026 by the Malian Armed Forces (FAMa), with the support of their partners. They are part of Operation Dougoukoloko, which aims to monitor and secure the national territory. .",
+    "sources": [
+      "Malijet"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312813-operation-dougoukoloko-larmee-annonce-deux-operations-reu.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312813-operation-dougoukoloko-larmee-annonce-deux-operations-reu.html",
+        "source": "Malijet",
+        "title": "Operation Dougoukoloko: The army announces two successful operations near Koumantou and Tonka",
+        "summary": "The General Staff of the Armed Forces has announced two actions carried out on Wednesday, 11 November 2026 by the Malian Armed Forces (FAMa), with the support of their partners. They are part of Operation Dougoukoloko, which aims to monitor and secure the national territory. .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-12T16:55:34.732766Z",
+    "updated_at": "2026-11-12T16:55:34.732766Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-12T16:55:34.732766Z",
+        "type": "event_created",
+        "source": "Malijet"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "malijet.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
+    ]
+  },
+  {
+    "id": "501c3c0bf762ca2c5dcbceca276fdc0953681ecc",
+    "event_date": "2026-11-11",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-12T13:56:46Z",
+    "published_date_source": "feed",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-12T16:55:34.669516Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Operation Dougoukoloko: FAMa intercept armed groups in Bablena and neutralise terrorist drone operators near Tonka",
+    "summary": "Thanks to the use of precise intelligence, the Malian Armed Forces carried out two targeted operations in the Koumantou and Tonka sectors on Wednesday, 11 November 2026. The provisional report issued by the General Staff of the Armed Forces states that five terrorists were neutralised, four motorcycles and three submachine guns were recovered, and a drone was destroyed.",
+    "sources": [
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://bamada.net/operation-dougoukoloko-les-fama-frappent-deux-positions-terroristes-a-bablena-et-tonka"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://bamada.net/operation-dougoukoloko-les-fama-frappent-deux-positions-terroristes-a-bablena-et-tonka",
+        "source": "Bamada",
+        "title": "Operation Dougoukoloko: FAMa intercept armed groups in Bablena and neutralise terrorist drone operators near Tonka",
+        "summary": "Thanks to the use of precise intelligence, the Malian Armed Forces carried out two targeted operations in the Koumantou and Tonka sectors on Wednesday, 11 November 2026. The provisional report issued by the General Staff of the Armed Forces states that five terrorists were neutralised, four motorcycles and three submachine guns were recovered, and a drone was destroyed.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-12T16:55:34.669516Z",
+    "updated_at": "2026-11-12T16:55:34.669516Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-12T16:55:34.669516Z",
+        "type": "event_created",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "bamada.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
     ]
   },
   {
