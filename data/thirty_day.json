@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-13T01:16:41.952031Z",
+  "generated_at": "2026-11-13T12:24:52.611038Z",
   "window_days": 30,
   "cutoff": "2026-10-14",
-  "reports": 810,
-  "incident_reports": 192,
-  "candidate_events": 111,
+  "reports": 805,
+  "incident_reports": 193,
+  "candidate_events": 115,
   "corroborated_events": 34,
-  "mapped_events": 78,
-  "mapped_locations": 145,
+  "mapped_events": 79,
+  "mapped_locations": 146,
   "distinct_sources": 85,
   "by_actor": {
-    "State": 61,
+    "State": 64,
     "Other": 28,
-    "JNIM": 11,
+    "JNIM": 12,
     "IS Sahel": 6,
     "Africa Corps/Wagner": 5
   },
   "by_country": {
-    "Mali": 77,
+    "Mali": 80,
     "Niger": 24,
-    "Burkina Faso": 10
+    "Burkina Faso": 11
   },
   "by_event_type": {
-    "security operation": 51,
+    "security operation": 54,
     "attack": 16,
+    "clash": 10,
     "civilian targeting": 9,
-    "clash": 9,
     "kidnapping": 9,
     "air/drone strike": 7,
     "offensive/campaign": 5,
@@ -34,13 +34,13 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 668,
-    "en": 102,
-    "ar": 40
+    "fr": 667,
+    "en": 100,
+    "ar": 38
   },
   "by_confidence": {
-    "low": 51,
-    "moderate": 47,
+    "low": 52,
+    "moderate": 50,
     "moderate-high": 12,
     "high": 1
   },
@@ -48,12 +48,12 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 94
+      "count": 92
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 79
+      "count": 78
     },
     {
       "source_code": "SRC-0075",
@@ -63,7 +63,7 @@
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 36
+      "count": 38
     },
     {
       "source_code": "SRC-0090",
@@ -73,7 +73,7 @@
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
-      "count": 29
+      "count": 28
     },
     {
       "source_code": "SRC-0079",
@@ -98,7 +98,7 @@
     {
       "source_code": "SRC-0015",
       "source": "ActuNiger",
-      "count": 21
+      "count": 20
     },
     {
       "source_code": "SRC-0010",
@@ -109,7 +109,7 @@
   "top_locations": [
     {
       "location": "Mali",
-      "count": 23
+      "count": 26
     },
     {
       "location": "Ménaka",
@@ -295,7 +295,7 @@
     {
       "date": "2026-11-11",
       "reports": 27,
-      "events": 3
+      "events": 6
     },
     {
       "date": "2026-11-12",
@@ -304,11 +304,110 @@
     },
     {
       "date": "2026-11-13",
-      "reports": 1,
-      "events": 0
+      "reports": 11,
+      "events": 1
     }
   ],
   "latest_events": [
+    {
+      "id": "7007938ab5575124e865b5133ba3e40707152969",
+      "event_date": "2026-11-13",
+      "event_date_confidence": "publication-proxy",
+      "event_date_source": "jsonld:datePublished",
+      "published_at": "2026-11-13T05:23:31Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:24.746598Z",
+      "actor": "JNIM",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "JNIM",
+        "IS Sahel"
+      ],
+      "parent_report_id": null,
+      "event_type": "clash",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "lat": 12.3714,
+      "lng": -1.5197,
+      "locations": [
+        {
+          "name": "Ouagadougou",
+          "country": "Burkina Faso",
+          "lat": 12.3714,
+          "lng": -1.5197,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+      "summary": "Ouagadougou, Burkina Faso – Armed fighters from two rival groups have fought a series of increasingly deadly battles along Burkina Faso’s northern border with Mali, as the government struggles to reassert control over large parts of the country. The clashes between Jama’at Nusrat al-Islam wal Muslimin (JNIM), an al-Qaeda affiliate, and the ISIL affiliate in Sahel Province (ISSP) have intensified since early September, with both groups competing for territory and influence across the borderlands.",
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+          "summary": "Ouagadougou, Burkina Faso – Armed fighters from two rival groups have fought a series of increasingly deadly battles along Burkina Faso’s northern border with Mali, as the government struggles to reassert control over large parts of the country. The clashes between Jama’at Nusrat al-Islam wal Muslimin (JNIM), an al-Qaeda affiliate, and the ISIL affiliate in Sahel Province (ISSP) have intensified since early September, with both groups competing for territory and influence across the borderlands.",
+          "summary_basis": "source-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-13T12:22:24.746598Z",
+      "updated_at": "2026-11-13T12:22:24.746598Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-13T12:22:24.746598Z",
+          "type": "event_created",
+          "source": "Al Jazeera English"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "aljazeera.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
     {
       "id": "472e04680ff3147b326628e140ea0bd4d16d7e5c",
       "event_date": "2026-11-12",
@@ -524,6 +623,276 @@
       "significance_reasons": [
         "strategic/severe event pattern",
         "multi-location activity"
+      ]
+    },
+    {
+      "id": "e0ade96b71c1a6aa980a1cf1ad404c9de2e3fbdc",
+      "event_date": "2026-11-11",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": null,
+      "published_date_source": "unresolved",
+      "published_time_precision": "unresolved",
+      "collected_at": "2026-11-13T12:22:32.180154Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Securing the territory: significant terrorist positions neutralised near Kadiane and Boulkessi",
+      "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Wednesday, 11 November 2026, the use of precise intelligence made it possible to locate a major base of armed terrorist groups, spread across two positions located five (05) and eight (08) kilometres respectively north-east of Kadiana.",
+      "sources": [
+        "Bamada"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://bamada.net/securisation-du-territoire-importantes-positions-terroristes-neutralisees-pres-de-kadiana-et-boulkessi"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://bamada.net/securisation-du-territoire-importantes-positions-terroristes-neutralisees-pres-de-kadiana-et-boulkessi",
+          "source": "Bamada",
+          "title": "Securing the territory: significant terrorist positions neutralised near Kadiane and Boulkessi",
+          "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Wednesday, 11 November 2026, the use of precise intelligence made it possible to locate a major base of armed terrorist groups, spread across two positions located five (05) and eight (08) kilometres respectively north-east of Kadiana.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-13T12:22:32.180154Z",
+      "updated_at": "2026-11-13T12:22:32.180154Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-13T12:22:32.180154Z",
+          "type": "event_created",
+          "source": "Bamada"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "bamada.net"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "63a2a0216e45d122cc8fd8bdd15063024901c516",
+      "event_date": "2026-11-11",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-13T11:32:20Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:25.032154Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Boulkessi and Kadiana: The FAMa strike terrorist bases and assembly points In a statement published on 13 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners. These actions, which are part of",
+      "summary": "The document states that, on Wednesday, 11 November 2026, the use of precise intelligence made it possible to locate a major base of armed terrorist groups, spread over two positions located five and eight kilometres respectively north-east of Kadiana. It housed several individuals as well as military equipment, including motorcycles and vehicles. .",
+      "sources": [
+        "L'Essor"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.lessor.ml/posts/boulkessi-et-kadiana-les-fama-frappent-des-bases-et-points-de-regroupement-terroristes-6af6f544bfbd0"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.lessor.ml/posts/boulkessi-et-kadiana-les-fama-frappent-des-bases-et-points-de-regroupement-terroristes-6af6f544bfbd0",
+          "source": "L'Essor",
+          "title": "Boulkessi and Kadiana: The FAMa strike terrorist bases and assembly points In a statement published on 13 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners. These actions, which are part of",
+          "summary": "The document states that, on Wednesday, 11 November 2026, the use of precise intelligence made it possible to locate a major base of armed terrorist groups, spread over two positions located five and eight kilometres respectively north-east of Kadiana. It housed several individuals as well as military equipment, including motorcycles and vehicles. .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-13T12:22:25.032154Z",
+      "updated_at": "2026-11-13T12:22:25.032154Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-13T12:22:25.032154Z",
+          "type": "event_created",
+          "source": "L'Essor"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "lessor.ml"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "382cb463367a83d112793a27677bad69fd5a3a33",
+      "event_date": "2026-11-11",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-13T10:51:34Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:24.429153Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Kadiana and Boulkessi: The army announces strikes against terrorist bases",
+      "summary": "According to a statement from the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) carried out several airstrikes on Wednesday, 11 November 2026, with the support of their partners. These actions are part of Operation Dougoukoloko, which aims to monitor and secure the national territory. .",
+      "sources": [
+        "Malijet"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://malijet.com/actualte_dans_les_regions_du_mali/312820-kadiana-et-boulkessi-larmee-annonce-des-frappes-contre-de.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312820-kadiana-et-boulkessi-larmee-annonce-des-frappes-contre-de.html",
+          "source": "Malijet",
+          "title": "Kadiana and Boulkessi: The army announces strikes against terrorist bases",
+          "summary": "According to a statement from the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) carried out several airstrikes on Wednesday, 11 November 2026, with the support of their partners. These actions are part of Operation Dougoukoloko, which aims to monitor and secure the national territory. .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-13T12:22:24.429153Z",
+      "updated_at": "2026-11-13T12:22:24.429153Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-13T12:22:24.429153Z",
+          "type": "event_created",
+          "source": "Malijet"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "malijet.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
       ]
     },
     {
@@ -3165,373 +3534,189 @@
       "significance_reasons": [
         "operational security event"
       ]
-    },
-    {
-      "id": "3ed4158c070e5338f9a7e647f4db394e5d1d2031",
-      "event_date": "2026-11-02",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-02T14:13:33Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T18:33:34.335824Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Mali: terrorists neutralized by FAMa in the center",
-      "summary": "FK/CRK/AF lundi 2 novembre 2026 Flash : - Ecobank franchit le cap des 2 milliards USD de PNB - Guinée : reconversion écologique de la décharge de Dar-es-Salam - RCI/littérature : Komi Sarof questionne le sens du temps - Sénégal-Italie : mission réussie pour l’économie sociale à Rome - Abidjan : coupure d’eau à Cocody-Angré ce lundi soir (SODECI) - Mali : nouvelles règles pour les transferts numériques - Tunisie-Libye : libération partielle des ressortissants retenus à Zelten - Burkina Faso : près de 90% des usagers respectent le port du casque",
-      "sources": [
-        "APAnews (FR)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://fr.apanews.net/tv/mali-des-terroristes-neutralises-par-les-fama-dans-le-centre-2/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://fr.apanews.net/tv/mali-des-terroristes-neutralises-par-les-fama-dans-le-centre-2/",
-          "source": "APAnews (FR)",
-          "title": "Mali: terrorists neutralized by FAMa in the center",
-          "summary": "FK/CRK/AF lundi 2 novembre 2026 Flash : - Ecobank franchit le cap des 2 milliards USD de PNB - Guinée : reconversion écologique de la décharge de Dar-es-Salam - RCI/littérature : Komi Sarof questionne le sens du temps - Sénégal-Italie : mission réussie pour l’économie sociale à Rome - Abidjan : coupure d’eau à Cocody-Angré ce lundi soir (SODECI) - Mali : nouvelles règles pour les transferts numériques - Tunisie-Libye : libération partielle des ressortissants retenus à Zelten - Burkina Faso : près de 90% des usagers respectent le port du casque",
-          "summary_basis": "source-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-02T18:33:34.335824Z",
-      "updated_at": "2026-11-02T18:33:34.335824Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-02T18:33:34.335824Z",
-          "type": "event_created",
-          "source": "APAnews (FR)"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "fr.apanews.net"
-      ],
-      "independent_source_count": 1,
-      "significance": "ROUTINE",
-      "significance_reasons": [
-        "limited currently observed significance"
-      ]
-    },
-    {
-      "id": "b3031204a087f41fd6eb1f4950d93788a3e1a068",
-      "event_date": "2026-11-01",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-01T22:15:17Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-02T06:21:23.052777Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "kidnapping",
-      "country": "Niger",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Nigeria: Abduction of a dozen children in the State of Niger",
-      "summary": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
-      "sources": [
-        "RFI Afrique"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.rfi.fr/fr/en-bref/20261101-nigeria-enl%C3%A8vement-d-une-douzaine-d-enfants-dans-l-%C3%A9tat-de-niger"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.rfi.fr/fr/en-bref/20261101-nigeria-enl%C3%A8vement-d-une-douzaine-d-enfants-dans-l-%C3%A9tat-de-niger",
-          "source": "RFI Afrique",
-          "title": "Nigeria: Abduction of a dozen children in the State of Niger",
-          "summary": "Nigeria: enlèvement d'une douzaine d'enfants dans l'État de Niger Publié le : Une douzaine d'enfants ont été enlevés par des hommes armés dans le centre-nord du Nigeria, a appris l'AFP dimanche 1er novembre 2026 de sources locale et sécuritaire. Des hommes armés à moto, membres de gangs spécialisés dans les enlèvements contre rançon et dans le vol de bétail, localement appelés «bandits», terrorisent depuis des années les communautés rurales du nord-ouest et du centre du Nigeria, et notamment l'État du Niger où la situation sécuritaire s'est détériorée ces derniers mois.",
-          "summary_basis": "source-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-02T06:21:23.052777Z",
-      "updated_at": "2026-11-02T06:21:23.052777Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-02T06:21:23.052777Z",
-          "type": "event_created",
-          "source": "RFI Afrique"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "rfi.fr"
-      ],
-      "independent_source_count": 1,
-      "significance": "SIGNIFICANT",
-      "significance_reasons": [
-        "operational security event"
-      ]
-    },
-    {
-      "id": "8985ba02d7ce0666e216aa0c1d246fd09c943af7",
-      "event_date": "2026-10-31",
-      "event_date_confidence": "publication-proxy",
-      "event_date_source": "html:time",
-      "published_at": "2026-10-31T13:20:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-10-31T14:39:51.697031Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Niger",
-      "city": "Niamey",
-      "lat": 13.5116,
-      "lng": 2.1254,
-      "locations": [
-        {
-          "name": "Niamey",
-          "country": "Niger",
-          "lat": 13.5116,
-          "lng": 2.1254,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Niger: Several mercenaries neutralized through various operations to secure the national territory",
-      "summary": "Niamey, Oct 31 (ANP)-The Defense and Security Forces have neutralized seven(7) mercenaries through several operations to secure the national territory, report the narrative of the Integrated Operations Coordination Center (CICO) of the second half of October 2026 . Thus, within Operation Damissa; in the border area with Nigeria, the Defence and Security Forces continue their actions against the mercenaries who maintain insecurity there \"It is in this context that the Tarnatsa operation of opportunity was launched, marked by the passage to the offensive of the ground forces against several enemy landmarks.",
-      "sources": [
-        "Agence Nigérienne de Presse"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://anp.ne/niger-plusieurs-mercenaires-neutralises-a-travers-diverses-operations-de-securisation-du-territoire-national/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://anp.ne/niger-plusieurs-mercenaires-neutralises-a-travers-diverses-operations-de-securisation-du-territoire-national/",
-          "source": "Agence Nigérienne de Presse",
-          "title": "Niger: Several mercenaries neutralized through various operations to secure the national territory",
-          "summary": "Niamey, Oct 31 (ANP)-The Defense and Security Forces have neutralized seven(7) mercenaries through several operations to secure the national territory, report the narrative of the Integrated Operations Coordination Center (CICO) of the second half of October 2026 . Thus, within Operation Damissa; in the border area with Nigeria, the Defence and Security Forces continue their actions against the mercenaries who maintain insecurity there \"It is in this context that the Tarnatsa operation of opportunity was launched, marked by the passage to the offensive of the ground forces against several enemy landmarks.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "security_force"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-10-31T14:39:51.697031Z",
-      "updated_at": "2026-10-31T14:39:51.697031Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "security_force"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-10-31T14:39:51.697031Z",
-          "type": "event_created",
-          "source": "Agence Nigérienne de Presse"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "anp.ne"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern"
-      ]
-    },
-    {
-      "id": "044ddd2f8c9e45cb46a3198c1f25fcea9642e179",
-      "event_date": "2026-10-30",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-09T16:09:38Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-09T18:56:57.650105Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "clash",
-      "country": "Niger",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Deployment in Niger: the EU becomes the new battleground between Algiers and Paris",
-      "summary": "After EU statements on the deployment of Algerian troops in Niger, Algiers accuses Paris of being behind this position. A new diplomatic arms pass that buries a little more hopes of warming between the two countries .",
-      "sources": [
-        "Jeune Afrique"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.jeuneafrique.com/1860041/politique/deploiement-au-niger-lue-devient-le-nouveau-terrain-daffrontement-entre-alger-et-paris/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.jeuneafrique.com/1860041/politique/deploiement-au-niger-lue-devient-le-nouveau-terrain-daffrontement-entre-alger-et-paris/",
-          "source": "Jeune Afrique",
-          "title": "Deployment in Niger: the EU becomes the new battleground between Algiers and Paris",
-          "summary": "After EU statements on the deployment of Algerian troops in Niger, Algiers accuses Paris of being behind this position. A new diplomatic arms pass that buries a little more hopes of warming between the two countries .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "security_force",
-            "journalist"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-09T18:56:57.650105Z",
-      "updated_at": "2026-11-09T18:56:57.650105Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "security_force",
-        "journalist"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-09T18:56:57.650105Z",
-          "type": "event_created",
-          "source": "Jeune Afrique"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "jeuneafrique.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "ROUTINE",
-      "significance_reasons": [
-        "limited currently observed significance"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-13T12:01:09Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:31.954473Z",
+      "discovered_at": "2026-11-13T12:22:31.954473Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0038",
+      "source": "APAnews (FR)",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": "offensive/campaign",
+      "candidate_event": false,
+      "title": "Two children from Mali",
+      "url": "https://fr.apanews.net/news/deux-enfants-du-mali/"
+    },
+    {
+      "published_at": "2026-11-13T11:32:20Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:25.032154Z",
+      "discovered_at": "2026-11-13T12:22:25.032154Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Boulkessi and Kadiana: The FAMa strike terrorist bases and assembly points In a statement published on 13 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners. These actions, which are part of",
+      "url": "https://www.lessor.ml/posts/boulkessi-et-kadiana-les-fama-frappent-des-bases-et-points-de-regroupement-terroristes-6af6f544bfbd0"
+    },
+    {
+      "published_at": "2026-11-13T10:51:34Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:24.429153Z",
+      "discovered_at": "2026-11-13T12:22:24.429153Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Kadiana and Boulkessi: The army announces strikes against terrorist bases",
+      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312820-kadiana-et-boulkessi-larmee-annonce-des-frappes-contre-de.html"
+    },
+    {
+      "published_at": "2026-11-13T10:48:27Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:24.881161Z",
+      "discovered_at": "2026-11-13T12:22:24.881161Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0007",
+      "source": "Journal du Mali",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Ménaka",
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "Ménaka: Food aid reaches displaced people in Tagadayat",
+      "url": "https://journaldumali.com/menaka-laide-alimentaire-arrive-chez-les-deplaces-de-tagadayat/"
+    },
+    {
+      "published_at": "2026-11-13T09:57:26Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:29.798143Z",
+      "discovered_at": "2026-11-13T12:22:29.798143Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": "kidnapping",
+      "candidate_event": false,
+      "title": "Mali: What are the four activists who have gone from State Security to prison accused of?",
+      "url": "https://fr.allafrica.com/stories/202611130189.html"
+    },
+    {
+      "published_at": "2026-11-13T07:56:06Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:29.742701Z",
+      "discovered_at": "2026-11-13T12:22:29.742701Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": null,
+      "event_type": "kidnapping",
+      "candidate_event": false,
+      "title": "Niger: \"In response to the arrival of...",
+      "url": "https://www.maliweb.net/sports/niger-en-reagissant-a-larrivee-de-soldats-algeriens-lue-a-porte-3121430.html"
+    },
+    {
+      "published_at": "2026-11-13T07:12:21Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:28.049300Z",
+      "discovered_at": "2026-11-13T12:22:28.049300Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Bamako: urban anarchy, this tangled mess...",
+      "url": "https://www.maliweb.net/politique/chroniques/bamako-lanarchie-urbaine-ce-noeud-gordien-que-les-gouverneurs-nont-3121423.html"
+    },
+    {
+      "published_at": "2026-11-13T06:57:37Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:33.107944Z",
+      "discovered_at": "2026-11-13T12:22:33.107944Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0038",
+      "source": "APAnews (FR)",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Mali: Ten people deported from Guinea found dead",
+      "url": "https://fr.apanews.net/society/mali-dix-morts-parmi-les-personnes-refoulees-de-guinee/"
+    },
+    {
+      "published_at": "2026-11-13T05:23:31Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:24.746598Z",
+      "discovered_at": "2026-11-13T12:22:24.746598Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0023",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "actor": "JNIM",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "clash",
+      "candidate_event": true,
+      "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+      "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss"
+    },
+    {
+      "published_at": "2026-11-13T04:13:11Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T12:22:29.885863Z",
+      "discovered_at": "2026-11-13T12:22:29.885863Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": "kidnapping",
+      "candidate_event": false,
+      "title": "Mali: What are the four activists who have been transferred from State Security to prison accused of?",
+      "url": "https://www.rfi.fr/fr/afrique/20261113-mali-que-reproche-t-on-aux-4-militants-pass%C3%A9s-de-la-s%C3%A9curit%C3%A9-d-%C3%A9tat-%C3%A0-la-prison"
+    },
     {
       "published_at": "2026-11-13T02:14:00Z",
       "published_date_source": "html:time",
@@ -4071,186 +4256,6 @@
       "candidate_event": false,
       "title": "Bobo-Dioulasso: Certified electronic invoicing at the heart of the 2026 second session of the CNLF",
       "url": "https://burkina24.com/2026/11/12/bobo-dioulasso-la-facture-electronique-certifiee-au-coeur-de-la-deuxieme-session-2026-de-la-cnlf/"
-    },
-    {
-      "published_at": "2026-11-12T00:00:00Z",
-      "published_date_source": "visible-publication-label",
-      "published_time_precision": "date-only",
-      "collected_at": "2026-11-12T16:55:35.134708Z",
-      "discovered_at": "2026-11-12T16:55:35.134708Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0011",
-      "source": "LeFaso.net",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Ouagadougou: Three Kalashnikovs and two pistols seized after the dismantling of a network of robbers",
-      "url": "https://lefaso.net/spip.php?article150729="
-    },
-    {
-      "published_at": "2026-11-12T00:00:00Z",
-      "published_date_source": "visible-publication-label",
-      "published_time_precision": "date-only",
-      "collected_at": "2026-11-12T16:55:40.082761Z",
-      "discovered_at": "2026-11-12T16:55:40.082761Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0011",
-      "source": "LeFaso.net",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Ouagadougou: An alleged spiritual guide at the centre of a case of fraud and suspected trafficking of human remains",
-      "url": "https://lefaso.net/spip.php?article150743="
-    },
-    {
-      "published_at": "2026-11-12T00:00:00Z",
-      "published_date_source": "visible-publication-label",
-      "published_time_precision": "date-only",
-      "collected_at": "2026-11-12T16:55:40.845822Z",
-      "discovered_at": "2026-11-12T16:55:40.845822Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0011",
-      "source": "LeFaso.net",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouahigouya",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Burkina Faso/War wounded: General Moussa Diallo visits seven garrisons",
-      "url": "https://lefaso.net/spip.php?article150727="
-    },
-    {
-      "published_at": "2026-11-11T21:34:40Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-11T22:52:10.594159Z",
-      "discovered_at": "2026-11-11T22:52:10.594159Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0125",
-      "source": "Channels Television (Nigeria)",
-      "language": "en",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "DSS Intercepts Arms Shipment From Niger Republic In Sokoto, Arrests Female Courier",
-      "url": "https://www.channelstv.com/2026/11/11/dss-intercepts-arms-shipment-from-niger-republic-in-sokoto-arrests-female-courier/"
-    },
-    {
-      "published_at": "2026-11-11T21:24:40Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-11T22:52:10.947322Z",
-      "discovered_at": "2026-11-11T22:52:10.947322Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0038",
-      "source": "APAnews (FR)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Mali: Goïta receives three foreign delegations regarding military cooperation",
-      "url": "https://fr.apanews.net/diplomacy/mali-goita-recoit-trois-delegations-etrangeres-autour-de-la-cooperation-militaire/"
-    },
-    {
-      "published_at": "2026-11-11T19:41:38Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-11T22:52:05.622083Z",
-      "discovered_at": "2026-11-11T22:52:05.622083Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "FAMa: three airstrikes against...",
-      "url": "https://www.maliweb.net/insecurite/fama-trois-frappes-aeriennes-contre-des-positions-terroristes-a-kidal-3121384.html"
-    },
-    {
-      "published_at": "2026-11-11T19:33:02Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-11T22:52:05.709233Z",
-      "discovered_at": "2026-11-11T22:52:05.709233Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali-Türkiye cooperation: Towards a strengthened security partnership",
-      "url": "https://bamada.net/cooperation-mali-turkiye-vers-un-partenariat-securitaire-renforce"
-    },
-    {
-      "published_at": "2026-11-11T18:51:14Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-11T22:52:07.508886Z",
-      "discovered_at": "2026-11-11T22:52:07.508886Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "AES Confederation: Ministers meet in Ouagadougou to assess the Year II roadmap",
-      "url": "https://amap.ml/2026/11/11/confederation-aes-les-ministres-reunis-a-ouagadougou-pour-evaluer-la-feuille-de-route-de-lan-ii/"
-    },
-    {
-      "published_at": "2026-11-11T18:45:10Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-11T22:52:07.666424Z",
-      "discovered_at": "2026-11-11T22:52:07.666424Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Fight against drugs: EMP-ABB auditors spend time at the Central Office for Narcotics",
-      "url": "https://amap.ml/2026/11/11/lutte-contre-la-drogue-les-auditeurs-de-lemp-abb-en-immersion-a-loffice-central-des-stupefiants/"
-    },
-    {
-      "published_at": "2026-11-11T18:21:43Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-11T22:52:06.017673Z",
-      "discovered_at": "2026-11-11T22:52:06.017673Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0007",
-      "source": "Journal du Mali",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "People deported from Guinea: returns are being organised, the human toll remains to be determined",
-      "url": "https://journaldumali.com/refoules-de-guinee-les-retours-sorganisent-le-bilan-humain-reste-a-preciser/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

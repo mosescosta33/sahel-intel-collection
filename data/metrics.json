@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:16:41.952021Z",
+  "generated_at": "2026-11-13T12:24:52.611025Z",
   "series": {
     "JNIM": [
       {
@@ -720,7 +720,7 @@
       },
       {
         "date": "2026-11-13",
-        "count": 0
+        "count": 1
       }
     ],
     "IS Sahel": [
@@ -2156,7 +2156,7 @@
       },
       {
         "date": "2026-11-11",
-        "count": 3
+        "count": 6
       },
       {
         "date": "2026-11-12",
@@ -2892,9 +2892,9 @@
   },
   "trends_7d": {
     "JNIM": {
-      "current": 1,
+      "current": 2,
       "previous": 3,
-      "change_pct": null
+      "change_pct": -33.3
     },
     "IS Sahel": {
       "current": 0,
@@ -2902,9 +2902,9 @@
       "change_pct": null
     },
     "State": {
-      "current": 7,
+      "current": 10,
       "previous": 11,
-      "change_pct": -36.4
+      "change_pct": -9.1
     },
     "Africa Corps/Wagner": {
       "current": 0,
@@ -2914,9 +2914,9 @@
   },
   "trends_30d": {
     "JNIM": {
-      "current": 11,
+      "current": 12,
       "previous": 12,
-      "change_pct": -8.3
+      "change_pct": 0.0
     },
     "IS Sahel": {
       "current": 6,
@@ -2924,9 +2924,9 @@
       "change_pct": null
     },
     "State": {
-      "current": 59,
+      "current": 62,
       "previous": 57,
-      "change_pct": 3.5
+      "change_pct": 8.8
     },
     "Africa Corps/Wagner": {
       "current": 10,

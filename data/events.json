@@ -1,5 +1,104 @@
 [
   {
+    "id": "7007938ab5575124e865b5133ba3e40707152969",
+    "event_date": "2026-11-13",
+    "event_date_confidence": "publication-proxy",
+    "event_date_source": "jsonld:datePublished",
+    "published_at": "2026-11-13T05:23:31Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-13T12:22:24.746598Z",
+    "actor": "JNIM",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "JNIM",
+      "IS Sahel"
+    ],
+    "parent_report_id": null,
+    "event_type": "clash",
+    "country": "Burkina Faso",
+    "city": "Ouagadougou",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "locations": [
+      {
+        "name": "Ouagadougou",
+        "country": "Burkina Faso",
+        "lat": 12.3714,
+        "lng": -1.5197,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+    "summary": "Ouagadougou, Burkina Faso – Armed fighters from two rival groups have fought a series of increasingly deadly battles along Burkina Faso’s northern border with Mali, as the government struggles to reassert control over large parts of the country. The clashes between Jama’at Nusrat al-Islam wal Muslimin (JNIM), an al-Qaeda affiliate, and the ISIL affiliate in Sahel Province (ISSP) have intensified since early September, with both groups competing for territory and influence across the borderlands.",
+    "sources": [
+      "Al Jazeera English"
+    ],
+    "languages": [
+      "en"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+        "summary": "Ouagadougou, Burkina Faso – Armed fighters from two rival groups have fought a series of increasingly deadly battles along Burkina Faso’s northern border with Mali, as the government struggles to reassert control over large parts of the country. The clashes between Jama’at Nusrat al-Islam wal Muslimin (JNIM), an al-Qaeda affiliate, and the ISIL affiliate in Sahel Province (ISSP) have intensified since early September, with both groups competing for territory and influence across the borderlands.",
+        "summary_basis": "source-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-13T12:22:24.746598Z",
+    "updated_at": "2026-11-13T12:22:24.746598Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-13T12:22:24.746598Z",
+        "type": "event_created",
+        "source": "Al Jazeera English"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "aljazeera.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "472e04680ff3147b326628e140ea0bd4d16d7e5c",
     "event_date": "2026-11-12",
     "event_date_confidence": "explicit-text",
@@ -214,6 +313,276 @@
     "significance_reasons": [
       "strategic/severe event pattern",
       "multi-location activity"
+    ]
+  },
+  {
+    "id": "e0ade96b71c1a6aa980a1cf1ad404c9de2e3fbdc",
+    "event_date": "2026-11-11",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": null,
+    "published_date_source": "unresolved",
+    "published_time_precision": "unresolved",
+    "collected_at": "2026-11-13T12:22:32.180154Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Securing the territory: significant terrorist positions neutralised near Kadiane and Boulkessi",
+    "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Wednesday, 11 November 2026, the use of precise intelligence made it possible to locate a major base of armed terrorist groups, spread across two positions located five (05) and eight (08) kilometres respectively north-east of Kadiana.",
+    "sources": [
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://bamada.net/securisation-du-territoire-importantes-positions-terroristes-neutralisees-pres-de-kadiana-et-boulkessi"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://bamada.net/securisation-du-territoire-importantes-positions-terroristes-neutralisees-pres-de-kadiana-et-boulkessi",
+        "source": "Bamada",
+        "title": "Securing the territory: significant terrorist positions neutralised near Kadiane and Boulkessi",
+        "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Wednesday, 11 November 2026, the use of precise intelligence made it possible to locate a major base of armed terrorist groups, spread across two positions located five (05) and eight (08) kilometres respectively north-east of Kadiana.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-13T12:22:32.180154Z",
+    "updated_at": "2026-11-13T12:22:32.180154Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-13T12:22:32.180154Z",
+        "type": "event_created",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "bamada.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "63a2a0216e45d122cc8fd8bdd15063024901c516",
+    "event_date": "2026-11-11",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-13T11:32:20Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-13T12:22:25.032154Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Boulkessi and Kadiana: The FAMa strike terrorist bases and assembly points In a statement published on 13 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners. These actions, which are part of",
+    "summary": "The document states that, on Wednesday, 11 November 2026, the use of precise intelligence made it possible to locate a major base of armed terrorist groups, spread over two positions located five and eight kilometres respectively north-east of Kadiana. It housed several individuals as well as military equipment, including motorcycles and vehicles. .",
+    "sources": [
+      "L'Essor"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.lessor.ml/posts/boulkessi-et-kadiana-les-fama-frappent-des-bases-et-points-de-regroupement-terroristes-6af6f544bfbd0"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.lessor.ml/posts/boulkessi-et-kadiana-les-fama-frappent-des-bases-et-points-de-regroupement-terroristes-6af6f544bfbd0",
+        "source": "L'Essor",
+        "title": "Boulkessi and Kadiana: The FAMa strike terrorist bases and assembly points In a statement published on 13 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners. These actions, which are part of",
+        "summary": "The document states that, on Wednesday, 11 November 2026, the use of precise intelligence made it possible to locate a major base of armed terrorist groups, spread over two positions located five and eight kilometres respectively north-east of Kadiana. It housed several individuals as well as military equipment, including motorcycles and vehicles. .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-13T12:22:25.032154Z",
+    "updated_at": "2026-11-13T12:22:25.032154Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-13T12:22:25.032154Z",
+        "type": "event_created",
+        "source": "L'Essor"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "lessor.ml"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "382cb463367a83d112793a27677bad69fd5a3a33",
+    "event_date": "2026-11-11",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-13T10:51:34Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-13T12:22:24.429153Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Kadiana and Boulkessi: The army announces strikes against terrorist bases",
+    "summary": "According to a statement from the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) carried out several airstrikes on Wednesday, 11 November 2026, with the support of their partners. These actions are part of Operation Dougoukoloko, which aims to monitor and secure the national territory. .",
+    "sources": [
+      "Malijet"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312820-kadiana-et-boulkessi-larmee-annonce-des-frappes-contre-de.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312820-kadiana-et-boulkessi-larmee-annonce-des-frappes-contre-de.html",
+        "source": "Malijet",
+        "title": "Kadiana and Boulkessi: The army announces strikes against terrorist bases",
+        "summary": "According to a statement from the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) carried out several airstrikes on Wednesday, 11 November 2026, with the support of their partners. These actions are part of Operation Dougoukoloko, which aims to monitor and secure the national territory. .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-13T12:22:24.429153Z",
+    "updated_at": "2026-11-13T12:22:24.429153Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-13T12:22:24.429153Z",
+        "type": "event_created",
+        "source": "Malijet"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "malijet.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
     ]
   },
   {
