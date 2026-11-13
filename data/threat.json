@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:24:52.819323Z",
+  "generated_at": "2026-11-13T20:00:39.055966Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
@@ -13,13 +13,13 @@
       "trend": "IMPROVING",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 10,
-      "events_30d": 79,
+      "events_7d": 11,
+      "events_30d": 80,
       "baseline_7d_equivalent": 21.0,
-      "tempo_ratio": 0.5,
+      "tempo_ratio": 0.55,
       "drivers": [
-        "10 fused candidate event(s) in 7 days",
-        "9 significant/major event(s)",
+        "11 fused candidate event(s) in 7 days",
+        "10 significant/major event(s)",
         "activity across 7 named locations"
       ],
       "independent_domains_7d": 5
@@ -43,19 +43,21 @@
       "independent_domains_7d": 2
     },
     "Niger": {
-      "score": 0,
+      "score": 21,
       "level": "INSUFFICIENT DATA",
       "trend": "STABLE",
       "confidence": "LOW",
       "assessment_status": "INSUFFICIENT_DATA",
-      "events_7d": 0,
-      "events_30d": 24,
-      "baseline_7d_equivalent": 7.3,
-      "tempo_ratio": 0.12,
+      "events_7d": 1,
+      "events_30d": 26,
+      "baseline_7d_equivalent": 7.6,
+      "tempo_ratio": 0.23,
       "drivers": [
-        "insufficient fused-event evidence for a current 7-day threat classification"
+        "1 fused candidate event(s) in 7 days",
+        "1 significant/major event(s)",
+        "1 civilian-threat indicator(s)"
       ],
-      "independent_domains_7d": 0
+      "independent_domains_7d": 2
     }
   },
   "method_note": "Experimental research indicator derived from fused candidate events, recent country-relative tempo, significance, militant activity, civilian-threat signals, geographic spread and corroboration. It is not a travel advisory, verified incident count, or forecast. Collection gaps reduce confidence rather than automatically reducing threat."

@@ -99,6 +99,177 @@
     ]
   },
   {
+    "id": "9d2d7efdc26bf0222c8ecfe3d559cb2063e3d1ec",
+    "event_date": "2026-11-12",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-13T15:23:20Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-13T19:57:43.934962Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "ambush",
+    "country": "Niger",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Niger: At least 37 civilians killed in an ambush by \"armed men\"",
+    "summary": "The deadly attack near Téra, which claimed the lives of 38 people, including women and children, highlights the escalation of jihadist violence in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned from local sources on Friday.",
+    "sources": [
+      "Le Figaro (Section Afrique)",
+      "SeneNews"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 2,
+    "report_urls": [
+      "https://www.lefigaro.fr/international/niger-au-moins-37-civils-tues-dans-une-embuscade-tendue-par-des-hommes-armes-20261113",
+      "https://www.senenews.com/actualites/societe/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-sources-locales_606320.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.lefigaro.fr/international/niger-au-moins-37-civils-tues-dans-une-embuscade-tendue-par-des-hommes-armes-20261113",
+        "source": "Le Figaro (Section Afrique)",
+        "title": "Niger: At least 37 civilians killed in an ambush by \"armed men\"",
+        "summary": "An attack carried out on Thursday by unidentified \"armed men\" left at least 37 civilians dead, including women and children, near Téra in western Niger. . Skip ad Skip ad At least 37 civilians were killed on Thursday, 12 November, in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned from local sources on Friday.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": 37,
+        "fatalities_max": 37,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": true,
+        "casualty_claims": [
+          {
+            "kind": "fatalities",
+            "count": 37,
+            "victim_text": "civilians",
+            "claimant": "Le Figaro (Section Afrique)",
+            "status": "reported",
+            "evidence": "Niger: At least 37 civilians killed in an ambush by \"armed men\" Niger: At least 37 civilians killed in an ambush by \"armed men\" An atta"
+          }
+        ]
+      },
+      {
+        "url": "https://www.senenews.com/actualites/societe/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-sources-locales_606320.html",
+        "source": "SeneNews",
+        "title": "Niger: 38 civilians killed in an ambush near Téra",
+        "summary": "The deadly attack near Téra, which claimed the lives of 38 people, including women and children, highlights the escalation of jihadist violence in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned from local sources on Friday.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": 37,
+        "fatalities_max": 38,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": true,
+        "casualty_claims": [
+          {
+            "kind": "fatalities",
+            "count": 38,
+            "victim_text": "civilians",
+            "claimant": "SeneNews",
+            "status": "reported",
+            "evidence": "Niger: 38 civilians killed in an ambush near Téra Niger: 38 civilians killed in an ambush near Téra The deadly attack near Tér"
+          },
+          {
+            "kind": "fatalities",
+            "count": 37,
+            "victim_text": "civilians",
+            "claimant": "SeneNews",
+            "status": "reported",
+            "evidence": "in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina"
+          }
+        ]
+      }
+    ],
+    "created_at": "2026-11-13T19:57:43.934962Z",
+    "updated_at": "2026-11-13T19:57:44.160476Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "civilian",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": true,
+    "casualty_claims": [
+      {
+        "kind": "fatalities",
+        "count": 37,
+        "victim_text": "civilians",
+        "claimant": "Le Figaro (Section Afrique)",
+        "status": "reported",
+        "evidence": "Niger: At least 37 civilians killed in an ambush by \"armed men\" Niger: At least 37 civilians killed in an ambush by \"armed men\" An atta",
+        "source": "Le Figaro (Section Afrique)"
+      },
+      {
+        "kind": "fatalities",
+        "count": 38,
+        "victim_text": "civilians",
+        "claimant": "SeneNews",
+        "status": "reported",
+        "evidence": "Niger: 38 civilians killed in an ambush near Téra Niger: 38 civilians killed in an ambush near Téra The deadly attack near Tér",
+        "source": "SeneNews"
+      },
+      {
+        "kind": "fatalities",
+        "count": 37,
+        "victim_text": "civilians",
+        "claimant": "SeneNews",
+        "status": "reported",
+        "evidence": "in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina",
+        "source": "SeneNews"
+      }
+    ],
+    "fatalities_min": 37,
+    "fatalities_max": 38,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": true,
+    "revision_history": [
+      {
+        "at": "2026-11-13T19:57:43.934962Z",
+        "type": "event_created",
+        "source": "Le Figaro (Section Afrique)"
+      },
+      {
+        "at": "2026-11-13T19:57:44.160476Z",
+        "type": "corroboration_or_geography_update",
+        "source": "SeneNews"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "lefigaro.fr",
+      "senenews.com"
+    ],
+    "independent_source_count": 2,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
+    ]
+  },
+  {
     "id": "472e04680ff3147b326628e140ea0bd4d16d7e5c",
     "event_date": "2026-11-12",
     "event_date_confidence": "explicit-text",
@@ -313,6 +484,96 @@
     "significance_reasons": [
       "strategic/severe event pattern",
       "multi-location activity"
+    ]
+  },
+  {
+    "id": "69631a9c7e97bbe015b4431964a17aa5aee9f801",
+    "event_date": "2026-11-11",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-13T17:14:38Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-13T19:57:44.520348Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Kadianna and Boulkessi: The FAMa strike...",
+    "summary": "Kadianna and Boulkessi: The FAMa strike several positions of armed terrorist groups The Malian Armed Forces (FAMa) have carried out further precision strikes against positions of armed terrorist groups in the vicinity of Kadianna and Boulkessi. . These operations, carried out on Wednesday 11 November 2026 as part of Operation Dougoukoloko, made it possible to target several bases and assembly points housing armed individuals and military equipment, according to the General Staff of the Armed Forces.",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/insecurite/kadianna-et-boulkessi-les-fama-frappent-plusieurs-positions-de-3121461.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/kadianna-et-boulkessi-les-fama-frappent-plusieurs-positions-de-3121461.html",
+        "source": "Maliweb",
+        "title": "Kadianna and Boulkessi: The FAMa strike...",
+        "summary": "Kadianna and Boulkessi: The FAMa strike several positions of armed terrorist groups The Malian Armed Forces (FAMa) have carried out further precision strikes against positions of armed terrorist groups in the vicinity of Kadianna and Boulkessi. . These operations, carried out on Wednesday 11 November 2026 as part of Operation Dougoukoloko, made it possible to target several bases and assembly points housing armed individuals and military equipment, according to the General Staff of the Armed Forces.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-13T19:57:44.520348Z",
+    "updated_at": "2026-11-13T19:57:44.520348Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-13T19:57:44.520348Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
     ]
   },
   {
@@ -1212,6 +1473,123 @@
     "significance": "MAJOR",
     "significance_reasons": [
       "multi-location activity"
+    ]
+  },
+  {
+    "id": "b37b99708fa3c284dd54a86a9b6fed29ff60451b",
+    "event_date": "2026-11-06",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-13T19:41:21Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-13T19:57:54.148242Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "civilian targeting",
+    "country": "Niger",
+    "city": "Tillabéri",
+    "lat": 14.2071,
+    "lng": 1.4542,
+    "locations": [
+      {
+        "name": "Tillabéri",
+        "country": "Niger",
+        "lat": 14.2071,
+        "lng": 1.4542,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Niger: At least 37 civilians killed by \"armed men\" in the west",
+    "summary": "Members of the anti-jihadist special forces are patrolling the Tillabéri region, which is plagued by deadly attacks, on 6 November 2021 in Niger. At least 37 civilians were killed on Thursday in an ambush set by unidentified \"armed men\" near Téra, in western Niger, a region close to Burkina Faso and Mali that has become the epicentre of jihadist attacks, AFP learned from local sources on Friday.",
+    "sources": [
+      "TV5MONDE Afrique"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://information.tv5monde.com/afrique/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-2845749"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://information.tv5monde.com/afrique/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-2845749",
+        "source": "TV5MONDE Afrique",
+        "title": "Niger: At least 37 civilians killed by \"armed men\" in the west",
+        "summary": "Members of the anti-jihadist special forces are patrolling the Tillabéri region, which is plagued by deadly attacks, on 6 November 2021 in Niger. At least 37 civilians were killed on Thursday in an ambush set by unidentified \"armed men\" near Téra, in western Niger, a region close to Burkina Faso and Mali that has become the epicentre of jihadist attacks, AFP learned from local sources on Friday.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": 37,
+        "fatalities_max": 37,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": true,
+        "casualty_claims": [
+          {
+            "kind": "fatalities",
+            "count": 37,
+            "victim_text": "civilians",
+            "claimant": "TV5MONDE Afrique",
+            "status": "reported",
+            "evidence": "Niger: At least 37 civilians killed by \"armed men\" in the west Members of the anti-jihadist special forces are patrolling the Tillabéri"
+          }
+        ]
+      }
+    ],
+    "created_at": "2026-11-13T19:57:54.148242Z",
+    "updated_at": "2026-11-13T19:57:54.148242Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "civilian",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": true,
+    "casualty_claims": [
+      {
+        "kind": "fatalities",
+        "count": 37,
+        "victim_text": "civilians",
+        "claimant": "TV5MONDE Afrique",
+        "status": "reported",
+        "evidence": "Niger: At least 37 civilians killed by \"armed men\" in the west Members of the anti-jihadist special forces are patrolling the Tillabéri",
+        "source": "TV5MONDE Afrique"
+      }
+    ],
+    "fatalities_min": 37,
+    "fatalities_max": 37,
+    "fatalities_best": 37,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-13T19:57:54.148242Z",
+        "type": "event_created",
+        "source": "TV5MONDE Afrique"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "information.tv5monde.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
     ]
   },
   {

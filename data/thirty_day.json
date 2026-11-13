@@ -1,46 +1,47 @@
 {
-  "generated_at": "2026-11-13T12:24:52.611038Z",
+  "generated_at": "2026-11-13T20:00:38.942839Z",
   "window_days": 30,
   "cutoff": "2026-10-14",
-  "reports": 805,
-  "incident_reports": 193,
-  "candidate_events": 115,
-  "corroborated_events": 34,
-  "mapped_events": 79,
-  "mapped_locations": 146,
+  "reports": 813,
+  "incident_reports": 195,
+  "candidate_events": 118,
+  "corroborated_events": 35,
+  "mapped_events": 80,
+  "mapped_locations": 147,
   "distinct_sources": 85,
   "by_actor": {
-    "State": 64,
-    "Other": 28,
+    "State": 65,
+    "Other": 30,
     "JNIM": 12,
     "IS Sahel": 6,
     "Africa Corps/Wagner": 5
   },
   "by_country": {
-    "Mali": 80,
-    "Niger": 24,
+    "Mali": 81,
+    "Niger": 26,
     "Burkina Faso": 11
   },
   "by_event_type": {
-    "security operation": 54,
+    "security operation": 55,
     "attack": 16,
+    "civilian targeting": 10,
     "clash": 10,
-    "civilian targeting": 9,
     "kidnapping": 9,
     "air/drone strike": 7,
     "offensive/campaign": 5,
     "raid": 3,
     "IED/explosion": 1,
+    "ambush": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 667,
-    "en": 100,
-    "ar": 38
+    "fr": 671,
+    "en": 103,
+    "ar": 39
   },
   "by_confidence": {
-    "low": 52,
-    "moderate": 50,
+    "low": 53,
+    "moderate": 52,
     "moderate-high": 12,
     "high": 1
   },
@@ -48,7 +49,7 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 92
+      "count": 89
     },
     {
       "source_code": "SRC-0006",
@@ -58,12 +59,12 @@
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 47
+      "count": 48
     },
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 38
+      "count": 41
     },
     {
       "source_code": "SRC-0090",
@@ -86,13 +87,13 @@
       "count": 26
     },
     {
-      "source_code": "SRC-0014",
-      "source": "Agence Nigérienne de Presse",
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
       "count": 24
     },
     {
-      "source_code": "SRC-0011",
-      "source": "LeFaso.net",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
       "count": 23
     },
     {
@@ -109,7 +110,7 @@
   "top_locations": [
     {
       "location": "Mali",
-      "count": 26
+      "count": 27
     },
     {
       "location": "Ménaka",
@@ -140,11 +141,11 @@
       "count": 7
     },
     {
-      "location": "Burkina Faso",
-      "count": 5
+      "location": "Niger",
+      "count": 6
     },
     {
-      "location": "Niger",
+      "location": "Burkina Faso",
       "count": 5
     },
     {
@@ -270,7 +271,7 @@
     {
       "date": "2026-11-06",
       "reports": 23,
-      "events": 3
+      "events": 4
     },
     {
       "date": "2026-11-07",
@@ -289,22 +290,22 @@
     },
     {
       "date": "2026-11-10",
-      "reports": 15,
+      "reports": 16,
       "events": 2
     },
     {
       "date": "2026-11-11",
       "reports": 27,
-      "events": 6
+      "events": 7
     },
     {
       "date": "2026-11-12",
-      "reports": 32,
-      "events": 2
+      "reports": 33,
+      "events": 3
     },
     {
       "date": "2026-11-13",
-      "reports": 11,
+      "reports": 26,
       "events": 1
     }
   ],
@@ -406,6 +407,177 @@
       "significance": "MAJOR",
       "significance_reasons": [
         "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "9d2d7efdc26bf0222c8ecfe3d559cb2063e3d1ec",
+      "event_date": "2026-11-12",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-13T15:23:20Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:43.934962Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "ambush",
+      "country": "Niger",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Niger: At least 37 civilians killed in an ambush by \"armed men\"",
+      "summary": "The deadly attack near Téra, which claimed the lives of 38 people, including women and children, highlights the escalation of jihadist violence in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned from local sources on Friday.",
+      "sources": [
+        "Le Figaro (Section Afrique)",
+        "SeneNews"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 2,
+      "report_urls": [
+        "https://www.lefigaro.fr/international/niger-au-moins-37-civils-tues-dans-une-embuscade-tendue-par-des-hommes-armes-20261113",
+        "https://www.senenews.com/actualites/societe/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-sources-locales_606320.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.lefigaro.fr/international/niger-au-moins-37-civils-tues-dans-une-embuscade-tendue-par-des-hommes-armes-20261113",
+          "source": "Le Figaro (Section Afrique)",
+          "title": "Niger: At least 37 civilians killed in an ambush by \"armed men\"",
+          "summary": "An attack carried out on Thursday by unidentified \"armed men\" left at least 37 civilians dead, including women and children, near Téra in western Niger. . Skip ad Skip ad At least 37 civilians were killed on Thursday, 12 November, in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned from local sources on Friday.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": 37,
+          "fatalities_max": 37,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "civilian",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": true,
+          "casualty_claims": [
+            {
+              "kind": "fatalities",
+              "count": 37,
+              "victim_text": "civilians",
+              "claimant": "Le Figaro (Section Afrique)",
+              "status": "reported",
+              "evidence": "Niger: At least 37 civilians killed in an ambush by \"armed men\" Niger: At least 37 civilians killed in an ambush by \"armed men\" An atta"
+            }
+          ]
+        },
+        {
+          "url": "https://www.senenews.com/actualites/societe/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-sources-locales_606320.html",
+          "source": "SeneNews",
+          "title": "Niger: 38 civilians killed in an ambush near Téra",
+          "summary": "The deadly attack near Téra, which claimed the lives of 38 people, including women and children, highlights the escalation of jihadist violence in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned from local sources on Friday.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": 37,
+          "fatalities_max": 38,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "civilian",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": true,
+          "casualty_claims": [
+            {
+              "kind": "fatalities",
+              "count": 38,
+              "victim_text": "civilians",
+              "claimant": "SeneNews",
+              "status": "reported",
+              "evidence": "Niger: 38 civilians killed in an ambush near Téra Niger: 38 civilians killed in an ambush near Téra The deadly attack near Tér"
+            },
+            {
+              "kind": "fatalities",
+              "count": 37,
+              "victim_text": "civilians",
+              "claimant": "SeneNews",
+              "status": "reported",
+              "evidence": "in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina"
+            }
+          ]
+        }
+      ],
+      "created_at": "2026-11-13T19:57:43.934962Z",
+      "updated_at": "2026-11-13T19:57:44.160476Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "civilian",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": true,
+      "casualty_claims": [
+        {
+          "kind": "fatalities",
+          "count": 37,
+          "victim_text": "civilians",
+          "claimant": "Le Figaro (Section Afrique)",
+          "status": "reported",
+          "evidence": "Niger: At least 37 civilians killed in an ambush by \"armed men\" Niger: At least 37 civilians killed in an ambush by \"armed men\" An atta",
+          "source": "Le Figaro (Section Afrique)"
+        },
+        {
+          "kind": "fatalities",
+          "count": 38,
+          "victim_text": "civilians",
+          "claimant": "SeneNews",
+          "status": "reported",
+          "evidence": "Niger: 38 civilians killed in an ambush near Téra Niger: 38 civilians killed in an ambush near Téra The deadly attack near Tér",
+          "source": "SeneNews"
+        },
+        {
+          "kind": "fatalities",
+          "count": 37,
+          "victim_text": "civilians",
+          "claimant": "SeneNews",
+          "status": "reported",
+          "evidence": "in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina",
+          "source": "SeneNews"
+        }
+      ],
+      "fatalities_min": 37,
+      "fatalities_max": 38,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": true,
+      "revision_history": [
+        {
+          "at": "2026-11-13T19:57:43.934962Z",
+          "type": "event_created",
+          "source": "Le Figaro (Section Afrique)"
+        },
+        {
+          "at": "2026-11-13T19:57:44.160476Z",
+          "type": "corroboration_or_geography_update",
+          "source": "SeneNews"
+        }
+      ],
+      "corroboration": "limited corroboration",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "lefigaro.fr",
+        "senenews.com"
+      ],
+      "independent_source_count": 2,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
       ]
     },
     {
@@ -623,6 +795,96 @@
       "significance_reasons": [
         "strategic/severe event pattern",
         "multi-location activity"
+      ]
+    },
+    {
+      "id": "69631a9c7e97bbe015b4431964a17aa5aee9f801",
+      "event_date": "2026-11-11",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-13T17:14:38Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:44.520348Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Kadianna and Boulkessi: The FAMa strike...",
+      "summary": "Kadianna and Boulkessi: The FAMa strike several positions of armed terrorist groups The Malian Armed Forces (FAMa) have carried out further precision strikes against positions of armed terrorist groups in the vicinity of Kadianna and Boulkessi. . These operations, carried out on Wednesday 11 November 2026 as part of Operation Dougoukoloko, made it possible to target several bases and assembly points housing armed individuals and military equipment, according to the General Staff of the Armed Forces.",
+      "sources": [
+        "Maliweb"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.maliweb.net/insecurite/kadianna-et-boulkessi-les-fama-frappent-plusieurs-positions-de-3121461.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.maliweb.net/insecurite/kadianna-et-boulkessi-les-fama-frappent-plusieurs-positions-de-3121461.html",
+          "source": "Maliweb",
+          "title": "Kadianna and Boulkessi: The FAMa strike...",
+          "summary": "Kadianna and Boulkessi: The FAMa strike several positions of armed terrorist groups The Malian Armed Forces (FAMa) have carried out further precision strikes against positions of armed terrorist groups in the vicinity of Kadianna and Boulkessi. . These operations, carried out on Wednesday 11 November 2026 as part of Operation Dougoukoloko, made it possible to target several bases and assembly points housing armed individuals and military equipment, according to the General Staff of the Armed Forces.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-13T19:57:44.520348Z",
+      "updated_at": "2026-11-13T19:57:44.520348Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-13T19:57:44.520348Z",
+          "type": "event_created",
+          "source": "Maliweb"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "maliweb.net"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
       ]
     },
     {
@@ -1522,6 +1784,123 @@
       "significance": "MAJOR",
       "significance_reasons": [
         "multi-location activity"
+      ]
+    },
+    {
+      "id": "b37b99708fa3c284dd54a86a9b6fed29ff60451b",
+      "event_date": "2026-11-06",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-13T19:41:21Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:54.148242Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "civilian targeting",
+      "country": "Niger",
+      "city": "Tillabéri",
+      "lat": 14.2071,
+      "lng": 1.4542,
+      "locations": [
+        {
+          "name": "Tillabéri",
+          "country": "Niger",
+          "lat": 14.2071,
+          "lng": 1.4542,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Niger: At least 37 civilians killed by \"armed men\" in the west",
+      "summary": "Members of the anti-jihadist special forces are patrolling the Tillabéri region, which is plagued by deadly attacks, on 6 November 2021 in Niger. At least 37 civilians were killed on Thursday in an ambush set by unidentified \"armed men\" near Téra, in western Niger, a region close to Burkina Faso and Mali that has become the epicentre of jihadist attacks, AFP learned from local sources on Friday.",
+      "sources": [
+        "TV5MONDE Afrique"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://information.tv5monde.com/afrique/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-2845749"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://information.tv5monde.com/afrique/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-2845749",
+          "source": "TV5MONDE Afrique",
+          "title": "Niger: At least 37 civilians killed by \"armed men\" in the west",
+          "summary": "Members of the anti-jihadist special forces are patrolling the Tillabéri region, which is plagued by deadly attacks, on 6 November 2021 in Niger. At least 37 civilians were killed on Thursday in an ambush set by unidentified \"armed men\" near Téra, in western Niger, a region close to Burkina Faso and Mali that has become the epicentre of jihadist attacks, AFP learned from local sources on Friday.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": 37,
+          "fatalities_max": 37,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "civilian",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": true,
+          "casualty_claims": [
+            {
+              "kind": "fatalities",
+              "count": 37,
+              "victim_text": "civilians",
+              "claimant": "TV5MONDE Afrique",
+              "status": "reported",
+              "evidence": "Niger: At least 37 civilians killed by \"armed men\" in the west Members of the anti-jihadist special forces are patrolling the Tillabéri"
+            }
+          ]
+        }
+      ],
+      "created_at": "2026-11-13T19:57:54.148242Z",
+      "updated_at": "2026-11-13T19:57:54.148242Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "civilian",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": true,
+      "casualty_claims": [
+        {
+          "kind": "fatalities",
+          "count": 37,
+          "victim_text": "civilians",
+          "claimant": "TV5MONDE Afrique",
+          "status": "reported",
+          "evidence": "Niger: At least 37 civilians killed by \"armed men\" in the west Members of the anti-jihadist special forces are patrolling the Tillabéri",
+          "source": "TV5MONDE Afrique"
+        }
+      ],
+      "fatalities_min": 37,
+      "fatalities_max": 37,
+      "fatalities_best": 37,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-13T19:57:54.148242Z",
+          "type": "event_created",
+          "source": "TV5MONDE Afrique"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "information.tv5monde.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
       ]
     },
     {
@@ -3222,321 +3601,243 @@
         "multi-source corroboration",
         "multi-location activity"
       ]
-    },
-    {
-      "id": "3ed964df5d893e23c50d35e7d2587227b43bae8c",
-      "event_date": "2026-11-02",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-03T09:41:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-03T12:05:11.297416Z",
-      "actor": "JNIM",
-      "perpetrator": "JNIM",
-      "target": "Africa Corps/Wagner",
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "JNIM",
-        "Africa Corps/Wagner"
-      ],
-      "parent_report_id": null,
-      "event_type": "attack",
-      "country": "Mali",
-      "city": "Sévaré",
-      "lat": 14.5272,
-      "lng": -4.0934,
-      "locations": [
-        {
-          "name": "Sévaré",
-          "country": "Mali",
-          "lat": 14.5272,
-          "lng": -4.0934,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Mopti",
-          "country": "Mali",
-          "lat": 14.4843,
-          "lng": -4.1829,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Bamako",
-          "country": "Mali",
-          "lat": 12.6392,
-          "lng": -8.0029,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Douentza",
-          "country": "Mali",
-          "lat": 15.0014,
-          "lng": -2.9519,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "JNIM Claims IED Attack on Malian Army and Africa Corps Vehicle Between Sévaré and Konna",
-      "summary": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda's Sahel affiliate, says it targeted a vehicle carrying Malian army and Russian Africa Corps personnel with an improvised explosive device on the morning of Monday, 2 November 2026. The claimed strike took place on the road between Sévaré and Konna in Mali's Mopti region. Casualties, damage and even the exact location rest on JNIM's claim alone and should be treated as unverified.",
-      "sources": [
-        "Modern Ghana"
-      ],
-      "languages": [
-        "en"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.modernghana.com/news/1541551/jnim-claims-ied-attack-on-malian-army-and-africa.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.modernghana.com/news/1541551/jnim-claims-ied-attack-on-malian-army-and-africa.html",
-          "source": "Modern Ghana",
-          "title": "JNIM Claims IED Attack on Malian Army and Africa Corps Vehicle Between Sévaré and Konna",
-          "summary": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), al-Qaeda's Sahel affiliate, says it targeted a vehicle carrying Malian army and Russian Africa Corps personnel with an improvised explosive device on the morning of Monday, 2 November 2026. The claimed strike took place on the road between Sévaré and Konna in Mali's Mopti region. Casualties, damage and even the exact location rest on JNIM's claim alone and should be treated as unverified.",
-          "summary_basis": "source-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "security_force"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-03T12:05:11.297416Z",
-      "updated_at": "2026-11-03T12:05:11.297416Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "security_force"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-03T12:05:11.297416Z",
-          "type": "event_created",
-          "source": "Modern Ghana"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "modernghana.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "0cb5edf5d13683ff1bf399a87249c4f5294ab885",
-      "event_date": "2026-11-02",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-03T09:57:49Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-03T12:05:05.225916Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "kidnapping",
-      "country": "Mali",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Mali: NGOs call on the Transition on the kidnapping of Mountaga Tall (RFI)",
-      "summary": "In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared. Their health worries.",
-      "sources": [
-        "AllAfrica (Édition Française)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://fr.allafrica.com/stories/202611030258.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://fr.allafrica.com/stories/202611030258.html",
-          "source": "AllAfrica (Édition Française)",
-          "title": "Mali: NGOs call on the Transition on the kidnapping of Mountaga Tall (RFI)",
-          "summary": "In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared. Their health worries.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-03T12:05:05.225916Z",
-      "updated_at": "2026-11-03T12:05:05.225916Z",
-      "extraction_confidence": "low",
-      "victim_categories": [],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-03T12:05:05.225916Z",
-          "type": "event_created",
-          "source": "AllAfrica (Édition Française)"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "fr.allafrica.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "SIGNIFICANT",
-      "significance_reasons": [
-        "operational security event"
-      ]
-    },
-    {
-      "id": "96fa2690e02192c43772edc487ae7b2b95502cc7",
-      "event_date": "2026-11-02",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-03T05:48:30Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-03T12:04:58.734345Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "kidnapping",
-      "country": "Mali",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
-      "summary": "Mali: Mountaga Tall kidnapped by the State Security for six months, NGOs call on the Transitional authorities In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared .",
-      "sources": [
-        "RFI Afrique",
-        "Dakaractu"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://www.rfi.fr/fr/afrique/20261103-mali-mountaga-tall-enlev%C3%A9-par-la-s%C3%A9curit%C3%A9-d-%C3%A9tat-depuis-six-mois-des-ong-interpellent-les-autorit%C3%A9s-de-transition",
-        "https://www.dakaractu.com/Mali-Mountaga-Tall-enleve-par-la-Securite-d-Etat-depuis-six-mois-des-ONG-interpellent-les-autorites-de-Transition_a277748.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.rfi.fr/fr/afrique/20261103-mali-mountaga-tall-enlev%C3%A9-par-la-s%C3%A9curit%C3%A9-d-%C3%A9tat-depuis-six-mois-des-ong-interpellent-les-autorit%C3%A9s-de-transition",
-          "source": "RFI Afrique",
-          "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
-          "summary": "Mali: Mountaga Tall kidnapped by the State Security for six months, NGOs call on the Transitional authorities In Mali, it has been six months, this Tuesday, November 2, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped, at home, by hooded men of the State Security. Other pro-democracy activists kidnapped by State Security last May have recently reappeared .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://www.dakaractu.com/Mali-Mountaga-Tall-enleve-par-la-Securite-d-Etat-depuis-six-mois-des-ONG-interpellent-les-autorites-de-Transition_a277748.html",
-          "source": "Dakaractu",
-          "title": "Mali: Mountaga Tall kidnapped by State Security for six months, NGOs call on the Transitional authorities",
-          "summary": "Mountaga Tall was kidnapped on the night of 2 to 3 May. A few days later, the Malian services kidnapped her son, who has also been detained since, in an unknown location outside of any legal procedure. Despite the steps taken by the family's lawyers, the Malian transitional authorities remain silent.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-03T12:04:58.734345Z",
-      "updated_at": "2026-11-03T12:04:59.261598Z",
-      "extraction_confidence": "low",
-      "victim_categories": [],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-03T12:04:58.734345Z",
-          "type": "event_created",
-          "source": "RFI Afrique"
-        },
-        {
-          "at": "2026-11-03T12:04:59.261598Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Dakaractu"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "rfi.fr",
-        "dakaractu.com"
-      ],
-      "independent_source_count": 2,
-      "significance": "SIGNIFICANT",
-      "significance_reasons": [
-        "operational security event"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-13T19:45:17Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:47.517043Z",
+      "discovered_at": "2026-11-13T19:57:47.517043Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0117",
+      "source": "Vanguard News (Nigeria)",
+      "language": "en",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Burkina issues ‘terrorist’ warrants for journalists, activists",
+      "url": "https://www.vanguardngr.com/2026/11/burkina-issues-terrorist-warrants-for-journalists-activists/"
+    },
+    {
+      "published_at": "2026-11-13T19:41:21Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:54.148242Z",
+      "discovered_at": "2026-11-13T19:57:54.148242Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0034",
+      "source": "TV5MONDE Afrique",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Niger",
+      "city": "Tillabéri",
+      "event_type": "civilian targeting",
+      "candidate_event": true,
+      "title": "Niger: At least 37 civilians killed by \"armed men\" in the west",
+      "url": "https://information.tv5monde.com/afrique/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-2845749"
+    },
+    {
+      "published_at": "2026-11-13T19:28:14Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:46.478149Z",
+      "discovered_at": "2026-11-13T19:57:46.478149Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kati",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Kati: The Commander of Defence Zone No. 3 visits Hérémakono Police Station",
+      "url": "https://amap.ml/2026/11/13/kati-le-commandant-de-la-zone-de-defense-n-3-en-visite-au-commissariat-de-police-de-heremakono/"
+    },
+    {
+      "published_at": "2026-11-13T18:20:05Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:45.807464Z",
+      "discovered_at": "2026-11-13T19:57:45.807464Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0013",
+      "source": "Wakat Sera",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "The Burkinabé diaspora in Côte d'Ivoire donates 3,000 school bags to the orphans of the DSF and VDP who fell at the front",
+      "url": "https://www.wakatsera.com/la-diaspora-burkinabe-en-cote-divoire-fait-don-de-3-000-sacs-scolaires-aux-orphelins-des-fds-et-vdp-tombes-au-front/"
+    },
+    {
+      "published_at": "2026-11-13T18:15:05Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:46.774212Z",
+      "discovered_at": "2026-11-13T19:57:46.774212Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0118",
+      "source": "Punch Newspapers (Nigeria)",
+      "language": "en",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Burkina Faso orders arrest of journalists, activists over terrorism allegations",
+      "url": "https://punchng.com/burkina-faso-orders-arrest-of-journalists-activists-over-terrorism-allegations/"
+    },
+    {
+      "published_at": "2026-11-13T18:12:59Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:44.711420Z",
+      "discovered_at": "2026-11-13T19:57:44.711420Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0012",
+      "source": "Sidwaya",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Diré",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Education: The Burkinabe diaspora in Côte d'Ivoire donates 3,000 schoolbags to the orphans of the Defence and Security Forces (FDS) and Volunteer Defence Forces (VDP) who fell at the front",
+      "url": "https://www.sidwaya.info/2026/11/13/education-la-diaspora-burkinabe-en-cote-divoire-fait-don-de-3-000-sacs-scolaires-aux-orphelins-des-fds-et-vdp-tombes-au-front/"
+    },
+    {
+      "published_at": "2026-11-13T17:29:08Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:49.469043Z",
+      "discovered_at": "2026-11-13T19:57:49.469043Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "offensive/campaign",
+      "candidate_event": false,
+      "title": "Burkina Faso: International arrest warrant issued against Camille Makosso for alleged terrorism",
+      "url": "https://www.maliweb.net/societe/justice/burkina-faso-mandat-darret-international-contre-camille-makosso-pour-3121462.html"
+    },
+    {
+      "published_at": "2026-11-13T17:14:38Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:44.520348Z",
+      "discovered_at": "2026-11-13T19:57:44.520348Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Kadianna and Boulkessi: The FAMa strike...",
+      "url": "https://www.maliweb.net/insecurite/kadianna-et-boulkessi-les-fama-frappent-plusieurs-positions-de-3121461.html"
+    },
+    {
+      "published_at": "2026-11-13T16:50:10Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:45.755022Z",
+      "discovered_at": "2026-11-13T19:57:45.755022Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0177",
+      "source": "L'Observateur Paalga",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "The Burkinabe diaspora in Côte d'Ivoire donates 3,000 school bags to the orphans of the DSF and VDP who fell at the front",
+      "url": "https://www.lobspaalga.com/2026/11/13/la-diaspora-burkinabe-en-cote-divoire-fait-don-de-3-000-sacs-scolaires-aux-orphelins-des-fds-et-vdp-tombes-au-front/"
+    },
+    {
+      "published_at": "2026-11-13T16:42:47Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:46.295116Z",
+      "discovered_at": "2026-11-13T19:57:46.295116Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0056",
+      "source": "Asharq Al-Awsat",
+      "language": "ar",
+      "actor": null,
+      "country": "Niger",
+      "city": "Tillabéri",
+      "event_type": "ambush",
+      "candidate_event": false,
+      "title": "Gunmen kill at least 37 civilians in western Niger",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/5340888-%D9%85%D8%B3%D9%84%D9%91%D8%AD%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D9%84%D9%88%D9%86-37-%D9%85%D8%AF%D9%86%D9%8A%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D9%82%D9%84-%D9%81%D9%8A-%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1"
+    },
+    {
+      "published_at": "2026-11-13T15:36:37Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:44.160476Z",
+      "discovered_at": "2026-11-13T19:57:44.160476Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0091",
+      "source": "SeneNews",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Niger",
+      "city": null,
+      "event_type": "ambush",
+      "candidate_event": true,
+      "title": "Niger: 38 civilians killed in an ambush near Téra",
+      "url": "https://www.senenews.com/actualites/societe/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-sources-locales_606320.html"
+    },
+    {
+      "published_at": "2026-11-13T15:23:20Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:43.934962Z",
+      "discovered_at": "2026-11-13T19:57:43.934962Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0096",
+      "source": "Le Figaro (Section Afrique)",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Niger",
+      "city": null,
+      "event_type": "ambush",
+      "candidate_event": true,
+      "title": "Niger: At least 37 civilians killed in an ambush by \"armed men\"",
+      "url": "https://www.lefigaro.fr/international/niger-au-moins-37-civils-tues-dans-une-embuscade-tendue-par-des-hommes-armes-20261113"
+    },
+    {
+      "published_at": "2026-11-13T12:37:50Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-13T19:57:48.954723Z",
+      "discovered_at": "2026-11-13T19:57:48.954723Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0047",
+      "source": "The Africa Report",
+      "language": "en",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "offensive/campaign",
+      "candidate_event": false,
+      "title": "Lithium, gold, uranium… The quiet US counter-offensive against China and Russia in West Africa",
+      "url": "https://www.theafricareport.com/436326/lithium-gold-uranium-the-quiet-us-counter-offensive-against-china-and-russia-in-west-africa/"
+    },
     {
       "published_at": "2026-11-13T12:01:09Z",
       "published_date_source": "jsonld:datePublished",
@@ -3734,6 +4035,42 @@
       "candidate_event": false,
       "title": "First World War: The Italian Embassy in Niger celebrates National Unity and Armed Forces Day",
       "url": "https://www.lesahel.org/premiere-guerre-mondiale-lambassade-ditalie-au-niger-celebre-la-journee-de-lunite-nationale-et-des-forces-armees/"
+    },
+    {
+      "published_at": "2026-11-13T00:00:00Z",
+      "published_date_source": "url",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-13T19:57:45.869358Z",
+      "discovered_at": "2026-11-13T19:57:45.869358Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Diré",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Education: The Burkinabe diaspora in Côte d'Ivoire donates 3,000 school bags to orphans of members of the Defence and Security Forces (FDS) and Volunteer Civilian Defence Forces (VDP)",
+      "url": "https://burkina24.com/2026/11/13/education-la-diaspora-burkinabe-en-cote-divoire-offre-3-000-sacs-scolaires-aux-orphelins-des-fds-et-des-vdp/"
+    },
+    {
+      "published_at": "2026-11-13T00:00:00Z",
+      "published_date_source": "visible-publication-label",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-13T19:57:50.199473Z",
+      "discovered_at": "2026-11-13T19:57:50.199473Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Burkina Faso: 100 distinguished figures honoured at the second edition of the Rue des Étoiles",
+      "url": "https://lefaso.net/spip.php?article150764="
     },
     {
       "published_at": "2026-11-12T23:33:22Z",
@@ -3986,276 +4323,6 @@
       "candidate_event": false,
       "title": "Ouagadougou: Around 350 kg of cannabis seized by the police in Saaba",
       "url": "https://www.studioyafa.bf/21581-ouagadougou-environ-350-kg-de-cannabis-saisis-par-la-police-a-saaba"
-    },
-    {
-      "published_at": "2026-11-12T11:04:08Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:36.046167Z",
-      "discovered_at": "2026-11-12T16:55:36.046167Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "Bamako: A fire causes extensive damage at the Grand Marché, with no loss of life",
-      "url": "https://amap.ml/2026/11/12/bamako-un-incendie-fait-denormes-degats-sans-perte-en-vie-humaine-au-grand-marche/"
-    },
-    {
-      "published_at": "2026-11-12T10:46:41Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T01:14:08.927528Z",
-      "discovered_at": "2026-11-13T01:14:08.927528Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Between Us: Assimi must take responsibility!",
-      "url": "https://malijet.com/editorial/312807-entre-nous-assimi-doit-sassumer.html"
-    },
-    {
-      "published_at": "2026-11-12T09:53:30Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:35.520269Z",
-      "discovered_at": "2026-11-12T16:55:35.520269Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Defence diplomacy: Three foreign delegations received at Koulouba on the sidelines of BAMEX 2026",
-      "url": "https://bamada.net/diplomatie-de-defense-trois-delegations-etrangeres-recues-a-koulouba-en-marge-du-bamex-2026"
-    },
-    {
-      "published_at": "2026-11-12T09:34:45Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:43.840281Z",
-      "discovered_at": "2026-11-12T16:55:43.840281Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": null,
-      "country": null,
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Illegal gold mining: The problem runs deeper",
-      "url": "https://www.lessor.ml/posts/orpaillage-clandestin-le-mal-est-plus-profond-6af5883511b69"
-    },
-    {
-      "published_at": "2026-11-12T09:26:54Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:41.269189Z",
-      "discovered_at": "2026-11-12T16:55:41.269189Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "Niger: Journalist Serge Mathurin Adou released after two years in prison",
-      "url": "https://fr.allafrica.com/stories/202611120254.html"
-    },
-    {
-      "published_at": "2026-11-12T08:59:50Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:40.878473Z",
-      "discovered_at": "2026-11-12T16:55:40.878473Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "More than 66,000 Nigerians have fled to Benin and Niger, and the UNHCR is issuing an appeal",
-      "url": "https://lanouvelletribune.info/2026/11/plus-de-66-000-nigerians-refugies-au-benin-et-au-niger-le-hcr-lance-un-appel/"
-    },
-    {
-      "published_at": "2026-11-12T07:27:18Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:34.768249Z",
-      "discovered_at": "2026-11-12T16:55:34.768249Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Timbuktu",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Mali: The army seizes 2,000 radios intended for armed groups near Timbuktu",
-      "url": "https://bamada.net/mali-larmee-saisit-2-000-radios-destinees-a-des-groupes-armes-pres-de-tombouctou"
-    },
-    {
-      "published_at": "2026-11-12T06:52:18Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T07:23:39.133096Z",
-      "discovered_at": "2026-11-12T07:23:39.133096Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0038",
-      "source": "APAnews (FR)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Timbuktu",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: The army seizes 2,000 radios intended for armed groups near Timbuktu",
-      "url": "https://fr.apanews.net/security/mali-larmee-saisit-2-000-radios-destinees-a-des-groupes-armes-pres-de-tombouctou/"
-    },
-    {
-      "published_at": "2026-11-12T06:44:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T07:23:40.055074Z",
-      "discovered_at": "2026-11-12T07:23:40.055074Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0086",
-      "source": "Dakaractu",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "attack",
-      "candidate_event": true,
-      "title": "Niger: Journalist Serge Mathurin Adou released after two years in prison",
-      "url": "https://www.dakaractu.com/Niger-le-journaliste-Serge-Mathurin-Adou-libere-apres-deux-ans-de-prison_a278083.html"
-    },
-    {
-      "published_at": "2026-11-12T03:53:37Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T07:23:38.715985Z",
-      "discovered_at": "2026-11-12T07:23:38.715985Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "Niger: Journalist Serge Mathurin Adou released after two years in prison",
-      "url": "https://www.rfi.fr/fr/afrique/20261112-niger-le-journaliste-serge-mathurin-adou-lib%C3%A9r%C3%A9-apr%C3%A8s-deux-ans-de-prison"
-    },
-    {
-      "published_at": "2026-11-12T03:33:19Z",
-      "published_date_source": "jsonld:dateCreated",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T07:24:03.896811Z",
-      "discovered_at": "2026-11-12T07:24:03.896811Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0015",
-      "source": "ActuNiger",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Zinder",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Drug trafficking in Zinder: 54,000 psychotropic tablets seized by OCRTIS, a 32-year-old man arrested",
-      "url": "https://www.actuniger.com/faits-divers/trafic-de-stupefiants-a-zinder-54-000-comprimes-psychotropes-saisis-par-locrtis-un-homme-de-32-ans-interpelle.html"
-    },
-    {
-      "published_at": "2026-11-12T00:09:17Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T07:23:37.305579Z",
-      "discovered_at": "2026-11-12T07:23:37.305579Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Mali-Türkiye: Military technological cooperation deemed necessary in the face of security challenges",
-      "url": "https://amap.ml/2026/11/12/mali-turkiye-la-cooperation-militaire-technologique-jugee-necessaire-face-aux-defis-securitaires/"
-    },
-    {
-      "published_at": "2026-11-12T00:00:00Z",
-      "published_date_source": "url",
-      "published_time_precision": "date-only",
-      "collected_at": "2026-11-13T01:14:06.553454Z",
-      "discovered_at": "2026-11-13T01:14:06.553454Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Tougan",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Grand Patriotic Night in Tougan: Sourou mobilises to honour its Defence and Security Forces and VDPs",
-      "url": "https://burkina24.com/2026/11/12/grande-nuit-patriotique-a-tougan-le-sourou-se-mobilise-pour-honorer-ses-fds-et-vdp/"
-    },
-    {
-      "published_at": "2026-11-12T00:00:00Z",
-      "published_date_source": "visible-publication-label",
-      "published_time_precision": "date-only",
-      "collected_at": "2026-11-13T01:14:08.303325Z",
-      "discovered_at": "2026-11-13T01:14:08.303325Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0011",
-      "source": "LeFaso.net",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Bobo-Dioulasso",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Bobo-Dioulasso: Two prison officers arrested in connection with a case of forgery of nationality certificates",
-      "url": "https://lefaso.net/spip.php?article150746="
-    },
-    {
-      "published_at": "2026-11-12T00:00:00Z",
-      "published_date_source": "url",
-      "published_time_precision": "date-only",
-      "collected_at": "2026-11-13T01:14:06.627041Z",
-      "discovered_at": "2026-11-13T01:14:06.627041Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Bobo-Dioulasso",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Bobo-Dioulasso: Certified electronic invoicing at the heart of the 2026 second session of the CNLF",
-      "url": "https://burkina24.com/2026/11/12/bobo-dioulasso-la-facture-electronique-certifiee-au-coeur-de-la-deuxieme-session-2026-de-la-cnlf/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
