@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-13T20:00:38.942839Z",
+  "generated_at": "2026-11-14T01:00:21.303308Z",
   "window_days": 30,
-  "cutoff": "2026-10-14",
-  "reports": 813,
-  "incident_reports": 195,
+  "cutoff": "2026-10-15",
+  "reports": 814,
+  "incident_reports": 197,
   "candidate_events": 118,
-  "corroborated_events": 35,
+  "corroborated_events": 34,
   "mapped_events": 80,
-  "mapped_locations": 147,
+  "mapped_locations": 146,
   "distinct_sources": 85,
   "by_actor": {
-    "State": 65,
-    "Other": 30,
+    "State": 63,
+    "Other": 32,
     "JNIM": 12,
     "IS Sahel": 6,
     "Africa Corps/Wagner": 5
   },
   "by_country": {
-    "Mali": 81,
-    "Niger": 26,
+    "Mali": 80,
+    "Niger": 27,
     "Burkina Faso": 11
   },
   "by_event_type": {
     "security operation": 55,
     "attack": 16,
-    "civilian targeting": 10,
-    "clash": 10,
+    "civilian targeting": 11,
+    "clash": 9,
     "kidnapping": 9,
     "air/drone strike": 7,
     "offensive/campaign": 5,
@@ -35,13 +35,13 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 671,
-    "en": 103,
-    "ar": 39
+    "fr": 672,
+    "en": 102,
+    "ar": 40
   },
   "by_confidence": {
-    "low": 53,
-    "moderate": 52,
+    "low": 54,
+    "moderate": 51,
     "moderate-high": 12,
     "high": 1
   },
@@ -49,7 +49,7 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 89
+      "count": 88
     },
     {
       "source_code": "SRC-0006",
@@ -59,7 +59,7 @@
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 48
+      "count": 47
     },
     {
       "source_code": "SRC-0005",
@@ -77,14 +77,14 @@
       "count": 28
     },
     {
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
       "count": 27
     },
     {
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "count": 26
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "count": 27
     },
     {
       "source_code": "SRC-0011",
@@ -94,7 +94,7 @@
     {
       "source_code": "SRC-0014",
       "source": "Agence Nigérienne de Presse",
-      "count": 23
+      "count": 24
     },
     {
       "source_code": "SRC-0015",
@@ -137,11 +137,11 @@
       "count": 8
     },
     {
-      "location": "Ségou",
-      "count": 7
+      "location": "Niger",
+      "count": 6
     },
     {
-      "location": "Niger",
+      "location": "Ségou",
       "count": 6
     },
     {
@@ -158,11 +158,6 @@
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-15",
-      "reports": 26,
-      "events": 4
-    },
     {
       "date": "2026-10-16",
       "reports": 13,
@@ -301,15 +296,118 @@
     {
       "date": "2026-11-12",
       "reports": 33,
-      "events": 3
+      "events": 4
     },
     {
       "date": "2026-11-13",
-      "reports": 26,
-      "events": 1
+      "reports": 29,
+      "events": 2
+    },
+    {
+      "date": "2026-11-14",
+      "reports": 2,
+      "events": 0
     }
   ],
   "latest_events": [
+    {
+      "id": "d4fb7938e49d7edeb8b1f39227155c529dec4a44",
+      "event_date": "2026-11-13",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-13T21:51:13Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-14T00:58:58.584496Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "lat": 12.3714,
+      "lng": -1.5197,
+      "locations": [
+        {
+          "name": "Ouagadougou",
+          "country": "Burkina Faso",
+          "lat": 12.3714,
+          "lng": -1.5197,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Burkina Faso announces the issuance of arrest warrants against journalists and activists in exile for acts of \"terrorism\". The authorities of the West African junta are targeting around twenty individuals and are requesting their extradition. A Burkinabé columnist for RFI and former ministers of ex-President Blaise Compaoré are among those targeted.",
+      "summary": "On Friday, 13 November, the authorities of Burkina Faso announced that they had issued arrest warrants for around twenty people in exile, including journalists, activists, a former minister and former officers, for alleged acts of \"terrorism\". . The Attorney General of the Ouagadougou Court of Appeal, Désiré Sawadogo, told the press that fourteen arrest warrants with extradition requests had been issued, as well as seven other simple arrest warrants.",
+      "sources": [
+        "Le Monde Afrique"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html",
+          "source": "Le Monde Afrique",
+          "title": "Burkina Faso announces the issuance of arrest warrants against journalists and activists in exile for acts of \"terrorism\". The authorities of the West African junta are targeting around twenty individuals and are requesting their extradition. A Burkinabé columnist for RFI and former ministers of ex-President Blaise Compaoré are among those targeted.",
+          "summary": "On Friday, 13 November, the authorities of Burkina Faso announced that they had issued arrest warrants for around twenty people in exile, including journalists, activists, a former minister and former officers, for alleged acts of \"terrorism\". . The Attorney General of the Ouagadougou Court of Appeal, Désiré Sawadogo, told the press that fourteen arrest warrants with extradition requests had been issued, as well as seven other simple arrest warrants.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group",
+            "journalist"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-14T00:58:58.584496Z",
+      "updated_at": "2026-11-14T00:58:58.584496Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "armed_group",
+        "journalist"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-14T00:58:58.584496Z",
+          "type": "event_created",
+          "source": "Le Monde Afrique"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "lemonde.fr"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
     {
       "id": "7007938ab5575124e865b5133ba3e40707152969",
       "event_date": "2026-11-13",
@@ -407,6 +505,123 @@
       "significance": "MAJOR",
       "significance_reasons": [
         "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "7a72e1a92c18a3157f3f9fcb6a0dfd9729db4484",
+      "event_date": "2026-11-12",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-13T21:08:56Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-14T00:58:59.085100Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "civilian targeting",
+      "country": "Niger",
+      "city": "Tillabéri",
+      "lat": 14.2071,
+      "lng": 1.4542,
+      "locations": [
+        {
+          "name": "Tillabéri",
+          "country": "Niger",
+          "lat": 14.2071,
+          "lng": 1.4542,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region",
+      "summary": "In Niger, an attack took place on Thursday 12 November in the Tillabéri region, in the west of the country, the epicentre of terrorist violence. It took place near the town of Téra, close to Burkina Faso and Mali. No official statements or casualty figures at this stage .",
+      "sources": [
+        "RFI Afrique"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri",
+          "source": "RFI Afrique",
+          "title": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region",
+          "summary": "In Niger, an attack took place on Thursday 12 November in the Tillabéri region, in the west of the country, the epicentre of terrorist violence. It took place near the town of Téra, close to Burkina Faso and Mali. No official statements or casualty figures at this stage .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": 30,
+          "fatalities_max": 30,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "civilian",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": true,
+          "casualty_claims": [
+            {
+              "kind": "fatalities",
+              "count": 30,
+              "victim_text": "civilians",
+              "claimant": "RFI Afrique",
+              "status": "reported",
+              "evidence": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region Niger: Over 30 civilians killed in an attack near T"
+            }
+          ]
+        }
+      ],
+      "created_at": "2026-11-14T00:58:59.085100Z",
+      "updated_at": "2026-11-14T00:58:59.085100Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "civilian",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": true,
+      "casualty_claims": [
+        {
+          "kind": "fatalities",
+          "count": 30,
+          "victim_text": "civilians",
+          "claimant": "RFI Afrique",
+          "status": "reported",
+          "evidence": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region Niger: Over 30 civilians killed in an attack near T",
+          "source": "RFI Afrique"
+        }
+      ],
+      "fatalities_min": 30,
+      "fatalities_max": 30,
+      "fatalities_best": 30,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-14T00:58:59.085100Z",
+          "type": "event_created",
+          "source": "RFI Afrique"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "rfi.fr"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
       ]
     },
     {
@@ -3306,304 +3521,99 @@
       "significance_reasons": [
         "strategic/severe event pattern"
       ]
-    },
-    {
-      "id": "59b2dd5feb4c1894d344478034e2c52a8cddac90",
-      "event_date": "2026-11-03",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "relative-weekday",
-      "published_at": "2026-11-03T05:44:10Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-03T12:04:58.632012Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "kidnapping",
-      "country": "Mali",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Abduction of Mountaga Tall in Mali: silence \"does not erase the competences of justice or the obligations of the State\"",
-      "summary": "In Mali, it was six months ago, on Tuesday, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped from his home, at night, by hooded men of the State Security. It was the night of 2 to 3 May. A few days after him, the Malian services kidnapped his son, also detained since in an unknown place outside any legal procedure .",
-      "sources": [
-        "RFI Afrique"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261103-enl%C3%A8vement-de-mountaga-tall-au-mali-le-silence-n-efface-ni-les-comp%C3%A9tences-de-la-justice-ni-les-obligations-de-l-%C3%A9tat"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261103-enl%C3%A8vement-de-mountaga-tall-au-mali-le-silence-n-efface-ni-les-comp%C3%A9tences-de-la-justice-ni-les-obligations-de-l-%C3%A9tat",
-          "source": "RFI Afrique",
-          "title": "Abduction of Mountaga Tall in Mali: silence \"does not erase the competences of justice or the obligations of the State\"",
-          "summary": "In Mali, it was six months ago, on Tuesday, that the lawyer and former minister Mountaga Tall, committed to the defense of democracy, was kidnapped from his home, at night, by hooded men of the State Security. It was the night of 2 to 3 May. A few days after him, the Malian services kidnapped his son, also detained since in an unknown place outside any legal procedure .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-03T12:04:58.632012Z",
-      "updated_at": "2026-11-03T12:04:58.632012Z",
-      "extraction_confidence": "low",
-      "victim_categories": [],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-03T12:04:58.632012Z",
-          "type": "event_created",
-          "source": "RFI Afrique"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "rfi.fr"
-      ],
-      "independent_source_count": 1,
-      "significance": "SIGNIFICANT",
-      "significance_reasons": [
-        "operational security event"
-      ]
-    },
-    {
-      "id": "922a794f807253b36cff27da28262a2598e3d587",
-      "event_date": "2026-11-02",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-03T22:43:19Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-04T00:42:41.865051Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": "State",
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Niono",
-      "lat": 14.25,
-      "lng": -5.9833,
-      "locations": [
-        {
-          "name": "Niono",
-          "country": "Mali",
-          "lat": 14.25,
-          "lng": -5.9833,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Tessalit",
-          "country": "Mali",
-          "lat": 20.2,
-          "lng": 1.0,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Gourma-Rharous",
-          "country": "Mali",
-          "lat": 16.8833,
-          "lng": -1.9333,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Operation Dougoukoloko: FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous",
-      "summary": "Niono, Tessalit and Gourma-Rharous: the Noose is tightening around terrorist groups As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, carried out airstrikes in different localities of our country between 2 and 3 November 2026 . In a statement issued yesterday by the General Staff of the Armed Forces, it appears that on Monday, November 2, 2026, the use of precise information made it possible to locate, thirty kilometers east of Niono, a major base housing armed terrorist groups as well as war material, including armed vehicles.",
-      "sources": [
-        "Malijet",
-        "L'Essor",
-        "Maliweb",
-        "Bamada"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 4,
-      "report_urls": [
-        "https://malijet.com/actualte_dans_les_regions_du_mali/312657-operation-dougoukoloko-les-fama-frappent-des-positions-ter-3.html",
-        "https://www.lessor.ml/posts/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-terroristes-6aeb0171b814f",
-        "https://www.maliweb.net/insecurite/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-3121186.html",
-        "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous",
-        "https://malijet.com/actualte_dans_les_regions_du_mali/312682-operation-dougoukoloko-les-fama-frappent-des-bases-terrori.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312657-operation-dougoukoloko-les-fama-frappent-des-positions-ter-3.html",
-          "source": "Malijet",
-          "title": "Operation Dougoukoloko: FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous",
-          "summary": "Operation Dougoukoloko: the FAMa strike terrorist positions in Niono, Tessalit and Gourma-Rharous The Malian Armed Forces (FAMa), supported by their partners, continue their operations to secure the territory as part of Operation Dougoukoloko. The General Staff of the Armed Forces gave an update on several strikes carried out in the last two days . On Monday, November 2, 2026, accurate intelligence identified a large terrorist base 30 kilometers east of Niono.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://www.lessor.ml/posts/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-terroristes-6aeb0171b814f",
-          "source": "L'Essor",
-          "title": "Niono, Tessalit and Gourma-Rharous: the Noose is tightening around terrorist groups As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, carried out airstrikes in different localities of our country between 2 and 3 November 2026.",
-          "summary": "In a statement issued yesterday by the General Staff of the Armed Forces, it appears that on Monday, November 2, 2026, the use of precise information made it possible to locate, thirty kilometers east of Niono, a large base housing armed terrorist groups as well as war equipment, including armed vehicles. After confirming the collected information, the position has been processed successfully On the same day, twenty-eight kilometers south of Tessalit, a terrorist assembly point housing several individuals and war materiel was precisely spotted and struck.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://www.maliweb.net/insecurite/niono-tessalit-et-gourma-rharous-letau-se-resserre-autour-des-groupes-3121186.html",
-          "source": "Maliweb",
-          "title": "Niono, Tessalit and Gourma-Rharous:...",
-          "summary": "Niono, Tessalit and Gourma-Rharous: the Noose is tightening around terrorist groups As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, carried out airstrikes in different localities of our country between 2 and 3 November 2026 . In a statement issued yesterday by the General Staff of the Armed Forces, it appears that on Monday, November 2, 2026, the use of precise information made it possible to locate, thirty kilometers east of Niono, a major base housing armed terrorist groups as well as war material, including armed vehicles.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://bamada.net/operation-dougoukoloko-fama-niono-tessalit-gourma-rharous",
-          "source": "Bamada",
-          "title": "Operation Dougoukoloko: the FAMa accurately hit several terrorist positions in Niono, Tessalit and Gourma-Rharous",
-          "summary": "Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news Follow us on Facebook, Telegram, WhatsApp to not miss anything of the Malian news",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312682-operation-dougoukoloko-les-fama-frappent-des-bases-terrori.html",
-          "source": "Malijet",
-          "title": "Operation Dougoukoloko: FAMa strike terrorist bases near Koro, Sandaré and Sofara",
-          "summary": "Operation Dougoukoloko: the FAMa strike terrorist bases near Koro, Sandaré and Sofara As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa) and their allies continue to carry out missions to secure the country. The General Staff of the Armed Forces gave an update on several strikes carried out in recent days. On Tuesday, November 3, 2026, a terrorist base was spotted 52 kilometers northeast of Koro .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-04T00:42:41.865051Z",
-      "updated_at": "2026-11-05T12:32:14.874592Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-04T00:42:41.865051Z",
-          "type": "event_created",
-          "source": "Malijet"
-        },
-        {
-          "at": "2026-11-04T19:57:04.420674Z",
-          "type": "corroboration_or_geography_update",
-          "source": "L'Essor"
-        },
-        {
-          "at": "2026-11-04T12:18:55.840810Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Maliweb"
-        },
-        {
-          "at": "2026-11-03T19:37:43.888442Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Bamada"
-        }
-      ],
-      "corroboration": "multi-source",
-      "confidence": "moderate-high",
-      "independent_source_domains": [
-        "malijet.com",
-        "lessor.ml",
-        "maliweb.net",
-        "bamada.net"
-      ],
-      "independent_source_count": 4,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern",
-        "multi-source corroboration",
-        "multi-location activity"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-14T01:58:00Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-14T00:59:00.299238Z",
+      "discovered_at": "2026-11-14T00:59:00.299238Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0017",
+      "source": "Le Sahel",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": null,
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "Editorial: Tell me your tall tales, and I'll tell you who you are",
+      "url": "https://www.lesahel.org/editorial-dis-moi-tes-affabulations-je-te-dirai-qui-tu-es/"
+    },
+    {
+      "published_at": "2026-11-14T00:10:48Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-14T00:58:59.784510Z",
+      "discovered_at": "2026-11-14T00:58:59.784510Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Niamey",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "\"Information must originate from the regions, provinces and municipalities\" (Minister Pingdwendé Gilbert Ouédraogo)",
+      "url": "https://anp.ne/linformation-doit-prendre-sa-source-dans-les-regions-les-provinces-les-communes-ministre-pingdwende-gilbert-ouedraogo/"
+    },
+    {
+      "published_at": "2026-11-13T21:51:13Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-14T00:58:58.584496Z",
+      "discovered_at": "2026-11-14T00:58:58.584496Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0037",
+      "source": "Le Monde Afrique",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Burkina Faso announces the issuance of arrest warrants against journalists and activists in exile for acts of \"terrorism\". The authorities of the West African junta are targeting around twenty individuals and are requesting their extradition. A Burkinabé columnist for RFI and former ministers of ex-President Blaise Compaoré are among those targeted.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html"
+    },
+    {
+      "published_at": "2026-11-13T21:08:56Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-14T00:58:59.085100Z",
+      "discovered_at": "2026-11-14T00:58:59.085100Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Niger",
+      "city": "Tillabéri",
+      "event_type": "civilian targeting",
+      "candidate_event": true,
+      "title": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region",
+      "url": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri"
+    },
+    {
+      "published_at": "2026-11-13T20:03:42Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-14T00:58:59.242380Z",
+      "discovered_at": "2026-11-14T00:58:59.242380Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0160",
+      "source": "Sahara Medias (صحراء ميديا)",
+      "language": "ar",
+      "actor": null,
+      "country": "Niger",
+      "city": "Tillabéri",
+      "event_type": "ambush",
+      "candidate_event": false,
+      "title": "Gunmen kill at least 37 civilians in western Niger",
+      "url": "https://saharamedias.net/268444/"
+    },
     {
       "published_at": "2026-11-13T19:45:17Z",
       "published_date_source": "jsonld:datePublished",
@@ -4233,96 +4243,6 @@
       "candidate_event": true,
       "title": "FAMa: Five terrorists neutralised and equipment recovered in two operations in Koumantou and Tonkan",
       "url": "https://amap.ml/2026/11/12/fama-cinq-terroristes-neutralises-et-des-equipements-recuperes-dans-deux-operations-a-koumantou-et-a-tonkan/"
-    },
-    {
-      "published_at": "2026-11-12T13:56:46Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:34.669516Z",
-      "discovered_at": "2026-11-12T16:55:34.669516Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Operation Dougoukoloko: FAMa intercept armed groups in Bablena and neutralise terrorist drone operators near Tonka",
-      "url": "https://bamada.net/operation-dougoukoloko-les-fama-frappent-deux-positions-terroristes-a-bablena-et-tonka"
-    },
-    {
-      "published_at": "2026-11-12T13:34:39Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:35.399398Z",
-      "discovered_at": "2026-11-12T16:55:35.399398Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0004",
-      "source": "Studio Tamani",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Ségou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Ségou: A young man found dead on a construction site in Markala",
-      "url": "https://www.studiotamani.org/210191-segou-un-jeune-homme-retrouve-mort-sur-un-chantier-a-markala"
-    },
-    {
-      "published_at": "2026-11-12T11:42:19Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:41.301330Z",
-      "discovered_at": "2026-11-12T16:55:41.301330Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "Journalist Serge Mathurin Adou released after two years in prison in Niger",
-      "url": "https://fr.allafrica.com/view/group/main/main/id/00098791.html"
-    },
-    {
-      "published_at": "2026-11-12T11:41:35Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:37.087191Z",
-      "discovered_at": "2026-11-12T16:55:37.087191Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Macina: National Day of Traditional Authorities celebrated",
-      "url": "https://amap.ml/2026/11/12/macina-la-journee-nationale-des-legitimites-traditionnelles-celebree/"
-    },
-    {
-      "published_at": "2026-11-12T11:35:57Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:38.055614Z",
-      "discovered_at": "2026-11-12T16:55:38.055614Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0178",
-      "source": "Studio Yafa",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Ouagadougou: Around 350 kg of cannabis seized by the police in Saaba",
-      "url": "https://www.studioyafa.bf/21581-ouagadougou-environ-350-kg-de-cannabis-saisis-par-la-police-a-saaba"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

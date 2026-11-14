@@ -1,5 +1,103 @@
 [
   {
+    "id": "d4fb7938e49d7edeb8b1f39227155c529dec4a44",
+    "event_date": "2026-11-13",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-13T21:51:13Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-14T00:58:58.584496Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Burkina Faso",
+    "city": "Ouagadougou",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "locations": [
+      {
+        "name": "Ouagadougou",
+        "country": "Burkina Faso",
+        "lat": 12.3714,
+        "lng": -1.5197,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Burkina Faso announces the issuance of arrest warrants against journalists and activists in exile for acts of \"terrorism\". The authorities of the West African junta are targeting around twenty individuals and are requesting their extradition. A Burkinabé columnist for RFI and former ministers of ex-President Blaise Compaoré are among those targeted.",
+    "summary": "On Friday, 13 November, the authorities of Burkina Faso announced that they had issued arrest warrants for around twenty people in exile, including journalists, activists, a former minister and former officers, for alleged acts of \"terrorism\". . The Attorney General of the Ouagadougou Court of Appeal, Désiré Sawadogo, told the press that fourteen arrest warrants with extradition requests had been issued, as well as seven other simple arrest warrants.",
+    "sources": [
+      "Le Monde Afrique"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html",
+        "source": "Le Monde Afrique",
+        "title": "Burkina Faso announces the issuance of arrest warrants against journalists and activists in exile for acts of \"terrorism\". The authorities of the West African junta are targeting around twenty individuals and are requesting their extradition. A Burkinabé columnist for RFI and former ministers of ex-President Blaise Compaoré are among those targeted.",
+        "summary": "On Friday, 13 November, the authorities of Burkina Faso announced that they had issued arrest warrants for around twenty people in exile, including journalists, activists, a former minister and former officers, for alleged acts of \"terrorism\". . The Attorney General of the Ouagadougou Court of Appeal, Désiré Sawadogo, told the press that fourteen arrest warrants with extradition requests had been issued, as well as seven other simple arrest warrants.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group",
+          "journalist"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-14T00:58:58.584496Z",
+    "updated_at": "2026-11-14T00:58:58.584496Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group",
+      "journalist"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-14T00:58:58.584496Z",
+        "type": "event_created",
+        "source": "Le Monde Afrique"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "lemonde.fr"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "7007938ab5575124e865b5133ba3e40707152969",
     "event_date": "2026-11-13",
     "event_date_confidence": "publication-proxy",
@@ -96,6 +194,123 @@
     "significance": "MAJOR",
     "significance_reasons": [
       "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "7a72e1a92c18a3157f3f9fcb6a0dfd9729db4484",
+    "event_date": "2026-11-12",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-13T21:08:56Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-14T00:58:59.085100Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "civilian targeting",
+    "country": "Niger",
+    "city": "Tillabéri",
+    "lat": 14.2071,
+    "lng": 1.4542,
+    "locations": [
+      {
+        "name": "Tillabéri",
+        "country": "Niger",
+        "lat": 14.2071,
+        "lng": 1.4542,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region",
+    "summary": "In Niger, an attack took place on Thursday 12 November in the Tillabéri region, in the west of the country, the epicentre of terrorist violence. It took place near the town of Téra, close to Burkina Faso and Mali. No official statements or casualty figures at this stage .",
+    "sources": [
+      "RFI Afrique"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri",
+        "source": "RFI Afrique",
+        "title": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region",
+        "summary": "In Niger, an attack took place on Thursday 12 November in the Tillabéri region, in the west of the country, the epicentre of terrorist violence. It took place near the town of Téra, close to Burkina Faso and Mali. No official statements or casualty figures at this stage .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": 30,
+        "fatalities_max": 30,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": true,
+        "casualty_claims": [
+          {
+            "kind": "fatalities",
+            "count": 30,
+            "victim_text": "civilians",
+            "claimant": "RFI Afrique",
+            "status": "reported",
+            "evidence": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region Niger: Over 30 civilians killed in an attack near T"
+          }
+        ]
+      }
+    ],
+    "created_at": "2026-11-14T00:58:59.085100Z",
+    "updated_at": "2026-11-14T00:58:59.085100Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "civilian",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": true,
+    "casualty_claims": [
+      {
+        "kind": "fatalities",
+        "count": 30,
+        "victim_text": "civilians",
+        "claimant": "RFI Afrique",
+        "status": "reported",
+        "evidence": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region Niger: Over 30 civilians killed in an attack near T",
+        "source": "RFI Afrique"
+      }
+    ],
+    "fatalities_min": 30,
+    "fatalities_max": 30,
+    "fatalities_best": 30,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-14T00:58:59.085100Z",
+        "type": "event_created",
+        "source": "RFI Afrique"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "rfi.fr"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
     ]
   },
   {

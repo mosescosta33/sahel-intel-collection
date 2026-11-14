@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-11-13T20:00:38.942830Z",
+  "generated_at": "2026-11-14T01:00:21.303299Z",
   "series": {
     "JNIM": [
-      {
-        "date": "2026-05-18",
-        "count": 0
-      },
       {
         "date": "2026-05-19",
         "count": 0
@@ -721,13 +717,13 @@
       {
         "date": "2026-11-13",
         "count": 1
+      },
+      {
+        "date": "2026-11-14",
+        "count": 0
       }
     ],
     "IS Sahel": [
-      {
-        "date": "2026-05-18",
-        "count": 0
-      },
       {
         "date": "2026-05-19",
         "count": 0
@@ -1443,13 +1439,13 @@
       {
         "date": "2026-11-13",
         "count": 0
+      },
+      {
+        "date": "2026-11-14",
+        "count": 0
       }
     ],
     "State": [
-      {
-        "date": "2026-05-18",
-        "count": 0
-      },
       {
         "date": "2026-05-19",
         "count": 0
@@ -2165,13 +2161,13 @@
       {
         "date": "2026-11-13",
         "count": 0
+      },
+      {
+        "date": "2026-11-14",
+        "count": 0
       }
     ],
     "Africa Corps/Wagner": [
-      {
-        "date": "2026-05-18",
-        "count": 0
-      },
       {
         "date": "2026-05-19",
         "count": 0
@@ -2887,6 +2883,10 @@
       {
         "date": "2026-11-13",
         "count": 0
+      },
+      {
+        "date": "2026-11-14",
+        "count": 0
       }
     ]
   },
@@ -2924,14 +2924,14 @@
       "change_pct": null
     },
     "State": {
-      "current": 63,
-      "previous": 57,
-      "change_pct": 10.5
+      "current": 62,
+      "previous": 58,
+      "change_pct": 6.9
     },
     "Africa Corps/Wagner": {
-      "current": 10,
-      "previous": 18,
-      "change_pct": -44.4
+      "current": 8,
+      "previous": 20,
+      "change_pct": -60.0
     }
   },
   "method_note": "Counts are fused candidate events extracted from monitored open-source reporting. Africa Corps/Wagner is an involvement series and can overlap State activity when Russian personnel are coded as a supporting force. These are not independently verified incident counts; changes can reflect both real-world activity and reporting/collection effects."
