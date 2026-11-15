@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15T06:46:29.380358Z",
+  "generated_at": "2026-11-15T15:49:21.394536Z",
   "window_days": 30,
   "cutoff": "2026-10-16",
-  "reports": 799,
+  "reports": 800,
   "incident_reports": 192,
   "candidate_events": 118,
-  "corroborated_events": 33,
+  "corroborated_events": 34,
   "mapped_events": 81,
   "mapped_locations": 153,
   "distinct_sources": 84,
@@ -35,9 +35,9 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 663,
-    "en": 97,
-    "ar": 39
+    "fr": 664,
+    "en": 98,
+    "ar": 38
   },
   "by_confidence": {
     "moderate": 54,
@@ -64,12 +64,12 @@
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 41
+      "count": 42
     },
     {
       "source_code": "SRC-0090",
       "source": "AllAfrica (Édition Française)",
-      "count": 34
+      "count": 32
     },
     {
       "source_code": "SRC-0092",
@@ -89,7 +89,7 @@
     {
       "source_code": "SRC-0011",
       "source": "LeFaso.net",
-      "count": 24
+      "count": 26
     },
     {
       "source_code": "SRC-0014",
@@ -305,7 +305,7 @@
     },
     {
       "date": "2026-11-15",
-      "reports": 2,
+      "reports": 7,
       "events": 0
     }
   ],
@@ -471,14 +471,16 @@
       "title": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets",
       "summary": "In the document, the security source states that on Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12) kilometres north of Yenchechi. The vehicle was completely destroyed . On the same day, a camp belonging to armed terrorist groups, housing several individuals as well as military equipment, including vehicles, was also struck with precision one hundred and five (105) kilometres southeast of Kidal.",
       "sources": [
-        "L'Essor"
+        "L'Essor",
+        "Maliweb"
       ],
       "languages": [
         "fr"
       ],
-      "source_count": 1,
+      "source_count": 2,
       "report_urls": [
-        "https://www.lessor.ml/posts/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-terroristes-6af8ad129d657"
+        "https://www.lessor.ml/posts/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-terroristes-6af8ad129d657",
+        "https://www.maliweb.net/insecurite/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-3121498.html"
       ],
       "report_summaries": [
         {
@@ -498,10 +500,28 @@
           ],
           "civilian_targeting_flag": false,
           "casualty_claims": []
+        },
+        {
+          "url": "https://www.maliweb.net/insecurite/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-3121498.html",
+          "source": "Maliweb",
+          "title": "Yenchechi, Kidal and Ingouzma: The FAMa...",
+          "summary": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets In a statement issued on Saturday, 14 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners, as part of Operation Dougoukoloko. . Several terrorist bases and hideouts were successfully destroyed during patrols and precision strikes.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
         }
       ],
       "created_at": "2026-11-15T00:02:52.781528Z",
-      "updated_at": "2026-11-15T00:02:52.781528Z",
+      "updated_at": "2026-11-15T15:47:48.018867Z",
       "extraction_confidence": "moderate",
       "victim_categories": [
         "armed_group"
@@ -521,14 +541,20 @@
           "at": "2026-11-15T00:02:52.781528Z",
           "type": "event_created",
           "source": "L'Essor"
+        },
+        {
+          "at": "2026-11-15T15:47:48.018867Z",
+          "type": "corroboration_or_geography_update",
+          "source": "Maliweb"
         }
       ],
-      "corroboration": "single-source",
+      "corroboration": "limited corroboration",
       "confidence": "moderate",
       "independent_source_domains": [
-        "lessor.ml"
+        "lessor.ml",
+        "maliweb.net"
       ],
-      "independent_source_count": 1,
+      "independent_source_count": 2,
       "significance": "MAJOR",
       "significance_reasons": [
         "multi-location activity"
@@ -3619,6 +3645,60 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-15T15:18:20Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T15:47:50.973369Z",
+      "discovered_at": "2026-11-15T15:47:50.973369Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0124",
+      "source": "News Central TV (Nigeria)",
+      "language": "en",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Diffa",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Thousands of Arab Nomads Ordered to Leave Niger",
+      "url": "https://newscentraltv.com/thousands-of-arab-nomads-ordered-to-leave-niger/"
+    },
+    {
+      "published_at": "2026-11-15T11:12:33Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T15:47:49.142124Z",
+      "discovered_at": "2026-11-15T15:47:49.142124Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0013",
+      "source": "Wakat Sera",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Road traffic: “No urgency, no social pressure… can justify putting your life or the lives of others at risk”",
+      "url": "https://www.wakatsera.com/circulation-routiere-aucune-urgence-aucune-pression-sociale-ne-saurait-justifier-de-mettre-en-danger-sa-vie-ou-celle-dautrui/"
+    },
+    {
+      "published_at": "2026-11-15T10:43:29Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T15:47:48.018867Z",
+      "discovered_at": "2026-11-15T15:47:48.018867Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Yenchechi, Kidal and Ingouzma: The FAMa...",
+      "url": "https://www.maliweb.net/insecurite/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-3121498.html"
+    },
+    {
       "published_at": "2026-11-15T00:48:22Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -3635,6 +3715,42 @@
       "candidate_event": false,
       "title": "Sikasso: A fake sergeant arrested by the security forces",
       "url": "https://malijet.com/les_faits_divers_au_mali/312839-sikasso-un-faux-sergent-arrete-par-les-forces-de-lordr.html"
+    },
+    {
+      "published_at": "2026-11-15T00:00:00Z",
+      "published_date_source": "visible-publication-label",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-15T15:47:48.269126Z",
+      "discovered_at": "2026-11-15T15:47:48.269126Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Road safety in Burkina Faso: Minister Mahamadou Sana declares an end to tolerance of antisocial behaviour on the roads",
+      "url": "https://lefaso.net/spip.php?article150795="
+    },
+    {
+      "published_at": "2026-11-15T00:00:00Z",
+      "published_date_source": "visible-publication-label",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-15T15:47:50.157111Z",
+      "discovered_at": "2026-11-15T15:47:50.157111Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Guinea-Mali border: 1,557 gold miners of various nationalities released and taken to Kourémalé",
+      "url": "https://lefaso.net/spip.php?article150797="
     },
     {
       "published_at": "2026-11-15T00:00:00Z",
@@ -4247,96 +4363,6 @@
       "candidate_event": true,
       "title": "Kadiana and Boulkessi: The army announces strikes against terrorist bases",
       "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312820-kadiana-et-boulkessi-larmee-annonce-des-frappes-contre-de.html"
-    },
-    {
-      "published_at": "2026-11-13T10:48:27Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:24.881161Z",
-      "discovered_at": "2026-11-13T12:22:24.881161Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0007",
-      "source": "Journal du Mali",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Ménaka",
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "Ménaka: Food aid reaches displaced people in Tagadayat",
-      "url": "https://journaldumali.com/menaka-laide-alimentaire-arrive-chez-les-deplaces-de-tagadayat/"
-    },
-    {
-      "published_at": "2026-11-13T09:57:26Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:29.798143Z",
-      "discovered_at": "2026-11-13T12:22:29.798143Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": "kidnapping",
-      "candidate_event": false,
-      "title": "Mali: What are the four activists who have gone from State Security to prison accused of?",
-      "url": "https://fr.allafrica.com/stories/202611130189.html"
-    },
-    {
-      "published_at": "2026-11-13T07:56:06Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:29.742701Z",
-      "discovered_at": "2026-11-13T12:22:29.742701Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "kidnapping",
-      "candidate_event": false,
-      "title": "Niger: \"In response to the arrival of...",
-      "url": "https://www.maliweb.net/sports/niger-en-reagissant-a-larrivee-de-soldats-algeriens-lue-a-porte-3121430.html"
-    },
-    {
-      "published_at": "2026-11-13T07:12:21Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:28.049300Z",
-      "discovered_at": "2026-11-13T12:22:28.049300Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Bamako: urban anarchy, this tangled mess...",
-      "url": "https://www.maliweb.net/politique/chroniques/bamako-lanarchie-urbaine-ce-noeud-gordien-que-les-gouverneurs-nont-3121423.html"
-    },
-    {
-      "published_at": "2026-11-13T06:57:37Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:33.107944Z",
-      "discovered_at": "2026-11-13T12:22:33.107944Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0038",
-      "source": "APAnews (FR)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: Ten people deported from Guinea found dead",
-      "url": "https://fr.apanews.net/society/mali-dix-morts-parmi-les-personnes-refoulees-de-guinee/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

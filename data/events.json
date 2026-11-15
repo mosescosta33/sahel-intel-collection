@@ -160,14 +160,16 @@
     "title": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets",
     "summary": "In the document, the security source states that on Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12) kilometres north of Yenchechi. The vehicle was completely destroyed . On the same day, a camp belonging to armed terrorist groups, housing several individuals as well as military equipment, including vehicles, was also struck with precision one hundred and five (105) kilometres southeast of Kidal.",
     "sources": [
-      "L'Essor"
+      "L'Essor",
+      "Maliweb"
     ],
     "languages": [
       "fr"
     ],
-    "source_count": 1,
+    "source_count": 2,
     "report_urls": [
-      "https://www.lessor.ml/posts/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-terroristes-6af8ad129d657"
+      "https://www.lessor.ml/posts/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-terroristes-6af8ad129d657",
+      "https://www.maliweb.net/insecurite/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-3121498.html"
     ],
     "report_summaries": [
       {
@@ -187,10 +189,28 @@
         ],
         "civilian_targeting_flag": false,
         "casualty_claims": []
+      },
+      {
+        "url": "https://www.maliweb.net/insecurite/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-3121498.html",
+        "source": "Maliweb",
+        "title": "Yenchechi, Kidal and Ingouzma: The FAMa...",
+        "summary": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets In a statement issued on Saturday, 14 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners, as part of Operation Dougoukoloko. . Several terrorist bases and hideouts were successfully destroyed during patrols and precision strikes.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
       }
     ],
     "created_at": "2026-11-15T00:02:52.781528Z",
-    "updated_at": "2026-11-15T00:02:52.781528Z",
+    "updated_at": "2026-11-15T15:47:48.018867Z",
     "extraction_confidence": "moderate",
     "victim_categories": [
       "armed_group"
@@ -210,14 +230,20 @@
         "at": "2026-11-15T00:02:52.781528Z",
         "type": "event_created",
         "source": "L'Essor"
+      },
+      {
+        "at": "2026-11-15T15:47:48.018867Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Maliweb"
       }
     ],
-    "corroboration": "single-source",
+    "corroboration": "limited corroboration",
     "confidence": "moderate",
     "independent_source_domains": [
-      "lessor.ml"
+      "lessor.ml",
+      "maliweb.net"
     ],
-    "independent_source_count": 1,
+    "independent_source_count": 2,
     "significance": "MAJOR",
     "significance_reasons": [
       "multi-location activity"
