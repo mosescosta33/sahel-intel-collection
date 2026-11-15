@@ -583,6 +583,102 @@
     ]
   },
   {
+    "id": "08cfddf53a98df57d12e316923adc5d8a3db827b",
+    "event_date": "2026-11-12",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-15T17:18:54Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-15T21:10:03.657733Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Niger",
+    "city": "Niamey",
+    "lat": 13.5116,
+    "lng": 2.1254,
+    "locations": [
+      {
+        "name": "Niamey",
+        "country": "Niger",
+        "lat": 13.5116,
+        "lng": 2.1254,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Niger: 5 mercenaries neutralised and several items of military equipment seized from 1 to 12 November",
+    "summary": "Niamey, 15 Nov (ANP) – The Integrated Operations Coordination Centre reports that, according to the assessment for 1 to 12 November 2025, the Defence and Security Forces neutralised 5 mercenaries and seized several items of military equipment. This includes three mercenary lookouts stationed on a hill, who were neutralised in the Samira sector during a presence patrol carried out by Operation Niya on 3 November.",
+    "sources": [
+      "Agence Nigérienne de Presse"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://anp.ne/niger-5-mercenaires-neutralises-et-plusieurs-materiaux-de-guerre-saisis-du-1er-au-12-novembre/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://anp.ne/niger-5-mercenaires-neutralises-et-plusieurs-materiaux-de-guerre-saisis-du-1er-au-12-novembre/",
+        "source": "Agence Nigérienne de Presse",
+        "title": "Niger: 5 mercenaries neutralised and several items of military equipment seized from 1 to 12 November",
+        "summary": "Niamey, 15 Nov (ANP) – The Integrated Operations Coordination Centre reports that, according to the assessment for 1 to 12 November 2025, the Defence and Security Forces neutralised 5 mercenaries and seized several items of military equipment. This includes three mercenary lookouts stationed on a hill, who were neutralised in the Samira sector during a presence patrol carried out by Operation Niya on 3 November.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-15T21:10:03.657733Z",
+    "updated_at": "2026-11-15T21:10:03.657733Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-15T21:10:03.657733Z",
+        "type": "event_created",
+        "source": "Agence Nigérienne de Presse"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "anp.ne"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "7a72e1a92c18a3157f3f9fcb6a0dfd9729db4484",
     "event_date": "2026-11-12",
     "event_date_confidence": "explicit-text",

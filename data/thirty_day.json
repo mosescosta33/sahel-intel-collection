@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-15T15:49:21.394536Z",
+  "generated_at": "2026-11-15T21:11:15.415471Z",
   "window_days": 30,
   "cutoff": "2026-10-16",
-  "reports": 800,
-  "incident_reports": 192,
-  "candidate_events": 118,
+  "reports": 798,
+  "incident_reports": 191,
+  "candidate_events": 119,
   "corroborated_events": 34,
-  "mapped_events": 81,
-  "mapped_locations": 153,
+  "mapped_events": 82,
+  "mapped_locations": 154,
   "distinct_sources": 84,
   "by_actor": {
     "State": 66,
-    "Other": 31,
+    "Other": 32,
     "JNIM": 12,
     "IS Sahel": 6,
     "Africa Corps/Wagner": 3
   },
   "by_country": {
     "Mali": 81,
-    "Niger": 26,
+    "Niger": 27,
     "Burkina Faso": 11
   },
   "by_event_type": {
-    "security operation": 58,
+    "security operation": 59,
     "attack": 15,
     "civilian targeting": 10,
     "kidnapping": 9,
@@ -35,13 +35,13 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 664,
+    "fr": 662,
     "en": 98,
     "ar": 38
   },
   "by_confidence": {
     "moderate": 54,
-    "low": 52,
+    "low": 53,
     "moderate-high": 11,
     "high": 1
   },
@@ -49,7 +49,7 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 86
+      "count": 87
     },
     {
       "source_code": "SRC-0006",
@@ -122,7 +122,7 @@
     },
     {
       "location": "Niamey",
-      "count": 14
+      "count": 15
     },
     {
       "location": "Bamako",
@@ -291,7 +291,7 @@
     {
       "date": "2026-11-12",
       "reports": 33,
-      "events": 4
+      "events": 5
     },
     {
       "date": "2026-11-13",
@@ -305,7 +305,7 @@
     },
     {
       "date": "2026-11-15",
-      "reports": 7,
+      "reports": 9,
       "events": 0
     }
   ],
@@ -886,6 +886,102 @@
       "confidence": "low",
       "independent_source_domains": [
         "aljazeera.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "08cfddf53a98df57d12e316923adc5d8a3db827b",
+      "event_date": "2026-11-12",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-15T17:18:54Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T21:10:03.657733Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Niger",
+      "city": "Niamey",
+      "lat": 13.5116,
+      "lng": 2.1254,
+      "locations": [
+        {
+          "name": "Niamey",
+          "country": "Niger",
+          "lat": 13.5116,
+          "lng": 2.1254,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Niger: 5 mercenaries neutralised and several items of military equipment seized from 1 to 12 November",
+      "summary": "Niamey, 15 Nov (ANP) – The Integrated Operations Coordination Centre reports that, according to the assessment for 1 to 12 November 2025, the Defence and Security Forces neutralised 5 mercenaries and seized several items of military equipment. This includes three mercenary lookouts stationed on a hill, who were neutralised in the Samira sector during a presence patrol carried out by Operation Niya on 3 November.",
+      "sources": [
+        "Agence Nigérienne de Presse"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://anp.ne/niger-5-mercenaires-neutralises-et-plusieurs-materiaux-de-guerre-saisis-du-1er-au-12-novembre/"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://anp.ne/niger-5-mercenaires-neutralises-et-plusieurs-materiaux-de-guerre-saisis-du-1er-au-12-novembre/",
+          "source": "Agence Nigérienne de Presse",
+          "title": "Niger: 5 mercenaries neutralised and several items of military equipment seized from 1 to 12 November",
+          "summary": "Niamey, 15 Nov (ANP) – The Integrated Operations Coordination Centre reports that, according to the assessment for 1 to 12 November 2025, the Defence and Security Forces neutralised 5 mercenaries and seized several items of military equipment. This includes three mercenary lookouts stationed on a hill, who were neutralised in the Samira sector during a presence patrol carried out by Operation Niya on 3 November.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-15T21:10:03.657733Z",
+      "updated_at": "2026-11-15T21:10:03.657733Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "security_force"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-15T21:10:03.657733Z",
+          "type": "event_created",
+          "source": "Agence Nigérienne de Presse"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "anp.ne"
       ],
       "independent_source_count": 1,
       "significance": "MAJOR",
@@ -3504,146 +3600,45 @@
       "significance_reasons": [
         "multi-location activity"
       ]
-    },
-    {
-      "id": "d17f943adbaa6811d123b81ee8a8d6d888b05800",
-      "event_date": "2026-11-04",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "relative-today",
-      "published_at": "2026-11-04T09:14:58Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-04T19:57:04.475212Z",
-      "actor": "JNIM",
-      "perpetrator": "JNIM",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "JNIM"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Burkina Faso",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Burkina Faso: An Islamist armed group targeted civilians",
-      "summary": "GSIM carried out a deadly attack on a mine site, and clearly used banned explosive devices in a northern province - An al-Qaeda-linked armed group killed at least 27 civilians in two attacks in Yatenga province, northern Burkina Faso, in September 2026. - Unrelenting illegal attacks by GSIM put civilians at serious risk across Burkina Faso . The law of war prohibits attacking civilians, and individuals who order, commit, or assist in committing serious violations of the law of war with criminal intent may be prosecuted for war crimes.",
-      "sources": [
-        "AllAfrica (Édition Française)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://fr.allafrica.com/stories/202611040186.html",
-        "https://fr.allafrica.com/view/group/main/main/id/00098696.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://fr.allafrica.com/stories/202611040186.html",
-          "source": "AllAfrica (Édition Française)",
-          "title": "Burkina Faso: An Islamist armed group targeted civilians",
-          "summary": "GSIM carried out a deadly attack on a mine site, and clearly used banned explosive devices in a northern province - An al-Qaeda-linked armed group killed at least 27 civilians in two attacks in Yatenga province, northern Burkina Faso, in September 2026. - Unrelenting illegal attacks by GSIM put civilians at serious risk across Burkina Faso . The law of war prohibits attacking civilians, and individuals who order, commit, or assist in committing serious violations of the law of war with criminal intent may be prosecuted for war crimes.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 27,
-          "fatalities_max": 27,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 27,
-              "victim_text": "civilians",
-              "claimant": "AllAfrica (Édition Française)",
-              "status": "reported",
-              "evidence": ", and clearly used banned explosive devices in a northern province - An al-Qaeda-linked armed group killed at least 27 civilians in two attacks in Yatenga province, northern Burkina Faso, in September 2026. - Unrelenting illegal"
-            }
-          ]
-        },
-        {
-          "url": "https://fr.allafrica.com/view/group/main/main/id/00098696.html",
-          "source": "AllAfrica (Édition Française)",
-          "title": "An Islamist armed group targeted civilians in Burkina Faso",
-          "summary": "- Burkina Faso: Islamist armed group targeted civilians HRW, 4 November 2026 GSIM carried out a deadly attack on a mine site, and evidently used banned explosive devices in a northern province Plus' GSIM carried out a deadly attack on a mine site, and evidently used banned explosive devices in a northern province An al-Qaeda-linked armed group killed at least 27 civilians in two attacks in Yatenga province, northern Burkina Faso, in September 2026.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 27,
-          "fatalities_max": 27,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 27,
-              "victim_text": "civilians",
-              "claimant": "AllAfrica (Édition Française)",
-              "status": "reported",
-              "evidence": ", and evidently used banned explosive devices in a northern province An al-Qaeda-linked armed group killed at least 27 civilians in two attacks in Yatenga province, northern Burkina Faso, in September 2026. The relentless illega"
-            }
-          ]
-        }
-      ],
-      "created_at": "2026-11-04T19:57:04.475212Z",
-      "updated_at": "2026-11-04T19:57:02.988824Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "civilian"
-      ],
-      "civilian_targeting_flag": true,
-      "casualty_claims": [
-        {
-          "kind": "fatalities",
-          "count": 27,
-          "victim_text": "civilians",
-          "claimant": "AllAfrica (Édition Française)",
-          "status": "reported",
-          "evidence": ", and clearly used banned explosive devices in a northern province - An al-Qaeda-linked armed group killed at least 27 civilians in two attacks in Yatenga province, northern Burkina Faso, in September 2026. - Unrelenting illegal",
-          "source": "AllAfrica (Édition Française)"
-        }
-      ],
-      "fatalities_min": 27,
-      "fatalities_max": 27,
-      "fatalities_best": 27,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-04T19:57:04.475212Z",
-          "type": "event_created",
-          "source": "AllAfrica (Édition Française)"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "fr.allafrica.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "SIGNIFICANT",
-      "significance_reasons": [
-        "operational security event"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-15T17:18:54Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T21:10:03.657733Z",
+      "discovered_at": "2026-11-15T21:10:03.657733Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Niger",
+      "city": "Niamey",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Niger: 5 mercenaries neutralised and several items of military equipment seized from 1 to 12 November",
+      "url": "https://anp.ne/niger-5-mercenaires-neutralises-et-plusieurs-materiaux-de-guerre-saisis-du-1er-au-12-novembre/"
+    },
+    {
+      "published_at": "2026-11-15T16:11:11Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T21:10:02.397363Z",
+      "discovered_at": "2026-11-15T21:10:02.397363Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "PRAYERS AND REFLECTION: The Catholic Church of Mali pays tribute to the military personnel and civilians who have fallen in the service of the Nation",
+      "url": "https://bamada.net/prieres-et-recueillement-leglise-catholique-du-mali-rend-hommage-aux-militaires-et-civils-tombes-au-service-de-la-nation"
+    },
     {
       "published_at": "2026-11-15T15:18:20Z",
       "published_date_source": "jsonld:datePublished",
@@ -4327,42 +4322,6 @@
       "candidate_event": false,
       "title": "Two children from Mali",
       "url": "https://fr.apanews.net/news/deux-enfants-du-mali/"
-    },
-    {
-      "published_at": "2026-11-13T11:32:20Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:25.032154Z",
-      "discovered_at": "2026-11-13T12:22:25.032154Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Boulkessi and Kadiana: The FAMa strike terrorist bases and assembly points In a statement published on 13 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners. These actions, which are part of",
-      "url": "https://www.lessor.ml/posts/boulkessi-et-kadiana-les-fama-frappent-des-bases-et-points-de-regroupement-terroristes-6af6f544bfbd0"
-    },
-    {
-      "published_at": "2026-11-13T10:51:34Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:24.429153Z",
-      "discovered_at": "2026-11-13T12:22:24.429153Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Kadiana and Boulkessi: The army announces strikes against terrorist bases",
-      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312820-kadiana-et-boulkessi-larmee-annonce-des-frappes-contre-de.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
