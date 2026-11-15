@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
   "reporting_date": "2026-11-14",
-  "generated_at": "2026-11-14T18:18:04.259506Z",
+  "generated_at": "2026-11-15T00:04:21.427023Z",
   "coverage": [
     "Mali",
     "Burkina Faso",
@@ -14,11 +14,11 @@
     "events_occurring_on_date": 1,
     "records_held_for_review": 0,
     "multi_source_events": 0,
-    "reports_collected_on_date": 8,
-    "reports_published_on_date": 5,
-    "newly_discovered_older_events": 1,
+    "reports_collected_on_date": 11,
+    "reports_published_on_date": 8,
+    "newly_discovered_older_events": 2,
     "events_awaiting_date_verification": 1,
-    "distinct_sources_collected": 8
+    "distinct_sources_collected": 10
   },
   "executive_assessment": "Reporting dated 2026-11-14 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.",
   "briefing_sections": [
@@ -28,7 +28,7 @@
     },
     {
       "heading": "Mali",
-      "text": "7 retained reports were collected for Mali. 1 fused candidate event currently carry this reporting date. Report Article reserved for our subscribers In Guinea, the authorities are cracking down on illegal gold…: The two events collided. On Wednesday, 11 November, a few hours after the opening ceremony of the Simandou Mining Summit, an international summit aimed at promoting Guinea's significant mining potential, in Conakry, clashes… Operation Dougoukoloko: Three FAMa strikes in the North: The Malian Armed Forces (FAMa) are continuing their operations in the north of the country. Supported by their partners, they are monitoring and securing the territory as part of Operation Dougoukoloko. The details come from a… Security: Terrorist bases and assembly points struck in Boulkessi and Kadiana by pro-government forces: Bamako, 14 November (AMAP) The Armed Forces General Staff provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners. These actions, which form part of Operation… 4 additional Mali reports are summarized individually in the source records."
+      "text": "9 retained reports were collected for Mali. 1 fused candidate event currently carry this reporting date. Mali: The General Staff announces the destruction of vehicles and a terrorist camp in the north of the country: The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory… Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets: In the document, the security source states that on Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12)… Report Article reserved for our subscribers In Guinea, the authorities are cracking down on illegal gold…: The two events collided. On Wednesday, 11 November, a few hours after the opening ceremony of the Simandou Mining Summit, an international summit aimed at promoting Guinea's significant mining potential, in Conakry, clashes… 6 additional Mali reports are summarized individually in the source records."
     },
     {
       "heading": "Burkina Faso",
@@ -36,7 +36,7 @@
     },
     {
       "heading": "Niger",
-      "text": "No retained Niger report is recorded for this collection date. 0 fused candidate events currently carry this event date."
+      "text": "1 retained report were collected for Niger. 0 fused candidate events currently carry this reporting date. Launch of the 2nd phase of the National Awareness-Raising and General Mobilisation Caravan in Agadez: Agadez, 14 November 2026 (ANP) – The Secretary General of the Agadez Governorate, Mr Souleymane Saïdou Boulhassan, presided over the launch ceremony for the second phase of the National Caravan for Awareness-Raising and…"
     },
     {
       "heading": "Reported incidents",
@@ -44,7 +44,7 @@
     },
     {
       "heading": "What remains unclear",
-      "text": "1 newly recorded item concern earlier dates and are kept out of today's incident count. The date of 1 operational report still needs checking. Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
+      "text": "2 newly recorded items concern earlier dates and are kept out of today's incident count. The date of 1 operational report still needs checking. Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
     }
   ],
   "key_judgments": [
@@ -90,12 +90,12 @@
     }
   ],
   "what_changed_since_yesterday": [
-    "State: +1 same-day fused event(s) versus 2026-11-13 (0 → 1).",
-    "Collection volume: -25 retained report(s) versus 2026-11-13 (33 → 8)."
+    "Collection volume: -22 retained report(s) versus 2026-11-13 (33 → 11).",
+    "Actor-level same-day fused event counts are unchanged from the previous date."
   ],
   "emerging_patterns": [
     "JNIM 7-day activity is lower than the preceding 7-day window (2 → 0).",
-    "State 7-day activity is higher than the preceding 7-day window (8 → 12)."
+    "State 7-day activity is higher than the preceding 7-day window (8 → 13)."
   ],
   "intelligence_gaps": [
     "1 same-day event(s) lack independent multi-source corroboration.",
@@ -113,9 +113,9 @@
     "Niger": 0
   },
   "country_reporting_counts": {
-    "Mali": 7,
+    "Mali": 9,
     "Burkina Faso": 1,
-    "Niger": 0
+    "Niger": 1
   },
   "actor_profiles": {
     "JNIM": {
@@ -136,8 +136,8 @@
     },
     "State": {
       "events": 1,
-      "delta_vs_previous_day": 1,
-      "current_7d": 12,
+      "delta_vs_previous_day": 0,
+      "current_7d": 13,
       "previous_7d": 8,
       "countries": [
         [
@@ -156,13 +156,13 @@
   "country_profiles": {
     "Mali": {
       "events": 1,
-      "reports_collected": 7,
+      "reports_collected": 9,
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
         "State": 1
       },
-      "delta_events_vs_previous_day": 1,
+      "delta_events_vs_previous_day": 0,
       "top_event_types": [
         [
           "security operation",
@@ -183,7 +183,7 @@
     },
     "Niger": {
       "events": 0,
-      "reports_collected": 0,
+      "reports_collected": 1,
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
@@ -195,6 +195,24 @@
   },
   "country_article_summaries": {
     "Mali": [
+      {
+        "id": "3f099a148ff8976602f57634ae2002b0fa794d67",
+        "source": "Bamada",
+        "title": "Mali: The General Staff announces the destruction of vehicles and a terrorist camp in the north of the country",
+        "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12) kilometres north of Yenchechi.",
+        "url": "https://bamada.net/mali-letat-major-annonce-la-destruction-de-vehicules-et-dun-campement-terroriste-dans-le-nord-du-pays",
+        "candidate_event": false,
+        "event_date": "2026-11-13"
+      },
+      {
+        "id": "8f011068396e654f86a276ae968ec4a9634de5ad",
+        "source": "L'Essor",
+        "title": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets",
+        "summary": "In the document, the security source states that on Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12) kilometres north of Yenchechi. The vehicle was completely destroyed . On the same day, a camp belonging to armed terrorist groups, housing several individuals as well as military equipment, including vehicles, was also struck with precision one hundred and five (105) kilometres southeast of Kidal.",
+        "url": "https://www.lessor.ml/posts/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-terroristes-6af8ad129d657",
+        "candidate_event": true,
+        "event_date": "2026-11-13"
+      },
       {
         "id": "69f5ccf037ec6ef2ec5be701ee55d77c827299bb",
         "source": "Le Monde Afrique",
@@ -270,32 +288,42 @@
         "event_date": "2026-11-13"
       }
     ],
-    "Niger": []
+    "Niger": [
+      {
+        "id": "fed56b1caa8700b6dba0180187879d626405b9a1",
+        "source": "Agence Nigérienne de Presse",
+        "title": "Launch of the 2nd phase of the National Awareness-Raising and General Mobilisation Caravan in Agadez",
+        "summary": "Agadez, 14 November 2026 (ANP) – The Secretary General of the Agadez Governorate, Mr Souleymane Saïdou Boulhassan, presided over the launch ceremony for the second phase of the National Caravan for Awareness-Raising and General Mobilisation on Saturday, 14 November 2026.",
+        "url": "https://anp.ne/lancement-a-agadez-de-la-2eme-phase-de-la-caravane-nationale-de-sensibilisation-et-de-mobilisation-generale/",
+        "candidate_event": false,
+        "event_date": "2026-11-14"
+      }
+    ]
   },
   "collection_notes": {
     "sources_total": 184,
-    "sources_success": 154,
-    "sources_failed": 30,
+    "sources_success": 158,
+    "sources_failed": 26,
     "sources_degraded": 17,
-    "documents_discovered": 12388,
-    "documents_retained": 2,
+    "documents_discovered": 13188,
+    "documents_retained": 3,
     "report_target": 100,
-    "translations_attempted": 2,
-    "translations_success": 2,
+    "translations_attempted": 3,
+    "translations_success": 3,
     "translation_failures": 0,
     "collection_confidence": "LOW",
     "collection_confidence_reasons": [
-      "154/184 source paths reached",
-      "30 failed source paths",
-      "17 degraded / 30 failed of 184 configured sources"
+      "158/184 source paths reached",
+      "26 failed source paths",
+      "17 degraded / 26 failed of 184 configured sources"
     ],
-    "reports_collected": 8,
-    "reports_published": 5,
-    "distinct_sources_collected": 8,
+    "reports_collected": 11,
+    "reports_published": 8,
+    "distinct_sources_collected": 10,
     "language_counts": {
-      "fr": 7,
+      "fr": 10,
       "en": 1
     }
   },
-  "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-14: Reporting dated 2026-11-14 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 7 retained reports. 1. Report Article reserved for our subscribers In Guinea, the authorities are cracking down on illegal gold mining: \"It had become the Wild West\" Mamadi Doumbouya's government has intensified its fight against illegal gold miners in the Siguiri region, one of the largest gold reserves in West Africa. Since the beginning of November, tens of thousands of foreigners have been deported to Mali and more than 1,300 people have been arrested.. The two events collided. On Wednesday, 11 November, a few hours after the opening ceremony of the Simandou Mining Summit, an international summit aimed at promoting Guinea's significant mining potential, in Conakry, clashes broke out between gold miners and the Guinean army in the north-east of the country, not far from the border with Mali. . 2. Operation Dougoukoloko: Three FAMa strikes in the North. The Malian Armed Forces (FAMa) are continuing their operations in the north of the country. Supported by their partners, they are monitoring and securing the territory as part of Operation Dougoukoloko. The details come from a statement by the General Staff of the Armed Forces. 3. Security: Terrorist bases and assembly points struck in Boulkessi and Kadiana by pro-government forces. Bamako, 14 November (AMAP) The Armed Forces General Staff provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners. These actions, which form part of Operation Dougoukoloko, aim to secure the national territory, according to a statement issued on Friday. .\n\nBurkina Faso: 1 retained report. 1. Burkina Faso issues arrest warrants for around 20 people, including journalists. Burkina Faso on Friday issued arrest warrants and extradition requests for around 20 people including exiled journalists, activists, an ex-minister, and former military officers. They are accused of several terrorism-related charges including complicity in terrorist activities, financing of terrorism, and the “glorification of terrorism”. Alleged acts of defamation, undermining the morale of the National Armed Forces and contempt of public authority, are also reportedly mentioned.\n\nNiger: 0 retained reports. No retained country-specific reports were collected for this desk date.\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: State: +1 same-day fused event(s) versus 2026-11-13 (0 → 1). Collection volume: -25 retained report(s) versus 2026-11-13 (33 → 8).\n\nIntelligence gaps: 1 same-day event(s) lack independent multi-source corroboration. 1 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 154/184 source paths reached 30 failed source paths 17 degraded / 30 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
+  "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-14: Reporting dated 2026-11-14 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 9 retained reports. 1. Mali: The General Staff announces the destruction of vehicles and a terrorist camp in the north of the country. The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12) kilometres north of Yenchechi. 2. Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets. In the document, the security source states that on Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12) kilometres north of Yenchechi. The vehicle was completely destroyed . On the same day, a camp belonging to armed terrorist groups, housing several individuals as well as military equipment, including vehicles, was also struck with precision one hundred and five (105) kilometres southeast of Kidal. 3. Report Article reserved for our subscribers In Guinea, the authorities are cracking down on illegal gold mining: \"It had become the Wild West\" Mamadi Doumbouya's government has intensified its fight against illegal gold miners in the Siguiri region, one of the largest gold reserves in West Africa. Since the beginning of November, tens of thousands of foreigners have been deported to Mali and more than 1,300 people have been arrested.. The two events collided. On Wednesday, 11 November, a few hours after the opening ceremony of the Simandou Mining Summit, an international summit aimed at promoting Guinea's significant mining potential, in Conakry, clashes broke out between gold miners and the Guinean army in the north-east of the country, not far from the border with Mali. .\n\nBurkina Faso: 1 retained report. 1. Burkina Faso issues arrest warrants for around 20 people, including journalists. Burkina Faso on Friday issued arrest warrants and extradition requests for around 20 people including exiled journalists, activists, an ex-minister, and former military officers. They are accused of several terrorism-related charges including complicity in terrorist activities, financing of terrorism, and the “glorification of terrorism”. Alleged acts of defamation, undermining the morale of the National Armed Forces and contempt of public authority, are also reportedly mentioned.\n\nNiger: 1 retained report. 1. Launch of the 2nd phase of the National Awareness-Raising and General Mobilisation Caravan in Agadez. Agadez, 14 November 2026 (ANP) – The Secretary General of the Agadez Governorate, Mr Souleymane Saïdou Boulhassan, presided over the launch ceremony for the second phase of the National Caravan for Awareness-Raising and General Mobilisation on Saturday, 14 November 2026.\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: Collection volume: -22 retained report(s) versus 2026-11-13 (33 → 11). Actor-level same-day fused event counts are unchanged from the previous date.\n\nIntelligence gaps: 1 same-day event(s) lack independent multi-source corroboration. 1 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 158/184 source paths reached 26 failed source paths 17 degraded / 26 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
 }

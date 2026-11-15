@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-14T18:18:00.509838Z",
+  "generated_at": "2026-11-15T00:04:20.139007Z",
   "window_days": 30,
-  "cutoff": "2026-10-15",
+  "cutoff": "2026-10-16",
   "reports": 799,
-  "incident_reports": 193,
-  "candidate_events": 121,
-  "corroborated_events": 34,
-  "mapped_events": 83,
-  "mapped_locations": 156,
-  "distinct_sources": 85,
+  "incident_reports": 194,
+  "candidate_events": 118,
+  "corroborated_events": 33,
+  "mapped_events": 81,
+  "mapped_locations": 153,
+  "distinct_sources": 84,
   "by_actor": {
     "State": 66,
-    "Other": 32,
+    "Other": 31,
     "JNIM": 12,
     "IS Sahel": 6,
-    "Africa Corps/Wagner": 5
+    "Africa Corps/Wagner": 3
   },
   "by_country": {
-    "Mali": 83,
-    "Niger": 27,
+    "Mali": 81,
+    "Niger": 26,
     "Burkina Faso": 11
   },
   "by_event_type": {
     "security operation": 58,
-    "attack": 16,
-    "civilian targeting": 11,
-    "clash": 9,
+    "attack": 15,
+    "civilian targeting": 10,
     "kidnapping": 9,
+    "clash": 8,
     "air/drone strike": 7,
     "offensive/campaign": 5,
     "raid": 3,
@@ -35,14 +35,14 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 661,
+    "fr": 662,
     "en": 98,
-    "ar": 40
+    "ar": 39
   },
   "by_confidence": {
-    "low": 55,
-    "moderate": 53,
-    "moderate-high": 12,
+    "moderate": 54,
+    "low": 52,
+    "moderate-high": 11,
     "high": 1
   },
   "top_sources": [
@@ -84,7 +84,7 @@
     {
       "source_code": "SRC-0079",
       "source": "L'Essor",
-      "count": 26
+      "count": 27
     },
     {
       "source_code": "SRC-0011",
@@ -94,7 +94,7 @@
     {
       "source_code": "SRC-0014",
       "source": "Agence Nigérienne de Presse",
-      "count": 22
+      "count": 23
     },
     {
       "source_code": "SRC-0015",
@@ -114,39 +114,31 @@
     },
     {
       "location": "Ménaka",
-      "count": 21
+      "count": 20
     },
     {
       "location": "Agadez",
       "count": 16
     },
     {
-      "location": "Bamako",
-      "count": 15
-    },
-    {
       "location": "Niamey",
       "count": 14
     },
     {
+      "location": "Bamako",
+      "count": 13
+    },
+    {
       "location": "Kidal",
-      "count": 10
+      "count": 11
     },
     {
       "location": "Gao",
-      "count": 9
-    },
-    {
-      "location": "Ségou",
-      "count": 7
+      "count": 10
     },
     {
       "location": "Timbuktu",
       "count": 7
-    },
-    {
-      "location": "Niger",
-      "count": 6
     },
     {
       "location": "Burkina Faso",
@@ -155,14 +147,17 @@
     {
       "location": "Douentza",
       "count": 5
+    },
+    {
+      "location": "Mopti",
+      "count": 5
+    },
+    {
+      "location": "Niger",
+      "count": 5
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-16",
-      "reports": 13,
-      "events": 1
-    },
     {
       "date": "2026-10-17",
       "reports": 10,
@@ -301,12 +296,17 @@
     {
       "date": "2026-11-13",
       "reports": 29,
-      "events": 3
+      "events": 4
     },
     {
       "date": "2026-11-14",
-      "reports": 10,
+      "reports": 13,
       "events": 1
+    },
+    {
+      "date": "2026-11-15",
+      "reports": 0,
+      "events": 0
     }
   ],
   "latest_events": [
@@ -415,6 +415,118 @@
       "confidence": "moderate",
       "independent_source_domains": [
         "malijet.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "multi-location activity"
+      ]
+    },
+    {
+      "id": "d60b7235c1993b2e61b3097342d1d61ab65e3531",
+      "event_date": "2026-11-13",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-14T18:48:50Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T00:02:52.781528Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Kidal",
+      "lat": 18.4411,
+      "lng": 1.4078,
+      "locations": [
+        {
+          "name": "Kidal",
+          "country": "Mali",
+          "lat": 18.4411,
+          "lng": 1.4078,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Gao",
+          "country": "Mali",
+          "lat": 16.2717,
+          "lng": -0.0447,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Anéfis",
+          "country": "Mali",
+          "lat": 18.0667,
+          "lng": 0.6167,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets",
+      "summary": "In the document, the security source states that on Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12) kilometres north of Yenchechi. The vehicle was completely destroyed . On the same day, a camp belonging to armed terrorist groups, housing several individuals as well as military equipment, including vehicles, was also struck with precision one hundred and five (105) kilometres southeast of Kidal.",
+      "sources": [
+        "L'Essor"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.lessor.ml/posts/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-terroristes-6af8ad129d657"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.lessor.ml/posts/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-terroristes-6af8ad129d657",
+          "source": "L'Essor",
+          "title": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets",
+          "summary": "In the document, the security source states that on Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12) kilometres north of Yenchechi. The vehicle was completely destroyed . On the same day, a camp belonging to armed terrorist groups, housing several individuals as well as military equipment, including vehicles, was also struck with precision one hundred and five (105) kilometres southeast of Kidal.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-15T00:02:52.781528Z",
+      "updated_at": "2026-11-15T00:02:52.781528Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-15T00:02:52.781528Z",
+          "type": "event_created",
+          "source": "L'Essor"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "lessor.ml"
       ],
       "independent_source_count": 1,
       "significance": "MAJOR",
@@ -3503,99 +3615,63 @@
       "significance_reasons": [
         "operational security event"
       ]
-    },
-    {
-      "id": "ebe40e7ac8bf277f80c49c6c97315934d5e67c8c",
-      "event_date": "2026-11-03",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-05T12:05:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-06T16:03:39.947153Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Koro, Sandaré and Sofara: Flood of fire on terrorists As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, conducted airstrikes between 03 and 04 November 2026. These operations made it possible to target two bases of armed terrorist groups in different localities of our country.",
-      "summary": "According to the statement of the General Staff of the Armed Forces published this Thursday, the exploitation of precise intelligence on Tuesday, November 03, 2026 made it possible to locate, fifty-two (52) kilometers north-east of Koro, a base of armed terrorist groups housing several individuals as well as war equipment, including motorcycles and a fuel depot .",
-      "sources": [
-        "L'Essor"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.lessor.ml/posts/koro-sandare-et-sofara-deluge-de-feu-sur-les-terroristes-6aec70ecc564e"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.lessor.ml/posts/koro-sandare-et-sofara-deluge-de-feu-sur-les-terroristes-6aec70ecc564e",
-          "source": "L'Essor",
-          "title": "Koro, Sandaré and Sofara: Flood of fire on terrorists As part of Operation Dougoukoloko, the Malian Armed Forces (FAMa), supported by their partners, conducted airstrikes between 03 and 04 November 2026. These operations made it possible to target two bases of armed terrorist groups in different localities of our country.",
-          "summary": "According to the statement of the General Staff of the Armed Forces published this Thursday, the exploitation of precise intelligence on Tuesday, November 03, 2026 made it possible to locate, fifty-two (52) kilometers north-east of Koro, a base of armed terrorist groups housing several individuals as well as war equipment, including motorcycles and a fuel depot .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-06T16:03:39.947153Z",
-      "updated_at": "2026-11-06T16:03:39.947153Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-06T16:03:39.947153Z",
-          "type": "event_created",
-          "source": "L'Essor"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "lessor.ml"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-14T20:06:19Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T00:02:51.012420Z",
+      "discovered_at": "2026-11-15T00:02:51.012420Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Gao",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Mali: The General Staff announces the destruction of vehicles and a terrorist camp in the north of the country",
+      "url": "https://bamada.net/mali-letat-major-annonce-la-destruction-de-vehicules-et-dun-campement-terroriste-dans-le-nord-du-pays"
+    },
+    {
+      "published_at": "2026-11-14T19:53:04Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T00:02:52.168596Z",
+      "discovered_at": "2026-11-15T00:02:52.168596Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Agadez",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Launch of the 2nd phase of the National Awareness-Raising and General Mobilisation Caravan in Agadez",
+      "url": "https://anp.ne/lancement-a-agadez-de-la-2eme-phase-de-la-caravane-nationale-de-sensibilisation-et-de-mobilisation-generale/"
+    },
+    {
+      "published_at": "2026-11-14T18:48:50Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T00:02:52.781528Z",
+      "discovered_at": "2026-11-15T00:02:52.781528Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets",
+      "url": "https://www.lessor.ml/posts/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-terroristes-6af8ad129d657"
+    },
     {
       "published_at": "2026-11-14T13:00:02Z",
       "published_date_source": "jsonld:datePublished",
@@ -4261,60 +4337,6 @@
       "candidate_event": false,
       "title": "First World War: The Italian Embassy in Niger celebrates National Unity and Armed Forces Day",
       "url": "https://www.lesahel.org/premiere-guerre-mondiale-lambassade-ditalie-au-niger-celebre-la-journee-de-lunite-nationale-et-des-forces-armees/"
-    },
-    {
-      "published_at": "2026-11-13T00:00:00Z",
-      "published_date_source": "url",
-      "published_time_precision": "date-only",
-      "collected_at": "2026-11-13T19:57:45.869358Z",
-      "discovered_at": "2026-11-13T19:57:45.869358Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Diré",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Education: The Burkinabe diaspora in Côte d'Ivoire donates 3,000 school bags to orphans of members of the Defence and Security Forces (FDS) and Volunteer Civilian Defence Forces (VDP)",
-      "url": "https://burkina24.com/2026/11/13/education-la-diaspora-burkinabe-en-cote-divoire-offre-3-000-sacs-scolaires-aux-orphelins-des-fds-et-des-vdp/"
-    },
-    {
-      "published_at": "2026-11-13T00:00:00Z",
-      "published_date_source": "visible-publication-label",
-      "published_time_precision": "date-only",
-      "collected_at": "2026-11-13T19:57:50.199473Z",
-      "discovered_at": "2026-11-13T19:57:50.199473Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0011",
-      "source": "LeFaso.net",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Burkina Faso: 100 distinguished figures honoured at the second edition of the Rue des Étoiles",
-      "url": "https://lefaso.net/spip.php?article150764="
-    },
-    {
-      "published_at": "2026-11-12T23:33:22Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T01:14:05.945583Z",
-      "discovered_at": "2026-11-13T01:14:05.945583Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Ségou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Ségou: A young man found dead on a construction site in Markala",
-      "url": "https://bamada.net/segou-un-jeune-homme-retrouve-mort-sur-un-chantier-a-markala"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
