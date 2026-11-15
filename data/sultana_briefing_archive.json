@@ -1,8 +1,340 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-15T00:04:21.000129Z",
-  "briefing_count": 44,
+  "generated_at": "2026-11-15T06:46:30.091508Z",
+  "briefing_count": 45,
   "briefings": [
+    {
+      "schema_version": "2.0",
+      "product": "Sultana 24-Hour AES Intelligence Brief",
+      "reporting_date": "2026-11-15",
+      "generated_at": "2026-11-15T06:46:30.091508Z",
+      "window_start": "2026-11-14T06:46:30.091508Z",
+      "window_end": "2026-11-15T06:46:30.091508Z",
+      "window_hours": 24,
+      "method": "Sultana 24-hour all-retained-report intelligence synthesis",
+      "freshness_status": "LIVE",
+      "assessment_confidence": "MODERATE",
+      "coverage": {
+        "retained_articles_reviewed": 14,
+        "retained_articles_in_window": 14,
+        "coverage_complete": true,
+        "distinct_sources": 11,
+        "linked_candidate_events": 4,
+        "multi_source_candidate_events": 0,
+        "countries": {
+          "Mali": 10,
+          "Burkina Faso": 2,
+          "Niger": 2
+        },
+        "actors": {
+          "Other": 6,
+          "State": 8
+        },
+        "event_types": {
+          "law enforcement": 2,
+          "security operation": 7,
+          "clash": 1,
+          "attack": 1,
+          "ambush": 1
+        }
+      },
+      "sections": [
+        {
+          "heading": "BOTTOM LINE",
+          "text": "Sultana reviewed all 14 retained reports collected during the 24-hour window from 11 distinct sources. Reporting was heaviest on Mali (10 reports), while State appeared most often in actor-attributed reporting (8 reports). The same source set is linked to 4 fused candidate events, including 0 with at least two independent sources."
+        },
+        {
+          "heading": "KEY JUDGMENTS",
+          "bullets": [
+            "Reporting distribution: Mali 10, Burkina Faso 2, Niger 2 retained reports.",
+            "Actor posture: State dominated actor-attributed reporting in this window; JNIM 0, IS Sahel 0, AES/state forces 8, Africa Corps/Wagner 0.",
+            "Operational pattern: the leading coded report types were security operation (7), law enforcement (2), clash (1), attack (1).",
+            "Event fusion: 4 candidate events are tied to reports collected in the window; 0 currently have multi-source support."
+          ]
+        },
+        {
+          "heading": "Mali",
+          "text": "10 retained reports were reviewed for Mali. Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets: In the document, the security source states that on Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12)… Operation Dougoukoloko: Three FAMa strikes in the North: The Malian Armed Forces (FAMa) are continuing their operations in the north of the country. Supported by their partners, they are monitoring and securing the territory as part of Operation Dougoukoloko. The details… Reporting was concentrated on State (6)."
+        },
+        {
+          "heading": "Burkina Faso",
+          "text": "2 retained reports were reviewed for Burkina Faso. Road safety in Burkina Faso: Minister Mahamadou Sana calls for 'zero tolerance for antisocial behaviour on…: On the occasion of the 18th National Road Safety Awareness Day, together with the World Day of Remembrance for Road Traffic Victims, the Minister of Security, Mahamadou Sana, is calling on road users to be more… Burkina Faso issues arrest warrants for around 20 people, including journalists: Burkina Faso on Friday issued arrest warrants and extradition requests for around 20 people including exiled journalists, activists, an ex-minister, and former military officers. They are accused of several… Reporting was concentrated on State (1)."
+        },
+        {
+          "heading": "Niger",
+          "text": "2 retained reports were reviewed for Niger. Launch of the 2nd phase of the National Awareness-Raising and General Mobilisation Caravan in Agadez: Agadez, 14 November 2026 (ANP) – The Secretary General of the Agadez Governorate, Mr Souleymane Saïdou Boulhassan, presided over the launch ceremony for the second phase of the National Caravan for Awareness-Raising… Niger: At least 30 civilians killed by \"armed men\" in the west, according to local sources cited by AFP: Niger: At least 30 civilians killed by 'armed men' in the west, according to local sources cited by AFP Published on: Advertisement At least 30 civilians were killed on 12 November 2026 in an ambush by unidentified… Reporting was concentrated on State (1)."
+        },
+        {
+          "heading": "ACTOR POSTURE",
+          "text": "JNIM appears in 0 retained reports; IS Sahel in 0; AES/state forces in 8; Africa Corps/Wagner in 0. JNIM is down to 2 from 3; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is up to 14 from 12."
+        },
+        {
+          "heading": "WHAT CHANGED VS BASELINE",
+          "text": "JNIM is down to 2 from 3; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is up to 14 from 12."
+        },
+        {
+          "heading": "INDICATORS TO WATCH — NEXT 24–72 HOURS",
+          "bullets": [
+            "Watch for corroboration, revised dates/locations, and new reporting that changes the current assessment."
+          ]
+        },
+        {
+          "heading": "CONFIDENCE / CAVEATS",
+          "bullets": [
+            "Multiple sources were reviewed, but some developments remain single-source or incompletely corroborated.",
+            "Collection health: 135 sources live, 19 degraded, 30 failed in the latest collector cycle.",
+            "Candidate events and actor attributions remain OSINT-derived analytical records and may change with better sourcing, dates, or geolocation."
+          ]
+        }
+      ],
+      "text": "SULTANA AL-QAHTANI — 24-HOUR AES INTELLIGENCE BRIEF\nReporting date: 2026-11-15\nWindow: 2026-11-14T06:46:30.091508Z to 2026-11-15T06:46:30.091508Z\nAssessment confidence: MODERATE\n\nBOTTOM LINE\nSultana reviewed all 14 retained reports collected during the 24-hour window from 11 distinct sources. Reporting was heaviest on Mali (10 reports), while State appeared most often in actor-attributed reporting (8 reports). The same source set is linked to 4 fused candidate events, including 0 with at least two independent sources.\n\nKEY JUDGMENTS\n• Reporting distribution: Mali 10, Burkina Faso 2, Niger 2 retained reports.\n• Actor posture: State dominated actor-attributed reporting in this window; JNIM 0, IS Sahel 0, AES/state forces 8, Africa Corps/Wagner 0.\n• Operational pattern: the leading coded report types were security operation (7), law enforcement (2), clash (1), attack (1).\n• Event fusion: 4 candidate events are tied to reports collected in the window; 0 currently have multi-source support.\n\nMali\n10 retained reports were reviewed for Mali. Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets: In the document, the security source states that on Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12)… Operation Dougoukoloko: Three FAMa strikes in the North: The Malian Armed Forces (FAMa) are continuing their operations in the north of the country. Supported by their partners, they are monitoring and securing the territory as part of Operation Dougoukoloko. The details… Reporting was concentrated on State (6).\n\nBurkina Faso\n2 retained reports were reviewed for Burkina Faso. Road safety in Burkina Faso: Minister Mahamadou Sana calls for 'zero tolerance for antisocial behaviour on…: On the occasion of the 18th National Road Safety Awareness Day, together with the World Day of Remembrance for Road Traffic Victims, the Minister of Security, Mahamadou Sana, is calling on road users to be more… Burkina Faso issues arrest warrants for around 20 people, including journalists: Burkina Faso on Friday issued arrest warrants and extradition requests for around 20 people including exiled journalists, activists, an ex-minister, and former military officers. They are accused of several… Reporting was concentrated on State (1).\n\nNiger\n2 retained reports were reviewed for Niger. Launch of the 2nd phase of the National Awareness-Raising and General Mobilisation Caravan in Agadez: Agadez, 14 November 2026 (ANP) – The Secretary General of the Agadez Governorate, Mr Souleymane Saïdou Boulhassan, presided over the launch ceremony for the second phase of the National Caravan for Awareness-Raising… Niger: At least 30 civilians killed by \"armed men\" in the west, according to local sources cited by AFP: Niger: At least 30 civilians killed by 'armed men' in the west, according to local sources cited by AFP Published on: Advertisement At least 30 civilians were killed on 12 November 2026 in an ambush by unidentified… Reporting was concentrated on State (1).\n\nACTOR POSTURE\nJNIM appears in 0 retained reports; IS Sahel in 0; AES/state forces in 8; Africa Corps/Wagner in 0. JNIM is down to 2 from 3; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is up to 14 from 12.\n\nWHAT CHANGED VS BASELINE\nJNIM is down to 2 from 3; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is up to 14 from 12.\n\nINDICATORS TO WATCH — NEXT 24–72 HOURS\n• Watch for corroboration, revised dates/locations, and new reporting that changes the current assessment.\n\nCONFIDENCE / CAVEATS\n• Multiple sources were reviewed, but some developments remain single-source or incompletely corroborated.\n• Collection health: 135 sources live, 19 degraded, 30 failed in the latest collector cycle.\n• Candidate events and actor attributions remain OSINT-derived analytical records and may change with better sourcing, dates, or geolocation.",
+      "article_manifest": [
+        {
+          "id": "1f04ae1a7bf24b8df717ebf4840ef14d4b8af744",
+          "source": "Malijet",
+          "title": "Sikasso: A fake sergeant arrested by the security forces",
+          "original_title": "Sikasso : un faux sergent arrêté par les forces de l’ordr",
+          "summary": "Sikasso: A fake sergeant arrested by law enforcement A civilian who presented himself as an army sergeant was arrested in Sikasso by law enforcement. The man was arrested after arousing suspicion. He is currently being questioned to determine the reasons for this identity theft.",
+          "url": "https://malijet.com/les_faits_divers_au_mali/312839-sikasso-un-faux-sergent-arrete-par-les-forces-de-lordr.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-15T00:48:22Z",
+          "collected_at": "2026-11-15T06:45:27.420123Z",
+          "event_date": "2026-11-15",
+          "actor": "Other",
+          "event_type": "law enforcement",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "d60c07065c17f234f444b958054cd393742f4649",
+          "source": "Burkina24",
+          "title": "Road safety in Burkina Faso: Minister Mahamadou Sana calls for 'zero tolerance for antisocial behaviour on the roads'",
+          "original_title": "Sécurité routière au Burkina Faso : Le ministre Mahamadou Sana appelle à une « zéro tolérance pour l’incivisme routier »",
+          "summary": "On the occasion of the 18th National Road Safety Awareness Day, together with the World Day of Remembrance for Road Traffic Victims, the Minister of Security, Mahamadou Sana, is calling on road users to be more responsible and to strictly comply with the Highway Code. This year's event is themed \"Zero tolerance for antisocial behaviour on the roads\" . On 15 November 2026, Burkina Faso will commemorate the 18th National Road Safety Awareness Day (JNSSR).",
+          "url": "https://burkina24.com/2026/11/15/securite-routiere-au-burkina-faso-le-ministre-mahamadou-sana-appelle-a-une-zero-tolerance-pour-lincivisme-routier/",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-15T00:00:00Z",
+          "collected_at": "2026-11-15T06:45:27.526442Z",
+          "event_date": "2026-11-15",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "3f099a148ff8976602f57634ae2002b0fa794d67",
+          "source": "Bamada",
+          "title": "Mali: The General Staff announces the destruction of vehicles and a terrorist camp in the north of the country",
+          "original_title": "Mali : l’État-Major annonce la destruction de véhicules et d’un campement terroriste dans le nord du pays",
+          "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12) kilometres north of Yenchechi.",
+          "url": "https://bamada.net/mali-letat-major-annonce-la-destruction-de-vehicules-et-dun-campement-terroriste-dans-le-nord-du-pays",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-14T20:06:19Z",
+          "collected_at": "2026-11-15T00:02:51.012420Z",
+          "event_date": "2026-11-13",
+          "actor": "State",
+          "event_type": "security operation",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "fed56b1caa8700b6dba0180187879d626405b9a1",
+          "source": "Agence Nigérienne de Presse",
+          "title": "Launch of the 2nd phase of the National Awareness-Raising and General Mobilisation Caravan in Agadez",
+          "original_title": "Lancement à Agadez de la 2ème phase de la Caravane nationale de sensibilisation et de mobilisation générale",
+          "summary": "Agadez, 14 November 2026 (ANP) – The Secretary General of the Agadez Governorate, Mr Souleymane Saïdou Boulhassan, presided over the launch ceremony for the second phase of the National Caravan for Awareness-Raising and General Mobilisation on Saturday, 14 November 2026.",
+          "url": "https://anp.ne/lancement-a-agadez-de-la-2eme-phase-de-la-caravane-nationale-de-sensibilisation-et-de-mobilisation-generale/",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-11-14T19:53:04Z",
+          "collected_at": "2026-11-15T00:02:52.168596Z",
+          "event_date": "2026-11-14",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "8f011068396e654f86a276ae968ec4a9634de5ad",
+          "source": "L'Essor",
+          "title": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets",
+          "original_title": "Yenchechi, Kidal et Ingouzma : Les FAMa neutralisent des objectifs terroristes",
+          "summary": "In the document, the security source states that on Friday, 13 November 2026, during a surveillance mission on the Gao-Anéfis-Aguelhok axis, a terrorist vehicle was spotted and then successfully dealt with twelve (12) kilometres north of Yenchechi. The vehicle was completely destroyed . On the same day, a camp belonging to armed terrorist groups, housing several individuals as well as military equipment, including vehicles, was also struck with precision one hundred and five (105) kilometres southeast of Kidal.",
+          "url": "https://www.lessor.ml/posts/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-terroristes-6af8ad129d657",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-14T18:48:50Z",
+          "collected_at": "2026-11-15T00:02:52.781528Z",
+          "event_date": "2026-11-13",
+          "actor": "State",
+          "event_type": "security operation",
+          "candidate_event": true,
+          "supporting_force": null
+        },
+        {
+          "id": "69f5ccf037ec6ef2ec5be701ee55d77c827299bb",
+          "source": "Le Monde Afrique",
+          "title": "Report Article reserved for our subscribers In Guinea, the authorities are cracking down on illegal gold mining: \"It had become the Wild West\" Mamadi Doumbouya's government has intensified its fight against illegal gold miners in the Siguiri region, one of the largest gold reserves in West Africa. Since the beginning of November, tens of thousands of foreigners have been deported to Mali and more than 1,300 people have been arrested.",
+          "original_title": "Reportage Article réservé à nos abonnés En Guinée, les autorités s’attaquent à l’orpaillage illégal : « C’était devenu le Far West » Le pouvoir de Mamadi Doumbouya a intensifié sa lutte contre les orpailleurs clandestins dans la région de Siguiri, l’une des plus grandes réserves d’or d’Afrique de l’Ouest. Depuis début novembre, des dizaines de milliers d’étrangers ont été expulsés vers le Mali et plus de 1 300 personnes arrêtées.",
+          "summary": "The two events collided. On Wednesday, 11 November, a few hours after the opening ceremony of the Simandou Mining Summit, an international summit aimed at promoting Guinea's significant mining potential, in Conakry, clashes broke out between gold miners and the Guinean army in the north-east of the country, not far from the border with Mali. .",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/14/en-guinee-les-autorites-s-attaquent-a-l-orpaillage-illegal-c-etait-devenu-le-far-west_6810250_3212.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-14T13:00:02Z",
+          "collected_at": "2026-11-14T18:16:37.307132Z",
+          "event_date": "2026-11-11",
+          "actor": "Other",
+          "event_type": "clash",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "f048ca7f93f54e5321c62e6d58a235fc103d266f",
+          "source": "Malijet",
+          "title": "Operation Dougoukoloko: Three FAMa strikes in the North",
+          "original_title": "Opération Dougoukoloko : trois frappes des FAMa dans le Nord",
+          "summary": "The Malian Armed Forces (FAMa) are continuing their operations in the north of the country. Supported by their partners, they are monitoring and securing the territory as part of Operation Dougoukoloko. The details come from a statement by the General Staff of the Armed Forces.",
+          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312831-operation-dougoukoloko-trois-frappes-des-fama-dans-le-nord.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-14T12:02:01Z",
+          "collected_at": "2026-11-14T18:16:32.488573Z",
+          "event_date": "2026-11-14",
+          "actor": "State",
+          "event_type": "security operation",
+          "candidate_event": true,
+          "supporting_force": null
+        },
+        {
+          "id": "db4eadc735e01f1c0e63d983e4625c3d2a0d860e",
+          "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+          "title": "Security: Terrorist bases and assembly points struck in Boulkessi and Kadiana by pro-government forces",
+          "original_title": "Sécurité : Des bases et points de regroupement terroristes frappés à Boulkessi et Kadiana par les Forces loyalistes",
+          "summary": "Bamako, 14 November (AMAP) The Armed Forces General Staff provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners. These actions, which form part of Operation Dougoukoloko, aim to secure the national territory, according to a statement issued on Friday. .",
+          "url": "https://amap.ml/2026/11/14/securite-les-bases-et-points-de-regroupement-terroristes-frappes-a-boulkessi-et-kadiana-par-les-forces-loyalistes/",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-14T10:55:29Z",
+          "collected_at": "2026-11-14T11:39:39.382331Z",
+          "event_date": "2026-11-14",
+          "actor": "State",
+          "event_type": "security operation",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "14accb7ac735bd7773dcdc9a906d953d3f3e3fa3",
+          "source": "La Nouvelle Tribune (Bénin)",
+          "title": "Why the Malian army is targeting the communication channels of armed groups in the north",
+          "original_title": "Pourquoi l'armée malienne cible les moyens de communication des groupes armés dans le nord",
+          "summary": "The Malian army claims to have intercepted a consignment of 2,000 portable radios north of Timbuktu, in northern Mali, on Monday 9 November 2026. The report from the General Staff of the Malian Armed Forces (FAMa), made public on Wednesday, 11 November, states that the shipment also included a pick-up truck and eight motorbikes, and that this equipment was intended to supply armed groups in the region.",
+          "url": "https://lanouvelletribune.info/2026/11/pourquoi-larmee-malienne-cible-les-moyens-de-communication-des-groupes-armes-dans-le-nord/",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-14T09:21:14Z",
+          "collected_at": "2026-11-14T11:39:37.785415Z",
+          "event_date": "2026-11-09",
+          "actor": "State",
+          "event_type": "security operation",
+          "candidate_event": true,
+          "supporting_force": null
+        },
+        {
+          "id": "0996f77d133bc30d6903bb3a2e0eb8a2bccae0a3",
+          "source": "Africanews",
+          "title": "Burkina Faso issues arrest warrants for around 20 people, including journalists",
+          "original_title": "Burkina Faso issues arrest warrants for around 20 people, including journalists",
+          "summary": "Burkina Faso on Friday issued arrest warrants and extradition requests for around 20 people including exiled journalists, activists, an ex-minister, and former military officers. They are accused of several terrorism-related charges including complicity in terrorist activities, financing of terrorism, and the “glorification of terrorism”. Alleged acts of defamation, undermining the morale of the National Armed Forces and contempt of public authority, are also reportedly mentioned.",
+          "url": "https://www.africanews.com/2026/11/14/burkina-faso-issues-arrest-warrants-for-around-20-people/",
+          "country": "Burkina Faso",
+          "language": "en",
+          "published_at": "2026-11-14T05:38:05Z",
+          "collected_at": "2026-11-14T11:39:37.137688Z",
+          "event_date": "2026-11-13",
+          "actor": "State",
+          "event_type": "law enforcement",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "e7296c694c368cd62955ff3c1836aa3e7267e7c7",
+          "source": "RFI Afrique",
+          "title": "Mali: JNIM attacks against civilians in the Ségou and Mopti regions",
+          "original_title": "Mali: attaques du Jnim contre des civils dans les régions de Ségou et Mopti",
+          "summary": "On Friday, 13 November 2026, the Malian army claimed airstrikes against \"terrorist\" targets in Kadiana, Bougouni Region, and in Boulkessi, Douentza Region. . The day before, jihadists from JNIM, linked to al-Qaeda, had claimed responsibility for shelling the military camp in Léré, in the Timbuktu region, and for two attacks on military positions in the Mopti region.",
+          "url": "https://www.rfi.fr/fr/afrique/20261114-mali-attaques-du-jnim-contre-des-civils-dans-les-r%C3%A9gions-de-s%C3%A9gou-et-mopti",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-14T04:03:41Z",
+          "collected_at": "2026-11-14T11:39:36.870453Z",
+          "event_date": "2026-11-13",
+          "actor": "State",
+          "event_type": "security operation",
+          "candidate_event": true,
+          "supporting_force": null
+        },
+        {
+          "id": "e966b5fb8fe7c82f1efc66dd716674a22e2e54bd",
+          "source": "Maliweb",
+          "title": "GOONGA TAN: Illegal gold mining:...",
+          "original_title": "GOONGA TAN : Orpaillage clandestin :...",
+          "summary": "GOONGA TAN: Illegal gold mining: Is Guinea groping in the dark? On 2 November 2026, Guinean President Mamadi Doumbouya announced, by decree read out on national television, the dismissal of twenty-two local government officials in post in the Siguiri region. .",
+          "url": "https://www.maliweb.net/politique/chroniques/goonga-tan-orpaillage-clandestin-la-guinee-frappe-t-elle-avec-un-3121432.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-14T02:10:01Z",
+          "collected_at": "2026-11-14T11:39:44.066947Z",
+          "event_date": "2026-11-02",
+          "actor": "Other",
+          "event_type": "security operation",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "c986c2d17766303c460616f7a57edf08b7e57b60",
+          "source": "Bamada",
+          "title": "JUSTICE IN MALI: Six years after the bloody robbery in Kalabancoura, the death penalty is handed down to the murderers of Dr Abdramane Kodio",
+          "original_title": "JUSTICE AU MALI : Six ans après le braquage sanglant de Kalabancoura, la peine capitale prononcée contre les meurtriers du Dr Abdramane Kodio",
+          "summary": "The judicial epilogue to a case that had sent shivers down the spines of the people of Mali's capital has just been delivered. On Tuesday, 10 November 2026, the Bamako Assize Court delivered a harsh verdict, sentencing the three main defendants to death for the murder of pharmacist Abdramane Kodio, who was shot dead in his pharmacy in July 2020. .",
+          "url": "https://bamada.net/justice-au-mali-six-ans-apres-le-braquage-sanglant-de-kalabancoura-la-peine-capitale-prononcee-contre-les-meurtriers-du-dr-abdramane-kodio",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-14T01:00:48Z",
+          "collected_at": "2026-11-14T11:39:38.191020Z",
+          "event_date": "2026-11-10",
+          "actor": "Other",
+          "event_type": "attack",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "53ca627c8baef599d0809c692ed756691320f345",
+          "source": "RFI Afrique",
+          "title": "Niger: At least 30 civilians killed by \"armed men\" in the west, according to local sources cited by AFP",
+          "original_title": "Niger: au moins 30 civils ont été tués par des «hommes armés» dans l'ouest, selon des sources locales citées par l’AFP",
+          "summary": "Niger: At least 30 civilians killed by 'armed men' in the west, according to local sources cited by AFP Published on: Advertisement At least 30 civilians were killed on 12 November 2026 in an ambush by unidentified 'armed men' near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned on Friday from local sources. . The attack targeted residents of the village of Tillim, \"very close to Téra, killing 37 people, including women and children\", said a resident of the town of Téra.",
+          "url": "https://www.rfi.fr/fr/en-bref/20261113-niger-au-moins-30-civils-ont-%C3%A9t%C3%A9-tu%C3%A9s-par-des-hommes-arm%C3%A9s-dans-l-ouest-selon-des-sources-locales-cit%C3%A9es-par-l-afp",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-11-13T14:39:32Z",
+          "collected_at": "2026-11-15T06:45:29.273062Z",
+          "event_date": "2026-11-12",
+          "actor": "Other",
+          "event_type": "ambush",
+          "candidate_event": false,
+          "supporting_force": null
+        }
+      ],
+      "linked_event_ids": [
+        "5943eec8c6f335b41515790c0c035736d8d7c5bb",
+        "d60b7235c1993b2e61b3097342d1d61ab65e3531",
+        "3a37eee1d0c327d89c6e8671cc677cf5ec201989",
+        "66014993287c9f9845a08984dd7c9223668c6369"
+      ]
+    },
     {
       "schema_version": "2.0",
       "product": "Sultana 24-Hour AES Intelligence Brief",

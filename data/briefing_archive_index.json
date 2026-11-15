@@ -1,10 +1,18 @@
 {
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
-  "generated_at": "2026-11-15T00:04:23.530403Z",
+  "generated_at": "2026-11-15T06:46:32.030892Z",
   "archive_location": "private repository state/daily_briefing_archive",
-  "archived_count": 266,
+  "archived_count": 267,
   "briefings": [
+    {
+      "reporting_date": "2026-10-13",
+      "events": 0,
+      "reports_collected": 20,
+      "multi_source_events": 0,
+      "collection_confidence": "LOW",
+      "executive_assessment": "Reporting collected on 2026-10-13 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 20 reports from 16 sources, but the automated incident record needs further review. This is not evidence of calm on the ground."
+    },
     {
       "reporting_date": "2026-10-12",
       "events": 1,

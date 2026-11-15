@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T00:04:20.139007Z",
+  "generated_at": "2026-11-15T06:46:29.380358Z",
   "window_days": 30,
   "cutoff": "2026-10-16",
   "reports": 799,
-  "incident_reports": 194,
+  "incident_reports": 192,
   "candidate_events": 118,
   "corroborated_events": 33,
   "mapped_events": 81,
@@ -35,8 +35,8 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 662,
-    "en": 98,
+    "fr": 663,
+    "en": 97,
     "ar": 39
   },
   "by_confidence": {
@@ -49,12 +49,12 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 87
+      "count": 86
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 76
+      "count": 77
     },
     {
       "source_code": "SRC-0075",
@@ -102,8 +102,8 @@
       "count": 20
     },
     {
-      "source_code": "SRC-0017",
-      "source": "Le Sahel",
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
       "count": 17
     }
   ],
@@ -295,7 +295,7 @@
     },
     {
       "date": "2026-11-13",
-      "reports": 29,
+      "reports": 30,
       "events": 4
     },
     {
@@ -305,7 +305,7 @@
     },
     {
       "date": "2026-11-15",
-      "reports": 0,
+      "reports": 2,
       "events": 0
     }
   ],
@@ -3619,6 +3619,42 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-15T00:48:22Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T06:45:27.420123Z",
+      "discovered_at": "2026-11-15T06:45:27.420123Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Sikasso",
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Sikasso: A fake sergeant arrested by the security forces",
+      "url": "https://malijet.com/les_faits_divers_au_mali/312839-sikasso-un-faux-sergent-arrete-par-les-forces-de-lordr.html"
+    },
+    {
+      "published_at": "2026-11-15T00:00:00Z",
+      "published_date_source": "url",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-15T06:45:27.526442Z",
+      "discovered_at": "2026-11-15T06:45:27.526442Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Road safety in Burkina Faso: Minister Mahamadou Sana calls for 'zero tolerance for antisocial behaviour on the roads'",
+      "url": "https://burkina24.com/2026/11/15/securite-routiere-au-burkina-faso-le-ministre-mahamadou-sana-appelle-a-une-zero-tolerance-pour-lincivisme-routier/"
+    },
+    {
       "published_at": "2026-11-14T20:06:19Z",
       "published_date_source": "feed",
       "published_time_precision": "datetime",
@@ -4123,6 +4159,24 @@
       "url": "https://www.lefigaro.fr/international/niger-au-moins-37-civils-tues-dans-une-embuscade-tendue-par-des-hommes-armes-20261113"
     },
     {
+      "published_at": "2026-11-13T14:39:32Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-15T06:45:29.273062Z",
+      "discovered_at": "2026-11-15T06:45:29.273062Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": null,
+      "event_type": "ambush",
+      "candidate_event": false,
+      "title": "Niger: At least 30 civilians killed by \"armed men\" in the west, according to local sources cited by AFP",
+      "url": "https://www.rfi.fr/fr/en-bref/20261113-niger-au-moins-30-civils-ont-%C3%A9t%C3%A9-tu%C3%A9s-par-des-hommes-arm%C3%A9s-dans-l-ouest-selon-des-sources-locales-cit%C3%A9es-par-l-afp"
+    },
+    {
       "published_at": "2026-11-13T12:37:50Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4283,60 +4337,6 @@
       "candidate_event": false,
       "title": "Mali: Ten people deported from Guinea found dead",
       "url": "https://fr.apanews.net/society/mali-dix-morts-parmi-les-personnes-refoulees-de-guinee/"
-    },
-    {
-      "published_at": "2026-11-13T05:23:31Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:24.746598Z",
-      "discovered_at": "2026-11-13T12:22:24.746598Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0023",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "actor": "JNIM",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "clash",
-      "candidate_event": true,
-      "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
-      "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss"
-    },
-    {
-      "published_at": "2026-11-13T04:13:11Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:29.885863Z",
-      "discovered_at": "2026-11-13T12:22:29.885863Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": "kidnapping",
-      "candidate_event": false,
-      "title": "Mali: What are the four activists who have been transferred from State Security to prison accused of?",
-      "url": "https://www.rfi.fr/fr/afrique/20261113-mali-que-reproche-t-on-aux-4-militants-pass%C3%A9s-de-la-s%C3%A9curit%C3%A9-d-%C3%A9tat-%C3%A0-la-prison"
-    },
-    {
-      "published_at": "2026-11-13T02:14:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T01:14:11.636000Z",
-      "discovered_at": "2026-11-13T01:14:11.636000Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0017",
-      "source": "Le Sahel",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "clash",
-      "candidate_event": false,
-      "title": "First World War: The Italian Embassy in Niger celebrates National Unity and Armed Forces Day",
-      "url": "https://www.lesahel.org/premiere-guerre-mondiale-lambassade-ditalie-au-niger-celebre-la-journee-de-lunite-nationale-et-des-forces-armees/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
