@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
   "reporting_date": "2026-11-16",
-  "generated_at": "2026-11-16T06:45:14.027685Z",
+  "generated_at": "2026-11-16T18:46:16.147958Z",
   "coverage": [
     "Mali",
     "Burkina Faso",
@@ -12,43 +12,48 @@
   "collection_confidence": "LOW",
   "headline_metrics": {
     "events_occurring_on_date": 0,
-    "records_held_for_review": 0,
+    "records_held_for_review": 3,
     "multi_source_events": 0,
-    "reports_collected_on_date": 3,
-    "reports_published_on_date": 2,
+    "reports_collected_on_date": 22,
+    "reports_published_on_date": 21,
     "newly_discovered_older_events": 0,
-    "events_awaiting_date_verification": 0,
-    "distinct_sources_collected": 2
+    "events_awaiting_date_verification": 2,
+    "distinct_sources_collected": 14
   },
-  "executive_assessment": "Reporting collected on 2026-11-16 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 3 reports from 2 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.",
+  "executive_assessment": "Reporting collected on 2026-11-16 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 22 reports from 14 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.",
   "briefing_sections": [
     {
       "heading": "Assessment",
-      "text": "Reporting collected on 2026-11-16 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 3 reports from 2 sources, but the automated incident record needs further review. This is not evidence of calm on the ground."
+      "text": "Reporting collected on 2026-11-16 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 22 reports from 14 sources, but the automated incident record needs further review. This is not evidence of calm on the ground."
     },
     {
       "heading": "Mali",
-      "text": "No retained Mali report is recorded for this collection date. 0 fused candidate events currently carry this event date."
+      "text": "13 retained reports were collected for Mali. 0 fused candidate events currently carry this reporting date. National Defence: The Air Force is strengthening its fleet with an IL-76 strategic aircraft and Mi-24 and…: STRENGTHENING THE OPERATIONAL CAPABILITIES OF THE FAMa: The Transitional President hands over new aircraft to the Air Force The Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General… Mali: The National Defence Forces Equipped with New Aircraft: Bamako, 16 November (AMAP) The official ceremony for the handover of new aircraft was presided over on Monday at Modibo Keïta – Sénou International Airport by the Transitional President, Army General Assimi Goïta, in the… Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24: Le président de la Transition malienne, le général d’armée Assimi Goïta, a présidé ce lundi 16 novembre 2026 une cérémonie de remise de nouveaux aéronefs aux Forces armées maliennes (FAMa), à l’aéroport international… 10 additional Mali reports are summarized individually in the source records."
     },
     {
       "heading": "Burkina Faso",
-      "text": "2 retained reports were collected for Burkina Faso. 0 fused candidate events currently carry this reporting date. The legal front: On Friday, 13 November 2020, the Public Prosecutor at the Ouagadougou Court of Appeal held a press briefing on the legal proceedings brought against 45 individuals and legal entities for various offences related to terrorism… Legal proceedings: landmark cases revealed: On Friday, 13 November 2020, Pinguedewindé Désiré Sawadogo, the Public Prosecutor at the Ouagadougou Court of Appeal, held a press conference in Ouagadougou on the status of certain cases currently under investigation at the…"
+      "text": "5 retained reports were collected for Burkina Faso. 0 fused candidate events currently carry this reporting date. Burkina Faso: 100 new stars to illuminate Avenue Kwame-Nkrumah: One hundred Burkinabé and foreign personalities now have their stars on Avenue Kwame-Nkrumah, in the heart of Ouagadougou. Their names are engraved on stelae installed as part of the second edition of the \"Street of Stars\", an… Defence: The FAMa are strengthening their fleet with new aircraft acquired using their own funds: The official handover ceremony was presided over by the Supreme Commander of the Armed Forces, Army General Assimi Goïta, in the presence of civil and military authorities. Fully funded from the national budget and acquired as… AES: Ministers prepare for the upcoming summit in Ouagadougou: The three countries reviewed the implementation of the Year II roadmap. Operational decisions are expected at the next College of Heads of State. The Extraordinary Council of Ministers of the Confederation of Sahel States met… 2 additional Burkina Faso reports are summarized individually in the source records."
     },
     {
       "heading": "Niger",
-      "text": "1 retained report were collected for Niger. 0 fused candidate events currently carry this reporting date. 15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023: Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major…"
+      "text": "3 retained reports were collected for Niger. 0 fused candidate events currently carry this reporting date. African Road Safety Day: Niger focuses on discipline and strengthening checks to reduce road accidents: Le Niger a célébré, le dimanche 15 novembre 2026, la 15è édition de la Journée africaine de la sécurité routière sous le thème : « Zéro tolérance sur nos routes : sensibiliser, contrôler, inspecter et réprimer ». Instituée par… POLICE NATIONALE : LE GÉNÉRAL ABOUBACAR OUMAROU, UN OFFICIER CHEVRONNÉ AUX COMMANDES: De la lutte contre le trafic illicite de stupéfiants aux responsabilités de commandement au sein de la Police nationale, le Commissaire général de police Aboubacar Issaka Oumarou prend les rênes de la DGPN. Son parcours est… 15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023: Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major…"
+    },
+    {
+      "heading": "Reporting in context",
+      "text": "La Nouvelle Tribune (Bénin) published ‘Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24’. It may provide useful context, but the extracted details do not establish a new incident on this date. Maliweb published ‘Defence: Mali strengthens its air fleet with seven new aircraft’. It may provide useful context, but the extracted details do not establish a new incident on this date. 1 more item await source review."
     },
     {
       "heading": "What remains unclear",
-      "text": "Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
+      "text": "The date of 2 operational reports still needs checking. Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
     }
   ],
   "key_judgments": [
-    "No fused candidate event currently has 2026-11-16 as its event date; collection confidence for that date is low."
+    "No fused candidate event currently has 2026-11-16 as its event date; collection confidence for that date is low.",
+    "2 collected operational/candidate report(s) still use an unresolved or proxy event date and require temporal verification."
   ],
   "significant_events": [],
   "what_changed_since_yesterday": [
-    "Collection volume: -7 retained report(s) versus 2026-11-15 (10 → 3).",
+    "Collection volume: +12 retained report(s) versus 2026-11-15 (10 → 22).",
     "Actor-level same-day fused event counts are unchanged from the previous date."
   ],
   "emerging_patterns": [
@@ -56,6 +61,7 @@
     "State 7-day activity is higher than the preceding 7-day window (8 → 11)."
   ],
   "intelligence_gaps": [
+    "2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates.",
     "Collection confidence is low, so absence of reporting should not be interpreted as absence of activity."
   ],
   "actor_counts": {
@@ -69,9 +75,9 @@
     "Niger": 0
   },
   "country_reporting_counts": {
-    "Mali": 0,
-    "Burkina Faso": 2,
-    "Niger": 1
+    "Mali": 13,
+    "Burkina Faso": 5,
+    "Niger": 3
   },
   "actor_profiles": {
     "JNIM": {
@@ -102,7 +108,7 @@
   "country_profiles": {
     "Mali": {
       "events": 0,
-      "reports_collected": 0,
+      "reports_collected": 13,
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
@@ -113,7 +119,7 @@
     },
     "Burkina Faso": {
       "events": 0,
-      "reports_collected": 2,
+      "reports_collected": 5,
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
@@ -124,7 +130,7 @@
     },
     "Niger": {
       "events": 0,
-      "reports_collected": 1,
+      "reports_collected": 3,
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
@@ -135,8 +141,153 @@
     }
   },
   "country_article_summaries": {
-    "Mali": [],
+    "Mali": [
+      {
+        "id": "a76e8b0535978c9f2d76615c9e1caabb0a8e6a3b",
+        "source": "Bamada",
+        "title": "National Defence: The Air Force is strengthening its fleet with an IL-76 strategic aircraft and Mi-24 and Mi-8 helicopters",
+        "summary": "STRENGTHENING THE OPERATIONAL CAPABILITIES OF THE FAMa: The Transitional President hands over new aircraft to the Air Force The Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General Assimi Goïta, officially handed over the keys to an Ilyushin IL-76 strategic transport aircraft and Mi-24 and Mi-17 helicopters at Président Modibo Keïta-Sénou International Airport on Monday, 16 November 2026.",
+        "url": "https://bamada.net/defense-nationale-larmee-de-lair-renforce-sa-flotte-avec-un-avion-strategique-il-76-et-des-helicopteres-mi-24-et-mi-8",
+        "candidate_event": false,
+        "event_date": "2026-11-16"
+      },
+      {
+        "id": "68b0faf5221faaca124c540149e99e3fd0c22aa6",
+        "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+        "title": "Mali: The National Defence Forces Equipped with New Aircraft",
+        "summary": "Bamako, 16 November (AMAP) The official ceremony for the handover of new aircraft was presided over on Monday at Modibo Keïta – Sénou International Airport by the Transitional President, Army General Assimi Goïta, in the presence of civil and military authorities, AMAP reported. . This new batch of aircraft includes an Ilyushin Il-76 strategic transport aircraft, four Mi-8 utility helicopters and two Mi-24 attack helicopters.",
+        "url": "https://amap.ml/2026/11/16/mali-les-forces-nationales-de-defense-dotees-de-nouveaux-aeronefs/",
+        "candidate_event": false,
+        "event_date": "2026-11-16"
+      },
+      {
+        "id": "7e5d6f87529a99b8f36de4ad9b4c47a1cb0ca46c",
+        "source": "La Nouvelle Tribune (Bénin)",
+        "title": "Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24",
+        "summary": "Le président de la Transition malienne, le général d’armée Assimi Goïta, a présidé ce lundi 16 novembre 2026 une cérémonie de remise de nouveaux aéronefs aux Forces armées maliennes (FAMa), à l’aéroport international Président-Modibo-Keïta de Bamako. Cette livraison porte sur sept appareils. Il s’agit de quatre hélicoptères d’attaque Mi-24, deux hélicoptères de manœuvre Mi-8 et un avion de transport stratégique Iliouchine Il-76.",
+        "url": "https://lanouvelletribune.info/2026/11/mali-assimi-goita-dote-larmee-de-7-nouveaux-appareils-militaires-dont-4-helicopteres-mi-24/",
+        "candidate_event": true,
+        "event_date": "2026-11-16"
+      },
+      {
+        "id": "4d781341abd9da04c5a5e0f47289f01457932f06",
+        "source": "Maliweb",
+        "title": "Defence: Mali strengthens its air fleet with seven new aircraft",
+        "summary": "On Monday, 16 November 2026, the Malian Armed Forces (FAMa) took delivery of seven new aircraft to enhance their operational capabilities. Funded entirely from the national budget as part of cooperation with Russia, this equipment includes a strategic transport aircraft, four utility helicopters and two attack helicopters. .",
+        "url": "https://www.maliweb.net/armee/defense-le-mali-renforce-sa-flotte-aerienne-avec-sept-nouveaux-3121557.html",
+        "candidate_event": true,
+        "event_date": "2026-11-16"
+      },
+      {
+        "id": "6705ec5d21787b8a92b2fcefd0c008c2e6068d2b",
+        "source": "Maliweb",
+        "title": "GMS roundabout–Samé–Kati section: The...",
+        "summary": "GMS roundabout–Samé–Kati section: The demolition of buildings and installations within the project's right-of-way begins this Monday, 16 November 2026. The demolition of buildings and installations located within the right-of-way of the GMS Roundabout–Samé–Kati section will begin this Monday The announcement was made by the Ministers of Transport and Infrastructure, Urban Planning, Housing, State Property, Regional Planning and Population in a joint statement released on Sunday evening.",
+        "url": "https://www.maliweb.net/economie/desenclavement-routes/troncon-rond-point-gms-same-kati-la-demolition-des-constructions-et-3121556.html",
+        "candidate_event": false,
+        "event_date": "2026-11-16"
+      },
+      {
+        "id": "45a9a5ab168480093b344d0f5c14a9f3d12816f1",
+        "source": "Malijet",
+        "title": "The Malian Air Force receives new helicopters and a transport aircraft",
+        "summary": "The Malian Armed Forces (FAMa) are strengthening their air fleet. On Monday, 16 November, the Transitional President and Supreme Commander of the Armed Forces, Army General Assimi Goïta, presided over the handover ceremony for new aircraft at Modibo Keïta International Airport in Bamako, in the presence of the military hierarchy. .",
+        "url": "https://malijet.com/a_la_une_du_mali/312856-larmee-de-lair-malienne-recoit-de-nouveaux-helicopteres-et.html",
+        "candidate_event": true,
+        "event_date": "2026-11-16"
+      },
+      {
+        "id": "cd941216b9157abafc61fb2d71ee836e05015ccc",
+        "source": "L'Essor",
+        "title": "GMS roundabout–Samé–Kati section: The demolition of buildings and installations within the project's right-of-way will begin on Monday, 16 November 2026.",
+        "summary": "The announcement was made by the Ministers of Transport and Infrastructure, Urban Planning, Housing, State Property, Regional Planning and Population in a joint statement released on Sunday evening. According to the press release, this operation is part of the clearing of the rights of way essential for carrying out the dual carriageway development works on this important section of road.",
+        "url": "https://www.lessor.ml/posts/troncon-rond-point-gms-same-kati-la-demolition-des-constructions-et-installations-dans-lemprise-du-projet-debute-ce-lundi-16-novembre-2026-6afae6535a8f3",
+        "candidate_event": false,
+        "event_date": "2026-11-12"
+      },
+      {
+        "id": "d457a657abd2f0815950b76e3025606ae7c8fdb4",
+        "source": "Sahara Medias (صحراء ميديا)",
+        "title": "غينيا ترحّل 1557 مواطنا من غرب أفريقيا بعد إدانتهم بالتنقيب غير القانوني عن الذهب",
+        "summary": "رحّلت السلطات الغينية 1557 مواطنا من دول غرب أفريقيا، معظمهم من مالي وبوركينا فاسو، إلى بلدانهم الأصلية، بعد إدانتهم بالتنقيب غير القانوني عن الذهب، وفق إذاعة فرنسا الدولية. وقالت الإذاعة إن عملية الترحيل نُفذت يوم السبت 14 نوفمبر، بمشاركة 44 مركبة ومروحيات، وتحت حراسة أمنية مشددة، حيث انطلقت القافلة من العاصمة كوناكري ووصلت السبت إلى منطقة كوريمالي الحدودية مع مالي.",
+        "url": "https://saharamedias.net/268550/",
+        "candidate_event": false,
+        "event_date": "2026-11-14"
+      },
+      {
+        "id": "92174d0f072211c64a98b94b8e5771e136d8ef53",
+        "source": "La Nouvelle Tribune (Bénin)",
+        "title": "Guinea: Is JNIM threatening the country from Mali? What a field study reveals",
+        "summary": "On 25 October 2026, the Konrad Adenauer Foundation published a study on the establishment of JNIM, a group linked to al-Qaeda, in south-western Mali, on the border with Guinea. Conducted by the SITOC organisation in June and July 2026, the survey is based on 68 testimonies collected in south-western Mali and Upper Guinea. Local officials, representatives of civil society, security stakeholders, gold miners and transhumant herders were interviewed.",
+        "url": "https://lanouvelletribune.info/2026/11/guinee-le-jnim-menace-t-il-le-pays-depuis-le-mali-ce-que-revele-une-etude-de-terrain-menee-aupres-de-68-personnes/",
+        "candidate_event": false,
+        "event_date": "2026-10-25"
+      },
+      {
+        "id": "ba0a40768abc8c1995ab76c99fb8f13db6101eb0",
+        "source": "Bamada",
+        "title": "Kourémalé: 1,557 gold miners of various nationalities pardoned and escorted to the Guinea-Mali border",
+        "summary": "A total of 1,557 gold miners of various nationalities, who were arrested at mining sites for \"illegal gold mining activities\", were tried and sentenced in Conakry. They were granted a pardon on Friday, 13 November 2020, and then taken to Kourémalé, on the border between Guinea and Mali, on Saturday, 14 November, by the Guinean authorities, with a view to returning them to their respective countries.",
+        "url": "https://bamada.net/kouremale-1-557-orpailleurs-de-diverses-nationalites-gracies-et-conduits-a-la-frontiere-guinee-mali",
+        "candidate_event": false,
+        "event_date": "2026-11-13"
+      },
+      {
+        "id": "c8cdfb4695f3cb2ec14e3b8f9fe722eefe691c4e",
+        "source": "La Nouvelle Tribune (Bénin)",
+        "title": "Mali: Mauritania, the Maghreb country most exposed to the crisis, according to the IEEE",
+        "summary": "On 13 November 2023, the Spanish Institute for Strategic Studies (IEEE) published an analysis identifying Mauritania as the Maghreb country most directly threatened by the deteriorating situation in Mali. Authored by analyst Jaime Bello, the text specifies that his views do not represent the position of the Spanish Ministry of Defence. According to him, Nouakchott is under three pressures at once: a porous border, the terrorist threat and the mass influx of refugees.",
+        "url": "https://lanouvelletribune.info/2026/11/mali-la-mauritanie-pays-du-maghreb-le-plus-expose-a-la-crise-selon-lieee/",
+        "candidate_event": true,
+        "event_date": "2026-11-13"
+      },
+      {
+        "id": "9bf696681764ae3f4850c78e51232a94dd9cd368",
+        "source": "Bamada",
+        "title": "Kayes: A 45-year-old suspect arrested for sexually abusing an 8-year-old girl",
+        "summary": "As part of Operation 'KOKADJÈ', initiated by the Regional Director of the National Police of Kayes, Chief Superintendent Tapa Oury Diallo, the Police Station of the 1st Arrondissement of Kayes, headed by Chief Superintendent Daouda Cissé, arrested an individual suspected of sexually abusing an eight-year-old girl on 7 November 2024. . Alerted by a complaint from the victim's family, the police immediately began investigations that led to the arrest of the suspect, identified by the initials M.T., aged 45 and residing in the Lafiabougou-Faradabougouni district in Kayes.",
+        "url": "https://bamada.net/kayes-un-suspect-de-45-ans-interpelle-pour-abus-sexuels-sur-une-fillette-de-8-ans",
+        "candidate_event": false,
+        "event_date": "2026-11-07"
+      },
+      {
+        "id": "f68563d7278c35242b23c6b8debad8de7f8be012",
+        "source": "Malijet",
+        "title": "Orpaillage clandestin: Ce qui est interdit en Guinée est-il permis au Mali ?",
+        "summary": "Depuis le début de ce mois, le Mali fait face à l’afflux, sur son territoire, de plusieurs ressortissants de la sous-région, particulièrement du Burkina Faso. Ils sont refoulés de la Guinée-Conakry pour cause de l’orpaillage clandestin. Bien que l’Etat malien déploie des moyens nécessaires pour assurer un accueil et accompagnement décents à ces refoulés, certains semblent trouver refuge dans des sites d’orpaillage clandestin à travers le pays.",
+        "url": "https://malijet.com/a_la_une_du_mali/312853-orpaillage-clandestin-ce-qui-est-interdit-en-guinee-est-il.html",
+        "candidate_event": false,
+        "event_date": "2026-11-16"
+      }
+    ],
     "Burkina Faso": [
+      {
+        "id": "ab7ad06cd64e9cd990306dba299833f826f510f6",
+        "source": "Studio Yafa",
+        "title": "Burkina Faso: 100 new stars to illuminate Avenue Kwame-Nkrumah",
+        "summary": "One hundred Burkinabé and foreign personalities now have their stars on Avenue Kwame-Nkrumah, in the heart of Ouagadougou. Their names are engraved on stelae installed as part of the second edition of the \"Street of Stars\", an initiative of the Sotigui Academy. .",
+        "url": "https://www.studioyafa.bf/21635-burkina-faso-100-nouvelles-etoiles-pour-illuminer-lavenue-kwame-nkrumah",
+        "candidate_event": false,
+        "event_date": "2026-11-16"
+      },
+      {
+        "id": "10aaf9585bf267dae00f84e2f14fb58641269625",
+        "source": "L'Essor",
+        "title": "Defence: The FAMa are strengthening their fleet with new aircraft acquired using their own funds",
+        "summary": "The official handover ceremony was presided over by the Supreme Commander of the Armed Forces, Army General Assimi Goïta, in the presence of civil and military authorities. Fully funded from the national budget and acquired as part of cooperation with the Russian Federation, these aircraft are intended to increase the army's strategic mobility and logistical autonomy.",
+        "url": "https://www.lessor.ml/posts/defense-les-fama-renforcent-leur-flotte-avec-de-nouveaux-vecteurs-aeriens-acquis-sur-fonds-propres-6afaf79916798",
+        "candidate_event": false,
+        "event_date": "2026-11-16"
+      },
+      {
+        "id": "50d35639cc0b99496fb106d275c4b8f83ec837c2",
+        "source": "Journal du Mali",
+        "title": "AES: Ministers prepare for the upcoming summit in Ouagadougou",
+        "summary": "The three countries reviewed the implementation of the Year II roadmap. Operational decisions are expected at the next College of Heads of State. The Extraordinary Council of Ministers of the Confederation of Sahel States met on 11 and 12 November in Ouagadougou.",
+        "url": "https://journaldumali.com/aes-les-ministres-preparent-le-prochain-sommet-a-ouagadougou/",
+        "candidate_event": false,
+        "event_date": "2026-11-12"
+      },
       {
         "id": "db216dd71fff9b2fa680e7e56990153132d5819b",
         "source": "Sidwaya",
@@ -158,6 +309,24 @@
     ],
     "Niger": [
       {
+        "id": "0847290751cbdd3f187fce89fbebe593de26ab9a",
+        "source": "Le Sahel",
+        "title": "African Road Safety Day: Niger focuses on discipline and strengthening checks to reduce road accidents",
+        "summary": "Le Niger a célébré, le dimanche 15 novembre 2026, la 15è édition de la Journée africaine de la sécurité routière sous le thème : « Zéro tolérance sur nos routes : sensibiliser, contrôler, inspecter et réprimer ». Instituée par l’Union africaine, cette journée est observée chaque troisième dimanche du mois de novembre. Elle est couplée à la Journée mondiale du souvenir des victimes des accidents de la route, une journée officielle des Nations Unies.",
+        "url": "https://www.lesahel.org/journee-africaine-de-la-securite-routiere-le-niger-mise-sur-la-discipline-et-le-renforcement-des-controles-pour-reduire-les-accidents-de-la-route/",
+        "candidate_event": false,
+        "event_date": "2026-11-15"
+      },
+      {
+        "id": "68b13d4531e48a10d9ca3634b2bbb856296b2b19",
+        "source": "Niger Inter",
+        "title": "POLICE NATIONALE : LE GÉNÉRAL ABOUBACAR OUMAROU, UN OFFICIER CHEVRONNÉ AUX COMMANDES",
+        "summary": "De la lutte contre le trafic illicite de stupéfiants aux responsabilités de commandement au sein de la Police nationale, le Commissaire général de police Aboubacar Issaka Oumarou prend les rênes de la DGPN. Son parcours est marqué par des expériences professionnelles au Niger et au sein de plusieurs missions internationales des Nations unies. La Direction générale de la Police nationale (DGPN) connaît un nouveau changement à sa tête.",
+        "url": "https://nigerinter.com/2026/11/16/police-nationale-le-general-aboubacar-oumarou-un-officier-chevronne-aux-commandes/",
+        "candidate_event": false,
+        "event_date": "2026-11-13"
+      },
+      {
         "id": "1257efb0c84a2e9774bf894eb795ec4d85f28d4f",
         "source": "Agence Nigérienne de Presse",
         "title": "15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023",
@@ -172,25 +341,26 @@
     "sources_total": 184,
     "sources_success": 156,
     "sources_failed": 28,
-    "sources_degraded": 14,
-    "documents_discovered": 12900,
-    "documents_retained": 3,
+    "sources_degraded": 13,
+    "documents_discovered": 13654,
+    "documents_retained": 19,
     "report_target": 100,
-    "translations_attempted": 3,
-    "translations_success": 3,
-    "translation_failures": 0,
+    "translations_attempted": 19,
+    "translations_success": 14,
+    "translation_failures": 5,
     "collection_confidence": "LOW",
     "collection_confidence_reasons": [
       "156/184 source paths reached",
       "28 failed source paths",
-      "14 degraded / 28 failed of 184 configured sources"
+      "13 degraded / 28 failed of 184 configured sources"
     ],
-    "reports_collected": 3,
-    "reports_published": 2,
-    "distinct_sources_collected": 2,
+    "reports_collected": 22,
+    "reports_published": 21,
+    "distinct_sources_collected": 14,
     "language_counts": {
-      "fr": 3
+      "fr": 21,
+      "ar": 1
     }
   },
-  "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-16: Reporting collected on 2026-11-16 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 3 reports from 2 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.\n\nMali: 0 retained reports. No retained country-specific reports were collected for this desk date.\n\nBurkina Faso: 2 retained reports. 1. The legal front. On Friday, 13 November 2020, the Public Prosecutor at the Ouagadougou Court of Appeal held a press briefing on the legal proceedings brought against 45 individuals and legal entities for various offences related to terrorism and breaches of public order. . This statement by the judicial authorities serves as a reminder that, in a state facing a war that threatens its very existence, the defence of the nation is not limited to fighting terrorists. 2. Legal proceedings: landmark cases revealed. On Friday, 13 November 2020, Pinguedewindé Désiré Sawadogo, the Public Prosecutor at the Ouagadougou Court of Appeal, held a press conference in Ouagadougou on the status of certain cases currently under investigation at the Specialised Judicial Division for the Suppression of Acts of Terrorism of the Ouaga II High Court. . Since 30 September 2022, under the leadership of the President of Burkina Faso, Captain Ibrahim Traoré, Burkina Faso has been waging a successful and fearless fight against terrorism.\n\nNiger: 1 retained report. 1. 15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023. Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major Abdourahamane Amadou, announced that, in 2025, Niger had recorded 7,116 road accidents, which resulted in 1,245 deaths and 4,439 serious injuries in the country.\n\nActor picture: no same-day fused candidate events.\n\nWhat changed: Collection volume: -7 retained report(s) versus 2026-11-15 (10 → 3). Actor-level same-day fused event counts are unchanged from the previous date.\n\nIntelligence gaps: Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 156/184 source paths reached 28 failed source paths 14 degraded / 28 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
+  "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-16: Reporting collected on 2026-11-16 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 22 reports from 14 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.\n\nMali: 13 retained reports. 1. National Defence: The Air Force is strengthening its fleet with an IL-76 strategic aircraft and Mi-24 and Mi-8 helicopters. STRENGTHENING THE OPERATIONAL CAPABILITIES OF THE FAMa: The Transitional President hands over new aircraft to the Air Force The Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General Assimi Goïta, officially handed over the keys to an Ilyushin IL-76 strategic transport aircraft and Mi-24 and Mi-17 helicopters at Président Modibo Keïta-Sénou International Airport on Monday, 16 November 2026. 2. Mali: The National Defence Forces Equipped with New Aircraft. Bamako, 16 November (AMAP) The official ceremony for the handover of new aircraft was presided over on Monday at Modibo Keïta – Sénou International Airport by the Transitional President, Army General Assimi Goïta, in the presence of civil and military authorities, AMAP reported. . This new batch of aircraft includes an Ilyushin Il-76 strategic transport aircraft, four Mi-8 utility helicopters and two Mi-24 attack helicopters. 3. Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24. Le président de la Transition malienne, le général d’armée Assimi Goïta, a présidé ce lundi 16 novembre 2026 une cérémonie de remise de nouveaux aéronefs aux Forces armées maliennes (FAMa), à l’aéroport international Président-Modibo-Keïta de Bamako. Cette livraison porte sur sept appareils. Il s’agit de quatre hélicoptères d’attaque Mi-24, deux hélicoptères de manœuvre Mi-8 et un avion de transport stratégique Iliouchine Il-76.\n\nBurkina Faso: 5 retained reports. 1. Burkina Faso: 100 new stars to illuminate Avenue Kwame-Nkrumah. One hundred Burkinabé and foreign personalities now have their stars on Avenue Kwame-Nkrumah, in the heart of Ouagadougou. Their names are engraved on stelae installed as part of the second edition of the \"Street of Stars\", an initiative of the Sotigui Academy. . 2. Defence: The FAMa are strengthening their fleet with new aircraft acquired using their own funds. The official handover ceremony was presided over by the Supreme Commander of the Armed Forces, Army General Assimi Goïta, in the presence of civil and military authorities. Fully funded from the national budget and acquired as part of cooperation with the Russian Federation, these aircraft are intended to increase the army's strategic mobility and logistical autonomy. 3. AES: Ministers prepare for the upcoming summit in Ouagadougou. The three countries reviewed the implementation of the Year II roadmap. Operational decisions are expected at the next College of Heads of State. The Extraordinary Council of Ministers of the Confederation of Sahel States met on 11 and 12 November in Ouagadougou.\n\nNiger: 3 retained reports. 1. African Road Safety Day: Niger focuses on discipline and strengthening checks to reduce road accidents. Le Niger a célébré, le dimanche 15 novembre 2026, la 15è édition de la Journée africaine de la sécurité routière sous le thème : « Zéro tolérance sur nos routes : sensibiliser, contrôler, inspecter et réprimer ». Instituée par l’Union africaine, cette journée est observée chaque troisième dimanche du mois de novembre. Elle est couplée à la Journée mondiale du souvenir des victimes des accidents de la route, une journée officielle des Nations Unies. 2. POLICE NATIONALE : LE GÉNÉRAL ABOUBACAR OUMAROU, UN OFFICIER CHEVRONNÉ AUX COMMANDES. De la lutte contre le trafic illicite de stupéfiants aux responsabilités de commandement au sein de la Police nationale, le Commissaire général de police Aboubacar Issaka Oumarou prend les rênes de la DGPN. Son parcours est marqué par des expériences professionnelles au Niger et au sein de plusieurs missions internationales des Nations unies. La Direction générale de la Police nationale (DGPN) connaît un nouveau changement à sa tête. 3. 15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023. Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major Abdourahamane Amadou, announced that, in 2025, Niger had recorded 7,116 road accidents, which resulted in 1,245 deaths and 4,439 serious injuries in the country.\n\nActor picture: no same-day fused candidate events.\n\nWhat changed: Collection volume: +12 retained report(s) versus 2026-11-15 (10 → 22). Actor-level same-day fused event counts are unchanged from the previous date.\n\nIntelligence gaps: 2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 156/184 source paths reached 28 failed source paths 13 degraded / 28 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
 }

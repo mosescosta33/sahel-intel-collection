@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-11-16T06:45:11.812195Z",
+  "generated_at": "2026-11-16T18:46:12.120628Z",
   "window_days": 30,
   "cutoff": "2026-10-17",
-  "reports": 799,
-  "incident_reports": 191,
-  "candidate_events": 118,
+  "reports": 812,
+  "incident_reports": 195,
+  "candidate_events": 122,
   "corroborated_events": 34,
-  "mapped_events": 81,
-  "mapped_locations": 153,
-  "distinct_sources": 84,
+  "mapped_events": 84,
+  "mapped_locations": 158,
+  "distinct_sources": 85,
   "by_actor": {
-    "State": 65,
+    "State": 68,
     "Other": 32,
-    "JNIM": 12,
+    "JNIM": 13,
     "IS Sahel": 6,
     "Africa Corps/Wagner": 3
   },
   "by_country": {
-    "Mali": 80,
+    "Mali": 84,
     "Niger": 27,
     "Burkina Faso": 11
   },
   "by_event_type": {
     "security operation": 59,
-    "attack": 15,
+    "attack": 18,
     "civilian targeting": 10,
     "kidnapping": 9,
     "air/drone strike": 7,
     "clash": 7,
-    "offensive/campaign": 5,
+    "offensive/campaign": 6,
     "raid": 3,
     "IED/explosion": 1,
     "ambush": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 663,
+    "fr": 676,
     "en": 98,
     "ar": 38
   },
   "by_confidence": {
+    "low": 56,
     "moderate": 54,
-    "low": 52,
     "moderate-high": 11,
     "high": 1
   },
@@ -49,7 +49,7 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 87
+      "count": 89
     },
     {
       "source_code": "SRC-0006",
@@ -59,31 +59,31 @@
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 47
+      "count": 48
     },
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 42
-    },
-    {
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "count": 32
+      "count": 44
     },
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
+      "count": 32
+    },
+    {
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
+      "count": 31
+    },
+    {
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
       "count": 29
     },
     {
       "source_code": "SRC-0001",
       "source": "RFI Afrique",
-      "count": 27
-    },
-    {
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
       "count": 27
     },
     {
@@ -110,7 +110,7 @@
   "top_locations": [
     {
       "location": "Mali",
-      "count": 27
+      "count": 28
     },
     {
       "location": "Ménaka",
@@ -121,16 +121,16 @@
       "count": 16
     },
     {
+      "location": "Bamako",
+      "count": 15
+    },
+    {
       "location": "Niamey",
       "count": 15
     },
     {
-      "location": "Bamako",
-      "count": 12
-    },
-    {
       "location": "Kidal",
-      "count": 11
+      "count": 12
     },
     {
       "location": "Gao",
@@ -291,7 +291,7 @@
     {
       "date": "2026-11-13",
       "reports": 30,
-      "events": 4
+      "events": 5
     },
     {
       "date": "2026-11-14",
@@ -305,11 +305,293 @@
     },
     {
       "date": "2026-11-16",
-      "reports": 2,
-      "events": 0
+      "reports": 21,
+      "events": 3
     }
   ],
   "latest_events": [
+    {
+      "id": "c68e5ae554fbf069da2769c84a11e68b70f2bb09",
+      "event_date": "2026-11-16",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-16T14:10:00Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:21.910302Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "attack",
+      "country": "Mali",
+      "city": "Bamako",
+      "lat": 12.6392,
+      "lng": -8.0029,
+      "locations": [
+        {
+          "name": "Bamako",
+          "country": "Mali",
+          "lat": 12.6392,
+          "lng": -8.0029,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24",
+      "summary": "Le président de la Transition malienne, le général d’armée Assimi Goïta, a présidé ce lundi 16 novembre 2026 une cérémonie de remise de nouveaux aéronefs aux Forces armées maliennes (FAMa), à l’aéroport international Président-Modibo-Keïta de Bamako. Cette livraison porte sur sept appareils. Il s’agit de quatre hélicoptères d’attaque Mi-24, deux hélicoptères de manœuvre Mi-8 et un avion de transport stratégique Iliouchine Il-76.",
+      "sources": [
+        "La Nouvelle Tribune (Bénin)"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://lanouvelletribune.info/2026/11/mali-assimi-goita-dote-larmee-de-7-nouveaux-appareils-militaires-dont-4-helicopteres-mi-24/"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://lanouvelletribune.info/2026/11/mali-assimi-goita-dote-larmee-de-7-nouveaux-appareils-militaires-dont-4-helicopteres-mi-24/",
+          "source": "La Nouvelle Tribune (Bénin)",
+          "title": "Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24",
+          "summary": "Le président de la Transition malienne, le général d’armée Assimi Goïta, a présidé ce lundi 16 novembre 2026 une cérémonie de remise de nouveaux aéronefs aux Forces armées maliennes (FAMa), à l’aéroport international Président-Modibo-Keïta de Bamako. Cette livraison porte sur sept appareils. Il s’agit de quatre hélicoptères d’attaque Mi-24, deux hélicoptères de manœuvre Mi-8 et un avion de transport stratégique Iliouchine Il-76.",
+          "summary_basis": "source-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-16T18:43:21.910302Z",
+      "updated_at": "2026-11-16T18:43:21.910302Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "security_force"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-16T18:43:21.910302Z",
+          "type": "event_created",
+          "source": "La Nouvelle Tribune (Bénin)"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "lanouvelletribune.info"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "ecc845ee5413422831a06c660bcec50f31d8a5f5",
+      "event_date": "2026-11-16",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-16T14:04:15Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:16.225023Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "attack",
+      "country": "Mali",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Defence: Mali strengthens its air fleet with seven new aircraft",
+      "summary": "On Monday, 16 November 2026, the Malian Armed Forces (FAMa) took delivery of seven new aircraft to enhance their operational capabilities. Funded entirely from the national budget as part of cooperation with Russia, this equipment includes a strategic transport aircraft, four utility helicopters and two attack helicopters. .",
+      "sources": [
+        "Maliweb"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.maliweb.net/armee/defense-le-mali-renforce-sa-flotte-aerienne-avec-sept-nouveaux-3121557.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.maliweb.net/armee/defense-le-mali-renforce-sa-flotte-aerienne-avec-sept-nouveaux-3121557.html",
+          "source": "Maliweb",
+          "title": "Defence: Mali strengthens its air fleet with seven new aircraft",
+          "summary": "On Monday, 16 November 2026, the Malian Armed Forces (FAMa) took delivery of seven new aircraft to enhance their operational capabilities. Funded entirely from the national budget as part of cooperation with Russia, this equipment includes a strategic transport aircraft, four utility helicopters and two attack helicopters. .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "civilian"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-16T18:43:16.225023Z",
+      "updated_at": "2026-11-16T18:43:16.225023Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "civilian"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-16T18:43:16.225023Z",
+          "type": "event_created",
+          "source": "Maliweb"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "maliweb.net"
+      ],
+      "independent_source_count": 1,
+      "significance": "ROUTINE",
+      "significance_reasons": [
+        "limited currently observed significance"
+      ]
+    },
+    {
+      "id": "a77412e81f8ed25cf0d1211f730fd17a45dfdc3e",
+      "event_date": "2026-11-16",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-16T12:03:55Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:12.465826Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "attack",
+      "country": "Mali",
+      "city": "Bamako",
+      "lat": 12.6392,
+      "lng": -8.0029,
+      "locations": [
+        {
+          "name": "Bamako",
+          "country": "Mali",
+          "lat": 12.6392,
+          "lng": -8.0029,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "The Malian Air Force receives new helicopters and a transport aircraft",
+      "summary": "The Malian Armed Forces (FAMa) are strengthening their air fleet. On Monday, 16 November, the Transitional President and Supreme Commander of the Armed Forces, Army General Assimi Goïta, presided over the handover ceremony for new aircraft at Modibo Keïta International Airport in Bamako, in the presence of the military hierarchy. .",
+      "sources": [
+        "Malijet"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://malijet.com/a_la_une_du_mali/312856-larmee-de-lair-malienne-recoit-de-nouveaux-helicopteres-et.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://malijet.com/a_la_une_du_mali/312856-larmee-de-lair-malienne-recoit-de-nouveaux-helicopteres-et.html",
+          "source": "Malijet",
+          "title": "The Malian Air Force receives new helicopters and a transport aircraft",
+          "summary": "The Malian Armed Forces (FAMa) are strengthening their air fleet. On Monday, 16 November, the Transitional President and Supreme Commander of the Armed Forces, Army General Assimi Goïta, presided over the handover ceremony for new aircraft at Modibo Keïta International Airport in Bamako, in the presence of the military hierarchy. .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-16T18:43:12.465826Z",
+      "updated_at": "2026-11-16T18:43:12.465826Z",
+      "extraction_confidence": "low",
+      "victim_categories": [],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-16T18:43:12.465826Z",
+          "type": "event_created",
+          "source": "Malijet"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "malijet.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
     {
       "id": "5943eec8c6f335b41515790c0c035736d8d7c5bb",
       "event_date": "2026-11-14",
@@ -419,6 +701,119 @@
       "independent_source_count": 1,
       "significance": "MAJOR",
       "significance_reasons": [
+        "multi-location activity"
+      ]
+    },
+    {
+      "id": "ebabd845e37e7a29675450547c7b9ffc3bf00fea",
+      "event_date": "2026-11-13",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-16T08:52:34Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:21.064838Z",
+      "actor": "JNIM",
+      "perpetrator": "JNIM",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "JNIM"
+      ],
+      "parent_report_id": null,
+      "event_type": "offensive/campaign",
+      "country": "Mali",
+      "city": "Bamako",
+      "lat": 12.6392,
+      "lng": -8.0029,
+      "locations": [
+        {
+          "name": "Bamako",
+          "country": "Mali",
+          "lat": 12.6392,
+          "lng": -8.0029,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Kidal",
+          "country": "Mali",
+          "lat": 18.4411,
+          "lng": 1.4078,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Kati",
+          "country": "Mali",
+          "lat": 12.75,
+          "lng": -8.0667,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Mali: Mauritania, the Maghreb country most exposed to the crisis, according to the IEEE",
+      "summary": "On 13 November 2023, the Spanish Institute for Strategic Studies (IEEE) published an analysis identifying Mauritania as the Maghreb country most directly threatened by the deteriorating situation in Mali. Authored by analyst Jaime Bello, the text specifies that his views do not represent the position of the Spanish Ministry of Defence. According to him, Nouakchott is under three pressures at once: a porous border, the terrorist threat and the mass influx of refugees.",
+      "sources": [
+        "La Nouvelle Tribune (Bénin)"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://lanouvelletribune.info/2026/11/mali-la-mauritanie-pays-du-maghreb-le-plus-expose-a-la-crise-selon-lieee/"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://lanouvelletribune.info/2026/11/mali-la-mauritanie-pays-du-maghreb-le-plus-expose-a-la-crise-selon-lieee/",
+          "source": "La Nouvelle Tribune (Bénin)",
+          "title": "Mali: Mauritania, the Maghreb country most exposed to the crisis, according to the IEEE",
+          "summary": "On 13 November 2023, the Spanish Institute for Strategic Studies (IEEE) published an analysis identifying Mauritania as the Maghreb country most directly threatened by the deteriorating situation in Mali. Authored by analyst Jaime Bello, the text specifies that his views do not represent the position of the Spanish Ministry of Defence. According to him, Nouakchott is under three pressures at once: a porous border, the terrorist threat and the mass influx of refugees.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-16T18:43:21.064838Z",
+      "updated_at": "2026-11-16T18:43:21.064838Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-16T18:43:21.064838Z",
+          "type": "event_created",
+          "source": "La Nouvelle Tribune (Bénin)"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "lanouvelletribune.info"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern",
         "multi-location activity"
       ]
     },
@@ -3189,420 +3584,351 @@
       "significance_reasons": [
         "strategic/severe event pattern"
       ]
-    },
-    {
-      "id": "ba33c4986ab119ffc8a924dae0462742e4288a92",
-      "event_date": "2026-11-05",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-05T11:12:59Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:15.258695Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Koro, Sandaré, Sofara: the FAMa strike...",
-      "summary": "Koro, Sandaré, Sofara: the FAMa strike three terrorist positions in two days In a statement dated November 5, 2026, the General Staff of the Armed Forces announced two bases destroyed by precision strikes, near Koro and Sandaré, as well as a pair of terrorists on motorcycles targeted northwest of Sofara, as part of Operation Dougoukoloko . The operations of surveillance, control and security of the territory continue.",
-      "sources": [
-        "Maliweb"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.maliweb.net/insecurite/koro-sandare-sofara-les-fama-frappent-trois-positions-terroristes-en-3121203.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.maliweb.net/insecurite/koro-sandare-sofara-les-fama-frappent-trois-positions-terroristes-en-3121203.html",
-          "source": "Maliweb",
-          "title": "Koro, Sandaré, Sofara: the FAMa strike...",
-          "summary": "Koro, Sandaré, Sofara: the FAMa strike three terrorist positions in two days In a statement dated November 5, 2026, the General Staff of the Armed Forces announced two bases destroyed by precision strikes, near Koro and Sandaré, as well as a pair of terrorists on motorcycles targeted northwest of Sofara, as part of Operation Dougoukoloko . The operations of surveillance, control and security of the territory continue.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-05T12:32:15.258695Z",
-      "updated_at": "2026-11-05T12:32:15.258695Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-05T12:32:15.258695Z",
-          "type": "event_created",
-          "source": "Maliweb"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "maliweb.net"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern"
-      ]
-    },
-    {
-      "id": "1652f8374bee7c274f413ec7fbaecbef54b83945",
-      "event_date": "2026-11-05",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-05T11:56:37Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:15.160916Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "offensive/campaign",
-      "country": "Mali",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Operation Dougoukoloko: the FAMa strike several terrorist positions and continue their offensive to secure the national territory",
-      "summary": "The Malian Armed Forces (FAMa) are resolutely pursuing their mission of defending territorial integrity and protecting populations. As part of Operation Dougoukoloko, units engaged on the ground maintain sustained operational pressure against armed terrorist groups, through surveillance, intelligence, reconnaissance and targeted strikes The latest operations, conducted on 3 and 4 November 2026 in several sectors of the national territory, testify to the continuity of the military commitment and the willingness of the military authorities to leave no space for the terrorist threat .",
-      "sources": [
-        "Bamada"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://bamada.net/operation-dougoukoloko-les-fama-frappent-plusieurs-positions-terroristes-et-poursuivent-leur-offensive-de-securisation-du-territoire-national"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://bamada.net/operation-dougoukoloko-les-fama-frappent-plusieurs-positions-terroristes-et-poursuivent-leur-offensive-de-securisation-du-territoire-national",
-          "source": "Bamada",
-          "title": "Operation Dougoukoloko: the FAMa strike several terrorist positions and continue their offensive to secure the national territory",
-          "summary": "The Malian Armed Forces (FAMa) are resolutely pursuing their mission of defending territorial integrity and protecting populations. As part of Operation Dougoukoloko, units engaged on the ground maintain sustained operational pressure against armed terrorist groups, through surveillance, intelligence, reconnaissance and targeted strikes The latest operations, conducted on 3 and 4 November 2026 in several sectors of the national territory, testify to the continuity of the military commitment and the willingness of the military authorities to leave no space for the terrorist threat .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-05T12:32:15.160916Z",
-      "updated_at": "2026-11-05T12:32:15.160916Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-05T12:32:15.160916Z",
-          "type": "event_created",
-          "source": "Bamada"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "bamada.net"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern"
-      ]
-    },
-    {
-      "id": "4ccba35d8dd49a30b4ee8952edf39ab46aae0ed3",
-      "event_date": "2026-11-04",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-05T11:40:40Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-05T12:32:21.278868Z",
-      "actor": "JNIM",
-      "perpetrator": null,
-      "target": "JNIM",
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "JNIM"
-      ],
-      "parent_report_id": null,
-      "event_type": "attack",
-      "country": "Burkina Faso",
-      "city": "Ouahigouya",
-      "lat": 13.5769,
-      "lng": -2.41786,
-      "locations": [
-        {
-          "name": "Ouahigouya",
-          "country": "Burkina Faso",
-          "lat": 13.5769,
-          "lng": -2.41786,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Burkina Faso: in Soubo, a gold mine burned in retaliation for abuses against the Fulani, according to witnesses",
-      "summary": "In a statement released on November 4, Human Rights Watch documented the September 1 JNIM attack on a gold mining site in northern Burkina Faso, which claimed the lives of 24 civilians.",
-      "sources": [
-        "Afrik.com"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.afrik.com/burkina-faso-a-soubo-une-mine-d-or-incendiee-en-represailles-aux-exactions-contre-les-peuls-selon-des-temoins"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.afrik.com/burkina-faso-a-soubo-une-mine-d-or-incendiee-en-represailles-aux-exactions-contre-les-peuls-selon-des-temoins",
-          "source": "Afrik.com",
-          "title": "Burkina Faso: in Soubo, a gold mine burned in retaliation for abuses against the Fulani, according to witnesses",
-          "summary": "In a statement released on November 4, Human Rights Watch documented the September 1 JNIM attack on a gold mining site in northern Burkina Faso, which claimed the lives of 24 civilians.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 24,
-          "fatalities_max": 24,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 24,
-              "victim_text": "civilians",
-              "claimant": "Afrik.com",
-              "status": "reported",
-              "evidence": "e trying to flee, before moving from hangar to hangar. The assault lasted nearly two hours and left 24 civilians dead and at least 20 wounded. Hidden in a pit, a 45-year-old man heard one of the attackers say, “You ch"
-            }
-          ]
-        }
-      ],
-      "created_at": "2026-11-05T12:32:21.278868Z",
-      "updated_at": "2026-11-05T12:32:21.278868Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian",
-        "armed_group"
-      ],
-      "civilian_targeting_flag": true,
-      "casualty_claims": [
-        {
-          "kind": "fatalities",
-          "count": 24,
-          "victim_text": "civilians",
-          "claimant": "Afrik.com",
-          "status": "reported",
-          "evidence": "e trying to flee, before moving from hangar to hangar. The assault lasted nearly two hours and left 24 civilians dead and at least 20 wounded. Hidden in a pit, a 45-year-old man heard one of the attackers say, “You ch",
-          "source": "Afrik.com"
-        }
-      ],
-      "fatalities_min": 24,
-      "fatalities_max": 24,
-      "fatalities_best": 24,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-05T12:32:21.278868Z",
-          "type": "event_created",
-          "source": "Afrik.com"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "afrik.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "ROUTINE",
-      "significance_reasons": [
-        "limited currently observed significance"
-      ]
-    },
-    {
-      "id": "d487de3acfdfe8c4c68e06123be3d0562c9a7b71",
-      "event_date": "2026-11-04",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-04T12:25:00Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-04T19:57:03.243631Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Gourma-Rharous",
-      "lat": 16.8833,
-      "lng": -1.9333,
-      "locations": [
-        {
-          "name": "Gourma-Rharous",
-          "country": "Mali",
-          "lat": 16.8833,
-          "lng": -1.9333,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Niono",
-          "country": "Mali",
-          "lat": 14.25,
-          "lng": -5.9833,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Tessalit",
-          "country": "Mali",
-          "lat": 20.2,
-          "lng": 1.0,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "FIGHT AGAINST TERRORISM: THE AIR FORCE ANNIHILATES A TERRORIST GROUP NEAR GOURMA-RHAROUS",
-      "summary": "The Malian Armed Forces (FAMa) conducted three (03) aerial interventions resulting in four (04) strikes against positions of terrorist armed groups in the sectors of Niono, Tessalit and Gourma-Rharous The operations, carried out on November 2 and 3, 2026, (…)By Mahamane TOURE – NEW HORIZONRETROUVE the REST OF YOUR ARTICLE IN the NEW HORIZON OF WEDNESDAY, NOVEMBER 4, 2026 Follow us on Facebook, Telegram, WhatsApp to miss nothing of Malian news Follow us on Facebook, Telegram, WhatsApp to miss nothing of Malian news",
-      "sources": [
-        "Bamada"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://bamada.net/lutte-contre-le-terrorisme-larmee-de-lair-aneantit-un-groupe-terroriste-pres-de-gourma-rharous"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://bamada.net/lutte-contre-le-terrorisme-larmee-de-lair-aneantit-un-groupe-terroriste-pres-de-gourma-rharous",
-          "source": "Bamada",
-          "title": "FIGHT AGAINST TERRORISM: THE AIR FORCE ANNIHILATES A TERRORIST GROUP NEAR GOURMA-RHAROUS",
-          "summary": "The Malian Armed Forces (FAMa) conducted three (03) aerial interventions resulting in four (04) strikes against positions of terrorist armed groups in the sectors of Niono, Tessalit and Gourma-Rharous The operations, carried out on November 2 and 3, 2026, (…)By Mahamane TOURE – NEW HORIZONRETROUVE the REST OF YOUR ARTICLE IN the NEW HORIZON OF WEDNESDAY, NOVEMBER 4, 2026 Follow us on Facebook, Telegram, WhatsApp to miss nothing of Malian news Follow us on Facebook, Telegram, WhatsApp to miss nothing of Malian news",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-04T19:57:03.243631Z",
-      "updated_at": "2026-11-04T19:57:03.243631Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-04T19:57:03.243631Z",
-          "type": "event_created",
-          "source": "Bamada"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "bamada.net"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-location activity"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-16T19:43:00Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:15.074680Z",
+      "discovered_at": "2026-11-16T18:43:15.074680Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0017",
+      "source": "Le Sahel",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "African Road Safety Day: Niger focuses on discipline and strengthening checks to reduce road accidents",
+      "url": "https://www.lesahel.org/journee-africaine-de-la-securite-routiere-le-niger-mise-sur-la-discipline-et-le-renforcement-des-controles-pour-reduire-les-accidents-de-la-route/"
+    },
+    {
+      "published_at": "2026-11-16T17:58:59Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:15.660632Z",
+      "discovered_at": "2026-11-16T18:43:15.660632Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0178",
+      "source": "Studio Yafa",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "Burkina Faso: 100 new stars to illuminate Avenue Kwame-Nkrumah",
+      "url": "https://www.studioyafa.bf/21635-burkina-faso-100-nouvelles-etoiles-pour-illuminer-lavenue-kwame-nkrumah"
+    },
+    {
+      "published_at": "2026-11-16T17:12:09Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:15.577791Z",
+      "discovered_at": "2026-11-16T18:43:15.577791Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0016",
+      "source": "Niger Inter",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "POLICE NATIONALE : LE GÉNÉRAL ABOUBACAR OUMAROU, UN OFFICIER CHEVRONNÉ AUX COMMANDES",
+      "url": "https://nigerinter.com/2026/11/16/police-nationale-le-general-aboubacar-oumarou-un-officier-chevronne-aux-commandes/"
+    },
+    {
+      "published_at": "2026-11-16T16:07:24Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:12.042460Z",
+      "discovered_at": "2026-11-16T18:43:12.042460Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "National Defence: The Air Force is strengthening its fleet with an IL-76 strategic aircraft and Mi-24 and Mi-8 helicopters",
+      "url": "https://bamada.net/defense-nationale-larmee-de-lair-renforce-sa-flotte-avec-un-avion-strategique-il-76-et-des-helicopteres-mi-24-et-mi-8"
+    },
+    {
+      "published_at": "2026-11-16T14:29:27Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:13.862095Z",
+      "discovered_at": "2026-11-16T18:43:13.862095Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "Mali: The National Defence Forces Equipped with New Aircraft",
+      "url": "https://amap.ml/2026/11/16/mali-les-forces-nationales-de-defense-dotees-de-nouveaux-aeronefs/"
+    },
+    {
+      "published_at": "2026-11-16T14:10:00Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:21.910302Z",
+      "discovered_at": "2026-11-16T18:43:21.910302Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0092",
+      "source": "La Nouvelle Tribune (Bénin)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "attack",
+      "candidate_event": true,
+      "title": "Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24",
+      "url": "https://lanouvelletribune.info/2026/11/mali-assimi-goita-dote-larmee-de-7-nouveaux-appareils-militaires-dont-4-helicopteres-mi-24/"
+    },
+    {
+      "published_at": "2026-11-16T14:04:15Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:16.225023Z",
+      "discovered_at": "2026-11-16T18:43:16.225023Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "attack",
+      "candidate_event": true,
+      "title": "Defence: Mali strengthens its air fleet with seven new aircraft",
+      "url": "https://www.maliweb.net/armee/defense-le-mali-renforce-sa-flotte-aerienne-avec-sept-nouveaux-3121557.html"
+    },
+    {
+      "published_at": "2026-11-16T13:28:33Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:17.464982Z",
+      "discovered_at": "2026-11-16T18:43:17.464982Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Kati",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "GMS roundabout–Samé–Kati section: The...",
+      "url": "https://www.maliweb.net/economie/desenclavement-routes/troncon-rond-point-gms-same-kati-la-demolition-des-constructions-et-3121556.html"
+    },
+    {
+      "published_at": "2026-11-16T12:58:37Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:12.307902Z",
+      "discovered_at": "2026-11-16T18:43:12.307902Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0004",
+      "source": "Studio Tamani",
+      "language": "fr",
+      "actor": null,
+      "country": null,
+      "city": null,
+      "event_type": "kidnapping",
+      "candidate_event": false,
+      "title": "Yanfolila : deux ressortissants étrangers enlevés à Dangouè",
+      "url": "https://www.studiotamani.org/210320-yanfolila-deux-ressortissants-etrangers-enleves-a-dangoue"
+    },
+    {
+      "published_at": "2026-11-16T12:31:21Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:13.427650Z",
+      "discovered_at": "2026-11-16T18:43:13.427650Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Defence: The FAMa are strengthening their fleet with new aircraft acquired using their own funds",
+      "url": "https://www.lessor.ml/posts/defense-les-fama-renforcent-leur-flotte-avec-de-nouveaux-vecteurs-aeriens-acquis-sur-fonds-propres-6afaf79916798"
+    },
+    {
+      "published_at": "2026-11-16T12:03:55Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:12.465826Z",
+      "discovered_at": "2026-11-16T18:43:12.465826Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "attack",
+      "candidate_event": true,
+      "title": "The Malian Air Force receives new helicopters and a transport aircraft",
+      "url": "https://malijet.com/a_la_une_du_mali/312856-larmee-de-lair-malienne-recoit-de-nouveaux-helicopteres-et.html"
+    },
+    {
+      "published_at": "2026-11-16T11:26:05Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:13.188111Z",
+      "discovered_at": "2026-11-16T18:43:13.188111Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0007",
+      "source": "Journal du Mali",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "AES: Ministers prepare for the upcoming summit in Ouagadougou",
+      "url": "https://journaldumali.com/aes-les-ministres-preparent-le-prochain-sommet-a-ouagadougou/"
+    },
+    {
+      "published_at": "2026-11-16T11:17:39Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:20.118508Z",
+      "discovered_at": "2026-11-16T18:43:20.118508Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Kati",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "GMS roundabout–Samé–Kati section: The demolition of buildings and installations within the project's right-of-way will begin on Monday, 16 November 2026.",
+      "url": "https://www.lessor.ml/posts/troncon-rond-point-gms-same-kati-la-demolition-des-constructions-et-installations-dans-lemprise-du-projet-debute-ce-lundi-16-novembre-2026-6afae6535a8f3"
+    },
+    {
+      "published_at": "2026-11-16T10:45:54Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:21.864039Z",
+      "discovered_at": "2026-11-16T18:43:21.864039Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0160",
+      "source": "Sahara Medias (صحراء ميديا)",
+      "language": "ar",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "clash",
+      "candidate_event": false,
+      "title": "غينيا ترحّل 1557 مواطنا من غرب أفريقيا بعد إدانتهم بالتنقيب غير القانوني عن الذهب",
+      "url": "https://saharamedias.net/268550/"
+    },
+    {
+      "published_at": "2026-11-16T10:07:30Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:19.591230Z",
+      "discovered_at": "2026-11-16T18:43:19.591230Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0092",
+      "source": "La Nouvelle Tribune (Bénin)",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Guinea: Is JNIM threatening the country from Mali? What a field study reveals",
+      "url": "https://lanouvelletribune.info/2026/11/guinee-le-jnim-menace-t-il-le-pays-depuis-le-mali-ce-que-revele-une-etude-de-terrain-menee-aupres-de-68-personnes/"
+    },
+    {
+      "published_at": "2026-11-16T10:03:12Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:11.787311Z",
+      "discovered_at": "2026-11-16T18:43:11.787311Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Kourémalé: 1,557 gold miners of various nationalities pardoned and escorted to the Guinea-Mali border",
+      "url": "https://bamada.net/kouremale-1-557-orpailleurs-de-diverses-nationalites-gracies-et-conduits-a-la-frontiere-guinee-mali"
+    },
+    {
+      "published_at": "2026-11-16T08:52:34Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:21.064838Z",
+      "discovered_at": "2026-11-16T18:43:21.064838Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0092",
+      "source": "La Nouvelle Tribune (Bénin)",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "offensive/campaign",
+      "candidate_event": true,
+      "title": "Mali: Mauritania, the Maghreb country most exposed to the crisis, according to the IEEE",
+      "url": "https://lanouvelletribune.info/2026/11/mali-la-mauritanie-pays-du-maghreb-le-plus-expose-a-la-crise-selon-lieee/"
+    },
+    {
+      "published_at": "2026-11-16T08:18:57Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:12.362925Z",
+      "discovered_at": "2026-11-16T18:43:12.362925Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Kayes",
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Kayes: A 45-year-old suspect arrested for sexually abusing an 8-year-old girl",
+      "url": "https://bamada.net/kayes-un-suspect-de-45-ans-interpelle-pour-abus-sexuels-sur-une-fillette-de-8-ans"
+    },
+    {
+      "published_at": "2026-11-16T08:08:37Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T18:43:13.692149Z",
+      "discovered_at": "2026-11-16T18:43:13.692149Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": "raid",
+      "candidate_event": false,
+      "title": "Orpaillage clandestin: Ce qui est interdit en Guinée est-il permis au Mali ?",
+      "url": "https://malijet.com/a_la_une_du_mali/312853-orpaillage-clandestin-ce-qui-est-interdit-en-guinee-est-il.html"
+    },
     {
       "published_at": "2026-11-16T05:49:49Z",
       "published_date_source": "html:time",
@@ -3980,348 +4306,6 @@
       "candidate_event": true,
       "title": "Mali: JNIM attacks against civilians in the Ségou and Mopti regions",
       "url": "https://www.rfi.fr/fr/afrique/20261114-mali-attaques-du-jnim-contre-des-civils-dans-les-r%C3%A9gions-de-s%C3%A9gou-et-mopti"
-    },
-    {
-      "published_at": "2026-11-14T02:10:01Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T11:39:44.066947Z",
-      "discovered_at": "2026-11-14T11:39:44.066947Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "GOONGA TAN: Illegal gold mining:...",
-      "url": "https://www.maliweb.net/politique/chroniques/goonga-tan-orpaillage-clandestin-la-guinee-frappe-t-elle-avec-un-3121432.html"
-    },
-    {
-      "published_at": "2026-11-14T01:58:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T00:59:00.299238Z",
-      "discovered_at": "2026-11-14T00:59:00.299238Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0017",
-      "source": "Le Sahel",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Editorial: Tell me your tall tales, and I'll tell you who you are",
-      "url": "https://www.lesahel.org/editorial-dis-moi-tes-affabulations-je-te-dirai-qui-tu-es/"
-    },
-    {
-      "published_at": "2026-11-14T01:00:48Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T11:39:38.191020Z",
-      "discovered_at": "2026-11-14T11:39:38.191020Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "JUSTICE IN MALI: Six years after the bloody robbery in Kalabancoura, the death penalty is handed down to the murderers of Dr Abdramane Kodio",
-      "url": "https://bamada.net/justice-au-mali-six-ans-apres-le-braquage-sanglant-de-kalabancoura-la-peine-capitale-prononcee-contre-les-meurtriers-du-dr-abdramane-kodio"
-    },
-    {
-      "published_at": "2026-11-14T00:10:48Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T00:58:59.784510Z",
-      "discovered_at": "2026-11-14T00:58:59.784510Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0014",
-      "source": "Agence Nigérienne de Presse",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "\"Information must originate from the regions, provinces and municipalities\" (Minister Pingdwendé Gilbert Ouédraogo)",
-      "url": "https://anp.ne/linformation-doit-prendre-sa-source-dans-les-regions-les-provinces-les-communes-ministre-pingdwende-gilbert-ouedraogo/"
-    },
-    {
-      "published_at": "2026-11-13T21:51:13Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T00:58:58.584496Z",
-      "discovered_at": "2026-11-14T00:58:58.584496Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0037",
-      "source": "Le Monde Afrique",
-      "language": "fr",
-      "actor": "Other",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Burkina Faso announces the issuance of arrest warrants against journalists and activists in exile for acts of \"terrorism\". The authorities of the West African junta are targeting around twenty individuals and are requesting their extradition. A Burkinabé columnist for RFI and former ministers of ex-President Blaise Compaoré are among those targeted.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html"
-    },
-    {
-      "published_at": "2026-11-13T21:08:56Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T00:58:59.085100Z",
-      "discovered_at": "2026-11-14T00:58:59.085100Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": "Other",
-      "country": "Niger",
-      "city": "Tillabéri",
-      "event_type": "civilian targeting",
-      "candidate_event": true,
-      "title": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region",
-      "url": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri"
-    },
-    {
-      "published_at": "2026-11-13T20:03:42Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T00:58:59.242380Z",
-      "discovered_at": "2026-11-14T00:58:59.242380Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0160",
-      "source": "Sahara Medias (صحراء ميديا)",
-      "language": "ar",
-      "actor": null,
-      "country": "Niger",
-      "city": "Tillabéri",
-      "event_type": "ambush",
-      "candidate_event": false,
-      "title": "Gunmen kill at least 37 civilians in western Niger",
-      "url": "https://saharamedias.net/268444/"
-    },
-    {
-      "published_at": "2026-11-13T19:45:17Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:47.517043Z",
-      "discovered_at": "2026-11-13T19:57:47.517043Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0117",
-      "source": "Vanguard News (Nigeria)",
-      "language": "en",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "Burkina issues ‘terrorist’ warrants for journalists, activists",
-      "url": "https://www.vanguardngr.com/2026/11/burkina-issues-terrorist-warrants-for-journalists-activists/"
-    },
-    {
-      "published_at": "2026-11-13T19:41:21Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:54.148242Z",
-      "discovered_at": "2026-11-13T19:57:54.148242Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0034",
-      "source": "TV5MONDE Afrique",
-      "language": "fr",
-      "actor": "Other",
-      "country": "Niger",
-      "city": "Tillabéri",
-      "event_type": "civilian targeting",
-      "candidate_event": true,
-      "title": "Niger: At least 37 civilians killed by \"armed men\" in the west",
-      "url": "https://information.tv5monde.com/afrique/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-2845749"
-    },
-    {
-      "published_at": "2026-11-13T19:28:14Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:46.478149Z",
-      "discovered_at": "2026-11-13T19:57:46.478149Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kati",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Kati: The Commander of Defence Zone No. 3 visits Hérémakono Police Station",
-      "url": "https://amap.ml/2026/11/13/kati-le-commandant-de-la-zone-de-defense-n-3-en-visite-au-commissariat-de-police-de-heremakono/"
-    },
-    {
-      "published_at": "2026-11-13T18:20:05Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:45.807464Z",
-      "discovered_at": "2026-11-13T19:57:45.807464Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0013",
-      "source": "Wakat Sera",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "The Burkinabé diaspora in Côte d'Ivoire donates 3,000 school bags to the orphans of the DSF and VDP who fell at the front",
-      "url": "https://www.wakatsera.com/la-diaspora-burkinabe-en-cote-divoire-fait-don-de-3-000-sacs-scolaires-aux-orphelins-des-fds-et-vdp-tombes-au-front/"
-    },
-    {
-      "published_at": "2026-11-13T18:15:05Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:46.774212Z",
-      "discovered_at": "2026-11-13T19:57:46.774212Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0118",
-      "source": "Punch Newspapers (Nigeria)",
-      "language": "en",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Burkina Faso orders arrest of journalists, activists over terrorism allegations",
-      "url": "https://punchng.com/burkina-faso-orders-arrest-of-journalists-activists-over-terrorism-allegations/"
-    },
-    {
-      "published_at": "2026-11-13T18:12:59Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:44.711420Z",
-      "discovered_at": "2026-11-13T19:57:44.711420Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0012",
-      "source": "Sidwaya",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Diré",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Education: The Burkinabe diaspora in Côte d'Ivoire donates 3,000 schoolbags to the orphans of the Defence and Security Forces (FDS) and Volunteer Defence Forces (VDP) who fell at the front",
-      "url": "https://www.sidwaya.info/2026/11/13/education-la-diaspora-burkinabe-en-cote-divoire-fait-don-de-3-000-sacs-scolaires-aux-orphelins-des-fds-et-vdp-tombes-au-front/"
-    },
-    {
-      "published_at": "2026-11-13T17:29:08Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:49.469043Z",
-      "discovered_at": "2026-11-13T19:57:49.469043Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "offensive/campaign",
-      "candidate_event": false,
-      "title": "Burkina Faso: International arrest warrant issued against Camille Makosso for alleged terrorism",
-      "url": "https://www.maliweb.net/societe/justice/burkina-faso-mandat-darret-international-contre-camille-makosso-pour-3121462.html"
-    },
-    {
-      "published_at": "2026-11-13T17:14:38Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:44.520348Z",
-      "discovered_at": "2026-11-13T19:57:44.520348Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Kadianna and Boulkessi: The FAMa strike...",
-      "url": "https://www.maliweb.net/insecurite/kadianna-et-boulkessi-les-fama-frappent-plusieurs-positions-de-3121461.html"
-    },
-    {
-      "published_at": "2026-11-13T16:50:10Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:45.755022Z",
-      "discovered_at": "2026-11-13T19:57:45.755022Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0177",
-      "source": "L'Observateur Paalga",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "The Burkinabe diaspora in Côte d'Ivoire donates 3,000 school bags to the orphans of the DSF and VDP who fell at the front",
-      "url": "https://www.lobspaalga.com/2026/11/13/la-diaspora-burkinabe-en-cote-divoire-fait-don-de-3-000-sacs-scolaires-aux-orphelins-des-fds-et-vdp-tombes-au-front/"
-    },
-    {
-      "published_at": "2026-11-13T16:42:47Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:46.295116Z",
-      "discovered_at": "2026-11-13T19:57:46.295116Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0056",
-      "source": "Asharq Al-Awsat",
-      "language": "ar",
-      "actor": null,
-      "country": "Niger",
-      "city": "Tillabéri",
-      "event_type": "ambush",
-      "candidate_event": false,
-      "title": "Gunmen kill at least 37 civilians in western Niger",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/5340888-%D9%85%D8%B3%D9%84%D9%91%D8%AD%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D9%84%D9%88%D9%86-37-%D9%85%D8%AF%D9%86%D9%8A%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D9%82%D9%84-%D9%81%D9%8A-%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1"
-    },
-    {
-      "published_at": "2026-11-13T15:36:37Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:44.160476Z",
-      "discovered_at": "2026-11-13T19:57:44.160476Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0091",
-      "source": "SeneNews",
-      "language": "fr",
-      "actor": "Other",
-      "country": "Niger",
-      "city": null,
-      "event_type": "ambush",
-      "candidate_event": true,
-      "title": "Niger: 38 civilians killed in an ambush near Téra",
-      "url": "https://www.senenews.com/actualites/societe/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-sources-locales_606320.html"
-    },
-    {
-      "published_at": "2026-11-13T15:23:20Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:43.934962Z",
-      "discovered_at": "2026-11-13T19:57:43.934962Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0096",
-      "source": "Le Figaro (Section Afrique)",
-      "language": "fr",
-      "actor": "Other",
-      "country": "Niger",
-      "city": null,
-      "event_type": "ambush",
-      "candidate_event": true,
-      "title": "Niger: At least 37 civilians killed in an ambush by \"armed men\"",
-      "url": "https://www.lefigaro.fr/international/niger-au-moins-37-civils-tues-dans-une-embuscade-tendue-par-des-hommes-armes-20261113"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
