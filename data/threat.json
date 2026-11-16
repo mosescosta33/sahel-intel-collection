@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:11:15.573484Z",
+  "generated_at": "2026-11-16T06:45:11.974203Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
@@ -13,17 +13,17 @@
       "trend": "STABLE",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 14,
-      "events_30d": 80,
-      "baseline_7d_equivalent": 20.1,
-      "tempo_ratio": 0.71,
+      "events_7d": 13,
+      "events_30d": 76,
+      "baseline_7d_equivalent": 19.2,
+      "tempo_ratio": 0.69,
       "drivers": [
-        "14 fused candidate event(s) in 7 days",
+        "13 fused candidate event(s) in 7 days",
         "12 significant/major event(s)",
         "1 civilian-threat indicator(s)",
         "activity across 11 named locations"
       ],
-      "independent_domains_7d": 7
+      "independent_domains_7d": 6
     },
     "Burkina Faso": {
       "score": 52,

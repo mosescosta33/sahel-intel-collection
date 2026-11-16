@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-15T21:11:15.415471Z",
+  "generated_at": "2026-11-16T06:45:11.812195Z",
   "window_days": 30,
-  "cutoff": "2026-10-16",
-  "reports": 798,
+  "cutoff": "2026-10-17",
+  "reports": 799,
   "incident_reports": 191,
-  "candidate_events": 119,
+  "candidate_events": 118,
   "corroborated_events": 34,
-  "mapped_events": 82,
-  "mapped_locations": 154,
+  "mapped_events": 81,
+  "mapped_locations": 153,
   "distinct_sources": 84,
   "by_actor": {
-    "State": 66,
+    "State": 65,
     "Other": 32,
     "JNIM": 12,
     "IS Sahel": 6,
     "Africa Corps/Wagner": 3
   },
   "by_country": {
-    "Mali": 81,
+    "Mali": 80,
     "Niger": 27,
     "Burkina Faso": 11
   },
@@ -26,8 +26,8 @@
     "attack": 15,
     "civilian targeting": 10,
     "kidnapping": 9,
-    "clash": 8,
     "air/drone strike": 7,
+    "clash": 7,
     "offensive/campaign": 5,
     "raid": 3,
     "IED/explosion": 1,
@@ -35,13 +35,13 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 662,
+    "fr": 663,
     "en": 98,
     "ar": 38
   },
   "by_confidence": {
     "moderate": 54,
-    "low": 53,
+    "low": 52,
     "moderate-high": 11,
     "high": 1
   },
@@ -94,7 +94,7 @@
     {
       "source_code": "SRC-0014",
       "source": "Agence Nigérienne de Presse",
-      "count": 23
+      "count": 24
     },
     {
       "source_code": "SRC-0015",
@@ -102,9 +102,9 @@
       "count": 20
     },
     {
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "count": 17
+      "source_code": "SRC-0012",
+      "source": "Sidwaya",
+      "count": 18
     }
   ],
   "top_locations": [
@@ -126,7 +126,7 @@
     },
     {
       "location": "Bamako",
-      "count": 13
+      "count": 12
     },
     {
       "location": "Kidal",
@@ -158,11 +158,6 @@
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-17",
-      "reports": 10,
-      "events": 4
-    },
     {
       "date": "2026-10-18",
       "reports": 5,
@@ -305,7 +300,12 @@
     },
     {
       "date": "2026-11-15",
-      "reports": 9,
+      "reports": 10,
+      "events": 0
+    },
+    {
+      "date": "2026-11-16",
+      "reports": 2,
       "events": 0
     }
   ],
@@ -3604,6 +3604,60 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-16T05:49:49Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T06:43:53.301077Z",
+      "discovered_at": "2026-11-16T06:43:53.301077Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0012",
+      "source": "Sidwaya",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "clash",
+      "candidate_event": false,
+      "title": "The legal front",
+      "url": "https://www.sidwaya.info/2026/11/16/le-front-judiciaire-2/"
+    },
+    {
+      "published_at": "2026-11-16T05:36:39Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T06:43:53.395868Z",
+      "discovered_at": "2026-11-16T06:43:53.395868Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0012",
+      "source": "Sidwaya",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "clash",
+      "candidate_event": false,
+      "title": "Legal proceedings: landmark cases revealed",
+      "url": "https://www.sidwaya.info/2026/11/16/procedures-judiciaires-les-dossiers-emblematiques-devoiles/"
+    },
+    {
+      "published_at": "2026-11-15T21:43:37Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-16T06:43:54.241326Z",
+      "discovered_at": "2026-11-16T06:43:54.241326Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Niamey",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023",
+      "url": "https://anp.ne/15eme-edition-de-la-jasr-7116-accidents-font-1245-morts-et-4439-blesses-graves-au-niger-en-2025/"
+    },
+    {
       "published_at": "2026-11-15T17:18:54Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4268,60 +4322,6 @@
       "candidate_event": true,
       "title": "Niger: At least 37 civilians killed in an ambush by \"armed men\"",
       "url": "https://www.lefigaro.fr/international/niger-au-moins-37-civils-tues-dans-une-embuscade-tendue-par-des-hommes-armes-20261113"
-    },
-    {
-      "published_at": "2026-11-13T14:39:32Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-15T06:45:29.273062Z",
-      "discovered_at": "2026-11-15T06:45:29.273062Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "ambush",
-      "candidate_event": false,
-      "title": "Niger: At least 30 civilians killed by \"armed men\" in the west, according to local sources cited by AFP",
-      "url": "https://www.rfi.fr/fr/en-bref/20261113-niger-au-moins-30-civils-ont-%C3%A9t%C3%A9-tu%C3%A9s-par-des-hommes-arm%C3%A9s-dans-l-ouest-selon-des-sources-locales-cit%C3%A9es-par-l-afp"
-    },
-    {
-      "published_at": "2026-11-13T12:37:50Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:48.954723Z",
-      "discovered_at": "2026-11-13T19:57:48.954723Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0047",
-      "source": "The Africa Report",
-      "language": "en",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "offensive/campaign",
-      "candidate_event": false,
-      "title": "Lithium, gold, uranium… The quiet US counter-offensive against China and Russia in West Africa",
-      "url": "https://www.theafricareport.com/436326/lithium-gold-uranium-the-quiet-us-counter-offensive-against-china-and-russia-in-west-africa/"
-    },
-    {
-      "published_at": "2026-11-13T12:01:09Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:31.954473Z",
-      "discovered_at": "2026-11-13T12:22:31.954473Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0038",
-      "source": "APAnews (FR)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": "offensive/campaign",
-      "candidate_event": false,
-      "title": "Two children from Mali",
-      "url": "https://fr.apanews.net/news/deux-enfants-du-mali/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

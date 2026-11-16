@@ -1,8 +1,321 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-15T21:11:16.373707Z",
-  "briefing_count": 45,
+  "generated_at": "2026-11-16T06:45:12.719973Z",
+  "briefing_count": 46,
   "briefings": [
+    {
+      "schema_version": "2.0",
+      "product": "Sultana 24-Hour AES Intelligence Brief",
+      "reporting_date": "2026-11-16",
+      "generated_at": "2026-11-16T06:45:12.719973Z",
+      "window_start": "2026-11-15T06:45:12.719973Z",
+      "window_end": "2026-11-16T06:45:12.719973Z",
+      "window_hours": 24,
+      "method": "Sultana 24-hour all-retained-report intelligence synthesis",
+      "freshness_status": "LIVE",
+      "assessment_confidence": "MODERATE",
+      "coverage": {
+        "retained_articles_reviewed": 13,
+        "retained_articles_in_window": 13,
+        "coverage_complete": true,
+        "distinct_sources": 10,
+        "linked_candidate_events": 2,
+        "multi_source_candidate_events": 1,
+        "countries": {
+          "Mali": 4,
+          "Burkina Faso": 5,
+          "Niger": 4
+        },
+        "actors": {
+          "Other": 11,
+          "State": 2
+        },
+        "event_types": {
+          "clash": 2,
+          "security operation": 2,
+          "political/security policy": 1,
+          "law enforcement": 2,
+          "ambush": 1
+        }
+      },
+      "sections": [
+        {
+          "heading": "BOTTOM LINE",
+          "text": "Sultana reviewed all 13 retained reports collected during the 24-hour window from 10 distinct sources. Reporting was heaviest on Burkina Faso (5 reports), while State appeared most often in actor-attributed reporting (2 reports). The same source set is linked to 2 fused candidate events, including 1 with at least two independent sources."
+        },
+        {
+          "heading": "KEY JUDGMENTS",
+          "bullets": [
+            "Reporting distribution: Burkina Faso 5, Mali 4, Niger 4 retained reports.",
+            "Actor posture: State dominated actor-attributed reporting in this window; JNIM 0, IS Sahel 0, AES/state forces 2, Africa Corps/Wagner 0.",
+            "Operational pattern: the leading coded report types were clash (2), security operation (2), law enforcement (2), political/security policy (1).",
+            "Event fusion: 2 candidate events are tied to reports collected in the window; 1 currently have multi-source support."
+          ]
+        },
+        {
+          "heading": "Mali",
+          "text": "4 retained reports were reviewed for Mali. Yenchechi, Kidal and Ingouzma: The FAMa...: Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets In a statement issued on Saturday, 14 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by… PRAYERS AND REFLECTION: The Catholic Church of Mali pays tribute to the military personnel and civilians who…: On Sunday, 15 November 2026, the Catholic Church of Mali held a Eucharistic celebration in memory of the soldiers and civilians who fell while carrying out their duty in the service of the nation. The ceremony took… Reporting was concentrated on State (1)."
+        },
+        {
+          "heading": "Burkina Faso",
+          "text": "5 retained reports were reviewed for Burkina Faso. The legal front: On Friday, 13 November 2020, the Public Prosecutor at the Ouagadougou Court of Appeal held a press briefing on the legal proceedings brought against 45 individuals and legal entities for various offences related to… Legal proceedings: landmark cases revealed: On Friday, 13 November 2020, Pinguedewindé Désiré Sawadogo, the Public Prosecutor at the Ouagadougou Court of Appeal, held a press conference in Ouagadougou on the status of certain cases currently under investigation…"
+        },
+        {
+          "heading": "Niger",
+          "text": "4 retained reports were reviewed for Niger. Niger: 5 mercenaries neutralised and several items of military equipment seized from 1 to 12 November: Niamey, 15 Nov (ANP) – The Integrated Operations Coordination Centre reports that, according to the assessment for 1 to 12 November 2025, the Defence and Security Forces neutralised 5 mercenaries and seized several… 15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023: Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major… Reporting was concentrated on State (1)."
+        },
+        {
+          "heading": "ACTOR POSTURE",
+          "text": "JNIM appears in 0 retained reports; IS Sahel in 0; AES/state forces in 2; Africa Corps/Wagner in 0. JNIM is flat at 2 fused candidate events over the current seven-day window; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is up to 13 from 11."
+        },
+        {
+          "heading": "WHAT CHANGED VS BASELINE",
+          "text": "JNIM is flat at 2 fused candidate events over the current seven-day window; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is up to 13 from 11."
+        },
+        {
+          "heading": "INDICATORS TO WATCH — NEXT 24–72 HOURS",
+          "bullets": [
+            "Watch for corroboration, revised dates/locations, and new reporting that changes the current assessment."
+          ]
+        },
+        {
+          "heading": "CONFIDENCE / CAVEATS",
+          "bullets": [
+            "Multiple sources were reviewed, but some developments remain single-source or incompletely corroborated.",
+            "Collection health: 142 sources live, 14 degraded, 28 failed in the latest collector cycle.",
+            "Candidate events and actor attributions remain OSINT-derived analytical records and may change with better sourcing, dates, or geolocation."
+          ]
+        }
+      ],
+      "text": "SULTANA AL-QAHTANI — 24-HOUR AES INTELLIGENCE BRIEF\nReporting date: 2026-11-16\nWindow: 2026-11-15T06:45:12.719973Z to 2026-11-16T06:45:12.719973Z\nAssessment confidence: MODERATE\n\nBOTTOM LINE\nSultana reviewed all 13 retained reports collected during the 24-hour window from 10 distinct sources. Reporting was heaviest on Burkina Faso (5 reports), while State appeared most often in actor-attributed reporting (2 reports). The same source set is linked to 2 fused candidate events, including 1 with at least two independent sources.\n\nKEY JUDGMENTS\n• Reporting distribution: Burkina Faso 5, Mali 4, Niger 4 retained reports.\n• Actor posture: State dominated actor-attributed reporting in this window; JNIM 0, IS Sahel 0, AES/state forces 2, Africa Corps/Wagner 0.\n• Operational pattern: the leading coded report types were clash (2), security operation (2), law enforcement (2), political/security policy (1).\n• Event fusion: 2 candidate events are tied to reports collected in the window; 1 currently have multi-source support.\n\nMali\n4 retained reports were reviewed for Mali. Yenchechi, Kidal and Ingouzma: The FAMa...: Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets In a statement issued on Saturday, 14 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by… PRAYERS AND REFLECTION: The Catholic Church of Mali pays tribute to the military personnel and civilians who…: On Sunday, 15 November 2026, the Catholic Church of Mali held a Eucharistic celebration in memory of the soldiers and civilians who fell while carrying out their duty in the service of the nation. The ceremony took… Reporting was concentrated on State (1).\n\nBurkina Faso\n5 retained reports were reviewed for Burkina Faso. The legal front: On Friday, 13 November 2020, the Public Prosecutor at the Ouagadougou Court of Appeal held a press briefing on the legal proceedings brought against 45 individuals and legal entities for various offences related to… Legal proceedings: landmark cases revealed: On Friday, 13 November 2020, Pinguedewindé Désiré Sawadogo, the Public Prosecutor at the Ouagadougou Court of Appeal, held a press conference in Ouagadougou on the status of certain cases currently under investigation…\n\nNiger\n4 retained reports were reviewed for Niger. Niger: 5 mercenaries neutralised and several items of military equipment seized from 1 to 12 November: Niamey, 15 Nov (ANP) – The Integrated Operations Coordination Centre reports that, according to the assessment for 1 to 12 November 2025, the Defence and Security Forces neutralised 5 mercenaries and seized several… 15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023: Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major… Reporting was concentrated on State (1).\n\nACTOR POSTURE\nJNIM appears in 0 retained reports; IS Sahel in 0; AES/state forces in 2; Africa Corps/Wagner in 0. JNIM is flat at 2 fused candidate events over the current seven-day window; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is up to 13 from 11.\n\nWHAT CHANGED VS BASELINE\nJNIM is flat at 2 fused candidate events over the current seven-day window; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is up to 13 from 11.\n\nINDICATORS TO WATCH — NEXT 24–72 HOURS\n• Watch for corroboration, revised dates/locations, and new reporting that changes the current assessment.\n\nCONFIDENCE / CAVEATS\n• Multiple sources were reviewed, but some developments remain single-source or incompletely corroborated.\n• Collection health: 142 sources live, 14 degraded, 28 failed in the latest collector cycle.\n• Candidate events and actor attributions remain OSINT-derived analytical records and may change with better sourcing, dates, or geolocation.",
+      "article_manifest": [
+        {
+          "id": "db216dd71fff9b2fa680e7e56990153132d5819b",
+          "source": "Sidwaya",
+          "title": "The legal front",
+          "original_title": "Le front judiciaire",
+          "summary": "On Friday, 13 November 2020, the Public Prosecutor at the Ouagadougou Court of Appeal held a press briefing on the legal proceedings brought against 45 individuals and legal entities for various offences related to terrorism and breaches of public order. . This statement by the judicial authorities serves as a reminder that, in a state facing a war that threatens its very existence, the defence of the nation is not limited to fighting terrorists.",
+          "url": "https://www.sidwaya.info/2026/11/16/le-front-judiciaire-2/",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-16T05:49:49Z",
+          "collected_at": "2026-11-16T06:43:53.301077Z",
+          "event_date": "2026-11-13",
+          "actor": "Other",
+          "event_type": "clash",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "27486547722bbbd3d5d6a643f024baf005ffa860",
+          "source": "Sidwaya",
+          "title": "Legal proceedings: landmark cases revealed",
+          "original_title": "Procédures judiciaires : les dossiers emblématiques dévoilés",
+          "summary": "On Friday, 13 November 2020, Pinguedewindé Désiré Sawadogo, the Public Prosecutor at the Ouagadougou Court of Appeal, held a press conference in Ouagadougou on the status of certain cases currently under investigation at the Specialised Judicial Division for the Suppression of Acts of Terrorism of the Ouaga II High Court. . Since 30 September 2022, under the leadership of the President of Burkina Faso, Captain Ibrahim Traoré, Burkina Faso has been waging a successful and fearless fight against terrorism.",
+          "url": "https://www.sidwaya.info/2026/11/16/procedures-judiciaires-les-dossiers-emblematiques-devoiles/",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-16T05:36:39Z",
+          "collected_at": "2026-11-16T06:43:53.395868Z",
+          "event_date": "2026-11-13",
+          "actor": "Other",
+          "event_type": "clash",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "1257efb0c84a2e9774bf894eb795ec4d85f28d4f",
+          "source": "Agence Nigérienne de Presse",
+          "title": "15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023",
+          "original_title": "15ème édition de la JASR : 7116 accidents font 1245 morts et 4439 blessés graves au Niger en 2025",
+          "summary": "Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major Abdourahamane Amadou, announced that, in 2025, Niger had recorded 7,116 road accidents, which resulted in 1,245 deaths and 4,439 serious injuries in the country.",
+          "url": "https://anp.ne/15eme-edition-de-la-jasr-7116-accidents-font-1245-morts-et-4439-blesses-graves-au-niger-en-2025/",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-11-15T21:43:37Z",
+          "collected_at": "2026-11-16T06:43:54.241326Z",
+          "event_date": "2026-11-15",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "6c4115fb7da08c49f61a2d8fdbcb539349da9ea3",
+          "source": "Agence Nigérienne de Presse",
+          "title": "Niger: 5 mercenaries neutralised and several items of military equipment seized from 1 to 12 November",
+          "original_title": "Niger: 5 mercenaires neutralisés et plusieurs matériaux de guerre saisis du 1er au 12 novembre",
+          "summary": "Niamey, 15 Nov (ANP) – The Integrated Operations Coordination Centre reports that, according to the assessment for 1 to 12 November 2025, the Defence and Security Forces neutralised 5 mercenaries and seized several items of military equipment. This includes three mercenary lookouts stationed on a hill, who were neutralised in the Samira sector during a presence patrol carried out by Operation Niya on 3 November.",
+          "url": "https://anp.ne/niger-5-mercenaires-neutralises-et-plusieurs-materiaux-de-guerre-saisis-du-1er-au-12-novembre/",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-11-15T17:18:54Z",
+          "collected_at": "2026-11-15T21:10:03.657733Z",
+          "event_date": "2026-11-12",
+          "actor": "Other",
+          "event_type": "security operation",
+          "candidate_event": true,
+          "supporting_force": null
+        },
+        {
+          "id": "0cb5d2d10ee85a38db2370b17807bbba90190aa1",
+          "source": "Bamada",
+          "title": "PRAYERS AND REFLECTION: The Catholic Church of Mali pays tribute to the military personnel and civilians who have fallen in the service of the Nation",
+          "original_title": "PRIÈRES ET RECUEILLEMENT : l’Eglise Catholique du Mali rend hommage aux militaires et civils tombés au service de la Nation",
+          "summary": "On Sunday, 15 November 2026, the Catholic Church of Mali held a Eucharistic celebration in memory of the soldiers and civilians who fell while carrying out their duty in the service of the nation. The ceremony took place at Bamako's Cathedral of the Sacred Heart, presided over by Archbishop Robert Cissé, Metropolitan Archbishop of Bamako, in the presence of the Chief of the General Staff of the Armed Forces, Major General Elisée Jean Dao, and a large military delegation.",
+          "url": "https://bamada.net/prieres-et-recueillement-leglise-catholique-du-mali-rend-hommage-aux-militaires-et-civils-tombes-au-service-de-la-nation",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-15T16:11:11Z",
+          "collected_at": "2026-11-15T21:10:02.397363Z",
+          "event_date": "2026-11-15",
+          "actor": "Other",
+          "event_type": "political/security policy",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "f5787e462766e6d20f3a958de2dd2c85966ba9a2",
+          "source": "News Central TV (Nigeria)",
+          "title": "Thousands of Arab Nomads Ordered to Leave Niger",
+          "original_title": "Thousands of Arab Nomads Ordered to Leave Niger",
+          "summary": "Several thousand Arab nomads from the Mahamid tribe, who have lived for decades in southeastern Niger, have been told to leave the country by the end of the year, local authorities said Sunday. Niger’s military regime has accused the Mahamid of supplying weapons and logistics to Boko Haram terrorists active in the region. “This is a very firm directive from the country’s highest authorities: the Mahamid must return home by December 31, 2026 — a strict deadline,” a senior official in Niger’s Diffa region told AFP.",
+          "url": "https://newscentraltv.com/thousands-of-arab-nomads-ordered-to-leave-niger/",
+          "country": "Niger",
+          "language": "en",
+          "published_at": "2026-11-15T15:18:20Z",
+          "collected_at": "2026-11-15T15:47:50.973369Z",
+          "event_date": "2026-11-15",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "c9a24eafbe560218feb601777427ef7ef6ea0c4d",
+          "source": "Wakat Sera",
+          "title": "Road traffic: “No urgency, no social pressure… can justify putting your life or the lives of others at risk”",
+          "original_title": "Circulation routière: «Aucune urgence, aucune pression sociale… ne saurait justifier de mettre en danger sa vie ou celle d’autrui»",
+          "summary": "This is a message from the Burkinabe Minister of Security on the occasion of the commemoration of the World Day of Remembrance for Road Traffic Victims, together with the 18th edition of the National Road Safety Awareness Day.",
+          "url": "https://www.wakatsera.com/circulation-routiere-aucune-urgence-aucune-pression-sociale-ne-saurait-justifier-de-mettre-en-danger-sa-vie-ou-celle-dautrui/",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-15T11:12:33Z",
+          "collected_at": "2026-11-15T15:47:49.142124Z",
+          "event_date": "2026-11-15",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "8de14f602043c5666addf97109575bf066d99a64",
+          "source": "Maliweb",
+          "title": "Yenchechi, Kidal and Ingouzma: The FAMa...",
+          "original_title": "Yenchechi, Kidal et Ingouzma : Les FAMa...",
+          "summary": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets In a statement issued on Saturday, 14 November 2026, the General Staff of the Armed Forces provided an update on the recent operations carried out by the Malian Armed Forces (FAMa), supported by their partners, as part of Operation Dougoukoloko. . Several terrorist bases and hideouts were successfully destroyed during patrols and precision strikes.",
+          "url": "https://www.maliweb.net/insecurite/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-3121498.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-15T10:43:29Z",
+          "collected_at": "2026-11-15T15:47:48.018867Z",
+          "event_date": "2026-11-14",
+          "actor": "State",
+          "event_type": "security operation",
+          "candidate_event": true,
+          "supporting_force": null
+        },
+        {
+          "id": "1f04ae1a7bf24b8df717ebf4840ef14d4b8af744",
+          "source": "Malijet",
+          "title": "Sikasso: A fake sergeant arrested by the security forces",
+          "original_title": "Sikasso : un faux sergent arrêté par les forces de l’ordr",
+          "summary": "Sikasso: A fake sergeant arrested by law enforcement A civilian who presented himself as an army sergeant was arrested in Sikasso by law enforcement. The man was arrested after arousing suspicion. He is currently being questioned to determine the reasons for this identity theft.",
+          "url": "https://malijet.com/les_faits_divers_au_mali/312839-sikasso-un-faux-sergent-arrete-par-les-forces-de-lordr.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-15T00:48:22Z",
+          "collected_at": "2026-11-15T06:45:27.420123Z",
+          "event_date": "2026-11-15",
+          "actor": "Other",
+          "event_type": "law enforcement",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "b3f6b8939635cfa754190460519f77a704677400",
+          "source": "LeFaso.net",
+          "title": "Road safety in Burkina Faso: Minister Mahamadou Sana declares an end to tolerance of antisocial behaviour on the roads",
+          "original_title": "Sécurité routière au Burkina Faso : Le ministre Mahamadou Sana décrète la fin de la tolérance face à l’incivisme sur les routes",
+          "summary": "On the occasion of the 18th National Road Safety Awareness Day, celebrated on 15 November 2024, coinciding with the World Day of Remembrance for Road Traffic Victims, the Minister of Security, Mahamadou Sana, issues a firm call for individual responsibility and collective. His message was made public on Sunday, 15 November, by the Ministry of Security. With the theme “Zero tolerance for anti-social behaviour on the roads”, the government intends to strengthen prevention, checks and enforcement of the law to better protect human lives.",
+          "url": "https://lefaso.net/spip.php?article150795=",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-15T00:00:00Z",
+          "collected_at": "2026-11-15T15:47:48.269126Z",
+          "event_date": "2026-11-15",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "1dc655e96c09c4b052fa31b505b174008f803e83",
+          "source": "LeFaso.net",
+          "title": "Guinea-Mali border: 1,557 gold miners of various nationalities released and taken to Kourémalé",
+          "original_title": "Frontière Guinée-Mali : 1 557 orpailleurs de diverses nationalités libérés et conduits à Kourémalé",
+          "summary": "On Friday, 13 November 2026, the Guinean authorities released 1,557 people of various nationalities who had been arrested at mining sites for illegal gold mining activities, according to a report published on the Facebook page of the Guinean Ministry of Defence. . These individuals, after being tried in Conakry, received a presidential pardon and were then taken on Saturday, 14 November to Kourémalé, a town located on the border between Guinea and Mali.",
+          "url": "https://lefaso.net/spip.php?article150797=",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-15T00:00:00Z",
+          "collected_at": "2026-11-15T15:47:50.157111Z",
+          "event_date": "2026-11-13",
+          "actor": "Other",
+          "event_type": "law enforcement",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "d60c07065c17f234f444b958054cd393742f4649",
+          "source": "Burkina24",
+          "title": "Road safety in Burkina Faso: Minister Mahamadou Sana calls for 'zero tolerance for antisocial behaviour on the roads'",
+          "original_title": "Sécurité routière au Burkina Faso : Le ministre Mahamadou Sana appelle à une « zéro tolérance pour l’incivisme routier »",
+          "summary": "On the occasion of the 18th National Road Safety Awareness Day, together with the World Day of Remembrance for Road Traffic Victims, the Minister of Security, Mahamadou Sana, is calling on road users to be more responsible and to strictly comply with the Highway Code. This year's event is themed \"Zero tolerance for antisocial behaviour on the roads\" . On 15 November 2026, Burkina Faso will commemorate the 18th National Road Safety Awareness Day (JNSSR).",
+          "url": "https://burkina24.com/2026/11/15/securite-routiere-au-burkina-faso-le-ministre-mahamadou-sana-appelle-a-une-zero-tolerance-pour-lincivisme-routier/",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-15T00:00:00Z",
+          "collected_at": "2026-11-15T06:45:27.526442Z",
+          "event_date": "2026-11-15",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "53ca627c8baef599d0809c692ed756691320f345",
+          "source": "RFI Afrique",
+          "title": "Niger: At least 30 civilians killed by \"armed men\" in the west, according to local sources cited by AFP",
+          "original_title": "Niger: au moins 30 civils ont été tués par des «hommes armés» dans l'ouest, selon des sources locales citées par l’AFP",
+          "summary": "Niger: At least 30 civilians killed by 'armed men' in the west, according to local sources cited by AFP Published on: Advertisement At least 30 civilians were killed on 12 November 2026 in an ambush by unidentified 'armed men' near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned on Friday from local sources. . The attack targeted residents of the village of Tillim, \"very close to Téra, killing 37 people, including women and children\", said a resident of the town of Téra.",
+          "url": "https://www.rfi.fr/fr/en-bref/20261113-niger-au-moins-30-civils-ont-%C3%A9t%C3%A9-tu%C3%A9s-par-des-hommes-arm%C3%A9s-dans-l-ouest-selon-des-sources-locales-cit%C3%A9es-par-l-afp",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-11-13T14:39:32Z",
+          "collected_at": "2026-11-15T06:45:29.273062Z",
+          "event_date": "2026-11-12",
+          "actor": "Other",
+          "event_type": "ambush",
+          "candidate_event": false,
+          "supporting_force": null
+        }
+      ],
+      "linked_event_ids": [
+        "d60b7235c1993b2e61b3097342d1d61ab65e3531",
+        "08cfddf53a98df57d12e316923adc5d8a3db827b"
+      ]
+    },
     {
       "schema_version": "2.0",
       "product": "Sultana 24-Hour AES Intelligence Brief",
