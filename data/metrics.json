@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-11-16T18:46:12.120618Z",
+  "generated_at": "2026-11-17T03:04:56.281290Z",
   "series": {
     "JNIM": [
-      {
-        "date": "2026-05-21",
-        "count": 0
-      },
       {
         "date": "2026-05-22",
         "count": 0
@@ -721,13 +717,13 @@
       {
         "date": "2026-11-16",
         "count": 0
+      },
+      {
+        "date": "2026-11-17",
+        "count": 0
       }
     ],
     "IS Sahel": [
-      {
-        "date": "2026-05-21",
-        "count": 0
-      },
       {
         "date": "2026-05-22",
         "count": 0
@@ -1443,13 +1439,13 @@
       {
         "date": "2026-11-16",
         "count": 0
+      },
+      {
+        "date": "2026-11-17",
+        "count": 0
       }
     ],
     "State": [
-      {
-        "date": "2026-05-21",
-        "count": 0
-      },
       {
         "date": "2026-05-22",
         "count": 0
@@ -2165,13 +2161,13 @@
       {
         "date": "2026-11-16",
         "count": 3
+      },
+      {
+        "date": "2026-11-17",
+        "count": 0
       }
     ],
     "Africa Corps/Wagner": [
-      {
-        "date": "2026-05-21",
-        "count": 0
-      },
       {
         "date": "2026-05-22",
         "count": 0
@@ -2887,6 +2883,10 @@
       {
         "date": "2026-11-16",
         "count": 0
+      },
+      {
+        "date": "2026-11-17",
+        "count": 0
       }
     ]
   },
@@ -2902,9 +2902,9 @@
       "change_pct": null
     },
     "State": {
-      "current": 16,
+      "current": 14,
       "previous": 11,
-      "change_pct": 45.5
+      "change_pct": 27.3
     },
     "Africa Corps/Wagner": {
       "current": 0,
@@ -2914,14 +2914,14 @@
   },
   "trends_30d": {
     "JNIM": {
-      "current": 13,
-      "previous": 12,
-      "change_pct": 8.3
+      "current": 12,
+      "previous": 13,
+      "change_pct": -7.7
     },
     "IS Sahel": {
-      "current": 6,
-      "previous": 0,
-      "change_pct": null
+      "current": 5,
+      "previous": 1,
+      "change_pct": 400.0
     },
     "State": {
       "current": 64,

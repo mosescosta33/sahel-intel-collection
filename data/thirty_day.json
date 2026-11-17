@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-16T18:46:12.120628Z",
+  "generated_at": "2026-11-17T03:04:56.281302Z",
   "window_days": 30,
-  "cutoff": "2026-10-17",
-  "reports": 812,
+  "cutoff": "2026-10-18",
+  "reports": 818,
   "incident_reports": 195,
-  "candidate_events": 122,
-  "corroborated_events": 34,
-  "mapped_events": 84,
-  "mapped_locations": 158,
+  "candidate_events": 118,
+  "corroborated_events": 33,
+  "mapped_events": 80,
+  "mapped_locations": 149,
   "distinct_sources": 85,
   "by_actor": {
-    "State": 68,
+    "State": 64,
     "Other": 32,
     "JNIM": 13,
     "IS Sahel": 6,
     "Africa Corps/Wagner": 3
   },
   "by_country": {
-    "Mali": 84,
+    "Mali": 80,
     "Niger": 27,
     "Burkina Faso": 11
   },
   "by_event_type": {
-    "security operation": 59,
-    "attack": 18,
-    "civilian targeting": 10,
+    "security operation": 57,
+    "attack": 17,
+    "civilian targeting": 9,
     "kidnapping": 9,
     "air/drone strike": 7,
     "clash": 7,
@@ -35,14 +35,14 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 676,
+    "fr": 682,
     "en": 98,
     "ar": 38
   },
   "by_confidence": {
-    "low": 56,
-    "moderate": 54,
-    "moderate-high": 11,
+    "low": 54,
+    "moderate": 53,
+    "moderate-high": 10,
     "high": 1
   },
   "top_sources": [
@@ -64,12 +64,7 @@
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 44
-    },
-    {
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "count": 32
+      "count": 47
     },
     {
       "source_code": "SRC-0090",
@@ -77,9 +72,14 @@
       "count": 31
     },
     {
+      "source_code": "SRC-0092",
+      "source": "La Nouvelle Tribune (Bénin)",
+      "count": 31
+    },
+    {
       "source_code": "SRC-0079",
       "source": "L'Essor",
-      "count": 29
+      "count": 30
     },
     {
       "source_code": "SRC-0001",
@@ -104,7 +104,7 @@
     {
       "source_code": "SRC-0012",
       "source": "Sidwaya",
-      "count": 18
+      "count": 19
     }
   ],
   "top_locations": [
@@ -113,20 +113,20 @@
       "count": 28
     },
     {
-      "location": "Ménaka",
-      "count": 20
-    },
-    {
       "location": "Agadez",
       "count": 16
     },
     {
-      "location": "Bamako",
-      "count": 15
+      "location": "Ménaka",
+      "count": 16
     },
     {
       "location": "Niamey",
       "count": 15
+    },
+    {
+      "location": "Bamako",
+      "count": 12
     },
     {
       "location": "Kidal",
@@ -134,7 +134,7 @@
     },
     {
       "location": "Gao",
-      "count": 10
+      "count": 9
     },
     {
       "location": "Timbuktu",
@@ -145,24 +145,19 @@
       "count": 5
     },
     {
-      "location": "Douentza",
-      "count": 5
-    },
-    {
       "location": "Mopti",
       "count": 5
     },
     {
       "location": "Niger",
       "count": 5
+    },
+    {
+      "location": "Niono",
+      "count": 5
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-18",
-      "reports": 5,
-      "events": 5
-    },
     {
       "date": "2026-10-19",
       "reports": 38,
@@ -280,17 +275,17 @@
     },
     {
       "date": "2026-11-11",
-      "reports": 27,
+      "reports": 28,
       "events": 7
     },
     {
       "date": "2026-11-12",
-      "reports": 33,
+      "reports": 34,
       "events": 5
     },
     {
       "date": "2026-11-13",
-      "reports": 30,
+      "reports": 31,
       "events": 5
     },
     {
@@ -305,20 +300,25 @@
     },
     {
       "date": "2026-11-16",
-      "reports": 21,
+      "reports": 27,
       "events": 3
+    },
+    {
+      "date": "2026-11-17",
+      "reports": 0,
+      "events": 0
     }
   ],
   "latest_events": [
     {
-      "id": "c68e5ae554fbf069da2769c84a11e68b70f2bb09",
+      "id": "a77412e81f8ed25cf0d1211f730fd17a45dfdc3e",
       "event_date": "2026-11-16",
       "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-16T14:10:00Z",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-16T12:03:55Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
-      "collected_at": "2026-11-16T18:43:21.910302Z",
+      "collected_at": "2026-11-16T18:43:12.465826Z",
       "actor": "State",
       "perpetrator": "State",
       "target": null,
@@ -342,25 +342,45 @@
           "confidence": "explicit-place"
         }
       ],
-      "title": "Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24",
-      "summary": "Le président de la Transition malienne, le général d’armée Assimi Goïta, a présidé ce lundi 16 novembre 2026 une cérémonie de remise de nouveaux aéronefs aux Forces armées maliennes (FAMa), à l’aéroport international Président-Modibo-Keïta de Bamako. Cette livraison porte sur sept appareils. Il s’agit de quatre hélicoptères d’attaque Mi-24, deux hélicoptères de manœuvre Mi-8 et un avion de transport stratégique Iliouchine Il-76.",
+      "title": "The Malian Air Force receives new helicopters and a transport aircraft",
+      "summary": "On Monday, 16 November 2026, the President of Mali's Transitional Government, Army General Assimi Goïta, presided over a ceremony at Bamako's Président Modibo Keïta International Airport to hand over new aircraft to the Malian Armed Forces (FAMa). This delivery covers seven aircraft. These include four Mi-24 attack helicopters, two Mi-8 utility helicopters and one Ilyushin Il-76 strategic transport aircraft.",
       "sources": [
-        "La Nouvelle Tribune (Bénin)"
+        "Malijet",
+        "La Nouvelle Tribune (Bénin)",
+        "Seneweb"
       ],
       "languages": [
         "fr"
       ],
-      "source_count": 1,
+      "source_count": 3,
       "report_urls": [
-        "https://lanouvelletribune.info/2026/11/mali-assimi-goita-dote-larmee-de-7-nouveaux-appareils-militaires-dont-4-helicopteres-mi-24/"
+        "https://malijet.com/a_la_une_du_mali/312856-larmee-de-lair-malienne-recoit-de-nouveaux-helicopteres-et.html",
+        "https://lanouvelletribune.info/2026/11/mali-assimi-goita-dote-larmee-de-7-nouveaux-appareils-militaires-dont-4-helicopteres-mi-24/",
+        "https://www.seneweb.com/fr/news/Afrique/mali-larmee-receptionne-un-nouveau-lot-daeronefs_n_999003836.html"
       ],
       "report_summaries": [
         {
+          "url": "https://malijet.com/a_la_une_du_mali/312856-larmee-de-lair-malienne-recoit-de-nouveaux-helicopteres-et.html",
+          "source": "Malijet",
+          "title": "The Malian Air Force receives new helicopters and a transport aircraft",
+          "summary": "The Malian Armed Forces (FAMa) are strengthening their air fleet. On Monday, 16 November, the Transitional President and Supreme Commander of the Armed Forces, Army General Assimi Goïta, presided over the handover ceremony for new aircraft at Modibo Keïta International Airport in Bamako, in the presence of the military hierarchy. .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        },
+        {
           "url": "https://lanouvelletribune.info/2026/11/mali-assimi-goita-dote-larmee-de-7-nouveaux-appareils-militaires-dont-4-helicopteres-mi-24/",
           "source": "La Nouvelle Tribune (Bénin)",
-          "title": "Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24",
-          "summary": "Le président de la Transition malienne, le général d’armée Assimi Goïta, a présidé ce lundi 16 novembre 2026 une cérémonie de remise de nouveaux aéronefs aux Forces armées maliennes (FAMa), à l’aéroport international Président-Modibo-Keïta de Bamako. Cette livraison porte sur sept appareils. Il s’agit de quatre hélicoptères d’attaque Mi-24, deux hélicoptères de manœuvre Mi-8 et un avion de transport stratégique Iliouchine Il-76.",
-          "summary_basis": "source-excerpt",
+          "title": "Mali: Assimi Goïta equips the army with 7 new military aircraft, including 4 Mi-24 helicopters",
+          "summary": "On Monday, 16 November 2026, the President of Mali's Transitional Government, Army General Assimi Goïta, presided over a ceremony at Bamako's Président Modibo Keïta International Airport to hand over new aircraft to the Malian Armed Forces (FAMa). This delivery covers seven aircraft. These include four Mi-24 attack helicopters, two Mi-8 utility helicopters and one Ilyushin Il-76 strategic transport aircraft.",
+          "summary_basis": "translated-excerpt",
           "fatalities_min": null,
           "fatalities_max": null,
           "injured_min": null,
@@ -368,17 +388,38 @@
           "abducted_min": null,
           "abducted_max": null,
           "victim_categories": [
-            "security_force"
+            "security_force",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        },
+        {
+          "url": "https://www.seneweb.com/fr/news/Afrique/mali-larmee-receptionne-un-nouveau-lot-daeronefs_n_999003836.html",
+          "source": "Seneweb",
+          "title": "Mali: The army receives a new batch of aircraft",
+          "summary": "Mali: The army takes delivery of a new batch of aircraft The Malian army is expanding its air fleet. On Monday, 16 November 2026, it took delivery of a new batch of aircraft on the tarmac of the presidential pavilion at Modibo Keita International Airport in Bamako. The Transitional President, Army General Assimi Goïta, presided over the ceremony in the presence of civil and military authorities.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "civilian"
           ],
           "civilian_targeting_flag": false,
           "casualty_claims": []
         }
       ],
-      "created_at": "2026-11-16T18:43:21.910302Z",
-      "updated_at": "2026-11-16T18:43:21.910302Z",
+      "created_at": "2026-11-16T18:43:12.465826Z",
+      "updated_at": "2026-11-17T03:02:27.704479Z",
       "extraction_confidence": "low",
       "victim_categories": [
-        "security_force"
+        "security_force",
+        "armed_group",
+        "civilian"
       ],
       "civilian_targeting_flag": false,
       "casualty_claims": [],
@@ -392,20 +433,129 @@
       "casualty_disputed": false,
       "revision_history": [
         {
-          "at": "2026-11-16T18:43:21.910302Z",
+          "at": "2026-11-16T18:43:12.465826Z",
           "type": "event_created",
+          "source": "Malijet"
+        },
+        {
+          "at": "2026-11-16T18:43:21.910302Z",
+          "type": "corroboration_or_geography_update",
           "source": "La Nouvelle Tribune (Bénin)"
+        },
+        {
+          "at": "2026-11-17T03:02:27.704479Z",
+          "type": "corroboration_or_geography_update",
+          "source": "Seneweb"
+        }
+      ],
+      "corroboration": "multi-source",
+      "confidence": "moderate-high",
+      "independent_source_domains": [
+        "malijet.com",
+        "lanouvelletribune.info",
+        "seneweb.com"
+      ],
+      "independent_source_count": 3,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern",
+        "multi-source corroboration"
+      ]
+    },
+    {
+      "id": "ae01c84eb45f7d3eae74845d0f174a8286788e45",
+      "event_date": "2026-11-16",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-16T21:40:02Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-17T03:02:26.581718Z",
+      "actor": "State",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Sévaré",
+      "lat": 14.5272,
+      "lng": -4.0934,
+      "locations": [
+        {
+          "name": "Sévaré",
+          "country": "Mali",
+          "lat": 14.5272,
+          "lng": -4.0934,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Operation Dougoukoloko: The army strikes terrorist positions in Abeïbara and Sévaré",
+      "summary": "According to the press release, the first assembly point, located between 8 and 10 kilometres north and north-east of Abeïbara, housed several individuals as well as military equipment, including vehicles, and a fuel depot. The second, located 33 kilometres south-west of Sévaré, also housed several individuals and military equipment, including motorcycles. .",
+      "sources": [
+        "L'Essor"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.lessor.ml/posts/operation-dougoukoloko-larmee-frappe-des-positions-terroristes-a-abeibara-et-sevare-6afb7832982c5"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.lessor.ml/posts/operation-dougoukoloko-larmee-frappe-des-positions-terroristes-a-abeibara-et-sevare-6afb7832982c5",
+          "source": "L'Essor",
+          "title": "Operation Dougoukoloko: The army strikes terrorist positions in Abeïbara and Sévaré",
+          "summary": "According to the press release, the first assembly point, located between 8 and 10 kilometres north and north-east of Abeïbara, housed several individuals as well as military equipment, including vehicles, and a fuel depot. The second, located 33 kilometres south-west of Sévaré, also housed several individuals and military equipment, including motorcycles. .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-17T03:02:26.581718Z",
+      "updated_at": "2026-11-17T03:02:26.581718Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-17T03:02:26.581718Z",
+          "type": "event_created",
+          "source": "L'Essor"
         }
       ],
       "corroboration": "single-source",
       "confidence": "low",
       "independent_source_domains": [
-        "lanouvelletribune.info"
+        "lessor.ml"
       ],
       "independent_source_count": 1,
-      "significance": "MAJOR",
+      "significance": "ROUTINE",
       "significance_reasons": [
-        "strategic/severe event pattern"
+        "limited currently observed significance"
       ]
     },
     {
@@ -496,100 +646,6 @@
       "significance": "ROUTINE",
       "significance_reasons": [
         "limited currently observed significance"
-      ]
-    },
-    {
-      "id": "a77412e81f8ed25cf0d1211f730fd17a45dfdc3e",
-      "event_date": "2026-11-16",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-16T12:03:55Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-16T18:43:12.465826Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "attack",
-      "country": "Mali",
-      "city": "Bamako",
-      "lat": 12.6392,
-      "lng": -8.0029,
-      "locations": [
-        {
-          "name": "Bamako",
-          "country": "Mali",
-          "lat": 12.6392,
-          "lng": -8.0029,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "The Malian Air Force receives new helicopters and a transport aircraft",
-      "summary": "The Malian Armed Forces (FAMa) are strengthening their air fleet. On Monday, 16 November, the Transitional President and Supreme Commander of the Armed Forces, Army General Assimi Goïta, presided over the handover ceremony for new aircraft at Modibo Keïta International Airport in Bamako, in the presence of the military hierarchy. .",
-      "sources": [
-        "Malijet"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://malijet.com/a_la_une_du_mali/312856-larmee-de-lair-malienne-recoit-de-nouveaux-helicopteres-et.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://malijet.com/a_la_une_du_mali/312856-larmee-de-lair-malienne-recoit-de-nouveaux-helicopteres-et.html",
-          "source": "Malijet",
-          "title": "The Malian Air Force receives new helicopters and a transport aircraft",
-          "summary": "The Malian Armed Forces (FAMa) are strengthening their air fleet. On Monday, 16 November, the Transitional President and Supreme Commander of the Armed Forces, Army General Assimi Goïta, presided over the handover ceremony for new aircraft at Modibo Keïta International Airport in Bamako, in the presence of the military hierarchy. .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-16T18:43:12.465826Z",
-      "updated_at": "2026-11-16T18:43:12.465826Z",
-      "extraction_confidence": "low",
-      "victim_categories": [],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-16T18:43:12.465826Z",
-          "type": "event_created",
-          "source": "Malijet"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "malijet.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern"
       ]
     },
     {
@@ -3588,6 +3644,78 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-16T22:09:02Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-17T03:02:25.066480Z",
+      "discovered_at": "2026-11-17T03:02:25.066480Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0012",
+      "source": "Sidwaya",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Strengthening the operational capabilities of the FAMa: The Transitional President presents new aircraft to the Air Force",
+      "url": "https://www.sidwaya.info/2026/11/16/renforcement-des-capacites-operationnelles-des-fama-le-president-de-la-transition-remet-de-nouveaux-aeronefs-a-larmee-de-lair/"
+    },
+    {
+      "published_at": "2026-11-16T21:40:02Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-17T03:02:26.581718Z",
+      "discovered_at": "2026-11-17T03:02:26.581718Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Sévaré",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Operation Dougoukoloko: The army strikes terrorist positions in Abeïbara and Sévaré",
+      "url": "https://www.lessor.ml/posts/operation-dougoukoloko-larmee-frappe-des-positions-terroristes-a-abeibara-et-sevare-6afb7832982c5"
+    },
+    {
+      "published_at": "2026-11-16T21:12:18Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-17T03:02:27.704479Z",
+      "discovered_at": "2026-11-17T03:02:27.704479Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0085",
+      "source": "Seneweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "attack",
+      "candidate_event": true,
+      "title": "Mali: The army receives a new batch of aircraft",
+      "url": "https://www.seneweb.com/fr/news/Afrique/mali-larmee-receptionne-un-nouveau-lot-daeronefs_n_999003836.html"
+    },
+    {
+      "published_at": "2026-11-16T20:32:18Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-17T03:02:25.502586Z",
+      "discovered_at": "2026-11-17T03:02:25.502586Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Bamako: The body of a man pulled from the Niger River",
+      "url": "https://malijet.com/les_faits_divers_au_mali/312861-bamako-le-corps-dun-homme-repeche-dans-le-fleuve-niger.html"
+    },
+    {
       "published_at": "2026-11-16T19:43:00Z",
       "published_date_source": "html:time",
       "published_time_precision": "datetime",
@@ -3604,6 +3732,24 @@
       "candidate_event": false,
       "title": "African Road Safety Day: Niger focuses on discipline and strengthening checks to reduce road accidents",
       "url": "https://www.lesahel.org/journee-africaine-de-la-securite-routiere-le-niger-mise-sur-la-discipline-et-le-renforcement-des-controles-pour-reduire-les-accidents-de-la-route/"
+    },
+    {
+      "published_at": "2026-11-16T19:38:25Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-17T03:02:25.556705Z",
+      "discovered_at": "2026-11-17T03:02:25.556705Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "STRENGTHENING OPERATIONAL CAPABILITIES: The Transitional President presents a new batch of aircraft to the Malian Armed Forces",
+      "url": "https://bamada.net/renforcement-des-capacites-operationnelles-le-president-de-la-transition-remet-un-nouveau-lot-daeronefs-aux-forces-armees-maliennes"
     },
     {
       "published_at": "2026-11-16T17:58:59Z",
@@ -3638,7 +3784,7 @@
       "city": null,
       "event_type": null,
       "candidate_event": false,
-      "title": "POLICE NATIONALE : LE GÉNÉRAL ABOUBACAR OUMAROU, UN OFFICIER CHEVRONNÉ AUX COMMANDES",
+      "title": "NATIONAL POLICE: GENERAL ABOUBACAR OUMAROU, A SEASONED OFFICER AT THE HELM",
       "url": "https://nigerinter.com/2026/11/16/police-nationale-le-general-aboubacar-oumarou-un-officier-chevronne-aux-commandes/"
     },
     {
@@ -3692,7 +3838,7 @@
       "city": "Bamako",
       "event_type": "attack",
       "candidate_event": true,
-      "title": "Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24",
+      "title": "Mali: Assimi Goïta equips the army with 7 new military aircraft, including 4 Mi-24 helicopters",
       "url": "https://lanouvelletribune.info/2026/11/mali-assimi-goita-dote-larmee-de-7-nouveaux-appareils-militaires-dont-4-helicopteres-mi-24/"
     },
     {
@@ -3746,7 +3892,7 @@
       "city": null,
       "event_type": "kidnapping",
       "candidate_event": false,
-      "title": "Yanfolila : deux ressortissants étrangers enlevés à Dangouè",
+      "title": "Yanfolila: Two foreign nationals kidnapped in Dangouè",
       "url": "https://www.studiotamani.org/210320-yanfolila-deux-ressortissants-etrangers-enleves-a-dangoue"
     },
     {
@@ -3836,8 +3982,26 @@
       "city": null,
       "event_type": "clash",
       "candidate_event": false,
-      "title": "غينيا ترحّل 1557 مواطنا من غرب أفريقيا بعد إدانتهم بالتنقيب غير القانوني عن الذهب",
+      "title": "Guinea deports 1,557 West African nationals after they were convicted of illegal gold mining",
       "url": "https://saharamedias.net/268550/"
+    },
+    {
+      "published_at": "2026-11-16T10:16:31Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-17T03:02:29.936148Z",
+      "discovered_at": "2026-11-17T03:02:29.936148Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Guinea-Mali border: 1,557 gold miners of various nationalities tried, pardoned and deported to Kourémalé",
+      "url": "https://www.maliweb.net/societe/immigration-emigration/frontiere-guinee-mali-1-557-orpailleurs-de-diverses-nationalites-3121543.html"
     },
     {
       "published_at": "2026-11-16T10:07:30Z",
@@ -3926,7 +4090,7 @@
       "city": null,
       "event_type": "raid",
       "candidate_event": false,
-      "title": "Orpaillage clandestin: Ce qui est interdit en Guinée est-il permis au Mali ?",
+      "title": "Illegal gold mining: Is what is prohibited in Guinea permitted in Mali?",
       "url": "https://malijet.com/a_la_une_du_mali/312853-orpaillage-clandestin-ce-qui-est-interdit-en-guinee-est-il.html"
     },
     {
@@ -4198,114 +4362,6 @@
       "candidate_event": true,
       "title": "Yenchechi, Kidal and Ingouzma: The FAMa neutralise terrorist targets",
       "url": "https://www.lessor.ml/posts/yenchechi-kidal-et-ingouzma-les-fama-neutralisent-des-objectifs-terroristes-6af8ad129d657"
-    },
-    {
-      "published_at": "2026-11-14T13:00:02Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T18:16:37.307132Z",
-      "discovered_at": "2026-11-14T18:16:37.307132Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0037",
-      "source": "Le Monde Afrique",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": "clash",
-      "candidate_event": false,
-      "title": "Report Article reserved for our subscribers In Guinea, the authorities are cracking down on illegal gold mining: \"It had become the Wild West\" Mamadi Doumbouya's government has intensified its fight against illegal gold miners in the Siguiri region, one of the largest gold reserves in West Africa. Since the beginning of November, tens of thousands of foreigners have been deported to Mali and more than 1,300 people have been arrested.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/14/en-guinee-les-autorites-s-attaquent-a-l-orpaillage-illegal-c-etait-devenu-le-far-west_6810250_3212.html"
-    },
-    {
-      "published_at": "2026-11-14T12:02:01Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T18:16:32.488573Z",
-      "discovered_at": "2026-11-14T18:16:32.488573Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Gao",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Operation Dougoukoloko: Three FAMa strikes in the North",
-      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312831-operation-dougoukoloko-trois-frappes-des-fama-dans-le-nord.html"
-    },
-    {
-      "published_at": "2026-11-14T10:55:29Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T11:39:39.382331Z",
-      "discovered_at": "2026-11-14T11:39:39.382331Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "Security: Terrorist bases and assembly points struck in Boulkessi and Kadiana by pro-government forces",
-      "url": "https://amap.ml/2026/11/14/securite-les-bases-et-points-de-regroupement-terroristes-frappes-a-boulkessi-et-kadiana-par-les-forces-loyalistes/"
-    },
-    {
-      "published_at": "2026-11-14T09:21:14Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T11:39:37.785415Z",
-      "discovered_at": "2026-11-14T11:39:37.785415Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Timbuktu",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Why the Malian army is targeting the communication channels of armed groups in the north",
-      "url": "https://lanouvelletribune.info/2026/11/pourquoi-larmee-malienne-cible-les-moyens-de-communication-des-groupes-armes-dans-le-nord/"
-    },
-    {
-      "published_at": "2026-11-14T05:38:05Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T11:39:37.137688Z",
-      "discovered_at": "2026-11-14T11:39:37.137688Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0022",
-      "source": "Africanews",
-      "language": "en",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Burkina Faso issues arrest warrants for around 20 people, including journalists",
-      "url": "https://www.africanews.com/2026/11/14/burkina-faso-issues-arrest-warrants-for-around-20-people/"
-    },
-    {
-      "published_at": "2026-11-14T04:03:41Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T11:39:36.870453Z",
-      "discovered_at": "2026-11-14T11:39:36.870453Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Ségou",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Mali: JNIM attacks against civilians in the Ségou and Mopti regions",
-      "url": "https://www.rfi.fr/fr/afrique/20261114-mali-attaques-du-jnim-contre-des-civils-dans-les-r%C3%A9gions-de-s%C3%A9gou-et-mopti"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

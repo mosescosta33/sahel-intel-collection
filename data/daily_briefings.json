@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
-  "generated_at": "2026-11-16T18:46:16.751304Z",
+  "generated_at": "2026-11-17T03:05:00.070059Z",
   "active_limit": 33,
   "total_briefings": 301,
   "active_count": 33,
@@ -11,7 +11,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-16",
-      "generated_at": "2026-11-16T18:46:16.147958Z",
+      "generated_at": "2026-11-17T03:04:59.018241Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -20,24 +20,24 @@
       "classification": "OPEN SOURCE",
       "collection_confidence": "LOW",
       "headline_metrics": {
-        "events_occurring_on_date": 0,
-        "records_held_for_review": 3,
-        "multi_source_events": 0,
-        "reports_collected_on_date": 22,
-        "reports_published_on_date": 21,
+        "events_occurring_on_date": 1,
+        "records_held_for_review": 2,
+        "multi_source_events": 1,
+        "reports_collected_on_date": 31,
+        "reports_published_on_date": 27,
         "newly_discovered_older_events": 0,
         "events_awaiting_date_verification": 2,
-        "distinct_sources_collected": 14
+        "distinct_sources_collected": 15
       },
-      "executive_assessment": "Reporting collected on 2026-11-16 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 22 reports from 14 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.",
+      "executive_assessment": "Reporting dated 2026-11-16 gives the desk 1 incident account to examine in Mali. 1 has support from separate sources. The record is provisional; it does not establish the full extent of violence that day.",
       "briefing_sections": [
         {
           "heading": "Assessment",
-          "text": "Reporting collected on 2026-11-16 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 22 reports from 14 sources, but the automated incident record needs further review. This is not evidence of calm on the ground."
+          "text": "Reporting dated 2026-11-16 gives the desk 1 incident account to examine in Mali. 1 has support from separate sources. The record is provisional; it does not establish the full extent of violence that day."
         },
         {
           "heading": "Mali",
-          "text": "13 retained reports were collected for Mali. 0 fused candidate events currently carry this reporting date. National Defence: The Air Force is strengthening its fleet with an IL-76 strategic aircraft and Mi-24 and…: STRENGTHENING THE OPERATIONAL CAPABILITIES OF THE FAMa: The Transitional President hands over new aircraft to the Air Force The Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General… Mali: The National Defence Forces Equipped with New Aircraft: Bamako, 16 November (AMAP) The official ceremony for the handover of new aircraft was presided over on Monday at Modibo Keïta – Sénou International Airport by the Transitional President, Army General Assimi Goïta, in the… Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24: Le président de la Transition malienne, le général d’armée Assimi Goïta, a présidé ce lundi 16 novembre 2026 une cérémonie de remise de nouveaux aéronefs aux Forces armées maliennes (FAMa), à l’aéroport international… 10 additional Mali reports are summarized individually in the source records."
+          "text": "22 retained reports were collected for Mali. 1 fused candidate event currently carry this reporting date. Strengthening the operational capabilities of the FAMa: The Transitional President presents new aircraft…: On Monday, 16 November 2020, at Modibo Keïta-Sénou International Airport, the Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General Assimi Goïta, officially handed over the keys to an… Operation Dougoukoloko: The army strikes terrorist positions in Abeïbara and Sévaré: According to the press release, the first assembly point, located between 8 and 10 kilometres north and north-east of Abeïbara, housed several individuals as well as military equipment, including vehicles, and a fuel depot.… Mali: The army receives a new batch of aircraft: Mali: The army takes delivery of a new batch of aircraft The Malian army is expanding its air fleet. On Monday, 16 November 2026, it took delivery of a new batch of aircraft on the tarmac of the presidential pavilion at Modibo… 19 additional Mali reports are summarized individually in the source records."
         },
         {
           "heading": "Burkina Faso",
@@ -45,11 +45,15 @@
         },
         {
           "heading": "Niger",
-          "text": "3 retained reports were collected for Niger. 0 fused candidate events currently carry this reporting date. African Road Safety Day: Niger focuses on discipline and strengthening checks to reduce road accidents: Le Niger a célébré, le dimanche 15 novembre 2026, la 15è édition de la Journée africaine de la sécurité routière sous le thème : « Zéro tolérance sur nos routes : sensibiliser, contrôler, inspecter et réprimer ». Instituée par… POLICE NATIONALE : LE GÉNÉRAL ABOUBACAR OUMAROU, UN OFFICIER CHEVRONNÉ AUX COMMANDES: De la lutte contre le trafic illicite de stupéfiants aux responsabilités de commandement au sein de la Police nationale, le Commissaire général de police Aboubacar Issaka Oumarou prend les rênes de la DGPN. Son parcours est… 15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023: Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major…"
+          "text": "3 retained reports were collected for Niger. 0 fused candidate events currently carry this reporting date. African Road Safety Day: Niger focuses on discipline and strengthening checks to reduce road accidents: Le Niger a célébré, le dimanche 15 novembre 2026, la 15è édition de la Journée africaine de la sécurité routière sous le thème : « Zéro tolérance sur nos routes : sensibiliser, contrôler, inspecter et réprimer ». Instituée par… NATIONAL POLICE: GENERAL ABOUBACAR OUMAROU, A SEASONED OFFICER AT THE HELM: From the fight against illicit drug trafficking to command responsibilities within the National Police, Police Commissioner General Aboubacar Issaka Oumarou is taking the helm of the DGPN. His career has been marked by… 15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023: Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major…"
+        },
+        {
+          "heading": "Reported incidents",
+          "text": "Malijet reports ‘The Malian Air Force receives new helicopters and a transport aircraft’ in Bamako, Mali. Separate sources also report the event."
         },
         {
           "heading": "Reporting in context",
-          "text": "La Nouvelle Tribune (Bénin) published ‘Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24’. It may provide useful context, but the extracted details do not establish a new incident on this date. Maliweb published ‘Defence: Mali strengthens its air fleet with seven new aircraft’. It may provide useful context, but the extracted details do not establish a new incident on this date. 1 more item await source review."
+          "text": "L'Essor published ‘Operation Dougoukoloko: The army strikes terrorist positions in Abeïbara and Sévaré’. It may provide useful context, but the extracted details do not establish a new incident on this date. Maliweb published ‘Defence: Mali strengthens its air fleet with seven new aircraft’. It may provide useful context, but the extracted details do not establish a new incident on this date."
         },
         {
           "heading": "What remains unclear",
@@ -57,17 +61,60 @@
         }
       ],
       "key_judgments": [
-        "No fused candidate event currently has 2026-11-16 as its event date; collection confidence for that date is low.",
+        "State accounts for the largest share of same-day fused event activity (1 event(s)).",
+        "Mali contains the largest same-day event count (1 event(s)).",
+        "1 of 1 same-day event(s) meet the multi-source corroboration threshold used by this briefing layer.",
         "2 collected operational/candidate report(s) still use an unresolved or proxy event date and require temporal verification."
       ],
-      "significant_events": [],
+      "significant_events": [
+        {
+          "id": "a77412e81f8ed25cf0d1211f730fd17a45dfdc3e",
+          "title": "The Malian Air Force receives new helicopters and a transport aircraft",
+          "summary": "On Monday, 16 November 2026, the President of Mali's Transitional Government, Army General Assimi Goïta, presided over a ceremony at Bamako's Président Modibo Keïta International Airport to hand over new aircraft to the Malian Armed Forces (FAMa). This delivery covers seven aircraft. These include four Mi-24 attack helicopters, two Mi-8 utility helicopters and one Ilyushin Il-76 strategic transport aircraft.",
+          "actor": "State",
+          "event_type": "attack",
+          "country": "Mali",
+          "city": "Bamako",
+          "event_date": "2026-11-16",
+          "event_date_confidence": "explicit-text",
+          "publication_time": "2026-11-16T12:03:55Z",
+          "collection_time": "2026-11-16T18:43:12.465826Z",
+          "verification_date": "2026-11-16",
+          "verification_basis": "multi-source corroboration",
+          "last_evidence_update": "2026-11-17T03:02:27.704479Z",
+          "confidence": "moderate-high",
+          "corroboration": "multi-source",
+          "significance": "MAJOR",
+          "source_count": 3,
+          "independent_source_count": 3,
+          "sources": [
+            "Malijet",
+            "La Nouvelle Tribune (Bénin)",
+            "Seneweb"
+          ],
+          "independent_source_domains": [
+            "malijet.com",
+            "lanouvelletribune.info",
+            "seneweb.com"
+          ],
+          "report_urls": [
+            "https://malijet.com/a_la_une_du_mali/312856-larmee-de-lair-malienne-recoit-de-nouveaux-helicopteres-et.html",
+            "https://lanouvelletribune.info/2026/11/mali-assimi-goita-dote-larmee-de-7-nouveaux-appareils-militaires-dont-4-helicopteres-mi-24/",
+            "https://www.seneweb.com/fr/news/Afrique/mali-larmee-receptionne-un-nouveau-lot-daeronefs_n_999003836.html"
+          ],
+          "perpetrator": "State",
+          "target": null,
+          "claimant": null,
+          "supporting_force": null
+        }
+      ],
       "what_changed_since_yesterday": [
-        "Collection volume: +12 retained report(s) versus 2026-11-15 (10 → 22).",
-        "Actor-level same-day fused event counts are unchanged from the previous date."
+        "State: +1 same-day fused event(s) versus 2026-11-15 (0 → 1).",
+        "Collection volume: +21 retained report(s) versus 2026-11-15 (10 → 31)."
       ],
       "emerging_patterns": [
         "JNIM 7-day activity is lower than the preceding 7-day window (1 → 0).",
-        "State 7-day activity is higher than the preceding 7-day window (8 → 11)."
+        "State 7-day activity is higher than the preceding 7-day window (8 → 12)."
       ],
       "intelligence_gaps": [
         "2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates.",
@@ -76,15 +123,15 @@
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
-        "State": 0
+        "State": 1
       },
       "country_counts": {
-        "Mali": 0,
+        "Mali": 1,
         "Burkina Faso": 0,
         "Niger": 0
       },
       "country_reporting_counts": {
-        "Mali": 13,
+        "Mali": 22,
         "Burkina Faso": 5,
         "Niger": 3
       },
@@ -106,25 +153,40 @@
           "event_types": []
         },
         "State": {
-          "events": 0,
-          "delta_vs_previous_day": 0,
-          "current_7d": 11,
+          "events": 1,
+          "delta_vs_previous_day": 1,
+          "current_7d": 12,
           "previous_7d": 8,
-          "countries": [],
-          "event_types": []
+          "countries": [
+            [
+              "Mali",
+              1
+            ]
+          ],
+          "event_types": [
+            [
+              "attack",
+              1
+            ]
+          ]
         }
       },
       "country_profiles": {
         "Mali": {
-          "events": 0,
-          "reports_collected": 13,
+          "events": 1,
+          "reports_collected": 22,
           "actor_counts": {
             "JNIM": 0,
             "IS Sahel": 0,
-            "State": 0
+            "State": 1
           },
-          "delta_events_vs_previous_day": 0,
-          "top_event_types": []
+          "delta_events_vs_previous_day": 1,
+          "top_event_types": [
+            [
+              "attack",
+              1
+            ]
+          ]
         },
         "Burkina Faso": {
           "events": 0,
@@ -152,6 +214,51 @@
       "country_article_summaries": {
         "Mali": [
           {
+            "id": "1e01ac9dd50964169d65a7c0b3f6d61e6eaa981d",
+            "source": "Sidwaya",
+            "title": "Strengthening the operational capabilities of the FAMa: The Transitional President presents new aircraft to the Air Force",
+            "summary": "On Monday, 16 November 2020, at Modibo Keïta-Sénou International Airport, the Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General Assimi Goïta, officially handed over the keys to an Ilyushin IL-76 strategic transport aircraft and Mi-24 and Mi-8 helicopters to the Malian Armed Forces (FAMa). . This acquisition strengthens the operational and logistical capabilities of the national defence force.",
+            "url": "https://www.sidwaya.info/2026/11/16/renforcement-des-capacites-operationnelles-des-fama-le-president-de-la-transition-remet-de-nouveaux-aeronefs-a-larmee-de-lair/",
+            "candidate_event": false,
+            "event_date": "2026-11-16"
+          },
+          {
+            "id": "7362e92631ca8272389650a8ce385d384fa291f0",
+            "source": "L'Essor",
+            "title": "Operation Dougoukoloko: The army strikes terrorist positions in Abeïbara and Sévaré",
+            "summary": "According to the press release, the first assembly point, located between 8 and 10 kilometres north and north-east of Abeïbara, housed several individuals as well as military equipment, including vehicles, and a fuel depot. The second, located 33 kilometres south-west of Sévaré, also housed several individuals and military equipment, including motorcycles. .",
+            "url": "https://www.lessor.ml/posts/operation-dougoukoloko-larmee-frappe-des-positions-terroristes-a-abeibara-et-sevare-6afb7832982c5",
+            "candidate_event": true,
+            "event_date": "2026-11-16"
+          },
+          {
+            "id": "b1710708b9afb421dc8ae5457e43ac690757ef8c",
+            "source": "Seneweb",
+            "title": "Mali: The army receives a new batch of aircraft",
+            "summary": "Mali: The army takes delivery of a new batch of aircraft The Malian army is expanding its air fleet. On Monday, 16 November 2026, it took delivery of a new batch of aircraft on the tarmac of the presidential pavilion at Modibo Keita International Airport in Bamako. The Transitional President, Army General Assimi Goïta, presided over the ceremony in the presence of civil and military authorities.",
+            "url": "https://www.seneweb.com/fr/news/Afrique/mali-larmee-receptionne-un-nouveau-lot-daeronefs_n_999003836.html",
+            "candidate_event": true,
+            "event_date": "2026-11-16"
+          },
+          {
+            "id": "ebeba03edfd061449282d3483ad931da30769016",
+            "source": "Malijet",
+            "title": "Bamako: The body of a man pulled from the Niger River",
+            "summary": "A body was removed from the Niger River on Sunday evening, in Badalabougou, near the Martyrs' Bridge. It was fishermen who spotted it and raised the alarm. The victim is a man of about 30 years old.",
+            "url": "https://malijet.com/les_faits_divers_au_mali/312861-bamako-le-corps-dun-homme-repeche-dans-le-fleuve-niger.html",
+            "candidate_event": false,
+            "event_date": "2026-11-15"
+          },
+          {
+            "id": "bcf8392adeceb269fa7e7beb76868ca067de4e07",
+            "source": "Bamada",
+            "title": "STRENGTHENING OPERATIONAL CAPABILITIES: The Transitional President presents a new batch of aircraft to the Malian Armed Forces",
+            "summary": "On Monday, 16 November 2026, the Supreme Commander of the Armed Forces, Army General Assimi Goïta, presided over the official ceremony at the Presidential Pavilion of Modibo Keïta-Sénou International Airport for the handover of new aircraft to the Malian Armed Forces. This allocation reflects the desire of the highest authorities to continue efforts to modernise the defence force.",
+            "url": "https://bamada.net/renforcement-des-capacites-operationnelles-le-president-de-la-transition-remet-un-nouveau-lot-daeronefs-aux-forces-armees-maliennes",
+            "candidate_event": false,
+            "event_date": "2026-11-16"
+          },
+          {
             "id": "a76e8b0535978c9f2d76615c9e1caabb0a8e6a3b",
             "source": "Bamada",
             "title": "National Defence: The Air Force is strengthening its fleet with an IL-76 strategic aircraft and Mi-24 and Mi-8 helicopters",
@@ -172,8 +279,8 @@
           {
             "id": "7e5d6f87529a99b8f36de4ad9b4c47a1cb0ca46c",
             "source": "La Nouvelle Tribune (Bénin)",
-            "title": "Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24",
-            "summary": "Le président de la Transition malienne, le général d’armée Assimi Goïta, a présidé ce lundi 16 novembre 2026 une cérémonie de remise de nouveaux aéronefs aux Forces armées maliennes (FAMa), à l’aéroport international Président-Modibo-Keïta de Bamako. Cette livraison porte sur sept appareils. Il s’agit de quatre hélicoptères d’attaque Mi-24, deux hélicoptères de manœuvre Mi-8 et un avion de transport stratégique Iliouchine Il-76.",
+            "title": "Mali: Assimi Goïta equips the army with 7 new military aircraft, including 4 Mi-24 helicopters",
+            "summary": "On Monday, 16 November 2026, the President of Mali's Transitional Government, Army General Assimi Goïta, presided over a ceremony at Bamako's Président Modibo Keïta International Airport to hand over new aircraft to the Malian Armed Forces (FAMa). This delivery covers seven aircraft. These include four Mi-24 attack helicopters, two Mi-8 utility helicopters and one Ilyushin Il-76 strategic transport aircraft.",
             "url": "https://lanouvelletribune.info/2026/11/mali-assimi-goita-dote-larmee-de-7-nouveaux-appareils-militaires-dont-4-helicopteres-mi-24/",
             "candidate_event": true,
             "event_date": "2026-11-16"
@@ -217,11 +324,20 @@
           {
             "id": "d457a657abd2f0815950b76e3025606ae7c8fdb4",
             "source": "Sahara Medias (صحراء ميديا)",
-            "title": "غينيا ترحّل 1557 مواطنا من غرب أفريقيا بعد إدانتهم بالتنقيب غير القانوني عن الذهب",
-            "summary": "رحّلت السلطات الغينية 1557 مواطنا من دول غرب أفريقيا، معظمهم من مالي وبوركينا فاسو، إلى بلدانهم الأصلية، بعد إدانتهم بالتنقيب غير القانوني عن الذهب، وفق إذاعة فرنسا الدولية. وقالت الإذاعة إن عملية الترحيل نُفذت يوم السبت 14 نوفمبر، بمشاركة 44 مركبة ومروحيات، وتحت حراسة أمنية مشددة، حيث انطلقت القافلة من العاصمة كوناكري ووصلت السبت إلى منطقة كوريمالي الحدودية مع مالي.",
+            "title": "Guinea deports 1,557 West African nationals after they were convicted of illegal gold mining",
+            "summary": "The Guinean authorities deported 1,557 citizens from West African countries, mostly from Mali and Burkina Faso, to their countries of origin, after they were convicted of illegal gold mining, according to Radio France Internationale. The radio station reported that the deportation operation took place on Saturday, 14 November, involving 44 vehicles and helicopters, and under tight security.",
             "url": "https://saharamedias.net/268550/",
             "candidate_event": false,
             "event_date": "2026-11-14"
+          },
+          {
+            "id": "251b04e20f1a578f88faa807796ee3ecb9be900b",
+            "source": "Maliweb",
+            "title": "Guinea-Mali border: 1,557 gold miners of various nationalities tried, pardoned and deported to Kourémalé",
+            "summary": "Guinea-Mali border: 1,557 gold panners of various nationalities tried, pardoned and deported to Kourémalé On Friday, 13 November 2026, the Guinean authorities released 1,557 people of various nationalities who had been arrested at mining sites for illegal gold panning activities. . According to our information, all these individuals were tried by various Guinean courts before being pardoned by the Head of State and deported to the Malian border.",
+            "url": "https://www.maliweb.net/societe/immigration-emigration/frontiere-guinee-mali-1-557-orpailleurs-de-diverses-nationalites-3121543.html",
+            "candidate_event": false,
+            "event_date": "2026-11-13"
           },
           {
             "id": "92174d0f072211c64a98b94b8e5771e136d8ef53",
@@ -262,11 +378,38 @@
           {
             "id": "f68563d7278c35242b23c6b8debad8de7f8be012",
             "source": "Malijet",
-            "title": "Orpaillage clandestin: Ce qui est interdit en Guinée est-il permis au Mali ?",
-            "summary": "Depuis le début de ce mois, le Mali fait face à l’afflux, sur son territoire, de plusieurs ressortissants de la sous-région, particulièrement du Burkina Faso. Ils sont refoulés de la Guinée-Conakry pour cause de l’orpaillage clandestin. Bien que l’Etat malien déploie des moyens nécessaires pour assurer un accueil et accompagnement décents à ces refoulés, certains semblent trouver refuge dans des sites d’orpaillage clandestin à travers le pays.",
+            "title": "Illegal gold mining: Is what is prohibited in Guinea permitted in Mali?",
+            "summary": "Illegal gold panning: Is what is prohibited in Guinea permitted in Mali? Since the beginning of this month, Mali has been facing an influx into its territory of several nationals from the subregion, particularly from Burkina Faso. They are being turned away from Guinea-Conakry due to illegal gold panning.",
             "url": "https://malijet.com/a_la_une_du_mali/312853-orpaillage-clandestin-ce-qui-est-interdit-en-guinee-est-il.html",
             "candidate_event": false,
             "event_date": "2026-11-16"
+          },
+          {
+            "id": "4e244fbbd70a0a9f17ed4ca3005ec783f95a99dd",
+            "source": "Maliweb",
+            "title": "Kadianna and Boulkessi: The FAMa strike several positions of armed terrorist groups",
+            "summary": "Kadianna and Boulkessi: FAMa strike several positions of armed terrorist groups Maliweb",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSk1QRU1rekxEM2JtMGhTYlBSU3ltLWdramdEbVFMeWJIR3RINkVtZTBwOGtyYmIweFVJOEhjZWppTXgyUkVRRHNveVVOWndSaUJINXlvalI3bHdaQW5vcmtISzhINEJaTjVrajVwMFFrU0FOd1hDZTc1dGVjb0p3aHg3cDBuN3EtQWE3MEJjNVNSMGxvMjRoTFpsVFlwM01Hcm5aemVpMV9RUkVEQW9Z?oc=5",
+            "candidate_event": false,
+            "event_date": "2026-11-13"
+          },
+          {
+            "id": "15fec2ee5afe3d0d400a3e1b2fd55c5bf3632d26",
+            "source": "Journal du Mali",
+            "title": "Military cooperation: Bamako and AFRICOM explore possibilities for US support",
+            "summary": "Journal du Mali",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXAyUjFDeHkycGdJdVVxWnM2eFdDWG5kNXhaX09qTTRScHNHY29uTWluamRkbnNxVXhJU3F4ZVFHLUU3NWh2dHZqVTVFOGVSVUI2enRoZ1Y0SUUxRFpVXzNIRnROS2Q4cm1uTXh2UW44QXN6MXhXUHhzWGFNWm1kbVdrMUZoblZTOXFQTU1Xdl9rQUVKMklIM2tmeWVvOHJpb2lCcFFaRU4tdHJvYkhNamNhTks?oc=5",
+            "candidate_event": false,
+            "event_date": "2026-11-12"
+          },
+          {
+            "id": "dcb077d198047c724007bcc438f9e7d3ac7c7995",
+            "source": "Maliweb",
+            "title": "FAMa: Three airstrikes against terrorist positions in Kidal, Timbuktu and Sikasso",
+            "summary": "Maliweb",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXhYcjRQWFRmXzBWRmY2eXdHTmNhb3UtS1g0SDJ0b2Z3b3RET3kxck1yRHJJR3Z2LVN6NEhQM2dqU3l1YkoxUFkzeGd0Z2lnRGtlaGQzS2hPWXJBSzNzQWExSXFfUGFKOGxhdE1naHVteUFOeUJlV2VZeVg2TEJDMTRmdUJVbzVQSFcxSkg5dko3RlBwSG5UUE04ZjNPWmJHdFd4ZDNsT2VndnI0aWlOMUVvYlpPZVQ1?oc=5",
+            "candidate_event": false,
+            "event_date": "2026-11-11"
           }
         ],
         "Burkina Faso": [
@@ -329,8 +472,8 @@
           {
             "id": "68b13d4531e48a10d9ca3634b2bbb856296b2b19",
             "source": "Niger Inter",
-            "title": "POLICE NATIONALE : LE GÉNÉRAL ABOUBACAR OUMAROU, UN OFFICIER CHEVRONNÉ AUX COMMANDES",
-            "summary": "De la lutte contre le trafic illicite de stupéfiants aux responsabilités de commandement au sein de la Police nationale, le Commissaire général de police Aboubacar Issaka Oumarou prend les rênes de la DGPN. Son parcours est marqué par des expériences professionnelles au Niger et au sein de plusieurs missions internationales des Nations unies. La Direction générale de la Police nationale (DGPN) connaît un nouveau changement à sa tête.",
+            "title": "NATIONAL POLICE: GENERAL ABOUBACAR OUMAROU, A SEASONED OFFICER AT THE HELM",
+            "summary": "From the fight against illicit drug trafficking to command responsibilities within the National Police, Police Commissioner General Aboubacar Issaka Oumarou is taking the helm of the DGPN. His career has been marked by professional experience in Niger and in several international United Nations missions. The General Directorate of the National Police (DGPN) has a new head .",
             "url": "https://nigerinter.com/2026/11/16/police-nationale-le-general-aboubacar-oumarou-un-officier-chevronne-aux-commandes/",
             "candidate_event": false,
             "event_date": "2026-11-13"
@@ -348,36 +491,36 @@
       },
       "collection_notes": {
         "sources_total": 184,
-        "sources_success": 156,
-        "sources_failed": 28,
-        "sources_degraded": 13,
-        "documents_discovered": 13654,
-        "documents_retained": 19,
+        "sources_success": 154,
+        "sources_failed": 30,
+        "sources_degraded": 16,
+        "documents_discovered": 12658,
+        "documents_retained": 9,
         "report_target": 100,
-        "translations_attempted": 19,
+        "translations_attempted": 14,
         "translations_success": 14,
-        "translation_failures": 5,
+        "translation_failures": 0,
         "collection_confidence": "LOW",
         "collection_confidence_reasons": [
-          "156/184 source paths reached",
-          "28 failed source paths",
-          "13 degraded / 28 failed of 184 configured sources"
+          "154/184 source paths reached",
+          "30 failed source paths",
+          "16 degraded / 30 failed of 184 configured sources"
         ],
-        "reports_collected": 22,
-        "reports_published": 21,
-        "distinct_sources_collected": 14,
+        "reports_collected": 31,
+        "reports_published": 27,
+        "distinct_sources_collected": 15,
         "language_counts": {
-          "fr": 21,
+          "fr": 30,
           "ar": 1
         }
       },
-      "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-16: Reporting collected on 2026-11-16 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 22 reports from 14 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.\n\nMali: 13 retained reports. 1. National Defence: The Air Force is strengthening its fleet with an IL-76 strategic aircraft and Mi-24 and Mi-8 helicopters. STRENGTHENING THE OPERATIONAL CAPABILITIES OF THE FAMa: The Transitional President hands over new aircraft to the Air Force The Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General Assimi Goïta, officially handed over the keys to an Ilyushin IL-76 strategic transport aircraft and Mi-24 and Mi-17 helicopters at Président Modibo Keïta-Sénou International Airport on Monday, 16 November 2026. 2. Mali: The National Defence Forces Equipped with New Aircraft. Bamako, 16 November (AMAP) The official ceremony for the handover of new aircraft was presided over on Monday at Modibo Keïta – Sénou International Airport by the Transitional President, Army General Assimi Goïta, in the presence of civil and military authorities, AMAP reported. . This new batch of aircraft includes an Ilyushin Il-76 strategic transport aircraft, four Mi-8 utility helicopters and two Mi-24 attack helicopters. 3. Mali : Assimi Goïta dote l'armée de 7 nouveaux appareils militaires, dont 4 hélicoptères Mi-24. Le président de la Transition malienne, le général d’armée Assimi Goïta, a présidé ce lundi 16 novembre 2026 une cérémonie de remise de nouveaux aéronefs aux Forces armées maliennes (FAMa), à l’aéroport international Président-Modibo-Keïta de Bamako. Cette livraison porte sur sept appareils. Il s’agit de quatre hélicoptères d’attaque Mi-24, deux hélicoptères de manœuvre Mi-8 et un avion de transport stratégique Iliouchine Il-76.\n\nBurkina Faso: 5 retained reports. 1. Burkina Faso: 100 new stars to illuminate Avenue Kwame-Nkrumah. One hundred Burkinabé and foreign personalities now have their stars on Avenue Kwame-Nkrumah, in the heart of Ouagadougou. Their names are engraved on stelae installed as part of the second edition of the \"Street of Stars\", an initiative of the Sotigui Academy. . 2. Defence: The FAMa are strengthening their fleet with new aircraft acquired using their own funds. The official handover ceremony was presided over by the Supreme Commander of the Armed Forces, Army General Assimi Goïta, in the presence of civil and military authorities. Fully funded from the national budget and acquired as part of cooperation with the Russian Federation, these aircraft are intended to increase the army's strategic mobility and logistical autonomy. 3. AES: Ministers prepare for the upcoming summit in Ouagadougou. The three countries reviewed the implementation of the Year II roadmap. Operational decisions are expected at the next College of Heads of State. The Extraordinary Council of Ministers of the Confederation of Sahel States met on 11 and 12 November in Ouagadougou.\n\nNiger: 3 retained reports. 1. African Road Safety Day: Niger focuses on discipline and strengthening checks to reduce road accidents. Le Niger a célébré, le dimanche 15 novembre 2026, la 15è édition de la Journée africaine de la sécurité routière sous le thème : « Zéro tolérance sur nos routes : sensibiliser, contrôler, inspecter et réprimer ». Instituée par l’Union africaine, cette journée est observée chaque troisième dimanche du mois de novembre. Elle est couplée à la Journée mondiale du souvenir des victimes des accidents de la route, une journée officielle des Nations Unies. 2. POLICE NATIONALE : LE GÉNÉRAL ABOUBACAR OUMAROU, UN OFFICIER CHEVRONNÉ AUX COMMANDES. De la lutte contre le trafic illicite de stupéfiants aux responsabilités de commandement au sein de la Police nationale, le Commissaire général de police Aboubacar Issaka Oumarou prend les rênes de la DGPN. Son parcours est marqué par des expériences professionnelles au Niger et au sein de plusieurs missions internationales des Nations unies. La Direction générale de la Police nationale (DGPN) connaît un nouveau changement à sa tête. 3. 15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023. Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major Abdourahamane Amadou, announced that, in 2025, Niger had recorded 7,116 road accidents, which resulted in 1,245 deaths and 4,439 serious injuries in the country.\n\nActor picture: no same-day fused candidate events.\n\nWhat changed: Collection volume: +12 retained report(s) versus 2026-11-15 (10 → 22). Actor-level same-day fused event counts are unchanged from the previous date.\n\nIntelligence gaps: 2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 156/184 source paths reached 28 failed source paths 13 degraded / 28 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
+      "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-16: Reporting dated 2026-11-16 gives the desk 1 incident account to examine in Mali. 1 has support from separate sources. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 22 retained reports. 1. Strengthening the operational capabilities of the FAMa: The Transitional President presents new aircraft to the Air Force. On Monday, 16 November 2020, at Modibo Keïta-Sénou International Airport, the Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General Assimi Goïta, officially handed over the keys to an Ilyushin IL-76 strategic transport aircraft and Mi-24 and Mi-8 helicopters to the Malian Armed Forces (FAMa). . This acquisition strengthens the operational and logistical capabilities of the national defence force. 2. Operation Dougoukoloko: The army strikes terrorist positions in Abeïbara and Sévaré. According to the press release, the first assembly point, located between 8 and 10 kilometres north and north-east of Abeïbara, housed several individuals as well as military equipment, including vehicles, and a fuel depot. The second, located 33 kilometres south-west of Sévaré, also housed several individuals and military equipment, including motorcycles. . 3. Mali: The army receives a new batch of aircraft. Mali: The army takes delivery of a new batch of aircraft The Malian army is expanding its air fleet. On Monday, 16 November 2026, it took delivery of a new batch of aircraft on the tarmac of the presidential pavilion at Modibo Keita International Airport in Bamako. The Transitional President, Army General Assimi Goïta, presided over the ceremony in the presence of civil and military authorities.\n\nBurkina Faso: 5 retained reports. 1. Burkina Faso: 100 new stars to illuminate Avenue Kwame-Nkrumah. One hundred Burkinabé and foreign personalities now have their stars on Avenue Kwame-Nkrumah, in the heart of Ouagadougou. Their names are engraved on stelae installed as part of the second edition of the \"Street of Stars\", an initiative of the Sotigui Academy. . 2. Defence: The FAMa are strengthening their fleet with new aircraft acquired using their own funds. The official handover ceremony was presided over by the Supreme Commander of the Armed Forces, Army General Assimi Goïta, in the presence of civil and military authorities. Fully funded from the national budget and acquired as part of cooperation with the Russian Federation, these aircraft are intended to increase the army's strategic mobility and logistical autonomy. 3. AES: Ministers prepare for the upcoming summit in Ouagadougou. The three countries reviewed the implementation of the Year II roadmap. Operational decisions are expected at the next College of Heads of State. The Extraordinary Council of Ministers of the Confederation of Sahel States met on 11 and 12 November in Ouagadougou.\n\nNiger: 3 retained reports. 1. African Road Safety Day: Niger focuses on discipline and strengthening checks to reduce road accidents. Le Niger a célébré, le dimanche 15 novembre 2026, la 15è édition de la Journée africaine de la sécurité routière sous le thème : « Zéro tolérance sur nos routes : sensibiliser, contrôler, inspecter et réprimer ». Instituée par l’Union africaine, cette journée est observée chaque troisième dimanche du mois de novembre. Elle est couplée à la Journée mondiale du souvenir des victimes des accidents de la route, une journée officielle des Nations Unies. 2. NATIONAL POLICE: GENERAL ABOUBACAR OUMAROU, A SEASONED OFFICER AT THE HELM. From the fight against illicit drug trafficking to command responsibilities within the National Police, Police Commissioner General Aboubacar Issaka Oumarou is taking the helm of the DGPN. His career has been marked by professional experience in Niger and in several international United Nations missions. The General Directorate of the National Police (DGPN) has a new head . 3. 15th edition of the JASR: 7,116 accidents resulted in 1,245 deaths and 4,439 serious injuries in Niger in 2023. Niamey, 15 November (ANP) – In a message delivered on Saturday, 14 November, the day before the celebration of the 15th edition of African Road Safety Day, the Minister of Transport and Civil Aviation, Colonel Major Abdourahamane Amadou, announced that, in 2025, Niger had recorded 7,116 road accidents, which resulted in 1,245 deaths and 4,439 serious injuries in the country.\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: State: +1 same-day fused event(s) versus 2026-11-15 (0 → 1). Collection volume: +21 retained report(s) versus 2026-11-15 (10 → 31).\n\nIntelligence gaps: 2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 154/184 source paths reached 30 failed source paths 16 degraded / 30 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
     },
     {
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-15",
-      "generated_at": "2026-11-16T18:46:14.861711Z",
+      "generated_at": "2026-11-17T03:04:59.419485Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -637,7 +780,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-14",
-      "generated_at": "2026-11-16T18:46:16.187497Z",
+      "generated_at": "2026-11-17T03:04:58.099848Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -965,7 +1108,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-13",
-      "generated_at": "2026-11-16T18:46:14.891475Z",
+      "generated_at": "2026-11-17T03:05:00.069961Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -978,7 +1121,7 @@
         "records_held_for_review": 4,
         "multi_source_events": 1,
         "reports_collected_on_date": 33,
-        "reports_published_on_date": 31,
+        "reports_published_on_date": 32,
         "newly_discovered_older_events": 5,
         "events_awaiting_date_verification": 2,
         "distinct_sources_collected": 26
@@ -1484,7 +1627,7 @@
           "25 failed source paths"
         ],
         "reports_collected": 33,
-        "reports_published": 31,
+        "reports_published": 32,
         "distinct_sources_collected": 26,
         "language_counts": {
           "fr": 27,
@@ -1498,7 +1641,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-12",
-      "generated_at": "2026-11-16T18:46:14.813187Z",
+      "generated_at": "2026-11-17T03:04:59.555653Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -1511,7 +1654,7 @@
         "records_held_for_review": 3,
         "multi_source_events": 1,
         "reports_collected_on_date": 34,
-        "reports_published_on_date": 28,
+        "reports_published_on_date": 29,
         "newly_discovered_older_events": 1,
         "events_awaiting_date_verification": 1,
         "distinct_sources_collected": 18
@@ -2059,7 +2202,7 @@
           "24 failed source paths"
         ],
         "reports_collected": 34,
-        "reports_published": 28,
+        "reports_published": 29,
         "distinct_sources_collected": 18,
         "language_counts": {
           "fr": 32,
@@ -2072,7 +2215,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-11",
-      "generated_at": "2026-11-16T18:46:14.951058Z",
+      "generated_at": "2026-11-17T03:04:59.026203Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -2085,7 +2228,7 @@
         "records_held_for_review": 1,
         "multi_source_events": 0,
         "reports_collected_on_date": 29,
-        "reports_published_on_date": 34,
+        "reports_published_on_date": 35,
         "newly_discovered_older_events": 1,
         "events_awaiting_date_verification": 1,
         "distinct_sources_collected": 17
@@ -2715,7 +2858,7 @@
           "27 failed source paths"
         ],
         "reports_collected": 29,
-        "reports_published": 34,
+        "reports_published": 35,
         "distinct_sources_collected": 17,
         "language_counts": {
           "en": 4,
@@ -2728,7 +2871,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-10",
-      "generated_at": "2026-11-16T18:46:16.547664Z",
+      "generated_at": "2026-11-17T03:04:59.070793Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -3095,7 +3238,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-09",
-      "generated_at": "2026-11-16T18:46:15.520131Z",
+      "generated_at": "2026-11-17T03:04:59.336760Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -3495,7 +3638,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-08",
-      "generated_at": "2026-11-16T18:46:16.712358Z",
+      "generated_at": "2026-11-17T03:04:58.606014Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -3902,7 +4045,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-07",
-      "generated_at": "2026-11-16T18:46:15.590043Z",
+      "generated_at": "2026-11-17T03:04:59.479804Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -4235,14 +4378,14 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-06",
-      "generated_at": "2026-11-16T18:46:14.070271Z",
+      "generated_at": "2026-11-17T03:04:59.743863Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
         "Niger"
       ],
       "classification": "OPEN SOURCE",
-      "collection_confidence": "MODERATE",
+      "collection_confidence": "LOW",
       "headline_metrics": {
         "events_occurring_on_date": 1,
         "records_held_for_review": 3,
@@ -4346,7 +4489,7 @@
       ],
       "intelligence_gaps": [
         "1 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates.",
-        "Collection confidence is moderate, so absence of reporting should not be interpreted as absence of activity."
+        "Collection confidence is low, so absence of reporting should not be interpreted as absence of activity."
       ],
       "actor_counts": {
         "JNIM": 0,
@@ -4655,20 +4798,19 @@
         ]
       },
       "collection_notes": {
-        "sources_total": 184,
-        "sources_success": 156,
-        "sources_failed": 28,
+        "sources_total": 0,
+        "sources_success": 0,
+        "sources_failed": 0,
         "sources_degraded": null,
-        "documents_discovered": 13462,
-        "documents_retained": 7,
+        "documents_discovered": 0,
+        "documents_retained": 0,
         "report_target": 100,
-        "translations_attempted": 9,
-        "translations_success": 9,
+        "translations_attempted": 0,
+        "translations_success": 0,
         "translation_failures": 0,
-        "collection_confidence": "MODERATE",
+        "collection_confidence": "LOW",
         "collection_confidence_reasons": [
-          "156/184 source paths reached",
-          "28 failed source paths"
+          "no completed collection run recorded for this date"
         ],
         "reports_collected": 25,
         "reports_published": 24,
@@ -4678,13 +4820,13 @@
           "en": 1
         }
       },
-      "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-06: Reporting dated 2026-11-06 gives the desk 1 incident account to examine in Mali. 1 has support from separate sources. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 7 retained reports. 1. Mali: Delivery of a large batch of vehicles to the security forces to strengthen the protection of the territory. Placed under the chairmanship of the Minister of Security and Civil Protection, Major General Daoud Aly Mohammedine, this event testifies to the unwavering desire of the authorities to provide the Armed and Security Forces with adequate logistical means to ensure the security of people and property throughout the national territory This logistical reinforcement includes 75 Toyota pick-up vehicles with single cab assigned to the Directorate General of the National Police and 25 Yamaha brand escort motorcycles assigned to the Directorate General of the National Gendarmerie. 2. Mali: One month after the takeover of Kidal, why the army has not advanced in the region. In Mali, it was just a month ago on November 6 that the army and the Africa Corps took over Kidal, in the north. The city had been controlled for nearly six months by the separatists of the Azawad Liberation Front (Fla) and their jihadist allies of the Support Group for Islam and Muslims (Jnim) While they could be expected to continue their advance in the region, Malian soldiers and their Russian partners are camped, for the time being, on their positions. 3. Mali: one month after the takeover of Kidal, why the army has not advanced in the region. Mali: un mois après la reprise de Kidal, pourquoi l’armée n’a plus progressé dans la région Au Mali, cela fait tout juste un mois ce 6 novembre que l'armée et l'Africa Corps ont repris Kidal, dans le Nord. La ville était contrôlée depuis près de six mois par les indépendantistes du Front de libération de l'Azawad (FLA) et leurs alliés jihadistes du Groupe de soutien à l'islam et aux musulmans (Jnim).\n\nBurkina Faso: 9 retained reports. 1. AES: regional integration and economic development at the heart of exchanges between leaders. The President of the Transition, Army General Assimi Goïta, paid a working visit to Burkina Faso and Niger on 5 November 2026. The purpose of this trip was to consolidate relations between the three member countries of the Confederation of Sahelian States AES and to strengthen their cooperation in several areas . In both Ouagadougou and Niamey, discussions focused on security, regional integration and economic development. 2. Mali-Burkina: Assimi Goïta and Ibrahim Traoré strengthen their cooperation. The President of the Transition, Army General Assimi Goïta, made an official visit to Burkina Faso on Thursday, November 5, 2026. In Ouagadougou, he was received by the President of Faso and current President of the Confederation of Sahel States (AES), Captain Ibrahim Traoré. This is what emerges from the joint communiqué issued at the end of the visit . 3. AES: regional integration and economic development at the heart of exchanges between leaders. The President of the Transition, Army General Assimi Goïta, paid a working visit to Burkina Faso and Niger on 5 November 2026. The purpose of this trip was to consolidate relations between the three member countries of the Confederation of Sahelian States AES and to strengthen their cooperation in several areas . In both Ouagadougou and Niamey, discussions focused on security, regional integration and economic development.\n\nNiger: 7 retained reports. 1. Zinder/Defense: Official presentation to the flag of the 2025 contingent at the CI/FAN of Aroungouza. The Chief of Staff of the Armed Forces, Brigadier General Mamane Sani Kiaou, presided, on November 4, 2026, at the Zinder Training Center, in Aroungouza, the solemn ceremony of presentation to the flag of the 2025 contingent of the Nigerien Armed Forces (FAN), in the presence of the Governor of the Zinder region, Colonel Massalatchi Mahaman Sani, as well as several military, administrative and customary officials . 2. Niger: EU calls on Algeria to deploy its troops. At the daily press briefing of the European Commission in Brussels on Friday 30 October 2026, the European Union Spokesperson for Foreign Affairs, Anouar El Anouni, reacted to the sending of Algerian soldiers to Niger. Brussels said it was monitoring the situation closely and asked for clarification on the scope, objective and basis of this operation. . 3. The think tank CEDYS calls for a diplomatic approach to defuse tensions between Chad and Niger. In its Policy Brief published in October 2026, entitled \"Tensions between Chad and Niger catalyze regional insecurity\", the Centre for the Study of Social Dynamics (CEDYS) warns of the risks posed by the growing tensions between N’Djamena and Niamey to the security of the central Sahel Written by Yamingué Betinbaye, Ndilbé Mbaïnguem François and Babouh Tih-Kwada Elisabeth, the document believes that these frictions, fuelled by reciprocal accusations and differences in international alliances, hinder the pooling of efforts in the face of common threats.\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: State: -2 same-day fused event(s) versus 2026-11-05 (3 → 1). Collection volume: +1 retained report(s) versus 2026-11-05 (24 → 25).\n\nIntelligence gaps: 1 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is moderate, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: MODERATE. 156/184 source paths reached 28 failed source paths\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
+      "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-06: Reporting dated 2026-11-06 gives the desk 1 incident account to examine in Mali. 1 has support from separate sources. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 7 retained reports. 1. Mali: Delivery of a large batch of vehicles to the security forces to strengthen the protection of the territory. Placed under the chairmanship of the Minister of Security and Civil Protection, Major General Daoud Aly Mohammedine, this event testifies to the unwavering desire of the authorities to provide the Armed and Security Forces with adequate logistical means to ensure the security of people and property throughout the national territory This logistical reinforcement includes 75 Toyota pick-up vehicles with single cab assigned to the Directorate General of the National Police and 25 Yamaha brand escort motorcycles assigned to the Directorate General of the National Gendarmerie. 2. Mali: One month after the takeover of Kidal, why the army has not advanced in the region. In Mali, it was just a month ago on November 6 that the army and the Africa Corps took over Kidal, in the north. The city had been controlled for nearly six months by the separatists of the Azawad Liberation Front (Fla) and their jihadist allies of the Support Group for Islam and Muslims (Jnim) While they could be expected to continue their advance in the region, Malian soldiers and their Russian partners are camped, for the time being, on their positions. 3. Mali: one month after the takeover of Kidal, why the army has not advanced in the region. Mali: un mois après la reprise de Kidal, pourquoi l’armée n’a plus progressé dans la région Au Mali, cela fait tout juste un mois ce 6 novembre que l'armée et l'Africa Corps ont repris Kidal, dans le Nord. La ville était contrôlée depuis près de six mois par les indépendantistes du Front de libération de l'Azawad (FLA) et leurs alliés jihadistes du Groupe de soutien à l'islam et aux musulmans (Jnim).\n\nBurkina Faso: 9 retained reports. 1. AES: regional integration and economic development at the heart of exchanges between leaders. The President of the Transition, Army General Assimi Goïta, paid a working visit to Burkina Faso and Niger on 5 November 2026. The purpose of this trip was to consolidate relations between the three member countries of the Confederation of Sahelian States AES and to strengthen their cooperation in several areas . In both Ouagadougou and Niamey, discussions focused on security, regional integration and economic development. 2. Mali-Burkina: Assimi Goïta and Ibrahim Traoré strengthen their cooperation. The President of the Transition, Army General Assimi Goïta, made an official visit to Burkina Faso on Thursday, November 5, 2026. In Ouagadougou, he was received by the President of Faso and current President of the Confederation of Sahel States (AES), Captain Ibrahim Traoré. This is what emerges from the joint communiqué issued at the end of the visit . 3. AES: regional integration and economic development at the heart of exchanges between leaders. The President of the Transition, Army General Assimi Goïta, paid a working visit to Burkina Faso and Niger on 5 November 2026. The purpose of this trip was to consolidate relations between the three member countries of the Confederation of Sahelian States AES and to strengthen their cooperation in several areas . In both Ouagadougou and Niamey, discussions focused on security, regional integration and economic development.\n\nNiger: 7 retained reports. 1. Zinder/Defense: Official presentation to the flag of the 2025 contingent at the CI/FAN of Aroungouza. The Chief of Staff of the Armed Forces, Brigadier General Mamane Sani Kiaou, presided, on November 4, 2026, at the Zinder Training Center, in Aroungouza, the solemn ceremony of presentation to the flag of the 2025 contingent of the Nigerien Armed Forces (FAN), in the presence of the Governor of the Zinder region, Colonel Massalatchi Mahaman Sani, as well as several military, administrative and customary officials . 2. Niger: EU calls on Algeria to deploy its troops. At the daily press briefing of the European Commission in Brussels on Friday 30 October 2026, the European Union Spokesperson for Foreign Affairs, Anouar El Anouni, reacted to the sending of Algerian soldiers to Niger. Brussels said it was monitoring the situation closely and asked for clarification on the scope, objective and basis of this operation. . 3. The think tank CEDYS calls for a diplomatic approach to defuse tensions between Chad and Niger. In its Policy Brief published in October 2026, entitled \"Tensions between Chad and Niger catalyze regional insecurity\", the Centre for the Study of Social Dynamics (CEDYS) warns of the risks posed by the growing tensions between N’Djamena and Niamey to the security of the central Sahel Written by Yamingué Betinbaye, Ndilbé Mbaïnguem François and Babouh Tih-Kwada Elisabeth, the document believes that these frictions, fuelled by reciprocal accusations and differences in international alliances, hinder the pooling of efforts in the face of common threats.\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: State: -2 same-day fused event(s) versus 2026-11-05 (3 → 1). Collection volume: +1 retained report(s) versus 2026-11-05 (24 → 25).\n\nIntelligence gaps: 1 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. no completed collection run recorded for this date\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
     },
     {
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-05",
-      "generated_at": "2026-11-16T18:46:15.232301Z",
+      "generated_at": "2026-11-17T03:04:59.194110Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -5202,7 +5344,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-04",
-      "generated_at": "2026-11-16T18:46:15.719699Z",
+      "generated_at": "2026-11-17T03:04:59.840326Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -5752,7 +5894,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-03",
-      "generated_at": "2026-11-16T18:46:15.866915Z",
+      "generated_at": "2026-11-17T03:04:59.344519Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -6276,7 +6418,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-02",
-      "generated_at": "2026-11-16T18:46:15.560822Z",
+      "generated_at": "2026-11-17T03:04:58.658594Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -7033,7 +7175,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-01",
-      "generated_at": "2026-11-16T18:46:15.251955Z",
+      "generated_at": "2026-11-17T03:04:58.822166Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -7315,7 +7457,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-31",
-      "generated_at": "2026-11-16T18:46:14.383934Z",
+      "generated_at": "2026-11-17T03:04:58.980351Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -7670,7 +7812,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-30",
-      "generated_at": "2026-11-16T18:46:15.709536Z",
+      "generated_at": "2026-11-17T03:04:59.893380Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -8172,7 +8314,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-29",
-      "generated_at": "2026-11-16T18:46:15.212333Z",
+      "generated_at": "2026-11-17T03:04:57.969423Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -8640,7 +8782,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-28",
-      "generated_at": "2026-11-16T18:46:15.189247Z",
+      "generated_at": "2026-11-17T03:04:59.078817Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -9366,7 +9508,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-27",
-      "generated_at": "2026-11-16T18:46:16.639589Z",
+      "generated_at": "2026-11-17T03:04:58.281827Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -10098,7 +10240,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-26",
-      "generated_at": "2026-11-16T18:46:14.121590Z",
+      "generated_at": "2026-11-17T03:04:59.855878Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -10911,7 +11053,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-25",
-      "generated_at": "2026-11-16T18:46:15.628990Z",
+      "generated_at": "2026-11-17T03:04:58.417580Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -11245,7 +11387,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-24",
-      "generated_at": "2026-11-16T18:46:16.405834Z",
+      "generated_at": "2026-11-17T03:04:59.667706Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -11767,7 +11909,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-23",
-      "generated_at": "2026-11-16T18:46:16.659571Z",
+      "generated_at": "2026-11-17T03:04:59.328922Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -12346,7 +12488,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-22",
-      "generated_at": "2026-11-16T18:46:15.351008Z",
+      "generated_at": "2026-11-17T03:04:57.939416Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -13029,7 +13171,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-21",
-      "generated_at": "2026-11-16T18:46:16.619482Z",
+      "generated_at": "2026-11-17T03:04:59.216963Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -13632,7 +13774,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-20",
-      "generated_at": "2026-11-16T18:46:16.018689Z",
+      "generated_at": "2026-11-17T03:04:59.984913Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -14446,7 +14588,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-19",
-      "generated_at": "2026-11-16T18:46:14.616212Z",
+      "generated_at": "2026-11-17T03:04:58.221578Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -15058,7 +15200,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-18",
-      "generated_at": "2026-11-16T18:46:15.836902Z",
+      "generated_at": "2026-11-17T03:04:59.992779Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -15385,7 +15527,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-17",
-      "generated_at": "2026-11-16T18:46:15.158644Z",
+      "generated_at": "2026-11-17T03:04:59.502481Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -15804,7 +15946,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-16",
-      "generated_at": "2026-11-16T18:46:14.940890Z",
+      "generated_at": "2026-11-17T03:04:59.736225Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -16070,7 +16212,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-15",
-      "generated_at": "2026-11-16T18:46:15.430762Z",
+      "generated_at": "2026-11-17T03:04:58.115998Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
