@@ -1,5 +1,103 @@
 [
   {
+    "id": "61bb051b62a9312762feed2677472d98dd963238",
+    "event_date": "2026-11-16",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-17T10:35:48Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-17T13:36:37.614141Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Sévaré",
+    "lat": 14.5272,
+    "lng": -4.0934,
+    "locations": [
+      {
+        "name": "Sévaré",
+        "country": "Mali",
+        "lat": 14.5272,
+        "lng": -4.0934,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Mali: The FAMa target bases and...",
+    "summary": "Mali: The FAMa target bases and logistics depots of armed groups in Abeïbara and Sévaré The Malian Armed Forces (FAMa) have carried out new precision strikes against positions of armed terrorist groups in the Abeïbara and Sévaré sectors . These operations, carried out on 14 and 16 November 2026 as part of Operation Dougoukoloko, targeted assembly points housing armed individuals and military equipment, according to the General Staff of the Armed Forces.",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/insecurite/mali-les-fama-ciblent-des-bases-et-depots-logistiques-de-groupes-3121584.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/mali-les-fama-ciblent-des-bases-et-depots-logistiques-de-groupes-3121584.html",
+        "source": "Maliweb",
+        "title": "Mali: The FAMa target bases and...",
+        "summary": "Mali: The FAMa target bases and logistics depots of armed groups in Abeïbara and Sévaré The Malian Armed Forces (FAMa) have carried out new precision strikes against positions of armed terrorist groups in the Abeïbara and Sévaré sectors . These operations, carried out on 14 and 16 November 2026 as part of Operation Dougoukoloko, targeted assembly points housing armed individuals and military equipment, according to the General Staff of the Armed Forces.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-17T13:36:37.614141Z",
+    "updated_at": "2026-11-17T13:36:37.614141Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-17T13:36:37.614141Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "a77412e81f8ed25cf0d1211f730fd17a45dfdc3e",
     "event_date": "2026-11-16",
     "event_date_confidence": "explicit-text",
@@ -330,6 +428,104 @@
     "confidence": "low",
     "independent_source_domains": [
       "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
+    ]
+  },
+  {
+    "id": "e73f6dfbe47566b86c80089a152de5fb87908397",
+    "event_date": "2026-11-14",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-17T07:37:45Z",
+    "published_date_source": "feed",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-17T13:36:37.495957Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Sévaré",
+    "lat": 14.5272,
+    "lng": -4.0934,
+    "locations": [
+      {
+        "name": "Sévaré",
+        "country": "Mali",
+        "lat": 14.5272,
+        "lng": -4.0934,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Mali: The FAMa carry out precision strikes against terrorist groups in Abeibara and Sévaré",
+    "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Saturday, 14 November 2026, a gathering point for armed terrorist groups, housing several individuals as well as military equipment, including vehicles and a fuel depot, was the target of precision strikes between eight (8) and ten (10) kilometres north and north-east of Abeïbara.",
+    "sources": [
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://bamada.net/mali-les-fama-menent-des-frappes-de-precision-contre-des-groupes-terroristes-a-abeibara-et-sevare"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://bamada.net/mali-les-fama-menent-des-frappes-de-precision-contre-des-groupes-terroristes-a-abeibara-et-sevare",
+        "source": "Bamada",
+        "title": "Mali: The FAMa carry out precision strikes against terrorist groups in Abeibara and Sévaré",
+        "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Saturday, 14 November 2026, a gathering point for armed terrorist groups, housing several individuals as well as military equipment, including vehicles and a fuel depot, was the target of precision strikes between eight (8) and ten (10) kilometres north and north-east of Abeïbara.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-17T13:36:37.495957Z",
+    "updated_at": "2026-11-17T13:36:37.495957Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-17T13:36:37.495957Z",
+        "type": "event_created",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "bamada.net"
     ],
     "independent_source_count": 1,
     "significance": "ROUTINE",
