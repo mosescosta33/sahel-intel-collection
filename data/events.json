@@ -1,5 +1,201 @@
 [
   {
+    "id": "baec74a5d0cae071a7f903a369f41e3671f88d24",
+    "event_date": "2026-11-17",
+    "event_date_confidence": "publication-proxy",
+    "event_date_source": "jsonld:datePublished",
+    "published_at": "2026-11-17T22:42:50Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-17T23:37:10.406160Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "clash",
+    "country": "Mali",
+    "city": "Bamako",
+    "lat": 12.6392,
+    "lng": -8.0029,
+    "locations": [
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.6392,
+        "lng": -8.0029,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Mali: Assimi Goïta equips the Army with 7 new combat and transport aircraft",
+    "summary": "The official handover of the keys to the seven aircraft took place at the presidential pavilion of Bamako-Senou's President Modibo Keïta International Airport, in the presence of senior military officials, members of the government, the diplomatic corps and several other dignitaries. This new acquisition represents a significant strengthening of the Malian Air Force's fleet.",
+    "sources": [
+      "L'Indépendant (Mali)"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://lindependant.ml/article/mali-assimi-goita-dote-larmee-de-7-nouveaux-avions-de-combat-et-de-transport"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://lindependant.ml/article/mali-assimi-goita-dote-larmee-de-7-nouveaux-avions-de-combat-et-de-transport",
+        "source": "L'Indépendant (Mali)",
+        "title": "Mali: Assimi Goïta equips the Army with 7 new combat and transport aircraft",
+        "summary": "The official handover of the keys to the seven aircraft took place at the presidential pavilion of Bamako-Senou's President Modibo Keïta International Airport, in the presence of senior military officials, members of the government, the diplomatic corps and several other dignitaries. This new acquisition represents a significant strengthening of the Malian Air Force's fleet.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-17T23:37:10.406160Z",
+    "updated_at": "2026-11-17T23:37:10.406160Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-17T23:37:10.406160Z",
+        "type": "event_created",
+        "source": "L'Indépendant (Mali)"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "lindependant.ml"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "7ded5c707fabebcdc5a979c9220fa407a32575d8",
+    "event_date": "2026-11-17",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-17T23:20:19Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-17T23:37:10.192364Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "raid",
+    "country": "Niger",
+    "city": "Torodi",
+    "lat": 13.1167,
+    "lng": 1.7833,
+    "locations": [
+      {
+        "name": "Torodi",
+        "country": "Niger",
+        "lat": 13.1167,
+        "lng": 1.7833,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Niger: A terrorist logistics base dismantled near Torodi",
+    "summary": "The Nigerien army has announced that it has dismantled a logistics base belonging to armed terrorist groups near Kobagué, in the department of Torodi (Tillabéry region), in western Niger. The operation was carried out during the night of Monday 16 to Tuesday 17 November. This was a night raid led by the Torodi National Guard Squadron and the Alpha Zero Unit.",
+    "sources": [
+      "Malijet"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://malijet.com/actualite-sur-afrique/312873-niger-une-base-logistique-terroriste-demantelee-pres-de-to.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/actualite-sur-afrique/312873-niger-une-base-logistique-terroriste-demantelee-pres-de-to.html",
+        "source": "Malijet",
+        "title": "Niger: A terrorist logistics base dismantled near Torodi",
+        "summary": "The Nigerien army has announced that it has dismantled a logistics base belonging to armed terrorist groups near Kobagué, in the department of Torodi (Tillabéry region), in western Niger. The operation was carried out during the night of Monday 16 to Tuesday 17 November. This was a night raid led by the Torodi National Guard Squadron and the Alpha Zero Unit.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-17T23:37:10.192364Z",
+    "updated_at": "2026-11-17T23:37:10.192364Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-17T23:37:10.192364Z",
+        "type": "event_created",
+        "source": "Malijet"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "malijet.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "61bb051b62a9312762feed2677472d98dd963238",
     "event_date": "2026-11-16",
     "event_date_confidence": "explicit-text",
