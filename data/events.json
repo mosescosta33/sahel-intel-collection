@@ -196,6 +196,110 @@
     ]
   },
   {
+    "id": "60ba486c36707ff0a85eda5858414fec126a40c5",
+    "event_date": "2026-11-16",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-18T08:41:55Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-18T17:23:14.861080Z",
+    "actor": "State",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Bamako",
+    "lat": 12.6392,
+    "lng": -8.0029,
+    "locations": [
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.6392,
+        "lng": -8.0029,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Gao",
+        "country": "Mali",
+        "lat": 16.2717,
+        "lng": -0.0447,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Expelled from Guinea: More than 1,100 people still present at the Bamako site",
+    "summary": "As part of the return operations, a lorry was mobilised on 16 November from the Kouremalé assembly site to transport around 110 people, including four to the Bamako District and 106 to Burkina Faso. On 17 November, the Burkinabé authorities also deployed 20 buses, two military trucks and 16 medical ambulances to ensure the care and return of their compatriots.",
+    "sources": [
+      "L'Essor"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.lessor.ml/posts/refoules-de-guinee-plus-de-1100-personnes-encore-presentes-sur-le-site-de-bamako-6afd64d30c2dd"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.lessor.ml/posts/refoules-de-guinee-plus-de-1100-personnes-encore-presentes-sur-le-site-de-bamako-6afd64d30c2dd",
+        "source": "L'Essor",
+        "title": "Expelled from Guinea: More than 1,100 people still present at the Bamako site",
+        "summary": "As part of the return operations, a lorry was mobilised on 16 November from the Kouremalé assembly site to transport around 110 people, including four to the Bamako District and 106 to Burkina Faso. On 17 November, the Burkinabé authorities also deployed 20 buses, two military trucks and 16 medical ambulances to ensure the care and return of their compatriots.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-18T17:23:14.861080Z",
+    "updated_at": "2026-11-18T17:23:14.861080Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-18T17:23:14.861080Z",
+        "type": "event_created",
+        "source": "L'Essor"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "lessor.ml"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern",
+      "multi-location activity"
+    ]
+  },
+  {
     "id": "61bb051b62a9312762feed2677472d98dd963238",
     "event_date": "2026-11-16",
     "event_date_confidence": "explicit-text",
@@ -664,14 +768,16 @@
     "title": "New attack in the Dosso region, in south-western Niger",
     "summary": "In Niger, an attack took place last week in the Dioundou Department, in the Dosso region, in the south-west of the country. For the time being, no official casualty figures have been released. Published on: A visit to the bereaved families following the terrorist attacks carried out in several villages in the rural municipality of Dioundiou This is how the Nigerien news agency reported the visit on Saturday of Colonel Major Bana Alhassane, the Governor of the Dosso region, to the department of Dioundiou, which borders Nigeria.",
     "sources": [
-      "RFI Afrique"
+      "RFI Afrique",
+      "AllAfrica (Édition Française)"
     ],
     "languages": [
       "fr"
     ],
-    "source_count": 1,
+    "source_count": 2,
     "report_urls": [
-      "https://www.rfi.fr/fr/afrique/20261118-nouvelle-attaque-dans-la-r%C3%A9gion-de-dosso-dans-le-sud-ouest-du-niger"
+      "https://www.rfi.fr/fr/afrique/20261118-nouvelle-attaque-dans-la-r%C3%A9gion-de-dosso-dans-le-sud-ouest-du-niger",
+      "https://fr.allafrica.com/stories/202611180154.html"
     ],
     "report_summaries": [
       {
@@ -691,10 +797,28 @@
         ],
         "civilian_targeting_flag": false,
         "casualty_claims": []
+      },
+      {
+        "url": "https://fr.allafrica.com/stories/202611180154.html",
+        "source": "AllAfrica (Édition Française)",
+        "title": "Niger: New attack in the Dosso region, in the south-west",
+        "summary": "In Niger, an attack took place last week in the department of Dioundou, in the Dosso region, in the south-west of the country. For the time being, no official casualty figures have been released. A visit to the bereaved families following the terrorist attacks carried out in several villages in the rural commune of Dioundiou This is how the Nigerien news agency reported the visit on Saturday of Colonel Major Bana Alhassane, the Governor of the Dosso region, to the Dioundiou department, which borders Nigeria.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
       }
     ],
     "created_at": "2026-11-18T07:41:29.253745Z",
-    "updated_at": "2026-11-18T07:41:29.253745Z",
+    "updated_at": "2026-11-18T17:23:19.215671Z",
     "extraction_confidence": "low",
     "victim_categories": [
       "armed_group"
@@ -714,14 +838,20 @@
         "at": "2026-11-18T07:41:29.253745Z",
         "type": "event_created",
         "source": "RFI Afrique"
+      },
+      {
+        "at": "2026-11-18T17:23:19.215671Z",
+        "type": "corroboration_or_geography_update",
+        "source": "AllAfrica (Édition Française)"
       }
     ],
-    "corroboration": "single-source",
-    "confidence": "low",
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
     "independent_source_domains": [
-      "rfi.fr"
+      "rfi.fr",
+      "fr.allafrica.com"
     ],
-    "independent_source_count": 1,
+    "independent_source_count": 2,
     "significance": "SIGNIFICANT",
     "significance_reasons": [
       "operational security event"

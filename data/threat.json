@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:43:15.783438Z",
+  "generated_at": "2026-11-18T17:25:50.603078Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
@@ -13,14 +13,14 @@
       "trend": "STABLE",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 11,
-      "events_30d": 68,
+      "events_7d": 12,
+      "events_30d": 69,
       "baseline_7d_equivalent": 17.3,
-      "tempo_ratio": 0.65,
+      "tempo_ratio": 0.71,
       "drivers": [
-        "11 fused candidate event(s) in 7 days",
+        "12 fused candidate event(s) in 7 days",
         "1 JNIM/IS Sahel-linked event(s)",
-        "8 significant/major event(s)",
+        "9 significant/major event(s)",
         "1 civilian-threat indicator(s)",
         "activity across 12 named locations"
       ],
@@ -45,7 +45,7 @@
       "independent_domains_7d": 3
     },
     "Niger": {
-      "score": 72,
+      "score": 75,
       "level": "HIGH",
       "trend": "STABLE",
       "confidence": "HIGH",
@@ -60,7 +60,7 @@
         "2 civilian-threat indicator(s)",
         "activity across 4 named locations"
       ],
-      "independent_domains_7d": 5
+      "independent_domains_7d": 6
     }
   },
   "method_note": "Experimental research indicator derived from fused candidate events, recent country-relative tempo, significance, militant activity, civilian-threat signals, geographic spread and corroboration. It is not a travel advisory, verified incident count, or forecast. Collection gaps reduce confidence rather than automatically reducing threat."
