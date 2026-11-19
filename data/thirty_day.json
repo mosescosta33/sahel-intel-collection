@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-11-19T02:01:10.994428Z",
+  "generated_at": "2026-11-19T13:24:59.556633Z",
   "window_days": 30,
   "cutoff": "2026-10-20",
-  "reports": 828,
-  "incident_reports": 181,
-  "candidate_events": 110,
-  "corroborated_events": 31,
-  "mapped_events": 77,
-  "mapped_locations": 139,
+  "reports": 821,
+  "incident_reports": 178,
+  "candidate_events": 114,
+  "corroborated_events": 33,
+  "mapped_events": 81,
+  "mapped_locations": 144,
   "distinct_sources": 86,
   "by_actor": {
-    "State": 63,
-    "Other": 31,
+    "State": 66,
+    "Other": 32,
     "JNIM": 8,
     "IS Sahel": 5,
     "Africa Corps/Wagner": 3
   },
   "by_country": {
-    "Mali": 70,
+    "Mali": 74,
     "Niger": 29,
     "Burkina Faso": 11
   },
   "by_event_type": {
-    "security operation": 54,
+    "security operation": 56,
     "attack": 15,
     "kidnapping": 9,
     "clash": 8,
     "air/drone strike": 7,
-    "offensive/campaign": 6,
+    "offensive/campaign": 7,
     "civilian targeting": 4,
     "raid": 4,
-    "IED/explosion": 1,
+    "IED/explosion": 2,
     "ambush": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 701,
-    "en": 89,
-    "ar": 38
+    "fr": 696,
+    "en": 88,
+    "ar": 37
   },
   "by_confidence": {
-    "moderate": 53,
-    "low": 48,
+    "moderate": 56,
+    "low": 49,
     "moderate-high": 9
   },
   "top_sources": [
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 91
+      "count": 89
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 75
+      "count": 72
     },
     {
       "source_code": "SRC-0005",
@@ -68,7 +68,7 @@
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
-      "count": 33
+      "count": 34
     },
     {
       "source_code": "SRC-0079",
@@ -83,7 +83,7 @@
     {
       "source_code": "SRC-0001",
       "source": "RFI Afrique",
-      "count": 28
+      "count": 27
     },
     {
       "source_code": "SRC-0014",
@@ -98,7 +98,7 @@
     {
       "source_code": "SRC-0015",
       "source": "ActuNiger",
-      "count": 21
+      "count": 22
     },
     {
       "source_code": "SRC-0012",
@@ -116,12 +116,12 @@
       "count": 16
     },
     {
-      "location": "Niamey",
-      "count": 15
+      "location": "Kidal",
+      "count": 16
     },
     {
-      "location": "Kidal",
-      "count": 13
+      "location": "Niamey",
+      "count": 15
     },
     {
       "location": "Bamako",
@@ -132,11 +132,15 @@
       "count": 10
     },
     {
+      "location": "Gao",
+      "count": 7
+    },
+    {
       "location": "Timbuktu",
       "count": 7
     },
     {
-      "location": "Gao",
+      "location": "Niono",
       "count": 6
     },
     {
@@ -149,10 +153,6 @@
     },
     {
       "location": "Niger",
-      "count": 5
-    },
-    {
-      "location": "Niono",
       "count": 5
     }
   ],
@@ -300,15 +300,111 @@
     {
       "date": "2026-11-18",
       "reports": 24,
-      "events": 1
+      "events": 4
     },
     {
       "date": "2026-11-19",
-      "reports": 0,
-      "events": 0
+      "reports": 13,
+      "events": 1
     }
   ],
   "latest_events": [
+    {
+      "id": "be019d103e32bf0450c01f54840bf63bed3cc1e8",
+      "event_date": "2026-11-19",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "relative-weekday",
+      "published_at": "2026-11-19T10:57:55Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:37.931779Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "IED/explosion",
+      "country": "Mali",
+      "city": "Gao",
+      "lat": 16.2717,
+      "lng": -0.0447,
+      "locations": [
+        {
+          "name": "Gao",
+          "country": "Mali",
+          "lat": 16.2717,
+          "lng": -0.0447,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Gao: One dead and three injured in an explosive device blast in Edang",
+      "summary": "One child lost his life and three people were seriously injured, including two children, in the explosion of an explosive device on Thursday at around 3 p.m. in the village of Edang, Anchawadj commune, Gao region. According to local sources, children reportedly picked up the device before handing it over to a scrap metal dealer.",
+      "sources": [
+        "Studio Tamani"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.studiotamani.org/210478-gao-un-mort-et-trois-blesses-dans-lexplosion-dun-engin-explosif-a-edang"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.studiotamani.org/210478-gao-un-mort-et-trois-blesses-dans-lexplosion-dun-engin-explosif-a-edang",
+          "source": "Studio Tamani",
+          "title": "Gao: One dead and three injured in an explosive device blast in Edang",
+          "summary": "One child lost his life and three people were seriously injured, including two children, in the explosion of an explosive device on Thursday at around 3 p.m. in the village of Edang, Anchawadj commune, Gao region. According to local sources, children reportedly picked up the device before handing it over to a scrap metal dealer.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "civilian"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-19T13:22:37.931779Z",
+      "updated_at": "2026-11-19T13:22:37.931779Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "civilian"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-19T13:22:37.931779Z",
+          "type": "event_created",
+          "source": "Studio Tamani"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "studiotamani.org"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
+      ]
+    },
     {
       "id": "bb256ef4e789fae016855cd43f7d98786dda933e",
       "event_date": "2026-11-18",
@@ -349,16 +445,18 @@
         }
       ],
       "title": "Kidal: The army frees 24 soldiers held by armed groups",
-      "summary": "Twenty-four Malian soldiers have regained their freedom. According to the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) and their partners freed them on Wednesday, 18 November 2026, at around 1 p.m. The soldiers were being held in the In-Tebezas area, about 110 kilometres southeast of Kidal.",
+      "summary": "According to the General Staff of the Armed Forces, this meticulously prepared joint operation began with an aerial reconnaissance mission that identified the positions of the terrorist groups as well as the location where the hostages were being held. Following precise intelligence, airstrikes were carried out in the area of In-Tebezas, a locality located around a hundred kilometres from the town of Kidal.",
       "sources": [
-        "Malijet"
+        "Malijet",
+        "L'Indépendant (Mali)"
       ],
       "languages": [
         "fr"
       ],
-      "source_count": 1,
+      "source_count": 2,
       "report_urls": [
-        "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html"
+        "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html",
+        "https://lindependant.ml/article/mali-24-soldats-liberes-grace-a-une-operation-des-forces-speciales"
       ],
       "report_summaries": [
         {
@@ -379,10 +477,29 @@
           ],
           "civilian_targeting_flag": false,
           "casualty_claims": []
+        },
+        {
+          "url": "https://lindependant.ml/article/mali-24-soldats-liberes-grace-a-une-operation-des-forces-speciales",
+          "source": "L'Indépendant (Mali)",
+          "title": "Mali: 24 soldiers freed thanks to a special forces operation",
+          "summary": "According to the General Staff of the Armed Forces, this meticulously prepared joint operation began with an aerial reconnaissance mission that identified the positions of the terrorist groups as well as the location where the hostages were being held. Following precise intelligence, airstrikes were carried out in the area of In-Tebezas, a locality located around a hundred kilometres from the town of Kidal.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
         }
       ],
       "created_at": "2026-11-19T01:59:22.217117Z",
-      "updated_at": "2026-11-19T01:59:22.217117Z",
+      "updated_at": "2026-11-19T13:22:43.175256Z",
       "extraction_confidence": "low",
       "victim_categories": [
         "security_force",
@@ -403,17 +520,355 @@
           "at": "2026-11-19T01:59:22.217117Z",
           "type": "event_created",
           "source": "Malijet"
+        },
+        {
+          "at": "2026-11-19T13:22:43.175256Z",
+          "type": "corroboration_or_geography_update",
+          "source": "L'Indépendant (Mali)"
+        }
+      ],
+      "corroboration": "limited corroboration",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "malijet.com",
+        "lindependant.ml"
+      ],
+      "independent_source_count": 2,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "multi-location activity"
+      ]
+    },
+    {
+      "id": "6f36e92990493aa0800edc2a4cf36a9f622265b4",
+      "event_date": "2026-11-18",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-19T10:57:35Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:40.311015Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "offensive/campaign",
+      "country": "Mali",
+      "city": "Kidal",
+      "lat": 18.4411,
+      "lng": 1.4078,
+      "locations": [
+        {
+          "name": "Kidal",
+          "country": "Mali",
+          "lat": 18.4411,
+          "lng": 1.4078,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Mali: The FAMA free 24 soldiers held by terrorists in Kidal",
+      "summary": "According to information reported by the Malian Press Agency (AMAP), the Malian Armed Forces (FAMA) carried out a military operation yesterday, Wednesday 18 November, in the In-Tebezas area, about 110 km southeast of Kidal. This offensive led to the release of 24 soldiers held hostage by armed terrorist groups. .",
+      "sources": [
+        "Seneweb"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.seneweb.com/fr/news/Afrique/mali-les-fama-liberent-24-soldats-aux-mains-des-terroristes-a-kidal_n_999004087.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.seneweb.com/fr/news/Afrique/mali-les-fama-liberent-24-soldats-aux-mains-des-terroristes-a-kidal_n_999004087.html",
+          "source": "Seneweb",
+          "title": "Mali: The FAMA free 24 soldiers held by terrorists in Kidal",
+          "summary": "According to information reported by the Malian Press Agency (AMAP), the Malian Armed Forces (FAMA) carried out a military operation yesterday, Wednesday 18 November, in the In-Tebezas area, about 110 km southeast of Kidal. This offensive led to the release of 24 soldiers held hostage by armed terrorist groups. .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-19T13:22:40.311015Z",
+      "updated_at": "2026-11-19T13:22:40.311015Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "security_force",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-19T13:22:40.311015Z",
+          "type": "event_created",
+          "source": "Seneweb"
         }
       ],
       "corroboration": "single-source",
       "confidence": "low",
       "independent_source_domains": [
-        "malijet.com"
+        "seneweb.com"
       ],
       "independent_source_count": 1,
       "significance": "MAJOR",
       "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "4666e8615f0aa40fb2d68a4504850c7f04dca922",
+      "event_date": "2026-11-18",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-19T10:47:30Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:37.610625Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Niono",
+      "lat": 14.25,
+      "lng": -5.9833,
+      "locations": [
+        {
+          "name": "Niono",
+          "country": "Mali",
+          "lat": 14.25,
+          "lng": -5.9833,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Kidal",
+          "country": "Mali",
+          "lat": 18.4411,
+          "lng": 1.4078,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Niono, Sofara, Niafunké, Kidal: The army announces a series of strikes",
+      "summary": "The Malian army announced that it had carried out airstrikes targeting positions and gatherings of armed groups it described as terrorist in several areas, including the vicinity of Kidal and Nono. These strikes were part of Operation Dogokoloko and resulted in the deaths of several militants. In a statement issued on Thursday, 19 November, the army clarified that, with the support of its partners, the Malian Armed Forces had targeted a camp on Tuesday containing militants and logistical equipment, including motorcycles, located 15 kilometres southeast of Nono.",
+      "sources": [
+        "Malijet",
+        "Sahara Medias (صحراء ميديا)"
+      ],
+      "languages": [
+        "fr",
+        "ar"
+      ],
+      "source_count": 2,
+      "report_urls": [
+        "https://malijet.com/actualte_dans_les_regions_du_mali/312890-niono-sofara-niafunke-kidal-larmee-annonce-une-serie-d.html",
+        "https://saharamedias.net/268789/"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312890-niono-sofara-niafunke-kidal-larmee-annonce-une-serie-d.html",
+          "source": "Malijet",
+          "title": "Niono, Sofara, Niafunké, Kidal: The army announces a series of strikes",
+          "summary": "The Malian army is continuing its operations against armed terrorist groups. According to the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) and their partners carried out several strikes on 17 and 18 November 2026, as part of Operation Dougoukoloko. 15 kilometres southeast of Niono, the army struck a terrorist camp .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        },
+        {
+          "url": "https://saharamedias.net/268789/",
+          "source": "Sahara Medias (صحراء ميديا)",
+          "title": "The Malian army announces the “killing” of armed men in airstrikes near Kidal and Nono",
+          "summary": "The Malian army announced that it had carried out airstrikes targeting positions and gatherings of armed groups it described as terrorist in several areas, including the vicinity of Kidal and Nono. These strikes were part of Operation Dogokoloko and resulted in the deaths of several militants. In a statement issued on Thursday, 19 November, the army clarified that, with the support of its partners, the Malian Armed Forces had targeted a camp on Tuesday containing militants and logistical equipment, including motorcycles, located 15 kilometres southeast of Nono.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-19T13:22:37.610625Z",
+      "updated_at": "2026-11-19T13:22:38.768860Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-19T13:22:37.610625Z",
+          "type": "event_created",
+          "source": "Malijet"
+        },
+        {
+          "at": "2026-11-19T13:22:38.768860Z",
+          "type": "corroboration_or_geography_update",
+          "source": "Sahara Medias (صحراء ميديا)"
+        }
+      ],
+      "corroboration": "limited corroboration",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "malijet.com",
+        "saharamedias.net"
+      ],
+      "independent_source_count": 2,
+      "significance": "MAJOR",
+      "significance_reasons": [
         "multi-location activity"
+      ]
+    },
+    {
+      "id": "ff1b694197da792872aa10ca2e07e5c038c8b4d0",
+      "event_date": "2026-11-18",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-19T09:29:38Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:37.993124Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Kidal",
+      "lat": 18.4411,
+      "lng": 1.4078,
+      "locations": [
+        {
+          "name": "Kidal",
+          "country": "Mali",
+          "lat": 18.4411,
+          "lng": 1.4078,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Mali: 24 soldiers released after airstrikes southeast of Kidal",
+      "summary": "The Malian army has announced the release of 24 of its soldiers who were being held in the In-Tebezas area, southeast of Kidal. The operation, carried out on Wednesday, 18 November 2026, involved air assets and ground troops. The Malian Armed Forces (FAMa) have announced a military operation that led to the release of 24 of their personnel who were being held in the In-Tebezas area, located about 110 kilometres southeast of Kidal.",
+      "sources": [
+        "La Nouvelle Tribune (Bénin)"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://lanouvelletribune.info/2026/11/mali-24-militaires-liberes-apres-des-frappes-aeriennes-au-sud-est-de-kidal/"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://lanouvelletribune.info/2026/11/mali-24-militaires-liberes-apres-des-frappes-aeriennes-au-sud-est-de-kidal/",
+          "source": "La Nouvelle Tribune (Bénin)",
+          "title": "Mali: 24 soldiers released after airstrikes southeast of Kidal",
+          "summary": "The Malian army has announced the release of 24 of its soldiers who were being held in the In-Tebezas area, southeast of Kidal. The operation, carried out on Wednesday, 18 November 2026, involved air assets and ground troops. The Malian Armed Forces (FAMa) have announced a military operation that led to the release of 24 of their personnel who were being held in the In-Tebezas area, located about 110 kilometres southeast of Kidal.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-19T13:22:37.993124Z",
+      "updated_at": "2026-11-19T13:22:37.993124Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "security_force",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-19T13:22:37.993124Z",
+          "type": "event_created",
+          "source": "La Nouvelle Tribune (Bénin)"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "lanouvelletribune.info"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
       ]
     },
     {
@@ -3118,443 +3573,243 @@
       "significance_reasons": [
         "operational security event"
       ]
-    },
-    {
-      "id": "501c3c0bf762ca2c5dcbceca276fdc0953681ecc",
-      "event_date": "2026-11-11",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-12T13:56:46Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-12T16:55:34.669516Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Operation Dougoukoloko: FAMa intercept armed groups in Bablena and neutralise terrorist drone operators near Tonka",
-      "summary": "Thanks to the use of precise intelligence, the Malian Armed Forces carried out two targeted operations in the Koumantou and Tonka sectors on Wednesday, 11 November 2026. The provisional report issued by the General Staff of the Armed Forces states that five terrorists were neutralised, four motorcycles and three submachine guns were recovered, and a drone was destroyed.",
-      "sources": [
-        "Bamada"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://bamada.net/operation-dougoukoloko-les-fama-frappent-deux-positions-terroristes-a-bablena-et-tonka"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://bamada.net/operation-dougoukoloko-les-fama-frappent-deux-positions-terroristes-a-bablena-et-tonka",
-          "source": "Bamada",
-          "title": "Operation Dougoukoloko: FAMa intercept armed groups in Bablena and neutralise terrorist drone operators near Tonka",
-          "summary": "Thanks to the use of precise intelligence, the Malian Armed Forces carried out two targeted operations in the Koumantou and Tonka sectors on Wednesday, 11 November 2026. The provisional report issued by the General Staff of the Armed Forces states that five terrorists were neutralised, four motorcycles and three submachine guns were recovered, and a drone was destroyed.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-12T16:55:34.669516Z",
-      "updated_at": "2026-11-12T16:55:34.669516Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-12T16:55:34.669516Z",
-          "type": "event_created",
-          "source": "Bamada"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "bamada.net"
-      ],
-      "independent_source_count": 1,
-      "significance": "SIGNIFICANT",
-      "significance_reasons": [
-        "operational security event"
-      ]
-    },
-    {
-      "id": "7406e318043ac1614d68cf30f1346051ba771042",
-      "event_date": "2026-11-11",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-11T19:41:38Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-11T22:52:05.622083Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Kidal",
-      "lat": 18.4411,
-      "lng": 1.4078,
-      "locations": [
-        {
-          "name": "Kidal",
-          "country": "Mali",
-          "lat": 18.4411,
-          "lng": 1.4078,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Timbuktu",
-          "country": "Mali",
-          "lat": 16.7666,
-          "lng": -3.0026,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Sikasso",
-          "country": "Mali",
-          "lat": 11.31755,
-          "lng": -5.66654,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "FAMa: three airstrikes against...",
-      "summary": "FAMa: Three airstrikes against terrorist positions in Kidal, Timbuktu and Sikasso The General Staff of the Armed Forces announces new military operations as part of Operation Dougoukoloko. The Malian Armed Forces (FAMa), supported by their partners, carried out several precision strikes on 10 and 11 November 2026 against identified targets in the Kidal, Timbuktu and Sikasso regions.",
-      "sources": [
-        "Maliweb"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.maliweb.net/insecurite/fama-trois-frappes-aeriennes-contre-des-positions-terroristes-a-kidal-3121384.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.maliweb.net/insecurite/fama-trois-frappes-aeriennes-contre-des-positions-terroristes-a-kidal-3121384.html",
-          "source": "Maliweb",
-          "title": "FAMa: three airstrikes against...",
-          "summary": "FAMa: Three airstrikes against terrorist positions in Kidal, Timbuktu and Sikasso The General Staff of the Armed Forces announces new military operations as part of Operation Dougoukoloko. The Malian Armed Forces (FAMa), supported by their partners, carried out several precision strikes on 10 and 11 November 2026 against identified targets in the Kidal, Timbuktu and Sikasso regions.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-11T22:52:05.622083Z",
-      "updated_at": "2026-11-11T22:52:05.622083Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-11T22:52:05.622083Z",
-          "type": "event_created",
-          "source": "Maliweb"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "maliweb.net"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "0d3336b6e3ed1d215b6bb206d7c19bad829f7142",
-      "event_date": "2026-11-10",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-11T16:38:28Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-11T22:52:05.421551Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": "State",
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Sikasso",
-      "lat": 11.31755,
-      "lng": -5.66654,
-      "locations": [
-        {
-          "name": "Sikasso",
-          "country": "Mali",
-          "lat": 11.31755,
-          "lng": -5.66654,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Kidal",
-          "country": "Mali",
-          "lat": 18.4411,
-          "lng": 1.4078,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Timbuktu",
-          "country": "Mali",
-          "lat": 16.7666,
-          "lng": -3.0026,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Operation Dougoukoloko: The Malian Army neutralises several terrorist targets in Tinzaouatène, Tonka and Sikasso",
-      "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Tuesday, 10 November 2026, approximately twenty-seven (27) kilometres north-west of Tinzaouatène, in the Kidal region, a previously identified terrorist target was struck three (03) times.",
-      "sources": [
-        "Bamada",
-        "Malijet"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://bamada.net/operation-dougoukoloko-larmee-malienne-neutralise-plusieurs-objectifs-terroristes-a-tinzaouatene-tonka-et-sikasso",
-        "https://malijet.com/actualte_dans_les_regions_du_mali/312790-operation-dougoukoloko-les-fama-frappent-des-positions-ter-4.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://bamada.net/operation-dougoukoloko-larmee-malienne-neutralise-plusieurs-objectifs-terroristes-a-tinzaouatene-tonka-et-sikasso",
-          "source": "Bamada",
-          "title": "Operation Dougoukoloko: The Malian Army neutralises several terrorist targets in Tinzaouatène, Tonka and Sikasso",
-          "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Tuesday, 10 November 2026, approximately twenty-seven (27) kilometres north-west of Tinzaouatène, in the Kidal region, a previously identified terrorist target was struck three (03) times.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312790-operation-dougoukoloko-les-fama-frappent-des-positions-ter-4.html",
-          "source": "Malijet",
-          "title": "Operation Dougoukoloko: FAMa strike terrorist positions in Tinzaouatène, Tonka, and near Sikasso",
-          "summary": "Operation Dougoukoloko: The FAMa strike terrorist positions in Tinzaouatène, Tonka and near Sikasso The Malian Armed Forces (FAMa), supported by their partners, are continuing their operations to secure the territory as part of Operation Dougoukoloko. Several strikes carried out over the past two days have been reviewed by the General Staff of the Armed Forces.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-11T22:52:05.421551Z",
-      "updated_at": "2026-11-11T22:52:05.350244Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-11T22:52:05.421551Z",
-          "type": "event_created",
-          "source": "Bamada"
-        },
-        {
-          "at": "2026-11-11T22:52:05.350244Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Malijet"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "bamada.net",
-        "malijet.com"
-      ],
-      "independent_source_count": 2,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "ac987b279d16c9517789717c1dd6a962c7e8ae48",
-      "event_date": "2026-11-10",
-      "event_date_confidence": "publication-proxy",
-      "event_date_source": "jsonld:datePublished",
-      "published_at": "2026-11-10T00:12:15Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-10T02:50:26.585574Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Gao",
-      "lat": 16.2717,
-      "lng": -0.0447,
-      "locations": [
-        {
-          "name": "Gao",
-          "country": "Mali",
-          "lat": 16.2717,
-          "lng": -0.0447,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travelers",
-      "summary": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travellers The Malian Armed Forces (FAMa) put an end to the actions of armed men who set up illegal roadblocks on the Gao-N'tahaka axis to extort money from travellers. This operation should make it possible to strengthen security on this strategic route, heavily used by carriers and the populations of the region .",
-      "sources": [
-        "Malijet"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://malijet.com/les_faits_divers_au_mali/312753-axe-gao-ntahaka-les-fama-neutralisent-des-hommes-armes-qu.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://malijet.com/les_faits_divers_au_mali/312753-axe-gao-ntahaka-les-fama-neutralisent-des-hommes-armes-qu.html",
-          "source": "Malijet",
-          "title": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travelers",
-          "summary": "Gao-N 'tahaka axis: the FAMa neutralize armed men who racketeered travellers The Malian Armed Forces (FAMa) put an end to the actions of armed men who set up illegal roadblocks on the Gao-N'tahaka axis to extort money from travellers. This operation should make it possible to strengthen security on this strategic route, heavily used by carriers and the populations of the region .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-10T02:50:26.585574Z",
-      "updated_at": "2026-11-10T02:50:26.585574Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-10T02:50:26.585574Z",
-          "type": "event_created",
-          "source": "Malijet"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "malijet.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "ROUTINE",
-      "significance_reasons": [
-        "limited currently observed significance"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-19T11:48:58Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:38.263344Z",
+      "discovered_at": "2026-11-19T13:22:38.263344Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0004",
+      "source": "Studio Tamani",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Douentza",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Douentza: Rural women in the spotlight",
+      "url": "https://www.studiotamani.org/210480-douentza-les-femmes-rurales-a-lhonneur"
+    },
+    {
+      "published_at": "2026-11-19T10:57:55Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:37.931779Z",
+      "discovered_at": "2026-11-19T13:22:37.931779Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0004",
+      "source": "Studio Tamani",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Mali",
+      "city": "Gao",
+      "event_type": "IED/explosion",
+      "candidate_event": true,
+      "title": "Gao: One dead and three injured in an explosive device blast in Edang",
+      "url": "https://www.studiotamani.org/210478-gao-un-mort-et-trois-blesses-dans-lexplosion-dun-engin-explosif-a-edang"
+    },
+    {
+      "published_at": "2026-11-19T10:57:35Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:40.311015Z",
+      "discovered_at": "2026-11-19T13:22:40.311015Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0085",
+      "source": "Seneweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "offensive/campaign",
+      "candidate_event": true,
+      "title": "Mali: The FAMA free 24 soldiers held by terrorists in Kidal",
+      "url": "https://www.seneweb.com/fr/news/Afrique/mali-les-fama-liberent-24-soldats-aux-mains-des-terroristes-a-kidal_n_999004087.html"
+    },
+    {
+      "published_at": "2026-11-19T10:48:13Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:38.768860Z",
+      "discovered_at": "2026-11-19T13:22:38.768860Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0160",
+      "source": "Sahara Medias (صحراء ميديا)",
+      "language": "ar",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "The Malian army announces the “killing” of armed men in airstrikes near Kidal and Nono",
+      "url": "https://saharamedias.net/268789/"
+    },
+    {
+      "published_at": "2026-11-19T10:47:30Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:37.610625Z",
+      "discovered_at": "2026-11-19T13:22:37.610625Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Niono",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Niono, Sofara, Niafunké, Kidal: The army announces a series of strikes",
+      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312890-niono-sofara-niafunke-kidal-larmee-annonce-une-serie-d.html"
+    },
+    {
+      "published_at": "2026-11-19T10:23:56Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:43.453270Z",
+      "discovered_at": "2026-11-19T13:22:43.453270Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0080",
+      "source": "L'Indépendant (Mali)",
+      "language": "fr",
+      "actor": null,
+      "country": null,
+      "city": null,
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "Terrorism: Senegal calls for an AES-ECOWAS framework for collaboration",
+      "url": "https://lindependant.ml/article/terrorisme-le-senegal-plaide-pour-un-cadre-de-collaboration-aes-cedeao"
+    },
+    {
+      "published_at": "2026-11-19T10:23:49Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:43.175256Z",
+      "discovered_at": "2026-11-19T13:22:43.175256Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0080",
+      "source": "L'Indépendant (Mali)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "raid",
+      "candidate_event": true,
+      "title": "Mali: 24 soldiers freed thanks to a special forces operation",
+      "url": "https://lindependant.ml/article/mali-24-soldats-liberes-grace-a-une-operation-des-forces-speciales"
+    },
+    {
+      "published_at": "2026-11-19T09:46:11Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:39.736483Z",
+      "discovered_at": "2026-11-19T13:22:39.736483Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Counter-Terrorism: Strikes by the National Defence Forces in Several Parts of the Country",
+      "url": "https://amap.ml/2026/11/19/lutte-contre-le-terrorisme-frappes-des-forces-nationales-de-defense-dans-plusieurs-localites-du-pays/"
+    },
+    {
+      "published_at": "2026-11-19T09:29:38Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:37.993124Z",
+      "discovered_at": "2026-11-19T13:22:37.993124Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0092",
+      "source": "La Nouvelle Tribune (Bénin)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Mali: 24 soldiers released after airstrikes southeast of Kidal",
+      "url": "https://lanouvelletribune.info/2026/11/mali-24-militaires-liberes-apres-des-frappes-aeriennes-au-sud-est-de-kidal/"
+    },
+    {
+      "published_at": "2026-11-19T09:23:33Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:38.074484Z",
+      "discovered_at": "2026-11-19T13:22:38.074484Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Niono",
+      "event_type": "IED/explosion",
+      "candidate_event": false,
+      "title": "Operation Dougoukoloko: Several terrorist positions and resources targeted in Niono, Sofara, Niafunké and Kidal",
+      "url": "https://bamada.net/operation-dougoukoloko-plusieurs-positions-et-ressources-terroristes-frappees-a-niono-sofara-niafunke-et-kidal"
+    },
+    {
+      "published_at": "2026-11-19T05:56:58Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:40.560364Z",
+      "discovered_at": "2026-11-19T13:22:40.560364Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0121",
+      "source": "AllAfrica (English Edition)",
+      "language": "en",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "Nigeria: Nigeria, Cameroon, Chad, Niger Reach Deal On Military Pursuit of Terrorists",
+      "url": "https://allafrica.com/stories/202611190122.html"
+    },
+    {
+      "published_at": "2026-11-19T05:20:18Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:41.983303Z",
+      "discovered_at": "2026-11-19T13:22:41.983303Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0121",
+      "source": "AllAfrica (English Edition)",
+      "language": "en",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Burkina Faso: Burkina Faso Targets Critics in Exile",
+      "url": "https://allafrica.com/stories/202611190035.html"
+    },
+    {
+      "published_at": "2026-11-19T03:18:45Z",
+      "published_date_source": "jsonld:dateCreated",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T13:22:40.352417Z",
+      "discovered_at": "2026-11-19T13:22:40.352417Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0015",
+      "source": "ActuNiger",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Dosso",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Insecurity in the Dosso region: in Dioundou, the authorities denounce the involvement of \"local children\" in the recent series of massacres of civilians",
+      "url": "https://www.actuniger.com/societe/insecurite-dans-la-region-de-dosso-a-dioundou-les-autorites-denoncent-limplication-des-enfants-du-terroir-dans-la-recente-serie-de-massacres-de-civils.html"
+    },
     {
       "published_at": "2026-11-18T22:03:16Z",
       "published_date_source": "jsonld:datePublished",
@@ -4040,240 +4295,6 @@
       "candidate_event": true,
       "title": "Mali: Assimi Goïta equips the Army with 7 new combat and transport aircraft",
       "url": "https://lindependant.ml/article/mali-assimi-goita-dote-larmee-de-7-nouveaux-avions-de-combat-et-de-transport"
-    },
-    {
-      "published_at": "2026-11-17T18:46:05Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T23:37:12.164947Z",
-      "discovered_at": "2026-11-17T23:37:12.164947Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "IP-P3A: The Coris Foundation donates 360 motorised tricycles to agricultural VDPs",
-      "url": "https://burkina24.com/2026/11/17/ip-p3a-la-fondation-coris-offre-360-motos-tricycles-aux-vdp-agricoles/"
-    },
-    {
-      "published_at": "2026-11-17T17:41:16Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T23:37:16.079721Z",
-      "discovered_at": "2026-11-17T23:37:16.079721Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0034",
-      "source": "TV5MONDE Afrique",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Africa More than 68,000 Burkinabés repatriated from Guinea following measures against illegal gold mining",
-      "url": "https://information.tv5monde.com/afrique/plus-de-68000-burkinabe-rapatries-de-guinee-apres-des-mesures-contre-lorpaillage-illegal-2846121"
-    },
-    {
-      "published_at": "2026-11-17T17:27:48Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T23:37:10.048512Z",
-      "discovered_at": "2026-11-17T23:37:10.048512Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0064",
-      "source": "Africa Defense Forum (ADF Magazine)",
-      "language": "en",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Coup Leaders’ Promises Fall Short",
-      "url": "https://adf-magazine.com/2026/11/coup-leaders-promises-fall-short/"
-    },
-    {
-      "published_at": "2026-11-17T16:51:39Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T23:37:12.483208Z",
-      "discovered_at": "2026-11-17T23:37:12.483208Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Kati",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "GMS–Samé–Kati roundabout section: demolition operations launched to clear the project rights-of-way",
-      "url": "https://amap.ml/2026/11/17/troncon-rond-point-gms-same-kati-les-operations-de-demolition-lancees-pour-liberer-les-emprises-du-projet/"
-    },
-    {
-      "published_at": "2026-11-17T16:02:05Z",
-      "published_date_source": "jsonld:dateCreated",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T23:37:14.653529Z",
-      "discovered_at": "2026-11-17T23:37:14.653529Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0015",
-      "source": "ActuNiger",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Niger: President Tiani makes new appointments to the senior administration",
-      "url": "https://www.actuniger.com/politique/niger-le-president-tiani-procede-a-de-nouvelles-nominations-au-sein-de-la-haute-administration.html"
-    },
-    {
-      "published_at": "2026-11-17T14:36:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T13:36:39.338057Z",
-      "discovered_at": "2026-11-17T13:36:39.338057Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0017",
-      "source": "Le Sahel",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Celebration of the 15th edition of African Road Safety Day: ANISER conducts a major roadside inspection operation in Niamey",
-      "url": "https://www.lesahel.org/celebration-de-la-15e-edition-de-la-journee-africaine-de-la-securite-routiere-laniser-mene-une-vaste-operation-de-controle-routier-a-niamey/"
-    },
-    {
-      "published_at": "2026-11-17T14:23:50.594000Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T23:37:16.389211Z",
-      "discovered_at": "2026-11-17T23:37:16.389211Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0089",
-      "source": "Le360 Afrique",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "More than 68,000 Burkinabe repatriated from Guinea following measures against illegal gold mining",
-      "url": "https://afrique.le360.ma/societe/plus-de-68000-burkinabe-rapatries-de-guinee-apres-des-mesures-contre-lorpaillage-illegal_N3UV3DNPEBAUFNS52ZGFIZEXMY/"
-    },
-    {
-      "published_at": "2026-11-17T13:10:46Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T13:36:45.891811Z",
-      "discovered_at": "2026-11-17T13:36:45.891811Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": null,
-      "country": null,
-      "city": null,
-      "event_type": "IED/explosion",
-      "candidate_event": false,
-      "title": "Kalaban-Coura: Four people arrested after the discovery of a homemade weapon",
-      "url": "https://malijet.com/les_faits_divers_au_mali/312872-kalaban-coura-quatre-personnes-interpellees-apres-la-decou.html"
-    },
-    {
-      "published_at": "2026-11-17T11:32:55Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T13:36:40.157830Z",
-      "discovered_at": "2026-11-17T13:36:40.157830Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0118",
-      "source": "Punch Newspapers (Nigeria)",
-      "language": "en",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "NDLEA arrests eight cocaine couriers, recovers 634 wraps",
-      "url": "https://punchng.com/ndlea-arrests-eight-cocaine-couriers-recovers-634-wraps/"
-    },
-    {
-      "published_at": "2026-11-17T11:32:02Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T13:36:38.946190Z",
-      "discovered_at": "2026-11-17T13:36:38.946190Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0014",
-      "source": "Agence Nigérienne de Presse",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Niger: Appointment of New Secretaries General to the Ministries of Defence and the Interior",
-      "url": "https://anp.ne/niger-nomination-des-nouveaux-sg-aux-ministeres-de-la-defense-et-de-linterieur/"
-    },
-    {
-      "published_at": "2026-11-17T11:29:41Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T13:36:39.389338Z",
-      "discovered_at": "2026-11-17T13:36:39.389338Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Nioro du Sahel",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Nioro du Sahel: The efforts of the FAMa are helping to revive economic activity and transport",
-      "url": "https://amap.ml/2026/11/17/nioro-du-sahel-les-efforts-des-fama-favorisent-la-reprise-des-activites-economiques-et-des-transports/"
-    },
-    {
-      "published_at": "2026-11-17T10:57:47Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T13:36:37.730633Z",
-      "discovered_at": "2026-11-17T13:36:37.730633Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0007",
-      "source": "Journal du Mali",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Air Force: The fleet is gaining in heavy transport and mobility",
-      "url": "https://journaldumali.com/armee-de-lair-la-flotte-gagne-en-transport-lourd-et-en-mobilite/"
-    },
-    {
-      "published_at": "2026-11-17T10:47:25Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-18T07:41:43.942179Z",
-      "discovered_at": "2026-11-18T07:41:43.942179Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Sévaré",
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "Mali: The FAMa target bases and logistics depots of armed groups in Abeïbara and Sévaré",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGxKYVRuTUg0LW9SNFdpMklIdmlaTWg5NVlDZzlFV2szMWZfanY5dFljRmNrNnFkdXlkY0lFX2FQb2hOM1FqMjVpN1V6emRHQkQwcUI4bnhXcndlOWlFU3Q5UGxZVmNMd3dSMHlOallrWGxGaG03cV9vQVRINERzcjlvNy0zbG5VT2Q2UkE5aWtLV1dPWGRNMEhOSWFnSmFkaVdDUXhGaDJVNkk1X19VRXZB?oc=5"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

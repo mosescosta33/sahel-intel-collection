@@ -1,5 +1,101 @@
 [
   {
+    "id": "be019d103e32bf0450c01f54840bf63bed3cc1e8",
+    "event_date": "2026-11-19",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "relative-weekday",
+    "published_at": "2026-11-19T10:57:55Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-19T13:22:37.931779Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "IED/explosion",
+    "country": "Mali",
+    "city": "Gao",
+    "lat": 16.2717,
+    "lng": -0.0447,
+    "locations": [
+      {
+        "name": "Gao",
+        "country": "Mali",
+        "lat": 16.2717,
+        "lng": -0.0447,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Gao: One dead and three injured in an explosive device blast in Edang",
+    "summary": "One child lost his life and three people were seriously injured, including two children, in the explosion of an explosive device on Thursday at around 3 p.m. in the village of Edang, Anchawadj commune, Gao region. According to local sources, children reportedly picked up the device before handing it over to a scrap metal dealer.",
+    "sources": [
+      "Studio Tamani"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.studiotamani.org/210478-gao-un-mort-et-trois-blesses-dans-lexplosion-dun-engin-explosif-a-edang"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.studiotamani.org/210478-gao-un-mort-et-trois-blesses-dans-lexplosion-dun-engin-explosif-a-edang",
+        "source": "Studio Tamani",
+        "title": "Gao: One dead and three injured in an explosive device blast in Edang",
+        "summary": "One child lost his life and three people were seriously injured, including two children, in the explosion of an explosive device on Thursday at around 3 p.m. in the village of Edang, Anchawadj commune, Gao region. According to local sources, children reportedly picked up the device before handing it over to a scrap metal dealer.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-19T13:22:37.931779Z",
+    "updated_at": "2026-11-19T13:22:37.931779Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "civilian"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-19T13:22:37.931779Z",
+        "type": "event_created",
+        "source": "Studio Tamani"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "studiotamani.org"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
+    ]
+  },
+  {
     "id": "bb256ef4e789fae016855cd43f7d98786dda933e",
     "event_date": "2026-11-18",
     "event_date_confidence": "explicit-text",
@@ -39,16 +135,18 @@
       }
     ],
     "title": "Kidal: The army frees 24 soldiers held by armed groups",
-    "summary": "Twenty-four Malian soldiers have regained their freedom. According to the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) and their partners freed them on Wednesday, 18 November 2026, at around 1 p.m. The soldiers were being held in the In-Tebezas area, about 110 kilometres southeast of Kidal.",
+    "summary": "According to the General Staff of the Armed Forces, this meticulously prepared joint operation began with an aerial reconnaissance mission that identified the positions of the terrorist groups as well as the location where the hostages were being held. Following precise intelligence, airstrikes were carried out in the area of In-Tebezas, a locality located around a hundred kilometres from the town of Kidal.",
     "sources": [
-      "Malijet"
+      "Malijet",
+      "L'Indépendant (Mali)"
     ],
     "languages": [
       "fr"
     ],
-    "source_count": 1,
+    "source_count": 2,
     "report_urls": [
-      "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html"
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html",
+      "https://lindependant.ml/article/mali-24-soldats-liberes-grace-a-une-operation-des-forces-speciales"
     ],
     "report_summaries": [
       {
@@ -69,10 +167,29 @@
         ],
         "civilian_targeting_flag": false,
         "casualty_claims": []
+      },
+      {
+        "url": "https://lindependant.ml/article/mali-24-soldats-liberes-grace-a-une-operation-des-forces-speciales",
+        "source": "L'Indépendant (Mali)",
+        "title": "Mali: 24 soldiers freed thanks to a special forces operation",
+        "summary": "According to the General Staff of the Armed Forces, this meticulously prepared joint operation began with an aerial reconnaissance mission that identified the positions of the terrorist groups as well as the location where the hostages were being held. Following precise intelligence, airstrikes were carried out in the area of In-Tebezas, a locality located around a hundred kilometres from the town of Kidal.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
       }
     ],
     "created_at": "2026-11-19T01:59:22.217117Z",
-    "updated_at": "2026-11-19T01:59:22.217117Z",
+    "updated_at": "2026-11-19T13:22:43.175256Z",
     "extraction_confidence": "low",
     "victim_categories": [
       "security_force",
@@ -93,17 +210,355 @@
         "at": "2026-11-19T01:59:22.217117Z",
         "type": "event_created",
         "source": "Malijet"
+      },
+      {
+        "at": "2026-11-19T13:22:43.175256Z",
+        "type": "corroboration_or_geography_update",
+        "source": "L'Indépendant (Mali)"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "malijet.com",
+      "lindependant.ml"
+    ],
+    "independent_source_count": 2,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
+    "id": "6f36e92990493aa0800edc2a4cf36a9f622265b4",
+    "event_date": "2026-11-18",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-19T10:57:35Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-19T13:22:40.311015Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "offensive/campaign",
+    "country": "Mali",
+    "city": "Kidal",
+    "lat": 18.4411,
+    "lng": 1.4078,
+    "locations": [
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Mali: The FAMA free 24 soldiers held by terrorists in Kidal",
+    "summary": "According to information reported by the Malian Press Agency (AMAP), the Malian Armed Forces (FAMA) carried out a military operation yesterday, Wednesday 18 November, in the In-Tebezas area, about 110 km southeast of Kidal. This offensive led to the release of 24 soldiers held hostage by armed terrorist groups. .",
+    "sources": [
+      "Seneweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.seneweb.com/fr/news/Afrique/mali-les-fama-liberent-24-soldats-aux-mains-des-terroristes-a-kidal_n_999004087.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.seneweb.com/fr/news/Afrique/mali-les-fama-liberent-24-soldats-aux-mains-des-terroristes-a-kidal_n_999004087.html",
+        "source": "Seneweb",
+        "title": "Mali: The FAMA free 24 soldiers held by terrorists in Kidal",
+        "summary": "According to information reported by the Malian Press Agency (AMAP), the Malian Armed Forces (FAMA) carried out a military operation yesterday, Wednesday 18 November, in the In-Tebezas area, about 110 km southeast of Kidal. This offensive led to the release of 24 soldiers held hostage by armed terrorist groups. .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-19T13:22:40.311015Z",
+    "updated_at": "2026-11-19T13:22:40.311015Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-19T13:22:40.311015Z",
+        "type": "event_created",
+        "source": "Seneweb"
       }
     ],
     "corroboration": "single-source",
     "confidence": "low",
     "independent_source_domains": [
-      "malijet.com"
+      "seneweb.com"
     ],
     "independent_source_count": 1,
     "significance": "MAJOR",
     "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "4666e8615f0aa40fb2d68a4504850c7f04dca922",
+    "event_date": "2026-11-18",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-19T10:47:30Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-19T13:22:37.610625Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Niono",
+    "lat": 14.25,
+    "lng": -5.9833,
+    "locations": [
+      {
+        "name": "Niono",
+        "country": "Mali",
+        "lat": 14.25,
+        "lng": -5.9833,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Niono, Sofara, Niafunké, Kidal: The army announces a series of strikes",
+    "summary": "The Malian army announced that it had carried out airstrikes targeting positions and gatherings of armed groups it described as terrorist in several areas, including the vicinity of Kidal and Nono. These strikes were part of Operation Dogokoloko and resulted in the deaths of several militants. In a statement issued on Thursday, 19 November, the army clarified that, with the support of its partners, the Malian Armed Forces had targeted a camp on Tuesday containing militants and logistical equipment, including motorcycles, located 15 kilometres southeast of Nono.",
+    "sources": [
+      "Malijet",
+      "Sahara Medias (صحراء ميديا)"
+    ],
+    "languages": [
+      "fr",
+      "ar"
+    ],
+    "source_count": 2,
+    "report_urls": [
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312890-niono-sofara-niafunke-kidal-larmee-annonce-une-serie-d.html",
+      "https://saharamedias.net/268789/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312890-niono-sofara-niafunke-kidal-larmee-annonce-une-serie-d.html",
+        "source": "Malijet",
+        "title": "Niono, Sofara, Niafunké, Kidal: The army announces a series of strikes",
+        "summary": "The Malian army is continuing its operations against armed terrorist groups. According to the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) and their partners carried out several strikes on 17 and 18 November 2026, as part of Operation Dougoukoloko. 15 kilometres southeast of Niono, the army struck a terrorist camp .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://saharamedias.net/268789/",
+        "source": "Sahara Medias (صحراء ميديا)",
+        "title": "The Malian army announces the “killing” of armed men in airstrikes near Kidal and Nono",
+        "summary": "The Malian army announced that it had carried out airstrikes targeting positions and gatherings of armed groups it described as terrorist in several areas, including the vicinity of Kidal and Nono. These strikes were part of Operation Dogokoloko and resulted in the deaths of several militants. In a statement issued on Thursday, 19 November, the army clarified that, with the support of its partners, the Malian Armed Forces had targeted a camp on Tuesday containing militants and logistical equipment, including motorcycles, located 15 kilometres southeast of Nono.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-19T13:22:37.610625Z",
+    "updated_at": "2026-11-19T13:22:38.768860Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-19T13:22:37.610625Z",
+        "type": "event_created",
+        "source": "Malijet"
+      },
+      {
+        "at": "2026-11-19T13:22:38.768860Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Sahara Medias (صحراء ميديا)"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "malijet.com",
+      "saharamedias.net"
+    ],
+    "independent_source_count": 2,
+    "significance": "MAJOR",
+    "significance_reasons": [
       "multi-location activity"
+    ]
+  },
+  {
+    "id": "ff1b694197da792872aa10ca2e07e5c038c8b4d0",
+    "event_date": "2026-11-18",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-19T09:29:38Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-19T13:22:37.993124Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Kidal",
+    "lat": 18.4411,
+    "lng": 1.4078,
+    "locations": [
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Mali: 24 soldiers released after airstrikes southeast of Kidal",
+    "summary": "The Malian army has announced the release of 24 of its soldiers who were being held in the In-Tebezas area, southeast of Kidal. The operation, carried out on Wednesday, 18 November 2026, involved air assets and ground troops. The Malian Armed Forces (FAMa) have announced a military operation that led to the release of 24 of their personnel who were being held in the In-Tebezas area, located about 110 kilometres southeast of Kidal.",
+    "sources": [
+      "La Nouvelle Tribune (Bénin)"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://lanouvelletribune.info/2026/11/mali-24-militaires-liberes-apres-des-frappes-aeriennes-au-sud-est-de-kidal/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://lanouvelletribune.info/2026/11/mali-24-militaires-liberes-apres-des-frappes-aeriennes-au-sud-est-de-kidal/",
+        "source": "La Nouvelle Tribune (Bénin)",
+        "title": "Mali: 24 soldiers released after airstrikes southeast of Kidal",
+        "summary": "The Malian army has announced the release of 24 of its soldiers who were being held in the In-Tebezas area, southeast of Kidal. The operation, carried out on Wednesday, 18 November 2026, involved air assets and ground troops. The Malian Armed Forces (FAMa) have announced a military operation that led to the release of 24 of their personnel who were being held in the In-Tebezas area, located about 110 kilometres southeast of Kidal.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-19T13:22:37.993124Z",
+    "updated_at": "2026-11-19T13:22:37.993124Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "security_force",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-19T13:22:37.993124Z",
+        "type": "event_created",
+        "source": "La Nouvelle Tribune (Bénin)"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "lanouvelletribune.info"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
     ]
   },
   {
