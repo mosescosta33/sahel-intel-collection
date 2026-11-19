@@ -1,5 +1,112 @@
 [
   {
+    "id": "bb256ef4e789fae016855cd43f7d98786dda933e",
+    "event_date": "2026-11-18",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-18T19:46:03Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-19T01:59:22.217117Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "raid",
+    "country": "Mali",
+    "city": "Kidal",
+    "lat": 18.4411,
+    "lng": 1.4078,
+    "locations": [
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Gao",
+        "country": "Mali",
+        "lat": 16.2717,
+        "lng": -0.0447,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Kidal: The army frees 24 soldiers held by armed groups",
+    "summary": "Twenty-four Malian soldiers have regained their freedom. According to the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) and their partners freed them on Wednesday, 18 November 2026, at around 1 p.m. The soldiers were being held in the In-Tebezas area, about 110 kilometres southeast of Kidal.",
+    "sources": [
+      "Malijet"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html",
+        "source": "Malijet",
+        "title": "Kidal: The army frees 24 soldiers held by armed groups",
+        "summary": "Twenty-four Malian soldiers have regained their freedom. According to the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) and their partners freed them on Wednesday, 18 November 2026, at around 1 p.m. The soldiers were being held in the In-Tebezas area, about 110 kilometres southeast of Kidal.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-19T01:59:22.217117Z",
+    "updated_at": "2026-11-19T01:59:22.217117Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-19T01:59:22.217117Z",
+        "type": "event_created",
+        "source": "Malijet"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "malijet.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
     "id": "baec74a5d0cae071a7f903a369f41e3671f88d24",
     "event_date": "2026-11-17",
     "event_date_confidence": "publication-proxy",

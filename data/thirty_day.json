@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-11-18T17:25:50.438367Z",
+  "generated_at": "2026-11-19T02:01:10.994428Z",
   "window_days": 30,
-  "cutoff": "2026-10-19",
-  "reports": 838,
-  "incident_reports": 191,
-  "candidate_events": 119,
-  "corroborated_events": 32,
-  "mapped_events": 81,
-  "mapped_locations": 146,
+  "cutoff": "2026-10-20",
+  "reports": 828,
+  "incident_reports": 181,
+  "candidate_events": 110,
+  "corroborated_events": 31,
+  "mapped_events": 77,
+  "mapped_locations": 139,
   "distinct_sources": 86,
   "by_actor": {
-    "State": 68,
+    "State": 63,
     "Other": 31,
-    "JNIM": 12,
+    "JNIM": 8,
     "IS Sahel": 5,
     "Africa Corps/Wagner": 3
   },
   "by_country": {
-    "Mali": 79,
+    "Mali": 70,
     "Niger": 29,
     "Burkina Faso": 11
   },
   "by_event_type": {
-    "security operation": 60,
-    "attack": 16,
+    "security operation": 54,
+    "attack": 15,
     "kidnapping": 9,
     "clash": 8,
     "air/drone strike": 7,
-    "civilian targeting": 6,
     "offensive/campaign": 6,
+    "civilian targeting": 4,
     "raid": 4,
     "IED/explosion": 1,
     "ambush": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 710,
-    "en": 91,
-    "ar": 37
+    "fr": 701,
+    "en": 89,
+    "ar": 38
   },
   "by_confidence": {
-    "moderate": 56,
-    "low": 54,
+    "moderate": 53,
+    "low": 48,
     "moderate-high": 9
   },
   "top_sources": [
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 90
+      "count": 91
     },
     {
       "source_code": "SRC-0006",
@@ -58,22 +58,22 @@
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 55
+      "count": 54
     },
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 50
-    },
-    {
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "count": 33
+      "count": 52
     },
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
       "count": 33
+    },
+    {
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "count": 32
     },
     {
       "source_code": "SRC-0090",
@@ -93,12 +93,12 @@
     {
       "source_code": "SRC-0011",
       "source": "LeFaso.net",
-      "count": 26
+      "count": 25
     },
     {
       "source_code": "SRC-0015",
       "source": "ActuNiger",
-      "count": 22
+      "count": 21
     },
     {
       "source_code": "SRC-0012",
@@ -109,7 +109,7 @@
   "top_locations": [
     {
       "location": "Mali",
-      "count": 28
+      "count": 23
     },
     {
       "location": "Agadez",
@@ -120,27 +120,23 @@
       "count": 15
     },
     {
+      "location": "Kidal",
+      "count": 13
+    },
+    {
       "location": "Bamako",
       "count": 12
     },
     {
-      "location": "Kidal",
-      "count": 12
-    },
-    {
       "location": "Ménaka",
-      "count": 12
-    },
-    {
-      "location": "Gao",
-      "count": 8
+      "count": 10
     },
     {
       "location": "Timbuktu",
       "count": 7
     },
     {
-      "location": "Sévaré",
+      "location": "Gao",
       "count": 6
     },
     {
@@ -154,14 +150,13 @@
     {
       "location": "Niger",
       "count": 5
+    },
+    {
+      "location": "Niono",
+      "count": 5
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-20",
-      "reports": 47,
-      "events": 8
-    },
     {
       "date": "2026-10-21",
       "reports": 44,
@@ -304,11 +299,123 @@
     },
     {
       "date": "2026-11-18",
-      "reports": 18,
+      "reports": 24,
+      "events": 1
+    },
+    {
+      "date": "2026-11-19",
+      "reports": 0,
       "events": 0
     }
   ],
   "latest_events": [
+    {
+      "id": "bb256ef4e789fae016855cd43f7d98786dda933e",
+      "event_date": "2026-11-18",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-18T19:46:03Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T01:59:22.217117Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "raid",
+      "country": "Mali",
+      "city": "Kidal",
+      "lat": 18.4411,
+      "lng": 1.4078,
+      "locations": [
+        {
+          "name": "Kidal",
+          "country": "Mali",
+          "lat": 18.4411,
+          "lng": 1.4078,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Gao",
+          "country": "Mali",
+          "lat": 16.2717,
+          "lng": -0.0447,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Kidal: The army frees 24 soldiers held by armed groups",
+      "summary": "Twenty-four Malian soldiers have regained their freedom. According to the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) and their partners freed them on Wednesday, 18 November 2026, at around 1 p.m. The soldiers were being held in the In-Tebezas area, about 110 kilometres southeast of Kidal.",
+      "sources": [
+        "Malijet"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html",
+          "source": "Malijet",
+          "title": "Kidal: The army frees 24 soldiers held by armed groups",
+          "summary": "Twenty-four Malian soldiers have regained their freedom. According to the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) and their partners freed them on Wednesday, 18 November 2026, at around 1 p.m. The soldiers were being held in the In-Tebezas area, about 110 kilometres southeast of Kidal.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-19T01:59:22.217117Z",
+      "updated_at": "2026-11-19T01:59:22.217117Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "security_force",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-19T01:59:22.217117Z",
+          "type": "event_created",
+          "source": "Malijet"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "malijet.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "multi-location activity"
+      ]
+    },
     {
       "id": "baec74a5d0cae071a7f903a369f41e3671f88d24",
       "event_date": "2026-11-17",
@@ -3445,103 +3552,117 @@
       "significance_reasons": [
         "limited currently observed significance"
       ]
-    },
-    {
-      "id": "66014993287c9f9845a08984dd7c9223668c6369",
-      "event_date": "2026-11-09",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-14T09:21:14Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T11:39:37.785415Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Timbuktu",
-      "lat": 16.7666,
-      "lng": -3.0026,
-      "locations": [
-        {
-          "name": "Timbuktu",
-          "country": "Mali",
-          "lat": 16.7666,
-          "lng": -3.0026,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Why the Malian army is targeting the communication channels of armed groups in the north",
-      "summary": "The Malian army claims to have intercepted a consignment of 2,000 portable radios north of Timbuktu, in northern Mali, on Monday 9 November 2026. The report from the General Staff of the Malian Armed Forces (FAMa), made public on Wednesday, 11 November, states that the shipment also included a pick-up truck and eight motorbikes, and that this equipment was intended to supply armed groups in the region.",
-      "sources": [
-        "La Nouvelle Tribune (Bénin)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://lanouvelletribune.info/2026/11/pourquoi-larmee-malienne-cible-les-moyens-de-communication-des-groupes-armes-dans-le-nord/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://lanouvelletribune.info/2026/11/pourquoi-larmee-malienne-cible-les-moyens-de-communication-des-groupes-armes-dans-le-nord/",
-          "source": "La Nouvelle Tribune (Bénin)",
-          "title": "Why the Malian army is targeting the communication channels of armed groups in the north",
-          "summary": "The Malian army claims to have intercepted a consignment of 2,000 portable radios north of Timbuktu, in northern Mali, on Monday 9 November 2026. The report from the General Staff of the Malian Armed Forces (FAMa), made public on Wednesday, 11 November, states that the shipment also included a pick-up truck and eight motorbikes, and that this equipment was intended to supply armed groups in the region.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-14T11:39:37.785415Z",
-      "updated_at": "2026-11-14T11:39:37.785415Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-14T11:39:37.785415Z",
-          "type": "event_created",
-          "source": "La Nouvelle Tribune (Bénin)"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "lanouvelletribune.info"
-      ],
-      "independent_source_count": 1,
-      "significance": "ROUTINE",
-      "significance_reasons": [
-        "limited currently observed significance"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-18T22:03:16Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T01:59:26.399101Z",
+      "discovered_at": "2026-11-19T01:59:26.399101Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0165",
+      "source": "Hespress (هسبريس)",
+      "language": "ar",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "22:03 Mali announces the release of 24 soldiers from captivity",
+      "url": "https://www.hespress.com/%d9%85%d8%a7%d9%84%d9%8a-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1-24-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%b3%d8%b1-1842037.html"
+    },
+    {
+      "published_at": "2026-11-18T21:51:20Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T01:59:23.419423Z",
+      "discovered_at": "2026-11-19T01:59:23.419423Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "raid",
+      "candidate_event": false,
+      "title": "Kidal: 24 FAMa soldiers freed during an operation in In-Tebezas",
+      "url": "https://amap.ml/2026/11/18/kidal-24-militaires-fama-liberes-lors-dune-operation-a-in-tebezas/"
+    },
+    {
+      "published_at": "2026-11-18T21:15:09Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T01:59:23.477313Z",
+      "discovered_at": "2026-11-19T01:59:23.477313Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Ségou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Ségou: Adama Téréta presents the national flag to the Governor",
+      "url": "https://amap.ml/2026/11/18/segou-adama-tereta-remet-le-drapeau-national-au-gouverneur/"
+    },
+    {
+      "published_at": "2026-11-18T21:01:13Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T01:59:21.779932Z",
+      "discovered_at": "2026-11-19T01:59:21.779932Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0053",
+      "source": "Human Rights Watch Africa",
+      "language": "en",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Burkina Faso Targets Critics in Exile",
+      "url": "https://www.hrw.org/news/2026/11/18/burkina-faso-targets-critics-in-exile"
+    },
+    {
+      "published_at": "2026-11-18T19:47:29Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T01:59:22.273418Z",
+      "discovered_at": "2026-11-19T01:59:22.273418Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "raid",
+      "candidate_event": false,
+      "title": "Kidal: 24 Malian soldiers released during a joint operation by the FAMa",
+      "url": "https://bamada.net/kidal-24-militaires-maliens-liberes-lors-dune-operation-conjointe-des-fama"
+    },
+    {
+      "published_at": "2026-11-18T19:46:03Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-19T01:59:22.217117Z",
+      "discovered_at": "2026-11-19T01:59:22.217117Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "raid",
+      "candidate_event": true,
+      "title": "Kidal: The army frees 24 soldiers held by armed groups",
+      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html"
+    },
     {
       "published_at": "2026-11-18T18:23:00Z",
       "published_date_source": "html:time",
@@ -4153,114 +4274,6 @@
       "candidate_event": false,
       "title": "Mali: The FAMa target bases and logistics depots of armed groups in Abeïbara and Sévaré",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGxKYVRuTUg0LW9SNFdpMklIdmlaTWg5NVlDZzlFV2szMWZfanY5dFljRmNrNnFkdXlkY0lFX2FQb2hOM1FqMjVpN1V6emRHQkQwcUI4bnhXcndlOWlFU3Q5UGxZVmNMd3dSMHlOallrWGxGaG03cV9vQVRINERzcjlvNy0zbG5VT2Q2UkE5aWtLV1dPWGRNMEhOSWFnSmFkaVdDUXhGaDJVNkk1X19VRXZB?oc=5"
-    },
-    {
-      "published_at": "2026-11-17T10:37:19Z",
-      "published_date_source": "jsonld:dateCreated",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T13:36:42.884303Z",
-      "discovered_at": "2026-11-17T13:36:42.884303Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0015",
-      "source": "ActuNiger",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Customs cooperation: Nigerian trainee officers on an immersion programme in Niamey to familiarise themselves with border security strategies",
-      "url": "https://www.actuniger.com/societe/cooperation-douaniere-des-officiers-stagiaires-nigerians-en-immersion-a-niamey-pour-simpregner-des-strategies-de-securisation-des-frontieres.html"
-    },
-    {
-      "published_at": "2026-11-17T10:35:48Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T13:36:37.614141Z",
-      "discovered_at": "2026-11-17T13:36:37.614141Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Sévaré",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Mali: The FAMa target bases and...",
-      "url": "https://www.maliweb.net/insecurite/mali-les-fama-ciblent-des-bases-et-depots-logistiques-de-groupes-3121584.html"
-    },
-    {
-      "published_at": "2026-11-17T10:34:44Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-18T07:41:27.203894Z",
-      "discovered_at": "2026-11-18T07:41:27.203894Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Bamako, the new battleground for influence, or why the AFRICOM Commander visited the arms fair...",
-      "url": "https://www.maliweb.net/armee/bamako-nouveau-terrain-de-la-lutte-dinfluence-ou-pourquoi-le-3121586.html"
-    },
-    {
-      "published_at": "2026-11-17T10:22:19Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T13:36:43.836478Z",
-      "discovered_at": "2026-11-17T13:36:43.836478Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "law enforcement",
-      "candidate_event": false,
-      "title": "Mali: Nearly 80,000 people expelled from Guinea already repatriated, 13 deaths recorded",
-      "url": "https://lanouvelletribune.info/2026/11/mali-pres-de-80-000-personnes-refoulees-de-guinee-deja-rapatriees-13-deces-enregistres/"
-    },
-    {
-      "published_at": "2026-11-17T10:21:59Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T23:37:11.260605Z",
-      "discovered_at": "2026-11-17T23:37:11.260605Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Malian Armed Forces: New aircraft to dominate the skies",
-      "url": "https://www.lessor.ml/posts/forces-armees-maliennes-de-nouveaux-appareils-pour-dominer-le-ciel-6afc2ac79eb2a"
-    },
-    {
-      "published_at": "2026-11-17T10:16:21Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T13:36:38.629897Z",
-      "discovered_at": "2026-11-17T13:36:38.629897Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0014",
-      "source": "Agence Nigérienne de Presse",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Niger: Police Commissioner General Aboubacar Issaka Oumarou, new Director General of the National Police",
-      "url": "https://anp.ne/niger-le-commissaire-general-de-police-aboubacar-issaka-oumarou-nouveau-dg-de-la-police-nationale/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
