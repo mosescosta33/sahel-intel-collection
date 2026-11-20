@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-20T07:32:09.100110Z",
+  "generated_at": "2026-11-20T17:06:57.907040Z",
   "window_days": 30,
   "cutoff": "2026-10-21",
-  "reports": 814,
-  "incident_reports": 178,
+  "reports": 794,
+  "incident_reports": 173,
   "candidate_events": 108,
   "corroborated_events": 31,
   "mapped_events": 78,
@@ -35,8 +35,8 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 695,
-    "en": 83,
+    "fr": 677,
+    "en": 81,
     "ar": 36
   },
   "by_confidence": {
@@ -48,27 +48,27 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 92
+      "count": 90
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 72
+      "count": 71
     },
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 54
+      "count": 52
     },
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 54
+      "count": 50
     },
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
-      "count": 34
+      "count": 33
     },
     {
       "source_code": "SRC-0079",
@@ -76,29 +76,29 @@
       "count": 32
     },
     {
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
       "count": 30
     },
     {
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
       "count": 29
     },
     {
       "source_code": "SRC-0014",
       "source": "Agence Nigérienne de Presse",
-      "count": 27
+      "count": 28
     },
     {
       "source_code": "SRC-0011",
       "source": "LeFaso.net",
-      "count": 25
+      "count": 26
     },
     {
       "source_code": "SRC-0015",
       "source": "ActuNiger",
-      "count": 23
+      "count": 22
     },
     {
       "source_code": "SRC-0017",
@@ -304,7 +304,7 @@
     },
     {
       "date": "2026-11-20",
-      "reports": 8,
+      "reports": 15,
       "events": 1
     }
   ],
@@ -3611,6 +3611,114 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-20T13:12:55Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-20T17:04:38.210834Z",
+      "discovered_at": "2026-11-20T17:04:38.210834Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": "Africa Corps/Wagner",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "raid",
+      "candidate_event": false,
+      "title": "Mali: The inside story of the “release” of soldiers held captive by the separatist FLA group",
+      "url": "https://www.rfi.fr/fr/afrique/20261120-mali-les-dessous-de-la-lib%C3%A9ration-de-soldats-prisonniers-du-groupe-ind%C3%A9pendantiste-fla"
+    },
+    {
+      "published_at": "2026-11-20T12:48:08Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-20T17:04:42.118067Z",
+      "discovered_at": "2026-11-20T17:04:42.118067Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Agadez",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Niger: What we know about the fuel convoy escorted by Algeria",
+      "url": "https://fr.allafrica.com/stories/202611200445.html"
+    },
+    {
+      "published_at": "2026-11-20T12:26:26Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-20T17:04:44.126290Z",
+      "discovered_at": "2026-11-20T17:04:44.126290Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0034",
+      "source": "TV5MONDE Afrique",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Image Published on 20 November 2026 Africa Sahel: The ICG think tank advocates dialogue between states and JNIM jihadists The International Crisis Group (ICG) think tank recommended on Friday that the Sahel states engage in dialogue with JNIM jihadists…",
+      "url": "https://information.tv5monde.com/afrique/sahel-le-groupe-de-reflexion-icg-preconise-un-dialogue-entre-les-etats-et-les-jihadistes-du-jnim-2846495"
+    },
+    {
+      "published_at": "2026-11-20T11:51:16Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-20T17:04:42.784998Z",
+      "discovered_at": "2026-11-20T17:04:42.784998Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0013",
+      "source": "Wakat Sera",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Burkina Faso: The celebration of 11 December 2026 announced to “reaffirm national sovereignty”",
+      "url": "https://www.wakatsera.com/burkina-la-celebration-du-11-decembre-2026-annoncee-pour-reaffirmer-la-souverainete-nationale/"
+    },
+    {
+      "published_at": "2026-11-20T09:55:41Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-20T17:04:36.451726Z",
+      "discovered_at": "2026-11-20T17:04:36.451726Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Burkina Faso: A major military parade announced in Ouagadougou for 11 December 2026",
+      "url": "https://burkina24.com/2026/11/20/burkina-faso-une-grande-parade-militaire-annoncee-a-ouagadougou-pour-le-11-decembre-2026/"
+    },
+    {
+      "published_at": "2026-11-20T08:35:09Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-20T17:04:37.487735Z",
+      "discovered_at": "2026-11-20T17:04:37.487735Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Dosso",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Dosso: The Minister of Agriculture and Livestock at the irrigated sites of Dallol",
+      "url": "https://anp.ne/dosso-le-ministre-de-lagriculture-et-de-lelevage-sur-les-sites-irrigues-du-dallol/"
+    },
+    {
       "published_at": "2026-11-20T05:53:52Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -3753,6 +3861,24 @@
       "candidate_event": false,
       "title": "The International Crisis Group recommends negotiations between the Sahelian military regimes and JNIM",
       "url": "https://www.rfi.fr/fr/afrique/20261120-international-crisis-group-recommande-des-n%C3%A9gociations-entre-les-r%C3%A9gimes-militaires-sah%C3%A9liens-et-le-jnim"
+    },
+    {
+      "published_at": "2026-11-20T00:00:00Z",
+      "published_date_source": "visible-publication-label",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-20T17:04:44.691063Z",
+      "discovered_at": "2026-11-20T17:04:44.691063Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
+      "language": "fr",
+      "actor": "State",
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Burkina Faso/Security: Minister Mahamadou Sana focuses on pooling resources and coordinating action to enhance effectiveness (…)",
+      "url": "https://lefaso.net/spip.php?article150928="
     },
     {
       "published_at": "2026-11-19T23:59:25Z",
@@ -4203,132 +4329,6 @@
       "candidate_event": false,
       "title": "Burkina Faso: Report of the Council of Ministers meeting held on Thursday, 19 November 2026",
       "url": "https://lefaso.net/spip.php?article150908="
-    },
-    {
-      "published_at": "2026-11-18T22:03:16Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-19T01:59:26.399101Z",
-      "discovered_at": "2026-11-19T01:59:26.399101Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0165",
-      "source": "Hespress (هسبريس)",
-      "language": "ar",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "22:03 Mali announces the release of 24 soldiers from captivity",
-      "url": "https://www.hespress.com/%d9%85%d8%a7%d9%84%d9%8a-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1-24-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%b3%d8%b1-1842037.html"
-    },
-    {
-      "published_at": "2026-11-18T21:51:20Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-19T01:59:23.419423Z",
-      "discovered_at": "2026-11-19T01:59:23.419423Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "raid",
-      "candidate_event": false,
-      "title": "Kidal: 24 FAMa soldiers freed during an operation in In-Tebezas",
-      "url": "https://amap.ml/2026/11/18/kidal-24-militaires-fama-liberes-lors-dune-operation-a-in-tebezas/"
-    },
-    {
-      "published_at": "2026-11-18T21:15:09Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-19T01:59:23.477313Z",
-      "discovered_at": "2026-11-19T01:59:23.477313Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Ségou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Ségou: Adama Téréta presents the national flag to the Governor",
-      "url": "https://amap.ml/2026/11/18/segou-adama-tereta-remet-le-drapeau-national-au-gouverneur/"
-    },
-    {
-      "published_at": "2026-11-18T21:01:13Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-19T01:59:21.779932Z",
-      "discovered_at": "2026-11-19T01:59:21.779932Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0053",
-      "source": "Human Rights Watch Africa",
-      "language": "en",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "Burkina Faso Targets Critics in Exile",
-      "url": "https://www.hrw.org/news/2026/11/18/burkina-faso-targets-critics-in-exile"
-    },
-    {
-      "published_at": "2026-11-18T19:47:29Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-19T01:59:22.273418Z",
-      "discovered_at": "2026-11-19T01:59:22.273418Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "raid",
-      "candidate_event": false,
-      "title": "Kidal: 24 Malian soldiers released during a joint operation by the FAMa",
-      "url": "https://bamada.net/kidal-24-militaires-maliens-liberes-lors-dune-operation-conjointe-des-fama"
-    },
-    {
-      "published_at": "2026-11-18T19:46:03Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-19T01:59:22.217117Z",
-      "discovered_at": "2026-11-19T01:59:22.217117Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "raid",
-      "candidate_event": true,
-      "title": "Kidal: The army frees 24 soldiers held by armed groups",
-      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html"
-    },
-    {
-      "published_at": "2026-11-18T18:23:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-18T17:23:11.016860Z",
-      "discovered_at": "2026-11-18T17:23:11.016860Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0017",
-      "source": "Le Sahel",
-      "language": "fr",
-      "actor": "State",
-      "country": "Niger",
-      "city": "Tahoua",
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "Tahoua: Significant quantity of weapons and ammunition seized in Ibecetane",
-      "url": "https://www.lesahel.org/tahoua-saisie-dune-importante-quantite-darmes-et-de-munitions-a-ibecetane/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
