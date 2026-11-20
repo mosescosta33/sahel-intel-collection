@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:12:10.867902Z",
+  "generated_at": "2026-11-20T07:32:09.355586Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
@@ -8,40 +8,37 @@
   },
   "countries": {
     "Mali": {
-      "score": 79,
+      "score": 73,
       "level": "HIGH",
       "trend": "STABLE",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 16,
-      "events_30d": 68,
-      "baseline_7d_equivalent": 15.8,
-      "tempo_ratio": 1.01,
+      "events_7d": 15,
+      "events_30d": 69,
+      "baseline_7d_equivalent": 16.4,
+      "tempo_ratio": 0.92,
       "drivers": [
-        "16 fused candidate event(s) in 7 days",
+        "15 fused candidate event(s) in 7 days",
         "1 JNIM/IS Sahel-linked event(s)",
-        "13 significant/major event(s)",
-        "1 civilian-threat indicator(s)",
-        "activity across 12 named locations"
+        "11 significant/major event(s)",
+        "activity across 6 named locations"
       ],
-      "independent_domains_7d": 10
+      "independent_domains_7d": 11
     },
     "Burkina Faso": {
-      "score": 35,
-      "level": "MEDIUM",
+      "score": 0,
+      "level": "INSUFFICIENT DATA",
       "trend": "STABLE",
-      "confidence": "MODERATE",
-      "assessment_status": "ASSESSED",
-      "events_7d": 2,
+      "confidence": "LOW",
+      "assessment_status": "INSUFFICIENT_DATA",
+      "events_7d": 0,
       "events_30d": 11,
-      "baseline_7d_equivalent": 2.7,
-      "tempo_ratio": 0.8,
+      "baseline_7d_equivalent": 3.3,
+      "tempo_ratio": 0.23,
       "drivers": [
-        "2 fused candidate event(s) in 7 days",
-        "1 JNIM/IS Sahel-linked event(s)",
-        "2 significant/major event(s)"
+        "insufficient fused-event evidence for a current 7-day threat classification"
       ],
-      "independent_domains_7d": 2
+      "independent_domains_7d": 0
     },
     "Niger": {
       "score": 34,
@@ -50,9 +47,9 @@
       "confidence": "MODERATE",
       "assessment_status": "ASSESSED",
       "events_7d": 2,
-      "events_30d": 27,
-      "baseline_7d_equivalent": 7.6,
-      "tempo_ratio": 0.35,
+      "events_30d": 26,
+      "baseline_7d_equivalent": 7.3,
+      "tempo_ratio": 0.36,
       "drivers": [
         "2 fused candidate event(s) in 7 days",
         "2 significant/major event(s)",

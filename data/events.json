@@ -1,5 +1,93 @@
 [
   {
+    "id": "ae0faa2af964210ad96163f6c38918e2c6440157",
+    "event_date": "2026-11-20",
+    "event_date_confidence": "publication-proxy",
+    "event_date_source": "jsonld:datePublished",
+    "published_at": "2026-11-20T00:56:39Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-20T07:29:11.127134Z",
+    "actor": "State",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "air/drone strike",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Analysis: Russia's \"Africa Corps\" uses a new drone as operations escalate in Mali",
+    "summary": "A new analysis, seen by Reuters, has revealed that the Russian Africa Corps forces operating in Mali deployed a new type of armed drone this year, at a time when they intensified their airstrikes in an attempt to regain the momentum they lost following an attack by extremist and separatist militants in April.",
+    "sources": [
+      "Asharq News Arabic"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://asharq.com/politics/203768/%D9%81%D9%8A%D9%84%D9%82-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D8%A7%D9%84%D9%8A/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://asharq.com/politics/203768/%D9%81%D9%8A%D9%84%D9%82-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D8%A7%D9%84%D9%8A/",
+        "source": "Asharq News Arabic",
+        "title": "Analysis: Russia's \"Africa Corps\" uses a new drone as operations escalate in Mali",
+        "summary": "A new analysis, seen by Reuters, has revealed that the Russian Africa Corps forces operating in Mali deployed a new type of armed drone this year, at a time when they intensified their airstrikes in an attempt to regain the momentum they lost following an attack by extremist and separatist militants in April.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-20T07:29:11.127134Z",
+    "updated_at": "2026-11-20T07:29:11.127134Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-20T07:29:11.127134Z",
+        "type": "event_created",
+        "source": "Asharq News Arabic"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "asharq.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
+    ]
+  },
+  {
     "id": "be019d103e32bf0450c01f54840bf63bed3cc1e8",
     "event_date": "2026-11-19",
     "event_date_confidence": "explicit-text",
@@ -30,16 +118,18 @@
       }
     ],
     "title": "Gao: One dead and three injured in an explosive device blast in Edang",
-    "summary": "One child lost his life and three people were seriously injured, including two children, in the explosion of an explosive device on Thursday at around 3 p.m. in the village of Edang, Anchawadj commune, Gao region. According to local sources, children reportedly picked up the device before handing it over to a scrap metal dealer.",
+    "summary": "One child lost his life and three people were seriously injured, including two children, in the explosion of an explosive device this Thursday at around 3 p.m. in the village of Edang, Anchawadj commune, Gao region. According to local sources, children are said to have picked up the device before handing it over to a scrap metal dealer.",
     "sources": [
-      "Studio Tamani"
+      "Studio Tamani",
+      "Bamada"
     ],
     "languages": [
       "fr"
     ],
-    "source_count": 1,
+    "source_count": 2,
     "report_urls": [
-      "https://www.studiotamani.org/210478-gao-un-mort-et-trois-blesses-dans-lexplosion-dun-engin-explosif-a-edang"
+      "https://www.studiotamani.org/210478-gao-un-mort-et-trois-blesses-dans-lexplosion-dun-engin-explosif-a-edang",
+      "https://bamada.net/gao-un-mort-et-trois-blesses-dans-lexplosion-dun-engin-explosif-a-edang"
     ],
     "report_summaries": [
       {
@@ -59,10 +149,28 @@
         ],
         "civilian_targeting_flag": false,
         "casualty_claims": []
+      },
+      {
+        "url": "https://bamada.net/gao-un-mort-et-trois-blesses-dans-lexplosion-dun-engin-explosif-a-edang",
+        "source": "Bamada",
+        "title": "Gao: One dead and three injured in an explosive device blast in Edang",
+        "summary": "One child lost his life and three people were seriously injured, including two children, in the explosion of an explosive device this Thursday at around 3 p.m. in the village of Edang, Anchawadj commune, Gao region. According to local sources, children are said to have picked up the device before handing it over to a scrap metal dealer.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "civilian"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
       }
     ],
     "created_at": "2026-11-19T13:22:37.931779Z",
-    "updated_at": "2026-11-19T13:22:37.931779Z",
+    "updated_at": "2026-11-20T07:29:08.345195Z",
     "extraction_confidence": "low",
     "victim_categories": [
       "civilian"
@@ -82,17 +190,123 @@
         "at": "2026-11-19T13:22:37.931779Z",
         "type": "event_created",
         "source": "Studio Tamani"
+      },
+      {
+        "at": "2026-11-20T07:29:08.345195Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "studiotamani.org",
+      "bamada.net"
+    ],
+    "independent_source_count": 2,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
+    ]
+  },
+  {
+    "id": "56df8402d46af325b64303aa452d4f7af1faa9d9",
+    "event_date": "2026-11-18",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-20T01:26:20Z",
+    "published_date_source": "jsonld:dateCreated",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-20T07:29:08.778027Z",
+    "actor": "JNIM",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "clash",
+    "country": "Mali",
+    "city": "Kidal",
+    "lat": 18.4411,
+    "lng": 1.4078,
+    "locations": [
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Mali: The Malian army announces the release of 24 soldiers during a special operation near Kidal",
+    "summary": "The General Staff of the Malian Armed Forces announced the release, on Wednesday, 18 November, of twenty-four (24) soldiers from the Malian Armed Forces (FAMa) who had been held hostage in the Kidal region, following an air-land operation. The operation took place on Wednesday, 18 November, at around 1 p.m. in the In-Tebezas area, located approximately 110 kilometres southeast of Kidal.",
+    "sources": [
+      "ActuNiger"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.actuniger.com/international/mali-larmee-malienne-annonce-la-liberation-de-24-soldats-lors-dune-operation-speciale-pres-de-kidal.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.actuniger.com/international/mali-larmee-malienne-annonce-la-liberation-de-24-soldats-lors-dune-operation-speciale-pres-de-kidal.html",
+        "source": "ActuNiger",
+        "title": "Mali: The Malian army announces the release of 24 soldiers during a special operation near Kidal",
+        "summary": "The General Staff of the Malian Armed Forces announced the release, on Wednesday, 18 November, of twenty-four (24) soldiers from the Malian Armed Forces (FAMa) who had been held hostage in the Kidal region, following an air-land operation. The operation took place on Wednesday, 18 November, at around 1 p.m. in the In-Tebezas area, located approximately 110 kilometres southeast of Kidal.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-20T07:29:08.778027Z",
+    "updated_at": "2026-11-20T07:29:08.778027Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-20T07:29:08.778027Z",
+        "type": "event_created",
+        "source": "ActuNiger"
       }
     ],
     "corroboration": "single-source",
     "confidence": "low",
     "independent_source_domains": [
-      "studiotamani.org"
+      "actuniger.com"
     ],
     "independent_source_count": 1,
-    "significance": "SIGNIFICANT",
+    "significance": "ROUTINE",
     "significance_reasons": [
-      "operational security event"
+      "limited currently observed significance"
     ]
   },
   {
