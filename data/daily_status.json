@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
   "reporting_date": "2026-11-21",
-  "generated_at": "2026-11-21T12:49:22.088740Z",
+  "generated_at": "2026-11-21T21:49:11.962935Z",
   "coverage": [
     "Mali",
     "Burkina Faso",
@@ -11,65 +11,113 @@
   "classification": "OPEN SOURCE",
   "collection_confidence": "LOW",
   "headline_metrics": {
-    "events_occurring_on_date": 0,
-    "records_held_for_review": 0,
+    "events_occurring_on_date": 1,
+    "records_held_for_review": 1,
     "multi_source_events": 0,
-    "reports_collected_on_date": 3,
-    "reports_published_on_date": 2,
+    "reports_collected_on_date": 16,
+    "reports_published_on_date": 11,
     "newly_discovered_older_events": 0,
-    "events_awaiting_date_verification": 0,
-    "distinct_sources_collected": 3
+    "events_awaiting_date_verification": 1,
+    "distinct_sources_collected": 13
   },
-  "executive_assessment": "Reporting collected on 2026-11-21 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 3 reports from 3 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.",
+  "executive_assessment": "Reporting dated 2026-11-21 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.",
   "briefing_sections": [
     {
       "heading": "Assessment",
-      "text": "Reporting collected on 2026-11-21 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 3 reports from 3 sources, but the automated incident record needs further review. This is not evidence of calm on the ground."
+      "text": "Reporting dated 2026-11-21 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day."
     },
     {
       "heading": "Mali",
-      "text": "3 retained reports were collected for Mali. 0 fused candidate events currently carry this reporting date. The Sahel’s Dangerous Calm: What Does the Lull in Jihadist Fighting Really Hide?: The reported easing of fighting between jihadist rivals in the Mali-Burkina Faso-Niger tri-border region may look like relief for governments struggling to contain an expanding insurgency. It should not be read that way. After… Over 76,000 Burkinabés repatriated from Guinea following measures against illegal gold mining: Since the beginning of November, Guinea has intensified operations against illegal gold panning, particularly in the gold-rich Siguiri region (north-east). The government accuses this activity of causing significant… GOONGA TAN: Mali: After Kidal, a lull...: GOONGA TAN: Mali: After Kidal, a lull? The press release from the Armed Forces' Directorate of Information and Public Relations (DIRPA), published on 23 October 2026, deserves more than a mere cursory reading. Behind the…"
+      "text": "12 retained reports were collected for Mali. 1 fused candidate event currently carry this reporting date. Jamā’at Nuṣrat al-Islām Wa-l-Muslimīn — The Russian Occupation Army’s Aggression and Its Shelling of…: This page contains sensitive material and cannot be accessed without being logged in to a registered Jihadology account. To access the page, please login or register your account here. To learn more about why certain pages are… Koulikoro: Gérémi Dolo elected President of the Regional Office of the CDM in the region: Koulikoro, 21 November (AMAP) During a ceremony held this Saturday in the conference room of the traditional authorities and leaders, the regional executive of the Collective for the Defence of the Military, chaired by Mr… Mali: 2,261 tanker trucks have arrived in Bamako since the beginning of November: A new convoy of 756 tanker trucks carrying petroleum products arrived in Bamako on the night of Friday, 20 November to Saturday, 21 November 2026, bringing the number of fuel transport vehicles sent to the Malian capital since… 9 additional Mali reports are summarized individually in the source records."
     },
     {
       "heading": "Burkina Faso",
-      "text": "No retained Burkina Faso report is recorded for this collection date. 0 fused candidate events currently carry this event date."
+      "text": "4 retained reports were collected for Burkina Faso. 0 fused candidate events currently carry this reporting date. Fire at the ZACA project: The Minister of Security calls for compliance with the regulations for…: On Friday, 20 November 2026, the Minister of Security, Comrade Mahamadou SANA, visited the site of the fire that occurred at the ZACA project in Ouagadougou, in order to assess the damage and familiarise himself with the… Fire at the ZACA project: The Minister of Security calls for compliance with the regulations for the…: On Friday, 20 November 2026, the Minister of Security, Comrade Mahamadou SANA, visited the site of the fire that occurred at the ZACA project in Ouagadougou, in order to assess the damage and familiarise himself with the… Burkina Faso/Literature: Sylvestre Yakoro recounts his captivity in his book “Bɔbɔkɛ, VDP contre…: Burkina Faso/Literature: Sylvestre Yakoro recounts his captivity in his book \"Bɔbɔkɛ, VDP against ignorance\" On Saturday, 21 November 2026, in Ouagadougou, the Burkinabé writer Sylvestre Yakoro held a book signing for his work… 1 additional Burkina Faso report is summarized individually in the source records."
     },
     {
       "heading": "Niger",
       "text": "No retained Niger report is recorded for this collection date. 0 fused candidate events currently carry this event date."
     },
     {
+      "heading": "Reported incidents",
+      "text": "Malijet reports ‘Operation Dougoukoloko: The army announces strikes near Kidal and Niono’ in Kidal, Mali. This account still needs independent confirmation."
+    },
+    {
+      "heading": "Reporting in context",
+      "text": "La Nouvelle Tribune (Bénin) published ‘Mali: A Russian officer highlights the unprecedented nature of the raid that freed 24 soldiers’. It may provide useful context, but the extracted details do not establish a new incident on this date."
+    },
+    {
       "heading": "What remains unclear",
-      "text": "Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
+      "text": "The date of 1 operational report still needs checking. Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
     }
   ],
   "key_judgments": [
-    "No fused candidate event currently has 2026-11-21 as its event date; collection confidence for that date is low."
+    "State accounts for the largest share of same-day fused event activity (1 event(s)).",
+    "Mali contains the largest same-day event count (1 event(s)).",
+    "1 same-day event(s) remain single-source and should be treated as provisional.",
+    "1 collected operational/candidate report(s) still use an unresolved or proxy event date and require temporal verification."
   ],
-  "significant_events": [],
+  "significant_events": [
+    {
+      "id": "42dc81c237534089cd629b97483ef130d8cd5394",
+      "title": "Operation Dougoukoloko: The army announces strikes near Kidal and Niono",
+      "summary": "In a statement released on Saturday, 21 November, the General Staff of the Armed Forces said it had carried out several airstrikes against armed terrorist groups between 18 and 21 November 2026, in the regions of Kidal and Niono. The Malian Armed Forces (FAMa) are continuing Operation Dougoukoloko with the support of their partners . They ensure the surveillance and security of the territory.",
+      "actor": "State",
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_date": "2026-11-21",
+      "event_date_confidence": "explicit-text",
+      "publication_time": "2026-11-21T15:27:49Z",
+      "collection_time": "2026-11-21T21:46:17.559957Z",
+      "verification_date": null,
+      "verification_basis": "not independently corroborated",
+      "last_evidence_update": "2026-11-21T21:46:17.559957Z",
+      "confidence": "moderate",
+      "corroboration": "single-source",
+      "significance": "MAJOR",
+      "source_count": 1,
+      "independent_source_count": 1,
+      "sources": [
+        "Malijet"
+      ],
+      "independent_source_domains": [
+        "malijet.com"
+      ],
+      "report_urls": [
+        "https://malijet.com/actualte_dans_les_regions_du_mali/312920-operation-dougoukoloko-larmee-annonce-des-frappes-pres-de.html"
+      ],
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null
+    }
+  ],
   "what_changed_since_yesterday": [
-    "Collection volume: -21 retained report(s) versus 2026-11-20 (24 → 3).",
-    "Actor-level same-day fused event counts are unchanged from the previous date."
+    "State: +1 same-day fused event(s) versus 2026-11-20 (0 → 1).",
+    "Collection volume: -8 retained report(s) versus 2026-11-20 (24 → 16)."
   ],
   "emerging_patterns": [
-    "State 7-day activity is lower than the preceding 7-day window (14 → 5)."
+    "State 7-day activity is lower than the preceding 7-day window (14 → 6)."
   ],
   "intelligence_gaps": [
+    "1 same-day event(s) lack independent multi-source corroboration.",
+    "1 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates.",
     "Collection confidence is low, so absence of reporting should not be interpreted as absence of activity."
   ],
   "actor_counts": {
     "JNIM": 0,
     "IS Sahel": 0,
-    "State": 0
+    "State": 1
   },
   "country_counts": {
-    "Mali": 0,
+    "Mali": 1,
     "Burkina Faso": 0,
     "Niger": 0
   },
   "country_reporting_counts": {
-    "Mali": 3,
-    "Burkina Faso": 0,
+    "Mali": 12,
+    "Burkina Faso": 4,
     "Niger": 0
   },
   "actor_profiles": {
@@ -90,29 +138,44 @@
       "event_types": []
     },
     "State": {
-      "events": 0,
-      "delta_vs_previous_day": 0,
-      "current_7d": 5,
+      "events": 1,
+      "delta_vs_previous_day": 1,
+      "current_7d": 6,
       "previous_7d": 14,
-      "countries": [],
-      "event_types": []
+      "countries": [
+        [
+          "Mali",
+          1
+        ]
+      ],
+      "event_types": [
+        [
+          "security operation",
+          1
+        ]
+      ]
     }
   },
   "country_profiles": {
     "Mali": {
-      "events": 0,
-      "reports_collected": 3,
+      "events": 1,
+      "reports_collected": 12,
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
-        "State": 0
+        "State": 1
       },
-      "delta_events_vs_previous_day": 0,
-      "top_event_types": []
+      "delta_events_vs_previous_day": 1,
+      "top_event_types": [
+        [
+          "security operation",
+          1
+        ]
+      ]
     },
     "Burkina Faso": {
       "events": 0,
-      "reports_collected": 0,
+      "reports_collected": 4,
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
@@ -136,6 +199,60 @@
   "country_article_summaries": {
     "Mali": [
       {
+        "id": "8d232acf608da08e5c8c8f7cf6b812ff5f13035c",
+        "source": "Jihadology (Aaron Zelin)",
+        "title": "Jamā’at Nuṣrat al-Islām Wa-l-Muslimīn — The Russian Occupation Army’s Aggression and Its Shelling of Civilians North of the City of Kidal",
+        "summary": "This page contains sensitive material and cannot be accessed without being logged in to a registered Jihadology account. To access the page, please login or register your account here. To learn more about why certain pages are restricted, please visit our FAQ site.",
+        "url": "https://jihadology.net/404-custom/",
+        "candidate_event": false,
+        "event_date": null
+      },
+      {
+        "id": "363416c8812359ef46b12acfea355e3d1bd227c0",
+        "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+        "title": "Koulikoro: Gérémi Dolo elected President of the Regional Office of the CDM in the region",
+        "summary": "Koulikoro, 21 November (AMAP) During a ceremony held this Saturday in the conference room of the traditional authorities and leaders, the regional executive of the Collective for the Defence of the Military, chaired by Mr Geremi Dolo, was approved. He chairs a consensus committee of 27 members from the CDM committees in the Koulikoro region. .",
+        "url": "https://amap.ml/2026/11/21/koulikoro-geremi-dolo-elu-president-du-bureau-regional-du-cdm-de-la-region/",
+        "candidate_event": false,
+        "event_date": "2026-11-21"
+      },
+      {
+        "id": "6a6e7a8c48f178e9dbd6ffd28d4783ca365a7336",
+        "source": "APAnews (FR)",
+        "title": "Mali: 2,261 tanker trucks have arrived in Bamako since the beginning of November",
+        "summary": "A new convoy of 756 tanker trucks carrying petroleum products arrived in Bamako on the night of Friday, 20 November to Saturday, 21 November 2026, bringing the number of fuel transport vehicles sent to the Malian capital since the beginning of the month to 2,261, according to a report from the Directorate General for Trade, Consumption and Competition (DGCC) relayed by the local press.",
+        "url": "https://fr.apanews.net/business/mali-2-261-camions-citernes-arrives-a-bamako-depuis-debut-novembre/",
+        "candidate_event": false,
+        "event_date": "2026-11-21"
+      },
+      {
+        "id": "25a0b9c6045cb21614d089861aceedb723494a1e",
+        "source": "Bamada",
+        "title": "Counter-terrorism: airstrikes and neutralisations in the Kidal and Niono areas",
+        "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Wednesday, 18 November 2026, the use of precise intelligence made it possible to locate, one hundred and nineteen (119) kilometres south-west of Kidal, a meeting point for armed terrorist groups bringing together several individuals, including leaders, as well as military equipment, including vehicles.",
+        "url": "https://bamada.net/lutte-antiterroriste-frappes-aeriennes-et-neutralisations-dans-les-zones-de-kidal-et-niono",
+        "candidate_event": true,
+        "event_date": "2026-11-18"
+      },
+      {
+        "id": "d00e85e42b6022b4f693e9a194f2fc0680c0ef01",
+        "source": "Malijet",
+        "title": "Operation Dougoukoloko: The army announces strikes near Kidal and Niono",
+        "summary": "In a statement released on Saturday, 21 November, the General Staff of the Armed Forces said it had carried out several airstrikes against armed terrorist groups between 18 and 21 November 2026, in the regions of Kidal and Niono. The Malian Armed Forces (FAMa) are continuing Operation Dougoukoloko with the support of their partners . They ensure the surveillance and security of the territory.",
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312920-operation-dougoukoloko-larmee-annonce-des-frappes-pres-de.html",
+        "candidate_event": true,
+        "event_date": "2026-11-21"
+      },
+      {
+        "id": "73d0ef6fcaafb8fe0827123b2a1b49ffd58bfd8f",
+        "source": "Bamada",
+        "title": "Hydrocarbon supply: 2,261 tanker trucks transported to Bamako in three convoys since the beginning of November",
+        "summary": "Bamako, 21 November 2026 – The supply of petroleum products to the Malian capital continues, with sustained mobilisation of state services. During the night from Friday to Saturday, 21 November, a new convoy of 756 tanker trucks arrived at the parking areas in Bamako, escorted by the Malian Armed Forces (FAMa). .",
+        "url": "https://bamada.net/approvisionnement-en-hydrocarbures-2-261-camions-citernes-achemines-a-bamako-en-trois-convois-depuis-le-debut-du-mois-de-novembre",
+        "candidate_event": false,
+        "event_date": "2026-11-21"
+      },
+      {
         "id": "a46c2a151b19c824b2294776cd55717941d84bbb",
         "source": "Modern Ghana",
         "title": "The Sahel’s Dangerous Calm: What Does the Lull in Jihadist Fighting Really Hide?",
@@ -143,6 +260,24 @@
         "url": "https://www.modernghana.com/news/1546598/the-sahels-dangerous-calm-what-does-the-lull.html",
         "candidate_event": false,
         "event_date": "2026-09-10"
+      },
+      {
+        "id": "527dd6288f1a7b13bf1510ecc6ced20f55baf2bd",
+        "source": "La Nouvelle Tribune (Bénin)",
+        "title": "Mali: A Russian officer highlights the unprecedented nature of the raid that freed 24 soldiers",
+        "summary": "An officer from the Russian special forces of the Africa Corps, known by the call sign Kosmos, highlighted the exceptional nature of the military operation that led to the release of 24 Malian soldiers near In-Tebezas, in the Kidal region. . Indeed, in an interview with Sputnik, he stated that no such intervention had yet been carried out successfully in Africa, referring in particular to a similar attempt by the US military in Mogadishu, Somalia, which reportedly ended in failure.",
+        "url": "https://lanouvelletribune.info/2026/11/mali-un-officier-russe-souligne-le-caractere-inedit-du-raid-ayant-libere-24-soldats/",
+        "candidate_event": true,
+        "event_date": "2026-11-21"
+      },
+      {
+        "id": "5a0630ff4ea824286df506fe4ed818d3dac4ae60",
+        "source": "Le Point Afrique",
+        "title": "\"Today, Russia is no longer afraid to claim responsibility for armed action in Africa\"",
+        "summary": "\"War crimes\", \"murders\", \"acts of torture\"... At the end of September, Amnesty International reported \"overwhelming evidence\" of atrocities committed by Russian Wagner paramilitaries between 2023 and 2025 in Mali. Despite the group's withdrawal in 2025 in favour of Africa Corps, a new organisation directly linked to the Russian Ministry of Defence, civilians have not been spared.",
+        "url": "https://www.lepoint.fr/afrique/aujourdhui-la-russie-na-plus-peur-de-revendiquer-une-action-armee-en-afrique-IHVLMRXNZ5G2BHJVHXFMDNZIII/",
+        "candidate_event": false,
+        "event_date": "2026-11-21"
       },
       {
         "id": "f71fb0a70edbea4a57529318f59d4c20b6ef93bf",
@@ -161,35 +296,81 @@
         "url": "https://www.maliweb.net/politique/chroniques/goonga-tan-mali-apres-kidal-laccalmie-3121698.html",
         "candidate_event": true,
         "event_date": "2026-10-23"
+      },
+      {
+        "id": "9d30906f456320d2b41e7cbda9383680ef865f8f",
+        "source": "Jihadology (Aaron Zelin)",
+        "title": "New statement from Jamā’at Nuṣrat al-Islām Wa-l-Muslimīn: “The Russian Occupation Army’s Aggression and Its Shelling of Civilians North of the City of Kidal”",
+        "summary": "Click the following link for a safe PDF copy: Jamā’at Nuṣrat al-Islām Wa-l-Muslimīn — The Russian Occupation Army’s Aggression and Its Shelling of Civilians North of the City of Kidal ______________ Source: Telegram Click the following link for a safe PDF copy: Jamā’at Nuṣrat al-Islām Wa-l-Muslimīn — The Russian Occupation Army’s Aggression and Its Shelling of Civilians North of the City of Kidal ______________ Source: Telegram",
+        "url": "https://jihadology.net/2026/11/20/new-statement-from-jamaat-nu%e1%b9%a3rat-al-islam-wa-l-muslimin-the-russian-occupation-armys-aggression-and-its-shelling-of-civilians-north-of-the-city-of-kidal/",
+        "candidate_event": false,
+        "event_date": "2026-11-20"
       }
     ],
-    "Burkina Faso": [],
+    "Burkina Faso": [
+      {
+        "id": "4a7381ad6ef439b3222ea9b459d9f24a9836e5f2",
+        "source": "L'Observateur Paalga",
+        "title": "Fire at the ZACA project: The Minister of Security calls for compliance with the regulations for transporting dangerous goods",
+        "summary": "On Friday, 20 November 2026, the Minister of Security, Comrade Mahamadou SANA, visited the site of the fire that occurred at the ZACA project in Ouagadougou, in order to assess the damage and familiarise himself with the situation alongside the security forces. According to initial findings, the fire, which broke out the previous day at around 7 p.m., was reportedly linked to poorly packaged insecticides and not to explosives.",
+        "url": "https://www.lobspaalga.com/2026/11/21/88172/",
+        "candidate_event": false,
+        "event_date": "2026-11-20"
+      },
+      {
+        "id": "c367d8ff092aeee920b1c20f88125e9a351b4429",
+        "source": "Wakat Sera",
+        "title": "Fire at the ZACA project: The Minister of Security calls for compliance with the regulations for the transport of dangerous goods",
+        "summary": "On Friday, 20 November 2026, the Minister of Security, Comrade Mahamadou SANA, visited the site of the fire that occurred at the ZACA project in Ouagadougou, in order to assess the damage and familiarise himself with the situation alongside the security forces. According to initial findings, the fire, which broke out the previous day at around 7 p.m., was reportedly linked to poorly packaged insecticides and not to explosives.",
+        "url": "https://www.wakatsera.com/incendie-au-projet-zaca-le-ministre-de-la-securite-appelle-au-respect-des-normes-de-transport-des-marchandises-dangereuses/",
+        "candidate_event": false,
+        "event_date": "2026-11-20"
+      },
+      {
+        "id": "baf63eeff41e87e9e1e0670899e8bccf1db8527b",
+        "source": "LeFaso.net",
+        "title": "Burkina Faso/Literature: Sylvestre Yakoro recounts his captivity in his book “Bɔbɔkɛ, VDP contre l'ignorance” (“Bɔbɔkɛ, VDP against Ignorance”)",
+        "summary": "Burkina Faso/Literature: Sylvestre Yakoro recounts his captivity in his book \"Bɔbɔkɛ, VDP against ignorance\" On Saturday, 21 November 2026, in Ouagadougou, the Burkinabé writer Sylvestre Yakoro held a book signing for his work entitled \"Bɔbɔkɛ, VDP against ignorance\". This book recounts his personal experience when he was captured by armed men in 2023. Burkinabé literature is enriched by a new book Indeed, Sylvestre Yakoro, inspector of primary education, presented his book entitled \"Bɔbɔkɛ, VDP against ignorance\".",
+        "url": "https://lefaso.net/spip.php?article150955=",
+        "candidate_event": false,
+        "event_date": "2026-11-21"
+      },
+      {
+        "id": "752d4282995c3053da7537923d3253cc8f8c9aba",
+        "source": "LeFaso.net",
+        "title": "Burkina Faso: Cybercriminals claimed 956 victims and defrauded over CFAF 261 million in October 2023",
+        "summary": "Burkina Faso: Cybercriminals claimed 956 victims and defrauded more than CFAF 261 million in October 2026 Cybercrime continues to claim victims in Burkina Faso. In October 2026, 956 people were affected by cybercrime, resulting in financial losses estimated at over CFAF 261 million. .",
+        "url": "https://lefaso.net/spip.php?article150950=",
+        "candidate_event": false,
+        "event_date": "2026-11-21"
+      }
+    ],
     "Niger": []
   },
   "collection_notes": {
     "sources_total": 184,
-    "sources_success": 156,
-    "sources_failed": 28,
+    "sources_success": 157,
+    "sources_failed": 27,
     "sources_degraded": 19,
-    "documents_discovered": 12304,
-    "documents_retained": 3,
+    "documents_discovered": 12837,
+    "documents_retained": 13,
     "report_target": 100,
-    "translations_attempted": 2,
-    "translations_success": 2,
+    "translations_attempted": 11,
+    "translations_success": 11,
     "translation_failures": 0,
     "collection_confidence": "LOW",
     "collection_confidence_reasons": [
-      "156/184 source paths reached",
-      "28 failed source paths",
-      "19 degraded / 28 failed of 184 configured sources"
+      "157/184 source paths reached",
+      "27 failed source paths",
+      "19 degraded / 27 failed of 184 configured sources"
     ],
-    "reports_collected": 3,
-    "reports_published": 2,
-    "distinct_sources_collected": 3,
+    "reports_collected": 16,
+    "reports_published": 11,
+    "distinct_sources_collected": 13,
     "language_counts": {
-      "en": 1,
-      "fr": 2
+      "en": 3,
+      "fr": 13
     }
   },
-  "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-21: Reporting collected on 2026-11-21 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 3 reports from 3 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.\n\nMali: 3 retained reports. 1. The Sahel’s Dangerous Calm: What Does the Lull in Jihadist Fighting Really Hide?. The reported easing of fighting between jihadist rivals in the Mali-Burkina Faso-Niger tri-border region may look like relief for governments struggling to contain an expanding insurgency. It should not be read that way. After months of fierce confrontations between Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and Islamic State Sahel Province (ISSP), clashes between the two have reportedly slowed since late October. 2. Over 76,000 Burkinabés repatriated from Guinea following measures against illegal gold mining. Since the beginning of November, Guinea has intensified operations against illegal gold panning, particularly in the gold-rich Siguiri region (north-east). The government accuses this activity of causing significant environmental damage and claims to want to put an end to the unregulated exploitation of mineral resources. . 3. GOONGA TAN: Mali: After Kidal, a lull.... GOONGA TAN: Mali: After Kidal, a lull? The press release from the Armed Forces' Directorate of Information and Public Relations (DIRPA), published on 23 October 2026, deserves more than a mere cursory reading. Behind the figures announced lies a military sequence that could mark a turning point in the conduct of the war against armed terrorist groups.\n\nBurkina Faso: 0 retained reports. No retained country-specific reports were collected for this desk date.\n\nNiger: 0 retained reports. No retained country-specific reports were collected for this desk date.\n\nActor picture: no same-day fused candidate events.\n\nWhat changed: Collection volume: -21 retained report(s) versus 2026-11-20 (24 → 3). Actor-level same-day fused event counts are unchanged from the previous date.\n\nIntelligence gaps: Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 156/184 source paths reached 28 failed source paths 19 degraded / 28 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
+  "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-21: Reporting dated 2026-11-21 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 12 retained reports. 1. Jamā’at Nuṣrat al-Islām Wa-l-Muslimīn — The Russian Occupation Army’s Aggression and Its Shelling of Civilians North of the City of Kidal. This page contains sensitive material and cannot be accessed without being logged in to a registered Jihadology account. To access the page, please login or register your account here. To learn more about why certain pages are restricted, please visit our FAQ site. 2. Koulikoro: Gérémi Dolo elected President of the Regional Office of the CDM in the region. Koulikoro, 21 November (AMAP) During a ceremony held this Saturday in the conference room of the traditional authorities and leaders, the regional executive of the Collective for the Defence of the Military, chaired by Mr Geremi Dolo, was approved. He chairs a consensus committee of 27 members from the CDM committees in the Koulikoro region. . 3. Mali: 2,261 tanker trucks have arrived in Bamako since the beginning of November. A new convoy of 756 tanker trucks carrying petroleum products arrived in Bamako on the night of Friday, 20 November to Saturday, 21 November 2026, bringing the number of fuel transport vehicles sent to the Malian capital since the beginning of the month to 2,261, according to a report from the Directorate General for Trade, Consumption and Competition (DGCC) relayed by the local press.\n\nBurkina Faso: 4 retained reports. 1. Fire at the ZACA project: The Minister of Security calls for compliance with the regulations for transporting dangerous goods. On Friday, 20 November 2026, the Minister of Security, Comrade Mahamadou SANA, visited the site of the fire that occurred at the ZACA project in Ouagadougou, in order to assess the damage and familiarise himself with the situation alongside the security forces. According to initial findings, the fire, which broke out the previous day at around 7 p.m., was reportedly linked to poorly packaged insecticides and not to explosives. 2. Fire at the ZACA project: The Minister of Security calls for compliance with the regulations for the transport of dangerous goods. On Friday, 20 November 2026, the Minister of Security, Comrade Mahamadou SANA, visited the site of the fire that occurred at the ZACA project in Ouagadougou, in order to assess the damage and familiarise himself with the situation alongside the security forces. According to initial findings, the fire, which broke out the previous day at around 7 p.m., was reportedly linked to poorly packaged insecticides and not to explosives. 3. Burkina Faso/Literature: Sylvestre Yakoro recounts his captivity in his book “Bɔbɔkɛ, VDP contre l'ignorance” (“Bɔbɔkɛ, VDP against Ignorance”). Burkina Faso/Literature: Sylvestre Yakoro recounts his captivity in his book \"Bɔbɔkɛ, VDP against ignorance\" On Saturday, 21 November 2026, in Ouagadougou, the Burkinabé writer Sylvestre Yakoro held a book signing for his work entitled \"Bɔbɔkɛ, VDP against ignorance\". This book recounts his personal experience when he was captured by armed men in 2023. Burkinabé literature is enriched by a new book Indeed, Sylvestre Yakoro, inspector of primary education, presented his book entitled \"Bɔbɔkɛ, VDP against ignorance\".\n\nNiger: 0 retained reports. No retained country-specific reports were collected for this desk date.\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: State: +1 same-day fused event(s) versus 2026-11-20 (0 → 1). Collection volume: -8 retained report(s) versus 2026-11-20 (24 → 16).\n\nIntelligence gaps: 1 same-day event(s) lack independent multi-source corroboration. 1 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 157/184 source paths reached 27 failed source paths 19 degraded / 27 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
 }

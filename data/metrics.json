@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:49:20.132010Z",
+  "generated_at": "2026-11-21T21:49:08.975462Z",
   "series": {
     "JNIM": [
       {
@@ -2164,7 +2164,7 @@
       },
       {
         "date": "2026-11-21",
-        "count": 0
+        "count": 1
       }
     ],
     "Africa Corps/Wagner": [
@@ -2886,7 +2886,7 @@
       },
       {
         "date": "2026-11-21",
-        "count": 0
+        "count": 1
       }
     ]
   },
@@ -2902,12 +2902,12 @@
       "change_pct": null
     },
     "State": {
-      "current": 11,
+      "current": 12,
       "previous": 16,
-      "change_pct": -31.2
+      "change_pct": -25.0
     },
     "Africa Corps/Wagner": {
-      "current": 0,
+      "current": 1,
       "previous": 0,
       "change_pct": null
     }
@@ -2924,14 +2924,14 @@
       "change_pct": 0.0
     },
     "State": {
-      "current": 58,
+      "current": 59,
       "previous": 66,
-      "change_pct": -12.1
+      "change_pct": -10.6
     },
     "Africa Corps/Wagner": {
-      "current": 5,
+      "current": 6,
       "previous": 21,
-      "change_pct": -76.2
+      "change_pct": -71.4
     }
   },
   "method_note": "Counts are fused candidate events extracted from monitored open-source reporting. Africa Corps/Wagner is an involvement series and can overlap State activity when Russian personnel are coded as a supporting force. These are not independently verified incident counts; changes can reflect both real-world activity and reporting/collection effects."
