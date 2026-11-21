@@ -1,8 +1,338 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-21T01:41:27.962180Z",
-  "briefing_count": 50,
+  "generated_at": "2026-11-21T12:49:21.048979Z",
+  "briefing_count": 51,
   "briefings": [
+    {
+      "schema_version": "2.0",
+      "product": "Sultana 24-Hour AES Intelligence Brief",
+      "reporting_date": "2026-11-21",
+      "generated_at": "2026-11-21T12:49:21.048979Z",
+      "window_start": "2026-11-20T12:49:21.048979Z",
+      "window_end": "2026-11-21T12:49:21.048979Z",
+      "window_hours": 24,
+      "method": "Sultana 24-hour all-retained-report intelligence synthesis",
+      "freshness_status": "LIVE",
+      "assessment_confidence": "MODERATE",
+      "coverage": {
+        "retained_articles_reviewed": 14,
+        "retained_articles_in_window": 14,
+        "coverage_complete": true,
+        "distinct_sources": 14,
+        "linked_candidate_events": 1,
+        "multi_source_candidate_events": 0,
+        "countries": {
+          "Mali": 7,
+          "Burkina Faso": 5,
+          "Niger": 2
+        },
+        "actors": {
+          "JNIM": 2,
+          "State": 6,
+          "Africa Corps/Wagner": 2,
+          "Other": 4
+        },
+        "event_types": {
+          "clash": 3,
+          "offensive/campaign": 1,
+          "raid": 1
+        }
+      },
+      "sections": [
+        {
+          "heading": "BOTTOM LINE",
+          "text": "Sultana reviewed all 14 retained reports collected during the 24-hour window from 14 distinct sources. Reporting was heaviest on Mali (7 reports), while State appeared most often in actor-attributed reporting (6 reports). The same source set is linked to 1 fused candidate event, including 0 with at least two independent sources."
+        },
+        {
+          "heading": "KEY JUDGMENTS",
+          "bullets": [
+            "Reporting distribution: Mali 7, Burkina Faso 5, Niger 2 retained reports.",
+            "Actor posture: State dominated actor-attributed reporting in this window; JNIM 2, IS Sahel 0, AES/state forces 6, Africa Corps/Wagner 2.",
+            "Operational pattern: the leading coded report types were clash (3), offensive/campaign (1), raid (1).",
+            "Event fusion: 1 candidate events are tied to reports collected in the window; 0 currently have multi-source support."
+          ]
+        },
+        {
+          "heading": "Mali",
+          "text": "7 retained reports were reviewed for Mali. GOONGA TAN: Mali: After Kidal, a lull...: GOONGA TAN: Mali: After Kidal, a lull? The press release from the Armed Forces' Directorate of Information and Public Relations (DIRPA), published on 23 October 2026, deserves more than a mere cursory reading. Behind… The Sahel’s Dangerous Calm: What Does the Lull in Jihadist Fighting Really Hide?: The reported easing of fighting between jihadist rivals in the Mali-Burkina Faso-Niger tri-border region may look like relief for governments struggling to contain an expanding insurgency. It should not be read that… Reporting was concentrated on State (3), Africa Corps/Wagner (2), JNIM (1)."
+        },
+        {
+          "heading": "Burkina Faso",
+          "text": "5 retained reports were reviewed for Burkina Faso. Côte d'Ivoire-Burkina Faso: Camille Makosso, the \"general\" who is challenging Ibrahim Traoré: Côte d'Ivoire-Burkina Faso: Camille Makosso, the \"general\" who is defying Ibrahim Traoré Targeted by the Burkinabé justice system, the Ivorian pastor-influencer asserts his loyalty to President Alassane Ouattara. From… Image Published on 20 November 2026 Africa Sahel: The ICG think tank advocates dialogue between states and…: Burkinabé soldiers in Ouagadougou, 8 October 2022. On Friday, the think tank International Crisis Group (ICG) recommended that the Sahel countries engage in dialogue with the jihadists of JNIM, stating in a report that… Reporting was concentrated on State (3), JNIM (1)."
+        },
+        {
+          "heading": "Niger",
+          "text": "2 retained reports were reviewed for Niger. Niger: What we know about the fuel convoy escorted by Algeria: A few days after the vote on 25 October 2026 in the Algerian Parliament authorising the dispatch of military units to Niger to 'secure energy interests', a first fuel convoy, accompanied by a military escort, entered… Dosso: The Minister of Agriculture and Livestock at the irrigated sites of Dallol: Dosso, 20 November (ANP) – On Thursday, 19 November, the Minister of Agriculture and Livestock, Colonel Bilaly Gambo, accompanied by the Governor of the Dosso Region, the Director General of the National Office for…"
+        },
+        {
+          "heading": "ACTOR POSTURE",
+          "text": "JNIM appears in 2 retained reports; IS Sahel in 0; AES/state forces in 6; Africa Corps/Wagner in 2. JNIM is down to 1 from 3; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is down to 11 from 16."
+        },
+        {
+          "heading": "WHAT CHANGED VS BASELINE",
+          "text": "JNIM is down to 1 from 3; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is down to 11 from 16."
+        },
+        {
+          "heading": "INDICATORS TO WATCH — NEXT 24–72 HOURS",
+          "bullets": [
+            "Watch for follow-on JNIM claims, geographic spread, and corroboration of newly reported attacks.",
+            "Watch for additional Africa Corps/Wagner-linked deployments, joint operations, logistics activity, or equipment reporting."
+          ]
+        },
+        {
+          "heading": "CONFIDENCE / CAVEATS",
+          "bullets": [
+            "Multiple sources were reviewed, but some developments remain single-source or incompletely corroborated.",
+            "Collection health: 137 sources live, 19 degraded, 28 failed in the latest collector cycle.",
+            "Candidate events and actor attributions remain OSINT-derived analytical records and may change with better sourcing, dates, or geolocation."
+          ]
+        }
+      ],
+      "text": "SULTANA AL-QAHTANI — 24-HOUR AES INTELLIGENCE BRIEF\nReporting date: 2026-11-21\nWindow: 2026-11-20T12:49:21.048979Z to 2026-11-21T12:49:21.048979Z\nAssessment confidence: MODERATE\n\nBOTTOM LINE\nSultana reviewed all 14 retained reports collected during the 24-hour window from 14 distinct sources. Reporting was heaviest on Mali (7 reports), while State appeared most often in actor-attributed reporting (6 reports). The same source set is linked to 1 fused candidate event, including 0 with at least two independent sources.\n\nKEY JUDGMENTS\n• Reporting distribution: Mali 7, Burkina Faso 5, Niger 2 retained reports.\n• Actor posture: State dominated actor-attributed reporting in this window; JNIM 2, IS Sahel 0, AES/state forces 6, Africa Corps/Wagner 2.\n• Operational pattern: the leading coded report types were clash (3), offensive/campaign (1), raid (1).\n• Event fusion: 1 candidate events are tied to reports collected in the window; 0 currently have multi-source support.\n\nMali\n7 retained reports were reviewed for Mali. GOONGA TAN: Mali: After Kidal, a lull...: GOONGA TAN: Mali: After Kidal, a lull? The press release from the Armed Forces' Directorate of Information and Public Relations (DIRPA), published on 23 October 2026, deserves more than a mere cursory reading. Behind… The Sahel’s Dangerous Calm: What Does the Lull in Jihadist Fighting Really Hide?: The reported easing of fighting between jihadist rivals in the Mali-Burkina Faso-Niger tri-border region may look like relief for governments struggling to contain an expanding insurgency. It should not be read that… Reporting was concentrated on State (3), Africa Corps/Wagner (2), JNIM (1).\n\nBurkina Faso\n5 retained reports were reviewed for Burkina Faso. Côte d'Ivoire-Burkina Faso: Camille Makosso, the \"general\" who is challenging Ibrahim Traoré: Côte d'Ivoire-Burkina Faso: Camille Makosso, the \"general\" who is defying Ibrahim Traoré Targeted by the Burkinabé justice system, the Ivorian pastor-influencer asserts his loyalty to President Alassane Ouattara. From… Image Published on 20 November 2026 Africa Sahel: The ICG think tank advocates dialogue between states and…: Burkinabé soldiers in Ouagadougou, 8 October 2022. On Friday, the think tank International Crisis Group (ICG) recommended that the Sahel countries engage in dialogue with the jihadists of JNIM, stating in a report that… Reporting was concentrated on State (3), JNIM (1).\n\nNiger\n2 retained reports were reviewed for Niger. Niger: What we know about the fuel convoy escorted by Algeria: A few days after the vote on 25 October 2026 in the Algerian Parliament authorising the dispatch of military units to Niger to 'secure energy interests', a first fuel convoy, accompanied by a military escort, entered… Dosso: The Minister of Agriculture and Livestock at the irrigated sites of Dallol: Dosso, 20 November (ANP) – On Thursday, 19 November, the Minister of Agriculture and Livestock, Colonel Bilaly Gambo, accompanied by the Governor of the Dosso Region, the Director General of the National Office for…\n\nACTOR POSTURE\nJNIM appears in 2 retained reports; IS Sahel in 0; AES/state forces in 6; Africa Corps/Wagner in 2. JNIM is down to 1 from 3; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is down to 11 from 16.\n\nWHAT CHANGED VS BASELINE\nJNIM is down to 1 from 3; IS Sahel is flat at 0 fused candidate events over the current seven-day window; State is down to 11 from 16.\n\nINDICATORS TO WATCH — NEXT 24–72 HOURS\n• Watch for follow-on JNIM claims, geographic spread, and corroboration of newly reported attacks.\n• Watch for additional Africa Corps/Wagner-linked deployments, joint operations, logistics activity, or equipment reporting.\n\nCONFIDENCE / CAVEATS\n• Multiple sources were reviewed, but some developments remain single-source or incompletely corroborated.\n• Collection health: 137 sources live, 19 degraded, 28 failed in the latest collector cycle.\n• Candidate events and actor attributions remain OSINT-derived analytical records and may change with better sourcing, dates, or geolocation.",
+      "article_manifest": [
+        {
+          "id": "a46c2a151b19c824b2294776cd55717941d84bbb",
+          "source": "Modern Ghana",
+          "title": "The Sahel’s Dangerous Calm: What Does the Lull in Jihadist Fighting Really Hide?",
+          "original_title": "The Sahel’s Dangerous Calm: What Does the Lull in Jihadist Fighting Really Hide?",
+          "summary": "The reported easing of fighting between jihadist rivals in the Mali-Burkina Faso-Niger tri-border region may look like relief for governments struggling to contain an expanding insurgency. It should not be read that way. After months of fierce confrontations between Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and Islamic State Sahel Province (ISSP), clashes between the two have reportedly slowed since late October.",
+          "url": "https://www.modernghana.com/news/1546598/the-sahels-dangerous-calm-what-does-the-lull.html",
+          "country": "Mali",
+          "language": "en",
+          "published_at": "2026-11-21T11:19:00Z",
+          "collected_at": "2026-11-21T12:47:59.583280Z",
+          "event_date": "2026-09-10",
+          "actor": "JNIM",
+          "event_type": "clash",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "f71fb0a70edbea4a57529318f59d4c20b6ef93bf",
+          "source": "Le360 Afrique",
+          "title": "Over 76,000 Burkinabés repatriated from Guinea following measures against illegal gold mining",
+          "original_title": "Plus de 76.000 Burkinabè rapatriés de Guinée après des mesures contre l’orpaillage illégal",
+          "summary": "Since the beginning of November, Guinea has intensified operations against illegal gold panning, particularly in the gold-rich Siguiri region (north-east). The government accuses this activity of causing significant environmental damage and claims to want to put an end to the unregulated exploitation of mineral resources. .",
+          "url": "https://afrique.le360.ma/societe/plus-de-76000-burkinabe-rapatries-de-guinee-apres-des-mesures-contre-lorpaillage-illegal_G6VZ4X5LIJGBJI7MEBROHNOUY4/",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-21T07:52:38.638000Z",
+          "collected_at": "2026-11-21T12:47:57.675145Z",
+          "event_date": "2026-11-18",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "006d4d3a34d6bac84f79fc4ef63c8e4e955cf17d",
+          "source": "Maliweb",
+          "title": "GOONGA TAN: Mali: After Kidal, a lull...",
+          "original_title": "GOONGA TAN : Mali : après Kidal, l'accalmie...",
+          "summary": "GOONGA TAN: Mali: After Kidal, a lull? The press release from the Armed Forces' Directorate of Information and Public Relations (DIRPA), published on 23 October 2026, deserves more than a mere cursory reading. Behind the figures announced lies a military sequence that could mark a turning point in the conduct of the war against armed terrorist groups.",
+          "url": "https://www.maliweb.net/politique/chroniques/goonga-tan-mali-apres-kidal-laccalmie-3121698.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-21T03:00:02Z",
+          "collected_at": "2026-11-21T12:47:55.021802Z",
+          "event_date": "2026-10-23",
+          "actor": "State",
+          "event_type": "clash",
+          "candidate_event": true,
+          "supporting_force": null
+        },
+        {
+          "id": "cb06642aaa8482f1906a4d47c76646294c9077ae",
+          "source": "La Nouvelle Tribune (Bénin)",
+          "title": "Mali: Russia deploys Lancet kamikaze drones against rebels",
+          "original_title": "Mali : la Russie déploie des drones kamikazes Lancet contre les rebelles",
+          "summary": "The Russian Africa Corps has carried out at least ten strikes with ZALA Lancet kamikaze drones in Mali since April, according to an analysis by the US research centre Conflict Insights Group (CIG) released on 19 November 2024. Each attack identified involved the Lancet alongside a surveillance drone from the same manufacturer. As such, CIG presents this equipment as a new addition this year.",
+          "url": "https://lanouvelletribune.info/2026/11/mali-la-russie-deploie-des-drones-kamikazes-lancet-contre-les-rebelles/",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-21T01:08:21Z",
+          "collected_at": "2026-11-21T01:39:39.739597Z",
+          "event_date": "2026-11-19",
+          "actor": "Africa Corps/Wagner",
+          "event_type": "offensive/campaign",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "23ff324e841daaa80e9fc71e75a114000c50957c",
+          "source": "Malijet",
+          "title": "Koulikoro: Curfew extended until 20 December",
+          "original_title": "Koulikoro : le couvre-feu prolongé jusqu’au 20 décembre",
+          "summary": "The Governor of the Koulikoro region has renewed the curfew for one month, from 21 November to 20 December 2026. The curfew still applies to the entire region, from midnight to 5 a.m. During these hours, movement is prohibited.",
+          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312918-koulikoro-le-couvre-feu-prolonge-jusquau-20-decembre.html",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-21T00:22:51Z",
+          "collected_at": "2026-11-21T01:39:40.340106Z",
+          "event_date": "2026-11-21",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "563f5c4afe0698d18c63081c454d08aad4bca596",
+          "source": "Bamada",
+          "title": "ARMY GENERAL STAFF: The DOSAM project alongside the Defence and Security Forces",
+          "original_title": "ÉTAT-MAJOR DE L’ARMÉE DE TERRE : le projet DOSAM aux côtés des Forces de Défense et de Sécurité",
+          "summary": "The General Staff of the Army, in collaboration with the Association of Former Pupils of the Prytanée Militaire de Kati, through its DOSAM (Blood and Medicine Donation) project, organised a blood donation day on Friday, 20 November 2026, at its premises. The event was chaired by Colonel Doctor Marius SANOU, Chief Medical Officer of the Army Garrison Medical Centre, in the presence of several military authorities.",
+          "url": "https://bamada.net/etat-major-de-larmee-de-terre-le-projet-dosam-aux-cotes-des-forces-de-defense-et-de-securite",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-20T19:29:08Z",
+          "collected_at": "2026-11-21T01:39:39.662190Z",
+          "event_date": "2026-11-20",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "f7b088d310591dee0afa003938c8bb760a5e09b7",
+          "source": "Jeune Afrique",
+          "title": "Côte d'Ivoire-Burkina Faso: Camille Makosso, the \"general\" who is challenging Ibrahim Traoré",
+          "original_title": "Côte d’Ivoire-Burkina Faso : Camille Makosso, le « général » qui défie Ibrahim Traoré",
+          "summary": "Côte d'Ivoire-Burkina Faso: Camille Makosso, the \"general\" who is defying Ibrahim Traoré Targeted by the Burkinabé justice system, the Ivorian pastor-influencer asserts his loyalty to President Alassane Ouattara. From Conakry to Cotonou, this former gang leader, who has been imprisoned twice, is building political influence through a combination of preaching and spectacle.",
+          "url": "https://www.jeuneafrique.com/1863706/politique/cote-divoire-burkina-faso-camille-makosso-le-general-qui-defie-ibrahim-traore/",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-20T17:59:16Z",
+          "collected_at": "2026-11-21T01:39:45.227441Z",
+          "event_date": "2026-11-20",
+          "actor": "Other",
+          "event_type": "clash",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "94d13fc7ac7c9727698b47279f91bc3c606b556f",
+          "source": "RFI Afrique",
+          "title": "Mali: The inside story of the “release” of soldiers held captive by the separatist FLA group",
+          "original_title": "Mali: les dessous de la «libération» de soldats prisonniers du groupe indépendantiste FLA",
+          "summary": "Mali: The story behind the \"release\" of soldiers held captive by the separatist FLA group In Mali, on 18 November, the army claimed the release of 24 soldiers held near In-Tebezas, in the Kidal region. . According to the General Staff's statement, it was an operation carried out jointly with its “partners” – the Russian Africa Corps is not named – which made it possible to “neutralise” the “elements” of the “terrorist groups” and to free these soldiers.",
+          "url": "https://www.rfi.fr/fr/afrique/20261120-mali-les-dessous-de-la-lib%C3%A9ration-de-soldats-prisonniers-du-groupe-ind%C3%A9pendantiste-fla",
+          "country": "Mali",
+          "language": "fr",
+          "published_at": "2026-11-20T13:12:55Z",
+          "collected_at": "2026-11-20T17:04:38.210834Z",
+          "event_date": "2026-11-18",
+          "actor": "Africa Corps/Wagner",
+          "event_type": "raid",
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "92f355bb1cac0cf9859057eb56a58b9772573af7",
+          "source": "AllAfrica (Édition Française)",
+          "title": "Niger: What we know about the fuel convoy escorted by Algeria",
+          "original_title": "Niger: Ce que l'on sait du convoi de carburant escorté par l'Algérie",
+          "summary": "A few days after the vote on 25 October 2026 in the Algerian Parliament authorising the dispatch of military units to Niger to 'secure energy interests', a first fuel convoy, accompanied by a military escort, entered Niger, heading for Agadez, in the north of the country. During the few days of confirmed Algerian military presence on the ground, a lot of fake news spread on social media.",
+          "url": "https://fr.allafrica.com/stories/202611200445.html",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-11-20T12:48:08Z",
+          "collected_at": "2026-11-20T17:04:42.118067Z",
+          "event_date": "2026-10-25",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "dd9480dbaa1a6b8bbfa8f2c35d6f14ec9f7e0e84",
+          "source": "TV5MONDE Afrique",
+          "title": "Image Published on 20 November 2026 Africa Sahel: The ICG think tank advocates dialogue between states and JNIM jihadists The International Crisis Group (ICG) think tank recommended on Friday that the Sahel states engage in dialogue with JNIM jihadists…",
+          "original_title": "Image Publié le 20 novembre 2026 Afrique Sahel : le groupe de réflexion ICG préconise un dialogue entre les Etats et les jihadistes du JNIM Le groupe de réflexion International Crisis Group (ICG) a préconisé vendredi que les Etats sahéliens engagent un dialogue avec les jihadistes du JNIM…",
+          "summary": "Burkinabé soldiers in Ouagadougou, 8 October 2022. On Friday, the think tank International Crisis Group (ICG) recommended that the Sahel countries engage in dialogue with the jihadists of JNIM, stating in a report that a military victory appears \"out of reach\", after more than a decade of conflict. .",
+          "url": "https://information.tv5monde.com/afrique/sahel-le-groupe-de-reflexion-icg-preconise-un-dialogue-entre-les-etats-et-les-jihadistes-du-jnim-2846495",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-20T12:26:26Z",
+          "collected_at": "2026-11-20T17:04:44.126290Z",
+          "event_date": "2026-10-08",
+          "actor": "JNIM",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "f67c1bd8357bb82e3e03bb4362966dc309040311",
+          "source": "Wakat Sera",
+          "title": "Burkina Faso: The celebration of 11 December 2026 announced to “reaffirm national sovereignty”",
+          "original_title": "Burkina: la célébration du 11-Décembre 2026 annoncée pour «réaffirmer la souveraineté nationale»",
+          "summary": "The Burkinabé government has announced the celebration of 11 December 2026 to \"reaffirm national sovereignty\", among other things, according to the report of the Council of Ministers on Thursday, 19 November. . It was Burkina Faso's Minister of Justice, Mr Edasso Rodrigue Bayala, who was acting as Minister of State, Minister of Territorial Administration and Mobility, who addressed the Council on the celebration of 11 December 2026, under the theme 'Popular progressive revolution in Burkina Faso: a recognition of resistance to colonial domination and imperialism'.",
+          "url": "https://www.wakatsera.com/burkina-la-celebration-du-11-decembre-2026-annoncee-pour-reaffirmer-la-souverainete-nationale/",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-20T11:51:16Z",
+          "collected_at": "2026-11-20T17:04:42.784998Z",
+          "event_date": "2026-11-19",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "7108cd704f67f2d532ddcbdb86a50ce83ea133f9",
+          "source": "Burkina24",
+          "title": "Burkina Faso: A major military parade announced in Ouagadougou for 11 December 2026",
+          "original_title": "Burkina Faso : Une grande parade militaire annoncée à Ouagadougou pour le 11-Décembre 2026",
+          "summary": "At its meeting on Thursday, 19 November 2026, the Council of Ministers considered a communication concerning the celebration of 11 December 2026. This year's event will be held under the theme 'The People's Progressive Revolution in Burkina Faso: a celebration of resistance to colonial domination and imperialism'. According to the minutes of the Council of Ministers, this celebration aims to reaffirm national sovereignty and to demonstrate, before the people of Burkina Faso and the international community, full control over the nation's destiny.",
+          "url": "https://burkina24.com/2026/11/20/burkina-faso-une-grande-parade-militaire-annoncee-a-ouagadougou-pour-le-11-decembre-2026/",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-20T09:55:41Z",
+          "collected_at": "2026-11-20T17:04:36.451726Z",
+          "event_date": "2026-11-19",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "a99d13153913c6aefb53564c7b0402ce20d1bcc6",
+          "source": "Agence Nigérienne de Presse",
+          "title": "Dosso: The Minister of Agriculture and Livestock at the irrigated sites of Dallol",
+          "original_title": "Dosso : Le Ministre de l’Agriculture et de l’Élevage sur les sites irrigués du Dallol",
+          "summary": "Dosso, 20 November (ANP) – On Thursday, 19 November, the Minister of Agriculture and Livestock, Colonel Bilaly Gambo, accompanied by the Governor of the Dosso Region, the Director General of the National Office for Hydro-Agricultural Development (ONAHA), senior officials from the Ministry, Regional Directors, and officials from the Defence and Security Forces, carried out a field visit to several developed irrigated sites.",
+          "url": "https://anp.ne/dosso-le-ministre-de-lagriculture-et-de-lelevage-sur-les-sites-irrigues-du-dallol/",
+          "country": "Niger",
+          "language": "fr",
+          "published_at": "2026-11-20T08:35:09Z",
+          "collected_at": "2026-11-20T17:04:37.487735Z",
+          "event_date": "2026-11-20",
+          "actor": "Other",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        },
+        {
+          "id": "c06d270ba710d49227c753704dcf88ab54fbdc20",
+          "source": "LeFaso.net",
+          "title": "Burkina Faso/Security: Minister Mahamadou Sana focuses on pooling resources and coordinating action to enhance effectiveness (…)",
+          "original_title": "Burkina/Sécurité : Le ministre Mahamadou Sana mise sur la mutualisation des moyens et la synergie d’action pour renforcer l’efficacité (…)",
+          "summary": "Burkina Faso/Security: Minister Mahamadou Sana focuses on pooling resources and coordinating action to enhance the effectiveness of the forces. The Minister of Security, Mahamadou Sana, chaired the proceedings of the 2nd Ministerial Sector Board (CASEM) for Security on Friday, 20 November 2026, in Ouagadougou. This meeting is being held on the theme \"Pooling of resources and synergy of action between the security forces: a strategic imperative for an integrated and effective response to security challenges\".",
+          "url": "https://lefaso.net/spip.php?article150928=",
+          "country": "Burkina Faso",
+          "language": "fr",
+          "published_at": "2026-11-20T00:00:00Z",
+          "collected_at": "2026-11-20T17:04:44.691063Z",
+          "event_date": "2026-11-20",
+          "actor": "State",
+          "event_type": null,
+          "candidate_event": false,
+          "supporting_force": null
+        }
+      ],
+      "linked_event_ids": [
+        "fa91e742f31b4b20714dbcf72cc793e89de2e32f"
+      ]
+    },
     {
       "schema_version": "2.0",
       "product": "Sultana 24-Hour AES Intelligence Brief",

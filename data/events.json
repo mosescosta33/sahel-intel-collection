@@ -10823,6 +10823,104 @@
     ]
   },
   {
+    "id": "fa91e742f31b4b20714dbcf72cc793e89de2e32f",
+    "event_date": "2026-10-23",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-21T03:00:02Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-21T12:47:55.021802Z",
+    "actor": "State",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "clash",
+    "country": "Mali",
+    "city": "Kidal",
+    "lat": 18.4411,
+    "lng": 1.4078,
+    "locations": [
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "GOONGA TAN: Mali: After Kidal, a lull...",
+    "summary": "GOONGA TAN: Mali: After Kidal, a lull? The press release from the Armed Forces' Directorate of Information and Public Relations (DIRPA), published on 23 October 2026, deserves more than a mere cursory reading. Behind the figures announced lies a military sequence that could mark a turning point in the conduct of the war against armed terrorist groups.",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/politique/chroniques/goonga-tan-mali-apres-kidal-laccalmie-3121698.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/politique/chroniques/goonga-tan-mali-apres-kidal-laccalmie-3121698.html",
+        "source": "Maliweb",
+        "title": "GOONGA TAN: Mali: After Kidal, a lull...",
+        "summary": "GOONGA TAN: Mali: After Kidal, a lull? The press release from the Armed Forces' Directorate of Information and Public Relations (DIRPA), published on 23 October 2026, deserves more than a mere cursory reading. Behind the figures announced lies a military sequence that could mark a turning point in the conduct of the war against armed terrorist groups.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-21T12:47:55.021802Z",
+    "updated_at": "2026-11-21T12:47:55.021802Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-21T12:47:55.021802Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
+    ]
+  },
+  {
     "id": "787c77ecb5863085ad224839479ebc2a0ea1b94d",
     "event_date": "2026-10-23",
     "event_date_confidence": "explicit-text",
