@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:03:19.338887Z",
+  "generated_at": "2026-11-22T16:27:58.349425Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
@@ -13,17 +13,17 @@
       "trend": "STABLE",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 15,
-      "events_30d": 62,
+      "events_7d": 17,
+      "events_30d": 64,
       "baseline_7d_equivalent": 14.3,
-      "tempo_ratio": 1.05,
+      "tempo_ratio": 1.18,
       "drivers": [
-        "15 fused candidate event(s) in 7 days",
+        "17 fused candidate event(s) in 7 days",
         "1 JNIM/IS Sahel-linked event(s)",
-        "12 significant/major event(s)",
-        "activity across 5 named locations"
+        "14 significant/major event(s)",
+        "activity across 6 named locations"
       ],
-      "independent_domains_7d": 11
+      "independent_domains_7d": 13
     },
     "Burkina Faso": {
       "score": 0,
@@ -47,9 +47,9 @@
       "confidence": "LOW",
       "assessment_status": "INSUFFICIENT_DATA",
       "events_7d": 1,
-      "events_30d": 22,
-      "baseline_7d_equivalent": 6.4,
-      "tempo_ratio": 0.27,
+      "events_30d": 23,
+      "baseline_7d_equivalent": 6.7,
+      "tempo_ratio": 0.26,
       "drivers": [
         "1 fused candidate event(s) in 7 days",
         "1 significant/major event(s)"
