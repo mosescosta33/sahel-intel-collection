@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-11-22T16:27:58.060242Z",
+  "generated_at": "2026-11-23T01:01:43.068497Z",
   "window_days": 30,
-  "cutoff": "2026-10-23",
-  "reports": 752,
-  "incident_reports": 164,
-  "candidate_events": 105,
-  "corroborated_events": 30,
-  "mapped_events": 78,
-  "mapped_locations": 140,
+  "cutoff": "2026-10-24",
+  "reports": 744,
+  "incident_reports": 160,
+  "candidate_events": 98,
+  "corroborated_events": 29,
+  "mapped_events": 72,
+  "mapped_locations": 131,
   "distinct_sources": 85,
   "by_actor": {
-    "State": 61,
+    "State": 55,
     "Other": 29,
     "JNIM": 9,
-    "Africa Corps/Wagner": 3,
-    "IS Sahel": 3
+    "IS Sahel": 3,
+    "Africa Corps/Wagner": 2
   },
   "by_country": {
-    "Mali": 71,
+    "Mali": 64,
     "Niger": 23,
     "Burkina Faso": 11
   },
   "by_event_type": {
-    "security operation": 52,
+    "security operation": 49,
     "attack": 12,
-    "clash": 9,
     "air/drone strike": 8,
     "offensive/campaign": 7,
+    "clash": 6,
     "kidnapping": 5,
-    "civilian targeting": 4,
     "raid": 4,
+    "civilian targeting": 3,
     "IED/explosion": 2,
     "ambush": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 647,
-    "en": 68,
+    "fr": 637,
+    "en": 70,
     "ar": 37
   },
   "by_confidence": {
-    "moderate": 51,
-    "low": 46,
+    "moderate": 47,
+    "low": 43,
     "moderate-high": 8
   },
   "top_sources": [
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 83
+      "count": 79
     },
     {
       "source_code": "SRC-0006",
@@ -58,17 +58,17 @@
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 52
+      "count": 51
     },
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 50
+      "count": 49
     },
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
-      "count": 33
+      "count": 32
     },
     {
       "source_code": "SRC-0079",
@@ -81,14 +81,14 @@
       "count": 29
     },
     {
-      "source_code": "SRC-0014",
-      "source": "Agence Nigérienne de Presse",
-      "count": 27
-    },
-    {
       "source_code": "SRC-0090",
       "source": "AllAfrica (Édition Française)",
       "count": 27
+    },
+    {
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "count": 26
     },
     {
       "source_code": "SRC-0011",
@@ -101,19 +101,19 @@
       "count": 20
     },
     {
-      "source_code": "SRC-0015",
-      "source": "ActuNiger",
+      "source_code": "SRC-0017",
+      "source": "Le Sahel",
       "count": 20
     }
   ],
   "top_locations": [
     {
-      "location": "Kidal",
-      "count": 21
+      "location": "Mali",
+      "count": 18
     },
     {
-      "location": "Mali",
-      "count": 19
+      "location": "Kidal",
+      "count": 16
     },
     {
       "location": "Niamey",
@@ -132,16 +132,16 @@
       "count": 10
     },
     {
-      "location": "Gao",
+      "location": "Timbuktu",
       "count": 7
+    },
+    {
+      "location": "Gao",
+      "count": 6
     },
     {
       "location": "Ménaka",
-      "count": 7
-    },
-    {
-      "location": "Timbuktu",
-      "count": 7
+      "count": 6
     },
     {
       "location": "Burkina Faso",
@@ -152,16 +152,11 @@
       "count": 5
     },
     {
-      "location": "Sévaré",
-      "count": 5
+      "location": "Mopti",
+      "count": 4
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-24",
-      "reports": 18,
-      "events": 9
-    },
     {
       "date": "2026-10-25",
       "reports": 16,
@@ -304,7 +299,12 @@
     },
     {
       "date": "2026-11-22",
-      "reports": 7,
+      "reports": 9,
+      "events": 0
+    },
+    {
+      "date": "2026-11-23",
+      "reports": 0,
       "events": 0
     }
   ],
@@ -3749,6 +3749,42 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-22T23:00:00Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T01:00:27.919726Z",
+      "discovered_at": "2026-11-23T01:00:27.919726Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0053",
+      "source": "Human Rights Watch Africa",
+      "language": "en",
+      "actor": null,
+      "country": "Mali",
+      "city": "Diré",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Australia’s Sanctions on West Bank Settlers Increase Pressure",
+      "url": "https://www.hrw.org/news/2026/11/23/australias-sanctions-on-west-bank-settlers-increase-pressure"
+    },
+    {
+      "published_at": "2026-11-22T21:00:00Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T01:00:33.341482Z",
+      "discovered_at": "2026-11-23T01:00:33.341482Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0130",
+      "source": "Modern Ghana",
+      "language": "en",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Niono",
+      "event_type": "ambush",
+      "candidate_event": false,
+      "title": "Mali: JNIM Resistance at Niono Costs Government Troops Dearly Despite Air Support",
+      "url": "https://www.modernghana.com/news/1546881/mali-jnim-resistance-at-niono-costs-government.html"
+    },
+    {
       "published_at": "2026-11-22T14:18:04Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4431,42 +4467,6 @@
       "candidate_event": false,
       "title": "Erdogan: “With the Bayraktar Kızılelma, our army will go from victory to victory”",
       "url": "https://bamada.net/erdogan-avec-le-bayraktar-kizilelma-notre-armee-ira-de-victoire-en-victoire"
-    },
-    {
-      "published_at": "2026-11-20T02:38:30Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T07:29:09.475454Z",
-      "discovered_at": "2026-11-20T07:29:09.475454Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Koulikoro",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "DIRECTORATE OF MILITARY COLLEGES: The 2026–2027 academic year at the Military Colleges has officially begun",
-      "url": "https://bamada.net/direction-des-ecoles-militaires-la-rentree-academique-2026-2027-des-ecoles-militaires-officiellement-lancee"
-    },
-    {
-      "published_at": "2026-11-20T01:26:20Z",
-      "published_date_source": "jsonld:dateCreated",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T07:29:08.778027Z",
-      "discovered_at": "2026-11-20T07:29:08.778027Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0015",
-      "source": "ActuNiger",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "clash",
-      "candidate_event": true,
-      "title": "Mali: The Malian army announces the release of 24 soldiers during a special operation near Kidal",
-      "url": "https://www.actuniger.com/international/mali-larmee-malienne-annonce-la-liberation-de-24-soldats-lors-dune-operation-speciale-pres-de-kidal.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
