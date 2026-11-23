@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-23T01:01:43.068497Z",
+  "generated_at": "2026-11-23T14:53:40.584903Z",
   "window_days": 30,
   "cutoff": "2026-10-24",
-  "reports": 744,
-  "incident_reports": 160,
-  "candidate_events": 98,
+  "reports": 740,
+  "incident_reports": 159,
+  "candidate_events": 100,
   "corroborated_events": 29,
-  "mapped_events": 72,
-  "mapped_locations": 131,
-  "distinct_sources": 85,
+  "mapped_events": 73,
+  "mapped_locations": 133,
+  "distinct_sources": 86,
   "by_actor": {
-    "State": 55,
+    "State": 57,
     "Other": 29,
     "JNIM": 9,
     "IS Sahel": 3,
     "Africa Corps/Wagner": 2
   },
   "by_country": {
-    "Mali": 64,
+    "Mali": 66,
     "Niger": 23,
     "Burkina Faso": 11
   },
   "by_event_type": {
-    "security operation": 49,
+    "security operation": 50,
     "attack": 12,
     "air/drone strike": 8,
+    "clash": 7,
     "offensive/campaign": 7,
-    "clash": 6,
     "kidnapping": 5,
     "raid": 4,
     "civilian targeting": 3,
@@ -35,20 +35,20 @@
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 637,
-    "en": 70,
-    "ar": 37
+    "fr": 632,
+    "en": 72,
+    "ar": 36
   },
   "by_confidence": {
-    "moderate": 47,
-    "low": 43,
+    "moderate": 48,
+    "low": 44,
     "moderate-high": 8
   },
   "top_sources": [
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 79
+      "count": 76
     },
     {
       "source_code": "SRC-0006",
@@ -56,24 +56,24 @@
       "count": 67
     },
     {
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 51
-    },
-    {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 49
+      "count": 50
     },
     {
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "count": 32
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "count": 50
     },
     {
       "source_code": "SRC-0079",
       "source": "L'Essor",
       "count": 31
+    },
+    {
+      "source_code": "SRC-0092",
+      "source": "La Nouvelle Tribune (Bénin)",
+      "count": 30
     },
     {
       "source_code": "SRC-0001",
@@ -96,24 +96,24 @@
       "count": 24
     },
     {
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "count": 20
-    },
-    {
       "source_code": "SRC-0017",
       "source": "Le Sahel",
+      "count": 21
+    },
+    {
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
       "count": 20
     }
   ],
   "top_locations": [
     {
       "location": "Mali",
-      "count": 18
+      "count": 19
     },
     {
       "location": "Kidal",
-      "count": 16
+      "count": 17
     },
     {
       "location": "Niamey",
@@ -129,7 +129,7 @@
     },
     {
       "location": "Niono",
-      "count": 10
+      "count": 11
     },
     {
       "location": "Timbuktu",
@@ -300,15 +300,210 @@
     {
       "date": "2026-11-22",
       "reports": 9,
-      "events": 0
+      "events": 1
     },
     {
       "date": "2026-11-23",
-      "reports": 0,
-      "events": 0
+      "reports": 9,
+      "events": 1
     }
   ],
   "latest_events": [
+    {
+      "id": "f1accd44d5464476178656dc07633152af0663d0",
+      "event_date": "2026-11-23",
+      "event_date_confidence": "publication-proxy",
+      "event_date_source": "feed",
+      "published_at": "2026-11-23T07:59:55Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:38.381599Z",
+      "actor": "State",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "clash",
+      "country": "Mali",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Release of around thirty soldiers: The bold move by FAMa",
+      "summary": "Around thirty soldiers from the Malian Armed Forces were released last week following a spectacular operation led by the Special Forces and their Russian allies. A successful bold move in the north of the country: combat and transport helicopters, Sukhoi aircraft and the latest-generation drones were deployed in this high-intensity mission, which confirms the growing strength of the FAMa and increasingly affirms Mali's sovereignty over its entire territory every day.",
+      "sources": [
+        "Bamada"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://bamada.net/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://bamada.net/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama",
+          "source": "Bamada",
+          "title": "Release of around thirty soldiers: The bold move by FAMa",
+          "summary": "Around thirty soldiers from the Malian Armed Forces were released last week following a spectacular operation led by the Special Forces and their Russian allies. A successful bold move in the north of the country: combat and transport helicopters, Sukhoi aircraft and the latest-generation drones were deployed in this high-intensity mission, which confirms the growing strength of the FAMa and increasingly affirms Mali's sovereignty over its entire territory every day.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-23T14:50:38.381599Z",
+      "updated_at": "2026-11-23T14:50:38.381599Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "security_force"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-23T14:50:38.381599Z",
+          "type": "event_created",
+          "source": "Bamada"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "bamada.net"
+      ],
+      "independent_source_count": 1,
+      "significance": "ROUTINE",
+      "significance_reasons": [
+        "limited currently observed significance"
+      ]
+    },
+    {
+      "id": "e5fb70491b6747e45cbbefebc79b7774e3ac4214",
+      "event_date": "2026-11-22",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-23T12:06:46Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:38.536791Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Kidal",
+      "lat": 18.4411,
+      "lng": 1.4078,
+      "locations": [
+        {
+          "name": "Kidal",
+          "country": "Mali",
+          "lat": 18.4411,
+          "lng": 1.4078,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Niono",
+          "country": "Mali",
+          "lat": 14.25,
+          "lng": -5.9833,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "FAMA Operations: Surgical strikes...",
+      "summary": "FAMA Operations: Surgical strikes in Kidal and Niono Several positions of armed terrorist groups have been targeted in recent days by precision strikes in the vicinity of Kidal and around Niono. . These operations, which are part of Operation Dougoukoloko, are continuing in order to neutralise any remaining threats in these localities.",
+      "sources": [
+        "Maliweb"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.maliweb.net/insecurite/operations-fama-des-frappes-chirurgicales-a-kidal-et-niono-3121818.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.maliweb.net/insecurite/operations-fama-des-frappes-chirurgicales-a-kidal-et-niono-3121818.html",
+          "source": "Maliweb",
+          "title": "FAMA Operations: Surgical strikes...",
+          "summary": "FAMA Operations: Surgical strikes in Kidal and Niono Several positions of armed terrorist groups have been targeted in recent days by precision strikes in the vicinity of Kidal and around Niono. . These operations, which are part of Operation Dougoukoloko, are continuing in order to neutralise any remaining threats in these localities.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-23T14:50:38.536791Z",
+      "updated_at": "2026-11-23T14:50:38.536791Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-23T14:50:38.536791Z",
+          "type": "event_created",
+          "source": "Maliweb"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "maliweb.net"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "multi-location activity"
+      ]
+    },
     {
       "id": "f39fad1cc8853d09b16aefd2d2e97d37bcb044ef",
       "event_date": "2026-11-21",
@@ -3457,297 +3652,171 @@
       "significance_reasons": [
         "strategic/severe event pattern"
       ]
-    },
-    {
-      "id": "7a72e1a92c18a3157f3f9fcb6a0dfd9729db4484",
-      "event_date": "2026-11-12",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-13T21:08:56Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T00:58:59.085100Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "civilian targeting",
-      "country": "Niger",
-      "city": "Tillabéri",
-      "lat": 14.2071,
-      "lng": 1.4542,
-      "locations": [
-        {
-          "name": "Tillabéri",
-          "country": "Niger",
-          "lat": 14.2071,
-          "lng": 1.4542,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region",
-      "summary": "In Niger, an attack took place on Thursday 12 November in the Tillabéri region, in the west of the country, the epicentre of terrorist violence. It took place near the town of Téra, close to Burkina Faso and Mali. No official statements or casualty figures at this stage .",
-      "sources": [
-        "RFI Afrique"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri",
-          "source": "RFI Afrique",
-          "title": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region",
-          "summary": "In Niger, an attack took place on Thursday 12 November in the Tillabéri region, in the west of the country, the epicentre of terrorist violence. It took place near the town of Téra, close to Burkina Faso and Mali. No official statements or casualty figures at this stage .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 30,
-          "fatalities_max": 30,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 30,
-              "victim_text": "civilians",
-              "claimant": "RFI Afrique",
-              "status": "reported",
-              "evidence": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region Niger: Over 30 civilians killed in an attack near T"
-            }
-          ]
-        }
-      ],
-      "created_at": "2026-11-14T00:58:59.085100Z",
-      "updated_at": "2026-11-14T00:58:59.085100Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian",
-        "armed_group"
-      ],
-      "civilian_targeting_flag": true,
-      "casualty_claims": [
-        {
-          "kind": "fatalities",
-          "count": 30,
-          "victim_text": "civilians",
-          "claimant": "RFI Afrique",
-          "status": "reported",
-          "evidence": "Niger: Over 30 civilians killed in an attack near Téra, in the Tillabéri region Niger: Over 30 civilians killed in an attack near T",
-          "source": "RFI Afrique"
-        }
-      ],
-      "fatalities_min": 30,
-      "fatalities_max": 30,
-      "fatalities_best": 30,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-14T00:58:59.085100Z",
-          "type": "event_created",
-          "source": "RFI Afrique"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "rfi.fr"
-      ],
-      "independent_source_count": 1,
-      "significance": "SIGNIFICANT",
-      "significance_reasons": [
-        "operational security event"
-      ]
-    },
-    {
-      "id": "9d2d7efdc26bf0222c8ecfe3d559cb2063e3d1ec",
-      "event_date": "2026-11-12",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-13T15:23:20Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T19:57:43.934962Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "ambush",
-      "country": "Niger",
-      "city": null,
-      "lat": null,
-      "lng": null,
-      "locations": [],
-      "title": "Niger: At least 37 civilians killed in an ambush by \"armed men\"",
-      "summary": "The deadly attack near Téra, which claimed the lives of 38 people, including women and children, highlights the escalation of jihadist violence in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned from local sources on Friday.",
-      "sources": [
-        "Le Figaro (Section Afrique)",
-        "SeneNews"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://www.lefigaro.fr/international/niger-au-moins-37-civils-tues-dans-une-embuscade-tendue-par-des-hommes-armes-20261113",
-        "https://www.senenews.com/actualites/societe/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-sources-locales_606320.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.lefigaro.fr/international/niger-au-moins-37-civils-tues-dans-une-embuscade-tendue-par-des-hommes-armes-20261113",
-          "source": "Le Figaro (Section Afrique)",
-          "title": "Niger: At least 37 civilians killed in an ambush by \"armed men\"",
-          "summary": "An attack carried out on Thursday by unidentified \"armed men\" left at least 37 civilians dead, including women and children, near Téra in western Niger. . Skip ad Skip ad At least 37 civilians were killed on Thursday, 12 November, in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned from local sources on Friday.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 37,
-          "fatalities_max": 37,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 37,
-              "victim_text": "civilians",
-              "claimant": "Le Figaro (Section Afrique)",
-              "status": "reported",
-              "evidence": "Niger: At least 37 civilians killed in an ambush by \"armed men\" Niger: At least 37 civilians killed in an ambush by \"armed men\" An atta"
-            }
-          ]
-        },
-        {
-          "url": "https://www.senenews.com/actualites/societe/niger-au-moins-37-civils-tues-par-des-hommes-armes-dans-louest-sources-locales_606320.html",
-          "source": "SeneNews",
-          "title": "Niger: 38 civilians killed in an ambush near Téra",
-          "summary": "The deadly attack near Téra, which claimed the lives of 38 people, including women and children, highlights the escalation of jihadist violence in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina Faso and Mali, AFP learned from local sources on Friday.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": 37,
-          "fatalities_max": 38,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "civilian",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": true,
-          "casualty_claims": [
-            {
-              "kind": "fatalities",
-              "count": 38,
-              "victim_text": "civilians",
-              "claimant": "SeneNews",
-              "status": "reported",
-              "evidence": "Niger: 38 civilians killed in an ambush near Téra Niger: 38 civilians killed in an ambush near Téra The deadly attack near Tér"
-            },
-            {
-              "kind": "fatalities",
-              "count": 37,
-              "victim_text": "civilians",
-              "claimant": "SeneNews",
-              "status": "reported",
-              "evidence": "in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina"
-            }
-          ]
-        }
-      ],
-      "created_at": "2026-11-13T19:57:43.934962Z",
-      "updated_at": "2026-11-13T19:57:44.160476Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "civilian",
-        "armed_group"
-      ],
-      "civilian_targeting_flag": true,
-      "casualty_claims": [
-        {
-          "kind": "fatalities",
-          "count": 37,
-          "victim_text": "civilians",
-          "claimant": "Le Figaro (Section Afrique)",
-          "status": "reported",
-          "evidence": "Niger: At least 37 civilians killed in an ambush by \"armed men\" Niger: At least 37 civilians killed in an ambush by \"armed men\" An atta",
-          "source": "Le Figaro (Section Afrique)"
-        },
-        {
-          "kind": "fatalities",
-          "count": 38,
-          "victim_text": "civilians",
-          "claimant": "SeneNews",
-          "status": "reported",
-          "evidence": "Niger: 38 civilians killed in an ambush near Téra Niger: 38 civilians killed in an ambush near Téra The deadly attack near Tér",
-          "source": "SeneNews"
-        },
-        {
-          "kind": "fatalities",
-          "count": 37,
-          "victim_text": "civilians",
-          "claimant": "SeneNews",
-          "status": "reported",
-          "evidence": "in an already troubled region of Niger, close to the borders with Mali and Burkina Faso. . At least 37 civilians were killed on Thursday in an ambush by unidentified \"armed men\" near Téra, in western Niger, close to Burkina",
-          "source": "SeneNews"
-        }
-      ],
-      "fatalities_min": 37,
-      "fatalities_max": 38,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": true,
-      "revision_history": [
-        {
-          "at": "2026-11-13T19:57:43.934962Z",
-          "type": "event_created",
-          "source": "Le Figaro (Section Afrique)"
-        },
-        {
-          "at": "2026-11-13T19:57:44.160476Z",
-          "type": "corroboration_or_geography_update",
-          "source": "SeneNews"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "lefigaro.fr",
-        "senenews.com"
-      ],
-      "independent_source_count": 2,
-      "significance": "SIGNIFICANT",
-      "significance_reasons": [
-        "operational security event"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-23T15:50:00Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:43.433102Z",
+      "discovered_at": "2026-11-23T14:50:43.433102Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0017",
+      "source": "Le Sahel",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Dosso",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Dosso/Presidential initiative for 1,000 boreholes in the municipalities of Koygolo and Kiota: The Minister of Agriculture and Livestock visits the irrigated sites of Dallol Bosso",
+      "url": "https://www.lesahel.org/dosso-initiative-presidentielle-1-000-forages-dans-les-communes-de-koygolo-et-kiota-le-ministre-de-lagriculture-et-de-lelevage-sur-les-sites-irrigues-du-dallol-bosso/"
+    },
+    {
+      "published_at": "2026-11-23T15:50:00Z",
+      "published_date_source": "html:time",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:44.867529Z",
+      "discovered_at": "2026-11-23T14:50:44.867529Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0017",
+      "source": "Le Sahel",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Diffa",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Diffa/Security: 17 weapons, 3 Hilux vehicles seized, and 6 traffickers apprehended on the Diffa-N'Guigmi road.",
+      "url": "https://www.lesahel.org/diffa-securite-17-armes-03-vehicules-hilux-saisis-et-06-trafiquants-apprehendes-sur-la-route-diffa-nguigmi/"
+    },
+    {
+      "published_at": "2026-11-23T13:41:51Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:46.448009Z",
+      "discovered_at": "2026-11-23T14:50:46.448009Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0034",
+      "source": "TV5MONDE Afrique",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Image Published on 23 November 2026 Africa Burkina Faso: RSF denounces a \"new wave of repression\" against the media The NGO Reporters Without Borders (RSF) denounced on Monday a \"new wave of repression\" in Burkina Faso, where the junta recently issued arrest warrants…",
+      "url": "https://information.tv5monde.com/afrique/burkina-rsf-denonce-une-nouvelle-escalade-repressive-contre-les-medias-2846786"
+    },
+    {
+      "published_at": "2026-11-23T12:16:01Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:48.830028Z",
+      "discovered_at": "2026-11-23T14:50:48.830028Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": null,
+      "country": null,
+      "city": null,
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "Attack on two boats near...",
+      "url": "https://www.maliweb.net/international/attaque-contre-deux-bateaux-pres-de-la-libye-revendiquee-par-kiev-ce-3121820.html"
+    },
+    {
+      "published_at": "2026-11-23T12:06:46Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:38.536791Z",
+      "discovered_at": "2026-11-23T14:50:38.536791Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "FAMA Operations: Surgical strikes...",
+      "url": "https://www.maliweb.net/insecurite/operations-fama-des-frappes-chirurgicales-a-kidal-et-niono-3121818.html"
+    },
+    {
+      "published_at": "2026-11-23T10:28:09Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:40.792291Z",
+      "discovered_at": "2026-11-23T14:50:40.792291Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Refoulement from Guinea: Phew! The humanitarian crisis has been contained",
+      "url": "https://bamada.net/refoules-de-la-guinee-ouf-la-crise-humanitaire-jugulee"
+    },
+    {
+      "published_at": "2026-11-23T08:56:57Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:46.117317Z",
+      "discovered_at": "2026-11-23T14:50:46.117317Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0185",
+      "source": "Médecins Sans Frontières (MSF - Sahel)",
+      "language": "en",
+      "actor": null,
+      "country": "Mali",
+      "city": "Niono",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "MSF condemns deadly attacks against civilians and a health centre in Mali",
+      "url": "https://www.msf.org/msf-condemns-attacks-against-civilians-and-health-centre-mali"
+    },
+    {
+      "published_at": "2026-11-23T07:59:55Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:38.381599Z",
+      "discovered_at": "2026-11-23T14:50:38.381599Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "clash",
+      "candidate_event": true,
+      "title": "Release of around thirty soldiers: The bold move by FAMa",
+      "url": "https://bamada.net/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama"
+    },
+    {
+      "published_at": "2026-11-23T00:00:00Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-23T14:50:40.450991Z",
+      "discovered_at": "2026-11-23T14:50:40.450991Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0025",
+      "source": "ReliefWeb",
+      "language": "en",
+      "actor": null,
+      "country": "Mali",
+      "city": "Niono",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "MSF Mali attacks: MSF strongly condemns deadly attacks against civilians and a health facility",
+      "url": "https://reliefweb.int/report/mali/msf-mali-attacks-msf-strongly-condemns-deadly-attacks-against-civilians-and-health-facility"
+    },
     {
       "published_at": "2026-11-22T23:00:00Z",
       "published_date_source": "jsonld:datePublished",
@@ -4305,168 +4374,6 @@
       "candidate_event": false,
       "title": "Mali: The inside story of the “release” of soldiers held captive by the separatist FLA group",
       "url": "https://www.rfi.fr/fr/afrique/20261120-mali-les-dessous-de-la-lib%C3%A9ration-de-soldats-prisonniers-du-groupe-ind%C3%A9pendantiste-fla"
-    },
-    {
-      "published_at": "2026-11-20T12:48:08Z",
-      "published_date_source": "opengraph",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T17:04:42.118067Z",
-      "discovered_at": "2026-11-20T17:04:42.118067Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Agadez",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Niger: What we know about the fuel convoy escorted by Algeria",
-      "url": "https://fr.allafrica.com/stories/202611200445.html"
-    },
-    {
-      "published_at": "2026-11-20T12:26:26Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T17:04:44.126290Z",
-      "discovered_at": "2026-11-20T17:04:44.126290Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0034",
-      "source": "TV5MONDE Afrique",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Image Published on 20 November 2026 Africa Sahel: The ICG think tank advocates dialogue between states and JNIM jihadists The International Crisis Group (ICG) think tank recommended on Friday that the Sahel states engage in dialogue with JNIM jihadists…",
-      "url": "https://information.tv5monde.com/afrique/sahel-le-groupe-de-reflexion-icg-preconise-un-dialogue-entre-les-etats-et-les-jihadistes-du-jnim-2846495"
-    },
-    {
-      "published_at": "2026-11-20T11:51:16Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T17:04:42.784998Z",
-      "discovered_at": "2026-11-20T17:04:42.784998Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0013",
-      "source": "Wakat Sera",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Burkina Faso: The celebration of 11 December 2026 announced to “reaffirm national sovereignty”",
-      "url": "https://www.wakatsera.com/burkina-la-celebration-du-11-decembre-2026-annoncee-pour-reaffirmer-la-souverainete-nationale/"
-    },
-    {
-      "published_at": "2026-11-20T10:00:48Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-22T16:25:42.179852Z",
-      "discovered_at": "2026-11-22T16:25:42.179852Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Niono",
-      "event_type": "IED/explosion",
-      "candidate_event": false,
-      "title": "NEWS Souleymane SIDIBE Article reserved for our subscribers Niono, Sofara, Kidal and Niafunké: The army strikes down terrorist groups",
-      "url": "https://www.lessor.ml/posts/niono-sofara-kidal-et-niafunke-larmee-foudroie-des-groupes-terroristes-6b001a508a7db"
-    },
-    {
-      "published_at": "2026-11-20T09:55:41Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T17:04:36.451726Z",
-      "discovered_at": "2026-11-20T17:04:36.451726Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Burkina Faso: A major military parade announced in Ouagadougou for 11 December 2026",
-      "url": "https://burkina24.com/2026/11/20/burkina-faso-une-grande-parade-militaire-annoncee-a-ouagadougou-pour-le-11-decembre-2026/"
-    },
-    {
-      "published_at": "2026-11-20T08:35:09Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T17:04:37.487735Z",
-      "discovered_at": "2026-11-20T17:04:37.487735Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0014",
-      "source": "Agence Nigérienne de Presse",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Dosso",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Dosso: The Minister of Agriculture and Livestock at the irrigated sites of Dallol",
-      "url": "https://anp.ne/dosso-le-ministre-de-lagriculture-et-de-lelevage-sur-les-sites-irrigues-du-dallol/"
-    },
-    {
-      "published_at": "2026-11-20T05:53:52Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T07:29:11.527650Z",
-      "discovered_at": "2026-11-20T07:29:11.527650Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0013",
-      "source": "Wakat Sera",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Burkina Faso: Minutes of the Council of Ministers meeting held on Thursday, 19 November 2026",
-      "url": "https://www.wakatsera.com/burkina-compte-rendu-du-conseil-des-ministres-du-jeudi-19-novembre-2026/"
-    },
-    {
-      "published_at": "2026-11-20T05:08:43Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T07:29:14.604675Z",
-      "discovered_at": "2026-11-20T07:29:14.604675Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": null,
-      "country": null,
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "France: Lecornu warns of a high level of cyber threat and announces enhanced security measures",
-      "url": "https://bamada.net/france-lecornu-alerte-sur-un-niveau-de-cybermenace-et-annonce-un-renforcement-des-mesures-de-securite"
-    },
-    {
-      "published_at": "2026-11-20T03:01:51Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T07:29:14.118894Z",
-      "discovered_at": "2026-11-20T07:29:14.118894Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": null,
-      "country": null,
-      "city": null,
-      "event_type": "clash",
-      "candidate_event": false,
-      "title": "Erdogan: “With the Bayraktar Kızılelma, our army will go from victory to victory”",
-      "url": "https://bamada.net/erdogan-avec-le-bayraktar-kizilelma-notre-armee-ira-de-victoire-en-victoire"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

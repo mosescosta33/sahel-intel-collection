@@ -1,5 +1,200 @@
 [
   {
+    "id": "f1accd44d5464476178656dc07633152af0663d0",
+    "event_date": "2026-11-23",
+    "event_date_confidence": "publication-proxy",
+    "event_date_source": "feed",
+    "published_at": "2026-11-23T07:59:55Z",
+    "published_date_source": "feed",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-23T14:50:38.381599Z",
+    "actor": "State",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "clash",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Release of around thirty soldiers: The bold move by FAMa",
+    "summary": "Around thirty soldiers from the Malian Armed Forces were released last week following a spectacular operation led by the Special Forces and their Russian allies. A successful bold move in the north of the country: combat and transport helicopters, Sukhoi aircraft and the latest-generation drones were deployed in this high-intensity mission, which confirms the growing strength of the FAMa and increasingly affirms Mali's sovereignty over its entire territory every day.",
+    "sources": [
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://bamada.net/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://bamada.net/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama",
+        "source": "Bamada",
+        "title": "Release of around thirty soldiers: The bold move by FAMa",
+        "summary": "Around thirty soldiers from the Malian Armed Forces were released last week following a spectacular operation led by the Special Forces and their Russian allies. A successful bold move in the north of the country: combat and transport helicopters, Sukhoi aircraft and the latest-generation drones were deployed in this high-intensity mission, which confirms the growing strength of the FAMa and increasingly affirms Mali's sovereignty over its entire territory every day.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-23T14:50:38.381599Z",
+    "updated_at": "2026-11-23T14:50:38.381599Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-23T14:50:38.381599Z",
+        "type": "event_created",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "bamada.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
+    ]
+  },
+  {
+    "id": "e5fb70491b6747e45cbbefebc79b7774e3ac4214",
+    "event_date": "2026-11-22",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-23T12:06:46Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-23T14:50:38.536791Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Kidal",
+    "lat": 18.4411,
+    "lng": 1.4078,
+    "locations": [
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Niono",
+        "country": "Mali",
+        "lat": 14.25,
+        "lng": -5.9833,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "FAMA Operations: Surgical strikes...",
+    "summary": "FAMA Operations: Surgical strikes in Kidal and Niono Several positions of armed terrorist groups have been targeted in recent days by precision strikes in the vicinity of Kidal and around Niono. . These operations, which are part of Operation Dougoukoloko, are continuing in order to neutralise any remaining threats in these localities.",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/insecurite/operations-fama-des-frappes-chirurgicales-a-kidal-et-niono-3121818.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/operations-fama-des-frappes-chirurgicales-a-kidal-et-niono-3121818.html",
+        "source": "Maliweb",
+        "title": "FAMA Operations: Surgical strikes...",
+        "summary": "FAMA Operations: Surgical strikes in Kidal and Niono Several positions of armed terrorist groups have been targeted in recent days by precision strikes in the vicinity of Kidal and around Niono. . These operations, which are part of Operation Dougoukoloko, are continuing in order to neutralise any remaining threats in these localities.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-23T14:50:38.536791Z",
+    "updated_at": "2026-11-23T14:50:38.536791Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-23T14:50:38.536791Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
     "id": "f39fad1cc8853d09b16aefd2d2e97d37bcb044ef",
     "event_date": "2026-11-21",
     "event_date_confidence": "explicit-text",
