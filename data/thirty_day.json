@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-11-24T03:04:03.208654Z",
+  "generated_at": "2026-11-24T15:03:47.060234Z",
   "window_days": 30,
   "cutoff": "2026-10-25",
-  "reports": 743,
-  "incident_reports": 157,
-  "candidate_events": 92,
+  "reports": 741,
+  "incident_reports": 159,
+  "candidate_events": 95,
   "corroborated_events": 24,
-  "mapped_events": 66,
-  "mapped_locations": 120,
-  "distinct_sources": 86,
+  "mapped_events": 69,
+  "mapped_locations": 124,
+  "distinct_sources": 87,
   "by_actor": {
-    "State": 56,
+    "State": 57,
     "Other": 26,
-    "JNIM": 9,
-    "Africa Corps/Wagner": 1
+    "JNIM": 10,
+    "Africa Corps/Wagner": 2
   },
   "by_country": {
-    "Mali": 62,
+    "Mali": 65,
     "Niger": 19,
     "Burkina Faso": 11
   },
   "by_event_type": {
-    "security operation": 47,
+    "security operation": 48,
     "attack": 9,
-    "offensive/campaign": 8,
+    "offensive/campaign": 9,
     "clash": 7,
     "air/drone strike": 6,
     "kidnapping": 5,
-    "raid": 4,
+    "raid": 5,
     "IED/explosion": 2,
     "civilian targeting": 2,
     "ambush": 1,
     "territorial seizure/blockade": 1
   },
   "by_language": {
-    "fr": 633,
-    "en": 73,
-    "ar": 37
+    "fr": 635,
+    "en": 71,
+    "ar": 35
   },
   "by_confidence": {
-    "moderate": 46,
-    "low": 41,
+    "moderate": 47,
+    "low": 43,
     "moderate-high": 5
   },
   "top_sources": [
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 76
+      "count": 75
     },
     {
       "source_code": "SRC-0006",
@@ -55,19 +55,19 @@
       "count": 66
     },
     {
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "count": 50
-    },
-    {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
       "count": 50
     },
     {
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "count": 49
+    },
+    {
       "source_code": "SRC-0079",
       "source": "L'Essor",
-      "count": 31
+      "count": 32
     },
     {
       "source_code": "SRC-0092",
@@ -107,16 +107,16 @@
   ],
   "top_locations": [
     {
+      "location": "Kidal",
+      "count": 19
+    },
+    {
       "location": "Mali",
       "count": 18
     },
     {
-      "location": "Kidal",
-      "count": 17
-    },
-    {
       "location": "Bamako",
-      "count": 13
+      "count": 15
     },
     {
       "location": "Niamey",
@@ -274,7 +274,7 @@
     {
       "date": "2026-11-18",
       "reports": 26,
-      "events": 5
+      "events": 6
     },
     {
       "date": "2026-11-19",
@@ -283,7 +283,7 @@
     },
     {
       "date": "2026-11-20",
-      "reports": 19,
+      "reports": 20,
       "events": 1
     },
     {
@@ -299,15 +299,209 @@
     {
       "date": "2026-11-23",
       "reports": 15,
-      "events": 1
+      "events": 2
     },
     {
       "date": "2026-11-24",
-      "reports": 2,
-      "events": 0
+      "reports": 10,
+      "events": 1
     }
   ],
   "latest_events": [
+    {
+      "id": "227db7104f030b513e79b22c1671e402502745f0",
+      "event_date": "2026-11-24",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-24T12:31:12Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:15.701078Z",
+      "actor": "JNIM",
+      "perpetrator": "JNIM",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "JNIM"
+      ],
+      "parent_report_id": null,
+      "event_type": "offensive/campaign",
+      "country": "Mali",
+      "city": "Bamako",
+      "lat": 12.6392,
+      "lng": -8.0029,
+      "locations": [
+        {
+          "name": "Bamako",
+          "country": "Mali",
+          "lat": 12.6392,
+          "lng": -8.0029,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Mali: Algerian secret services reportedly seeking to resume mediation with the FLA, according to Africa Intelligence",
+      "summary": "The Algerian secret services are reportedly seeking to re-establish a channel of dialogue between the Malian authorities and the National Movement for the Liberation of Azawad (MNLA), according to Africa Intelligence. \"As a new offensive by armed groups looms, the Algerian secret services are struggling to reactivate channels of mediation between the Malian state and the Tuareg rebels allied with the jihadists of GSIM,\" wrote the specialised media outlet on X, on 24 November 2026.",
+      "sources": [
+        "La Nouvelle Tribune (Bénin)"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://lanouvelletribune.info/2026/11/mali-les-services-secrets-algeriens-chercheraient-a-retablir-la-mediation-avec-le-fla-selon-africa-intelligence/"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://lanouvelletribune.info/2026/11/mali-les-services-secrets-algeriens-chercheraient-a-retablir-la-mediation-avec-le-fla-selon-africa-intelligence/",
+          "source": "La Nouvelle Tribune (Bénin)",
+          "title": "Mali: Algerian secret services reportedly seeking to resume mediation with the FLA, according to Africa Intelligence",
+          "summary": "The Algerian secret services are reportedly seeking to re-establish a channel of dialogue between the Malian authorities and the National Movement for the Liberation of Azawad (MNLA), according to Africa Intelligence. \"As a new offensive by armed groups looms, the Algerian secret services are struggling to reactivate channels of mediation between the Malian state and the Tuareg rebels allied with the jihadists of GSIM,\" wrote the specialised media outlet on X, on 24 November 2026.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-24T15:01:15.701078Z",
+      "updated_at": "2026-11-24T15:01:15.701078Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-24T15:01:15.701078Z",
+          "type": "event_created",
+          "source": "La Nouvelle Tribune (Bénin)"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "lanouvelletribune.info"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "bf7b6cbc3e59fcaa8a3a7473aebd4aa725435d8c",
+      "event_date": "2026-11-23",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-24T09:53:39Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:17.024486Z",
+      "actor": "State",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Kidal",
+      "lat": 18.4411,
+      "lng": 1.4078,
+      "locations": [
+        {
+          "name": "Kidal",
+          "country": "Mali",
+          "lat": 18.4411,
+          "lng": 1.4078,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "The Minister Delegate for Defence welcomes servicemen released from captivity",
+      "summary": "The Minister Delegate for Defence welcomes soldiers released from captivity General Oumar Diarra, Minister Delegate to the Minister of Defence, welcomed Malian soldiers recently released from captivity on 23 November 2026. These soldiers had been captured during the coordinated attacks of 25 April 2026, particularly in the Kidal region. According to Major General Elizée Jean Dao, Chief of Staff of the Army, their release is the result of a major operation carried out by the command.",
+      "sources": [
+        "Malijet"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://malijet.com/a_la_une_du_mali/312955-le-ministre-delegue-a-la-defense-recoit-des-militaires-liber.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://malijet.com/a_la_une_du_mali/312955-le-ministre-delegue-a-la-defense-recoit-des-militaires-liber.html",
+          "source": "Malijet",
+          "title": "The Minister Delegate for Defence welcomes servicemen released from captivity",
+          "summary": "The Minister Delegate for Defence welcomes soldiers released from captivity General Oumar Diarra, Minister Delegate to the Minister of Defence, welcomed Malian soldiers recently released from captivity on 23 November 2026. These soldiers had been captured during the coordinated attacks of 25 April 2026, particularly in the Kidal region. According to Major General Elizée Jean Dao, Chief of Staff of the Army, their release is the result of a major operation carried out by the command.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-24T15:01:17.024486Z",
+      "updated_at": "2026-11-24T15:01:17.024486Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "security_force"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-24T15:01:17.024486Z",
+          "type": "event_created",
+          "source": "Malijet"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "malijet.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
+      ]
+    },
     {
       "id": "f1accd44d5464476178656dc07633152af0663d0",
       "event_date": "2026-11-23",
@@ -1196,6 +1390,112 @@
       "significance": "SIGNIFICANT",
       "significance_reasons": [
         "operational security event"
+      ]
+    },
+    {
+      "id": "ed3b950f3bc92e1e9281ebfc5e2e6ec55a13cbe5",
+      "event_date": "2026-11-18",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-24T07:11:44Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:04.985340Z",
+      "actor": "Africa Corps/Wagner",
+      "perpetrator": null,
+      "target": "State",
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State",
+        "Africa Corps/Wagner"
+      ],
+      "parent_report_id": null,
+      "event_type": "raid",
+      "country": "Mali",
+      "city": "Kidal",
+      "lat": 18.4411,
+      "lng": 1.4078,
+      "locations": [
+        {
+          "name": "Kidal",
+          "country": "Mali",
+          "lat": 18.4411,
+          "lng": 1.4078,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Bamako",
+          "country": "Mali",
+          "lat": 12.6392,
+          "lng": -8.0029,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Soldiers freed in Mali: spectacular raid by the FAMA and Africa Corps, or an operation carried out without fighting?",
+      "summary": "Soldiers freed in Mali: spectacular raid by the FAMa and Africa Corps, or operation carried out without a fight? On 18 November, the Malian army and its Russian partners announced that they had freed 24 soldiers being held near Kidal. But behind the spectacular images released by Africa Corps, the reality of the operation is said to be less heroic.",
+      "sources": [
+        "Jeune Afrique"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.jeuneafrique.com/1864187/politique/militaires-liberes-au-mali-raid-spectaculaire-des-fama-et-dafrica-corps-ou-operation-menee-sans-combat/"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.jeuneafrique.com/1864187/politique/militaires-liberes-au-mali-raid-spectaculaire-des-fama-et-dafrica-corps-ou-operation-menee-sans-combat/",
+          "source": "Jeune Afrique",
+          "title": "Soldiers freed in Mali: spectacular raid by the FAMA and Africa Corps, or an operation carried out without fighting?",
+          "summary": "Soldiers freed in Mali: spectacular raid by the FAMa and Africa Corps, or operation carried out without a fight? On 18 November, the Malian army and its Russian partners announced that they had freed 24 soldiers being held near Kidal. But behind the spectacular images released by Africa Corps, the reality of the operation is said to be less heroic.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-24T15:01:04.985340Z",
+      "updated_at": "2026-11-24T15:01:04.985340Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "security_force"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-24T15:01:04.985340Z",
+          "type": "event_created",
+          "source": "Jeune Afrique"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "jeuneafrique.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "multi-location activity"
       ]
     },
     {
@@ -3343,313 +3643,153 @@
       "significance_reasons": [
         "multi-location activity"
       ]
-    },
-    {
-      "id": "d4fb7938e49d7edeb8b1f39227155c529dec4a44",
-      "event_date": "2026-11-13",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-13T21:51:13Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-14T00:58:58.584496Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "lat": 12.3714,
-      "lng": -1.5197,
-      "locations": [
-        {
-          "name": "Ouagadougou",
-          "country": "Burkina Faso",
-          "lat": 12.3714,
-          "lng": -1.5197,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Burkina Faso announces the issuance of arrest warrants against journalists and activists in exile for acts of \"terrorism\". The authorities of the West African junta are targeting around twenty individuals and are requesting their extradition. A Burkinabé columnist for RFI and former ministers of ex-President Blaise Compaoré are among those targeted.",
-      "summary": "On Friday, 13 November, the authorities of Burkina Faso announced that they had issued arrest warrants for around twenty people in exile, including journalists, activists, a former minister and former officers, for alleged acts of \"terrorism\". . The Attorney General of the Ouagadougou Court of Appeal, Désiré Sawadogo, told the press that fourteen arrest warrants with extradition requests had been issued, as well as seven other simple arrest warrants.",
-      "sources": [
-        "Le Monde Afrique"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html",
-          "source": "Le Monde Afrique",
-          "title": "Burkina Faso announces the issuance of arrest warrants against journalists and activists in exile for acts of \"terrorism\". The authorities of the West African junta are targeting around twenty individuals and are requesting their extradition. A Burkinabé columnist for RFI and former ministers of ex-President Blaise Compaoré are among those targeted.",
-          "summary": "On Friday, 13 November, the authorities of Burkina Faso announced that they had issued arrest warrants for around twenty people in exile, including journalists, activists, a former minister and former officers, for alleged acts of \"terrorism\". . The Attorney General of the Ouagadougou Court of Appeal, Désiré Sawadogo, told the press that fourteen arrest warrants with extradition requests had been issued, as well as seven other simple arrest warrants.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group",
-            "journalist"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-14T00:58:58.584496Z",
-      "updated_at": "2026-11-14T00:58:58.584496Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "armed_group",
-        "journalist"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-14T00:58:58.584496Z",
-          "type": "event_created",
-          "source": "Le Monde Afrique"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "lemonde.fr"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern"
-      ]
-    },
-    {
-      "id": "7007938ab5575124e865b5133ba3e40707152969",
-      "event_date": "2026-11-13",
-      "event_date_confidence": "publication-proxy",
-      "event_date_source": "jsonld:datePublished",
-      "published_at": "2026-11-13T05:23:31Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-13T12:22:24.746598Z",
-      "actor": "JNIM",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "JNIM",
-        "IS Sahel"
-      ],
-      "parent_report_id": null,
-      "event_type": "clash",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "lat": 12.3714,
-      "lng": -1.5197,
-      "locations": [
-        {
-          "name": "Ouagadougou",
-          "country": "Burkina Faso",
-          "lat": 12.3714,
-          "lng": -1.5197,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
-      "summary": "Ouagadougou, Burkina Faso – Armed fighters from two rival groups have fought a series of increasingly deadly battles along Burkina Faso’s northern border with Mali, as the government struggles to reassert control over large parts of the country. The clashes between Jama’at Nusrat al-Islam wal Muslimin (JNIM), an al-Qaeda affiliate, and the ISIL affiliate in Sahel Province (ISSP) have intensified since early September, with both groups competing for territory and influence across the borderlands.",
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "languages": [
-        "en"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
-          "summary": "Ouagadougou, Burkina Faso – Armed fighters from two rival groups have fought a series of increasingly deadly battles along Burkina Faso’s northern border with Mali, as the government struggles to reassert control over large parts of the country. The clashes between Jama’at Nusrat al-Islam wal Muslimin (JNIM), an al-Qaeda affiliate, and the ISIL affiliate in Sahel Province (ISSP) have intensified since early September, with both groups competing for territory and influence across the borderlands.",
-          "summary_basis": "source-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-13T12:22:24.746598Z",
-      "updated_at": "2026-11-13T12:22:24.746598Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-13T12:22:24.746598Z",
-          "type": "event_created",
-          "source": "Al Jazeera English"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "aljazeera.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern"
-      ]
-    },
-    {
-      "id": "0923f58ee4d7ebfe47a90f3ec0a3101cd539b76a",
-      "event_date": "2026-11-12",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-18T12:12:24Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-22T16:25:46.140733Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Niger",
-      "city": "Tillabéri",
-      "lat": 14.2071,
-      "lng": 1.4542,
-      "locations": [
-        {
-          "name": "Tillabéri",
-          "country": "Niger",
-          "lat": 14.2071,
-          "lng": 1.4542,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Torodi",
-          "country": "Niger",
-          "lat": 13.1167,
-          "lng": 1.7833,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Diffa",
-          "country": "Niger",
-          "lat": 13.3154,
-          "lng": 12.6113,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Niger: Two individuals neutralised and a logistics base dismantled in Tillabéri",
-      "summary": "According to a statement from the institution, the operation was carried out jointly by the Torodi National Guard squadron and the Alpha Zero unit, as part of offensive operations to secure the national territory. The provisional toll stands at two individuals neutralised and five AK-47-type assault rifles recovered. Three motorbikes were also seized, while two other motorbikes and a bicycle were destroyed.",
-      "sources": [
-        "APAnews (FR)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://fr.apanews.net/news/niger-deux-individus-neutralises-et-une-base-logistique-demantelee-a-tillaberi/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://fr.apanews.net/news/niger-deux-individus-neutralises-et-une-base-logistique-demantelee-a-tillaberi/",
-          "source": "APAnews (FR)",
-          "title": "Niger: Two individuals neutralised and a logistics base dismantled in Tillabéri",
-          "summary": "According to a statement from the institution, the operation was carried out jointly by the Torodi National Guard squadron and the Alpha Zero unit, as part of offensive operations to secure the national territory. The provisional toll stands at two individuals neutralised and five AK-47-type assault rifles recovered. Three motorbikes were also seized, while two other motorbikes and a bicycle were destroyed.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-22T16:25:46.140733Z",
-      "updated_at": "2026-11-22T16:25:46.140733Z",
-      "extraction_confidence": "low",
-      "victim_categories": [],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-22T16:25:46.140733Z",
-          "type": "event_created",
-          "source": "APAnews (FR)"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "fr.apanews.net"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern",
-        "multi-location activity"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-24T12:37:57Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:05.734734Z",
+      "discovered_at": "2026-11-24T15:01:05.734734Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0004",
+      "source": "Studio Tamani",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Ségou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Ségou: Three suspects arrested in connection with the murder of a young man in Markala",
+      "url": "https://www.studiotamani.org/210653-segou-trois-suspects-arretes-dans-laffaire-de-lassassinat-dun-jeune-homme-a-markala"
+    },
+    {
+      "published_at": "2026-11-24T12:31:12Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:15.701078Z",
+      "discovered_at": "2026-11-24T15:01:15.701078Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0092",
+      "source": "La Nouvelle Tribune (Bénin)",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "offensive/campaign",
+      "candidate_event": true,
+      "title": "Mali: Algerian secret services reportedly seeking to resume mediation with the FLA, according to Africa Intelligence",
+      "url": "https://lanouvelletribune.info/2026/11/mali-les-services-secrets-algeriens-chercheraient-a-retablir-la-mediation-avec-le-fla-selon-africa-intelligence/"
+    },
+    {
+      "published_at": "2026-11-24T11:26:03Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:06.227133Z",
+      "discovered_at": "2026-11-24T15:01:06.227133Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0091",
+      "source": "SeneNews",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Diré",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "\"Don't leave, stay in the country\": Racky Aidara becomes a victim of cyberbullying after her advice",
+      "url": "https://www.senenews.com/actualites/emigration-clandestine-racky-aidara-victime-dun-lynchage-en-ligne-apres-avoir-appele-les-jeunes-a-rester-au-pays_607472.html"
+    },
+    {
+      "published_at": "2026-11-24T10:47:18Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:07.440792Z",
+      "discovered_at": "2026-11-24T15:01:07.440792Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "political/security policy",
+      "candidate_event": false,
+      "title": "China-Solomon Islands: Beijing defends its cooperation in the Pacific",
+      "url": "https://amap.ml/2026/11/24/chine-iles-salomon-pekin-defend-sa-cooperation-dans-le-pacifique/"
+    },
+    {
+      "published_at": "2026-11-24T09:53:39Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:17.024486Z",
+      "discovered_at": "2026-11-24T15:01:17.024486Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "The Minister Delegate for Defence welcomes servicemen released from captivity",
+      "url": "https://malijet.com/a_la_une_du_mali/312955-le-ministre-delegue-a-la-defense-recoit-des-militaires-liber.html"
+    },
+    {
+      "published_at": "2026-11-24T09:51:46Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:11.053284Z",
+      "discovered_at": "2026-11-24T15:01:11.053284Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kayes",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Kayes: Three tractors donated to the communities of Kanaguilé and Tambacounda",
+      "url": "https://www.lessor.ml/posts/kayes-trois-tracteurs-offerts-aux-communautes-de-kanaguile-et-de-tambankane-6b055e324b667"
+    },
+    {
+      "published_at": "2026-11-24T07:11:44Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:04.985340Z",
+      "discovered_at": "2026-11-24T15:01:04.985340Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0003",
+      "source": "Jeune Afrique",
+      "language": "fr",
+      "actor": "Africa Corps/Wagner",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "raid",
+      "candidate_event": true,
+      "title": "Soldiers freed in Mali: spectacular raid by the FAMA and Africa Corps, or an operation carried out without fighting?",
+      "url": "https://www.jeuneafrique.com/1864187/politique/militaires-liberes-au-mali-raid-spectaculaire-des-fama-et-dafrica-corps-ou-operation-menee-sans-combat/"
+    },
+    {
+      "published_at": "2026-11-24T04:33:15Z",
+      "published_date_source": "jsonld:dateCreated",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-24T15:01:06.295931Z",
+      "discovered_at": "2026-11-24T15:01:06.295931Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0015",
+      "source": "ActuNiger",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Niamey",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Urban security: around thirty unlicensed taxis seized during an inspection operation in Niamey",
+      "url": "https://www.actuniger.com/societe/securite-urbaine-une-trentaine-de-taxis-clandestins-saisis-lors-dune-operation-de-controle-a-niamey.html"
+    },
     {
       "published_at": "2026-11-24T00:54:41Z",
       "published_date_source": "feed",
@@ -4225,150 +4365,6 @@
       "candidate_event": false,
       "title": "Fire at the ZACA project: The Minister of Security calls for compliance with the regulations for transporting dangerous goods",
       "url": "https://www.lobspaalga.com/2026/11/21/88172/"
-    },
-    {
-      "published_at": "2026-11-21T14:20:41Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-22T07:01:48.750273Z",
-      "discovered_at": "2026-11-22T07:01:48.750273Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Fire at the ZACA project: The Minister of Security calls for compliance with the regulations for transporting hazardous goods",
-      "url": "https://burkina24.com/2026/11/21/incendie-au-projet-zaca-le-ministre-de-la-securite-appelle-au-respect-des-normes-de-transport-des-marchandises-dangereuses/"
-    },
-    {
-      "published_at": "2026-11-21T13:37:15Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-21T21:46:18.470203Z",
-      "discovered_at": "2026-11-21T21:46:18.470203Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0013",
-      "source": "Wakat Sera",
-      "language": "fr",
-      "actor": "State",
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Fire at the ZACA project: The Minister of Security calls for compliance with the regulations for the transport of dangerous goods",
-      "url": "https://www.wakatsera.com/incendie-au-projet-zaca-le-ministre-de-la-securite-appelle-au-respect-des-normes-de-transport-des-marchandises-dangereuses/"
-    },
-    {
-      "published_at": "2026-11-21T12:19:00Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-21T21:46:17.617209Z",
-      "discovered_at": "2026-11-21T21:46:17.617209Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Hydrocarbon supply: 2,261 tanker trucks transported to Bamako in three convoys since the beginning of November",
-      "url": "https://bamada.net/approvisionnement-en-hydrocarbures-2-261-camions-citernes-achemines-a-bamako-en-trois-convois-depuis-le-debut-du-mois-de-novembre"
-    },
-    {
-      "published_at": "2026-11-21T11:19:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-21T12:47:59.583280Z",
-      "discovered_at": "2026-11-21T12:47:59.583280Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0130",
-      "source": "Modern Ghana",
-      "language": "en",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Dioura",
-      "event_type": "clash",
-      "candidate_event": false,
-      "title": "The Sahel’s Dangerous Calm: What Does the Lull in Jihadist Fighting Really Hide?",
-      "url": "https://www.modernghana.com/news/1546598/the-sahels-dangerous-calm-what-does-the-lull.html"
-    },
-    {
-      "published_at": "2026-11-21T10:45:02Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-21T21:46:17.648116Z",
-      "discovered_at": "2026-11-21T21:46:17.648116Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "language": "fr",
-      "actor": "Africa Corps/Wagner",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "raid",
-      "candidate_event": true,
-      "title": "Mali: A Russian officer highlights the unprecedented nature of the raid that freed 24 soldiers",
-      "url": "https://lanouvelletribune.info/2026/11/mali-un-officier-russe-souligne-le-caractere-inedit-du-raid-ayant-libere-24-soldats/"
-    },
-    {
-      "published_at": "2026-11-21T09:00:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-21T21:46:20.461782Z",
-      "discovered_at": "2026-11-21T21:46:20.461782Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0072",
-      "source": "Le Point Afrique",
-      "language": "fr",
-      "actor": "Africa Corps/Wagner",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "abuses/war crimes",
-      "candidate_event": false,
-      "title": "\"Today, Russia is no longer afraid to claim responsibility for armed action in Africa\"",
-      "url": "https://www.lepoint.fr/afrique/aujourdhui-la-russie-na-plus-peur-de-revendiquer-une-action-armee-en-afrique-IHVLMRXNZ5G2BHJVHXFMDNZIII/"
-    },
-    {
-      "published_at": "2026-11-21T07:52:38.638000Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-21T12:47:57.675145Z",
-      "discovered_at": "2026-11-21T12:47:57.675145Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0089",
-      "source": "Le360 Afrique",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Over 76,000 Burkinabés repatriated from Guinea following measures against illegal gold mining",
-      "url": "https://afrique.le360.ma/societe/plus-de-76000-burkinabe-rapatries-de-guinee-apres-des-mesures-contre-lorpaillage-illegal_G6VZ4X5LIJGBJI7MEBROHNOUY4/"
-    },
-    {
-      "published_at": "2026-11-21T03:00:02Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-21T12:47:55.021802Z",
-      "discovered_at": "2026-11-21T12:47:55.021802Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "clash",
-      "candidate_event": true,
-      "title": "GOONGA TAN: Mali: After Kidal, a lull...",
-      "url": "https://www.maliweb.net/politique/chroniques/goonga-tan-mali-apres-kidal-laccalmie-3121698.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

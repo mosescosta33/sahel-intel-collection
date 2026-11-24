@@ -1,5 +1,199 @@
 [
   {
+    "id": "227db7104f030b513e79b22c1671e402502745f0",
+    "event_date": "2026-11-24",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-24T12:31:12Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-24T15:01:15.701078Z",
+    "actor": "JNIM",
+    "perpetrator": "JNIM",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "JNIM"
+    ],
+    "parent_report_id": null,
+    "event_type": "offensive/campaign",
+    "country": "Mali",
+    "city": "Bamako",
+    "lat": 12.6392,
+    "lng": -8.0029,
+    "locations": [
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.6392,
+        "lng": -8.0029,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Mali: Algerian secret services reportedly seeking to resume mediation with the FLA, according to Africa Intelligence",
+    "summary": "The Algerian secret services are reportedly seeking to re-establish a channel of dialogue between the Malian authorities and the National Movement for the Liberation of Azawad (MNLA), according to Africa Intelligence. \"As a new offensive by armed groups looms, the Algerian secret services are struggling to reactivate channels of mediation between the Malian state and the Tuareg rebels allied with the jihadists of GSIM,\" wrote the specialised media outlet on X, on 24 November 2026.",
+    "sources": [
+      "La Nouvelle Tribune (Bénin)"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://lanouvelletribune.info/2026/11/mali-les-services-secrets-algeriens-chercheraient-a-retablir-la-mediation-avec-le-fla-selon-africa-intelligence/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://lanouvelletribune.info/2026/11/mali-les-services-secrets-algeriens-chercheraient-a-retablir-la-mediation-avec-le-fla-selon-africa-intelligence/",
+        "source": "La Nouvelle Tribune (Bénin)",
+        "title": "Mali: Algerian secret services reportedly seeking to resume mediation with the FLA, according to Africa Intelligence",
+        "summary": "The Algerian secret services are reportedly seeking to re-establish a channel of dialogue between the Malian authorities and the National Movement for the Liberation of Azawad (MNLA), according to Africa Intelligence. \"As a new offensive by armed groups looms, the Algerian secret services are struggling to reactivate channels of mediation between the Malian state and the Tuareg rebels allied with the jihadists of GSIM,\" wrote the specialised media outlet on X, on 24 November 2026.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-24T15:01:15.701078Z",
+    "updated_at": "2026-11-24T15:01:15.701078Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-24T15:01:15.701078Z",
+        "type": "event_created",
+        "source": "La Nouvelle Tribune (Bénin)"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "lanouvelletribune.info"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "bf7b6cbc3e59fcaa8a3a7473aebd4aa725435d8c",
+    "event_date": "2026-11-23",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-24T09:53:39Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-24T15:01:17.024486Z",
+    "actor": "State",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Kidal",
+    "lat": 18.4411,
+    "lng": 1.4078,
+    "locations": [
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "The Minister Delegate for Defence welcomes servicemen released from captivity",
+    "summary": "The Minister Delegate for Defence welcomes soldiers released from captivity General Oumar Diarra, Minister Delegate to the Minister of Defence, welcomed Malian soldiers recently released from captivity on 23 November 2026. These soldiers had been captured during the coordinated attacks of 25 April 2026, particularly in the Kidal region. According to Major General Elizée Jean Dao, Chief of Staff of the Army, their release is the result of a major operation carried out by the command.",
+    "sources": [
+      "Malijet"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://malijet.com/a_la_une_du_mali/312955-le-ministre-delegue-a-la-defense-recoit-des-militaires-liber.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/a_la_une_du_mali/312955-le-ministre-delegue-a-la-defense-recoit-des-militaires-liber.html",
+        "source": "Malijet",
+        "title": "The Minister Delegate for Defence welcomes servicemen released from captivity",
+        "summary": "The Minister Delegate for Defence welcomes soldiers released from captivity General Oumar Diarra, Minister Delegate to the Minister of Defence, welcomed Malian soldiers recently released from captivity on 23 November 2026. These soldiers had been captured during the coordinated attacks of 25 April 2026, particularly in the Kidal region. According to Major General Elizée Jean Dao, Chief of Staff of the Army, their release is the result of a major operation carried out by the command.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-24T15:01:17.024486Z",
+    "updated_at": "2026-11-24T15:01:17.024486Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-24T15:01:17.024486Z",
+        "type": "event_created",
+        "source": "Malijet"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "malijet.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
+    ]
+  },
+  {
     "id": "f1accd44d5464476178656dc07633152af0663d0",
     "event_date": "2026-11-23",
     "event_date_confidence": "publication-proxy",
@@ -887,6 +1081,112 @@
     "significance": "SIGNIFICANT",
     "significance_reasons": [
       "operational security event"
+    ]
+  },
+  {
+    "id": "ed3b950f3bc92e1e9281ebfc5e2e6ec55a13cbe5",
+    "event_date": "2026-11-18",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-24T07:11:44Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-24T15:01:04.985340Z",
+    "actor": "Africa Corps/Wagner",
+    "perpetrator": null,
+    "target": "State",
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State",
+      "Africa Corps/Wagner"
+    ],
+    "parent_report_id": null,
+    "event_type": "raid",
+    "country": "Mali",
+    "city": "Kidal",
+    "lat": 18.4411,
+    "lng": 1.4078,
+    "locations": [
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.6392,
+        "lng": -8.0029,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Soldiers freed in Mali: spectacular raid by the FAMA and Africa Corps, or an operation carried out without fighting?",
+    "summary": "Soldiers freed in Mali: spectacular raid by the FAMa and Africa Corps, or operation carried out without a fight? On 18 November, the Malian army and its Russian partners announced that they had freed 24 soldiers being held near Kidal. But behind the spectacular images released by Africa Corps, the reality of the operation is said to be less heroic.",
+    "sources": [
+      "Jeune Afrique"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.jeuneafrique.com/1864187/politique/militaires-liberes-au-mali-raid-spectaculaire-des-fama-et-dafrica-corps-ou-operation-menee-sans-combat/"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.jeuneafrique.com/1864187/politique/militaires-liberes-au-mali-raid-spectaculaire-des-fama-et-dafrica-corps-ou-operation-menee-sans-combat/",
+        "source": "Jeune Afrique",
+        "title": "Soldiers freed in Mali: spectacular raid by the FAMA and Africa Corps, or an operation carried out without fighting?",
+        "summary": "Soldiers freed in Mali: spectacular raid by the FAMa and Africa Corps, or operation carried out without a fight? On 18 November, the Malian army and its Russian partners announced that they had freed 24 soldiers being held near Kidal. But behind the spectacular images released by Africa Corps, the reality of the operation is said to be less heroic.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-24T15:01:04.985340Z",
+    "updated_at": "2026-11-24T15:01:04.985340Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "security_force"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-24T15:01:04.985340Z",
+        "type": "event_created",
+        "source": "Jeune Afrique"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "jeuneafrique.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "multi-location activity"
     ]
   },
   {
