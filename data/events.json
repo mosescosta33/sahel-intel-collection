@@ -1685,6 +1685,98 @@
     ]
   },
   {
+    "id": "b3160daf02b07f2fa36142b80b81d66ea9cd6d6b",
+    "event_date": "2026-11-16",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-24T00:44:08Z",
+    "published_date_source": "feed",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-24T03:01:12.178007Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [],
+    "parent_report_id": null,
+    "event_type": "offensive/campaign",
+    "country": "Mali",
+    "city": "Bamako",
+    "lat": 12.6392,
+    "lng": -8.0029,
+    "locations": [
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.6392,
+        "lng": -8.0029,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Purchasing power in Mali: The transitional authorities' successful offensive brings down the price of meat",
+    "summary": "In the face of the high cost of living, which was weighing heavily on household budgets, the government's strategy is finally bearing fruit. Gathered in Bamako on Monday, 16 November 2026, around the Minister of Industry and Trade, Moussa Alassane Diallo, stakeholders in the livestock-meat sector welcomed a significant drop in prices at market stalls, a direct result of the courageous decisions taken by the Transitional Authorities.",
+    "sources": [
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://bamada.net/pouvoir-dachat-au-mali-loffensive-gagnante-des-autorites-de-transition-fait-chuter-le-prix-de-la-viande"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://bamada.net/pouvoir-dachat-au-mali-loffensive-gagnante-des-autorites-de-transition-fait-chuter-le-prix-de-la-viande",
+        "source": "Bamada",
+        "title": "Purchasing power in Mali: The transitional authorities' successful offensive brings down the price of meat",
+        "summary": "In the face of the high cost of living, which was weighing heavily on household budgets, the government's strategy is finally bearing fruit. Gathered in Bamako on Monday, 16 November 2026, around the Minister of Industry and Trade, Moussa Alassane Diallo, stakeholders in the livestock-meat sector welcomed a significant drop in prices at market stalls, a direct result of the courageous decisions taken by the Transitional Authorities.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-24T03:01:12.178007Z",
+    "updated_at": "2026-11-24T03:01:12.178007Z",
+    "extraction_confidence": "low",
+    "victim_categories": [],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-24T03:01:12.178007Z",
+        "type": "event_created",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "bamada.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "60ba486c36707ff0a85eda5858414fec126a40c5",
     "event_date": "2026-11-16",
     "event_date_confidence": "explicit-text",
@@ -29802,6 +29894,104 @@
     "significance": "MAJOR",
     "significance_reasons": [
       "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "d7718c954cce103c55862dbb14a34a9d91247235",
+    "event_date": "2020-11-22",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": null,
+    "published_date_source": "unresolved",
+    "published_time_precision": "unresolved",
+    "collected_at": "2026-11-24T03:01:12.243058Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": "Anéfis",
+    "lat": 18.0667,
+    "lng": 0.6167,
+    "locations": [
+      {
+        "name": "Anéfis",
+        "country": "Mali",
+        "lat": 18.0667,
+        "lng": 0.6167,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "OPERATION DOUGOUKOLOKO: The FAMa [Malian Armed Forces] are stepping up security operations in Diabaly, Anefis, Tonka and Indelimane",
+    "summary": "Several terrorist groups neutralised, vehicles and motorcycles destroyed: The Malian Armed Forces continue their surveillance, reconnaissance and security operations on several fronts across the national territory. Illustrative image BAMADA.NET – The Malian Armed Forces (FAMa) are resolutely continuing their missions to defend and protect the national territory.",
+    "sources": [
+      "Bamada"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://bamada.net/operation-dougoukoloko-les-fama-intensifient-les-operations-de-securisation-a-diabaly-anefis-tonka-et-indelimane"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://bamada.net/operation-dougoukoloko-les-fama-intensifient-les-operations-de-securisation-a-diabaly-anefis-tonka-et-indelimane",
+        "source": "Bamada",
+        "title": "OPERATION DOUGOUKOLOKO: The FAMa [Malian Armed Forces] are stepping up security operations in Diabaly, Anefis, Tonka and Indelimane",
+        "summary": "Several terrorist groups neutralised, vehicles and motorcycles destroyed: The Malian Armed Forces continue their surveillance, reconnaissance and security operations on several fronts across the national territory. Illustrative image BAMADA.NET – The Malian Armed Forces (FAMa) are resolutely continuing their missions to defend and protect the national territory.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-24T03:01:12.243058Z",
+    "updated_at": "2026-11-24T03:01:12.243058Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-24T03:01:12.243058Z",
+        "type": "event_created",
+        "source": "Bamada"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "bamada.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
     ]
   }
 ]
