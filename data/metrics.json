@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:56:13.708635Z",
+  "generated_at": "2026-11-25T14:38:11.662387Z",
   "series": {
     "JNIM": [
       {
@@ -700,7 +700,7 @@
       },
       {
         "date": "2026-11-20",
-        "count": 0
+        "count": 1
       },
       {
         "date": "2026-11-21",
@@ -2160,7 +2160,7 @@
       },
       {
         "date": "2026-11-24",
-        "count": 1
+        "count": 4
       },
       {
         "date": "2026-11-25",
@@ -2866,7 +2866,7 @@
       },
       {
         "date": "2026-11-20",
-        "count": 0
+        "count": 1
       },
       {
         "date": "2026-11-21",
@@ -2892,9 +2892,9 @@
   },
   "trends_7d": {
     "JNIM": {
-      "current": 1,
+      "current": 2,
       "previous": 4,
-      "change_pct": -75.0
+      "change_pct": -50.0
     },
     "IS Sahel": {
       "current": 0,
@@ -2902,21 +2902,21 @@
       "change_pct": null
     },
     "State": {
-      "current": 9,
+      "current": 12,
       "previous": 15,
-      "change_pct": -40.0
+      "change_pct": -20.0
     },
     "Africa Corps/Wagner": {
-      "current": 1,
+      "current": 2,
       "previous": 1,
       "change_pct": null
     }
   },
   "trends_30d": {
     "JNIM": {
-      "current": 9,
+      "current": 10,
       "previous": 17,
-      "change_pct": -47.1
+      "change_pct": -41.2
     },
     "IS Sahel": {
       "current": 0,
@@ -2924,14 +2924,14 @@
       "change_pct": -100.0
     },
     "State": {
-      "current": 55,
+      "current": 58,
       "previous": 76,
-      "change_pct": -27.6
+      "change_pct": -23.7
     },
     "Africa Corps/Wagner": {
-      "current": 4,
+      "current": 5,
       "previous": 23,
-      "change_pct": -82.6
+      "change_pct": -78.3
     }
   },
   "method_note": "Counts are fused candidate events extracted from monitored open-source reporting. Africa Corps/Wagner is an involvement series and can overlap State activity when Russian personnel are coded as a supporting force. These are not independently verified incident counts; changes can reflect both real-world activity and reporting/collection effects."
