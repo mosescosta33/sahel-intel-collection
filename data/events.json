@@ -1,5 +1,95 @@
 [
   {
+    "id": "8864ddb4275df8c62a63e9f61eddb3c577bba80f",
+    "event_date": "2026-11-24",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-25T00:07:00Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-25T00:53:48.457548Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "attack",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "San: Police station attacked by armed men",
+    "summary": "Armed men attacked the police station in San on the afternoon of Tuesday, 24 November 2020, according to local sources. The Malian Armed Forces (FAMa) responded. According to the same sources, the gunfire has ceased and the situation is now under the control of the FAMa.",
+    "sources": [
+      "Malijet"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://malijet.com/flash-info/312965-san-le-commissariat-de-police-attaque-par-des-hommes-armes.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/flash-info/312965-san-le-commissariat-de-police-attaque-par-des-hommes-armes.html",
+        "source": "Malijet",
+        "title": "San: Police station attacked by armed men",
+        "summary": "Armed men attacked the police station in San on the afternoon of Tuesday, 24 November 2020, according to local sources. The Malian Armed Forces (FAMa) responded. According to the same sources, the gunfire has ceased and the situation is now under the control of the FAMa.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-25T00:53:48.457548Z",
+    "updated_at": "2026-11-25T00:53:48.457548Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "security_force"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-25T00:53:48.457548Z",
+        "type": "event_created",
+        "source": "Malijet"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "malijet.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
+    ]
+  },
+  {
     "id": "227db7104f030b513e79b22c1671e402502745f0",
     "event_date": "2026-11-24",
     "event_date_confidence": "explicit-text",
@@ -95,6 +185,96 @@
     "significance": "MAJOR",
     "significance_reasons": [
       "strategic/severe event pattern"
+    ]
+  },
+  {
+    "id": "004d7e5b955bb0e79da1331c43e8a908045f7a72",
+    "event_date": "2026-11-23",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-24T21:24:57Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-25T00:53:48.226768Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "security operation",
+    "country": "Mali",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "Operation Dougoukoloko: 34 terrorists neutralised and more than 90 motorbikes destroyed in four days",
+    "summary": "Between 20 and 23 November 2026, the Malian Armed Forces (FAMa), supported by their partners, carried out a series of strikes against the logistics of terrorist groups, as part of Operation Dougoukoloko. . Report announced by the Armed Forces General Staff: 34 terrorists neutralised, one ammunition depot, one gold processing site, three pick-up trucks and more than 90 motorbikes destroyed.",
+    "sources": [
+      "Malijet"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://malijet.com/actualte_dans_les_regions_du_mali/312962-operation-dougoukoloko-34-terroristes-neutralises-et-plus.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312962-operation-dougoukoloko-34-terroristes-neutralises-et-plus.html",
+        "source": "Malijet",
+        "title": "Operation Dougoukoloko: 34 terrorists neutralised and more than 90 motorbikes destroyed in four days",
+        "summary": "Between 20 and 23 November 2026, the Malian Armed Forces (FAMa), supported by their partners, carried out a series of strikes against the logistics of terrorist groups, as part of Operation Dougoukoloko. . Report announced by the Armed Forces General Staff: 34 terrorists neutralised, one ammunition depot, one gold processing site, three pick-up trucks and more than 90 motorbikes destroyed.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-25T00:53:48.226768Z",
+    "updated_at": "2026-11-25T00:53:48.226768Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-25T00:53:48.226768Z",
+        "type": "event_created",
+        "source": "Malijet"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "malijet.com"
+    ],
+    "independent_source_count": 1,
+    "significance": "SIGNIFICANT",
+    "significance_reasons": [
+      "operational security event"
     ]
   },
   {

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
-  "generated_at": "2026-11-24T15:03:52.549052Z",
+  "generated_at": "2026-11-25T00:56:17.976167Z",
   "active_limit": 33,
   "total_briefings": 310,
   "active_count": 33,
@@ -11,7 +11,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-24",
-      "generated_at": "2026-11-24T15:03:51.120633Z",
+      "generated_at": "2026-11-25T00:56:16.166342Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -20,32 +20,36 @@
       "classification": "OPEN SOURCE",
       "collection_confidence": "LOW",
       "headline_metrics": {
-        "events_occurring_on_date": 0,
+        "events_occurring_on_date": 1,
         "records_held_for_review": 1,
         "multi_source_events": 0,
-        "reports_collected_on_date": 9,
-        "reports_published_on_date": 7,
-        "newly_discovered_older_events": 1,
+        "reports_collected_on_date": 19,
+        "reports_published_on_date": 17,
+        "newly_discovered_older_events": 2,
         "events_awaiting_date_verification": 2,
-        "distinct_sources_collected": 9
+        "distinct_sources_collected": 14
       },
-      "executive_assessment": "Reporting collected on 2026-11-24 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 9 reports from 9 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.",
+      "executive_assessment": "Reporting dated 2026-11-24 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.",
       "briefing_sections": [
         {
           "heading": "Assessment",
-          "text": "Reporting collected on 2026-11-24 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 9 reports from 9 sources, but the automated incident record needs further review. This is not evidence of calm on the ground."
+          "text": "Reporting dated 2026-11-24 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day."
         },
         {
           "heading": "Mali",
-          "text": "7 retained reports were collected for Mali. 0 fused candidate events currently carry this reporting date. Ségou: Three suspects arrested in connection with the murder of a young man in Markala: Three suspects were arrested on Thursday 19 November 2026 as part of the investigation into the murder of a young man, which took place on 12 November in Markala, 35 km from Ségou. The victim had been killed on a construction… Mali: Algerian secret services reportedly seeking to resume mediation with the FLA, according to Africa…: The Algerian secret services are reportedly seeking to re-establish a channel of dialogue between the Malian authorities and the National Movement for the Liberation of Azawad (MNLA), according to Africa Intelligence. \"As a… \"Don't leave, stay in the country\": Racky Aidara becomes a victim of cyberbullying after her advice: \"Don't leave, stay in the country\": Racky Aidara victim of cyberharassment after her advice Given the deaths in clandestine emigration in recent weeks, all Senegalese opinion leaders are talking about it and advising young… 4 additional Mali reports are summarized individually in the source records."
+          "text": "15 retained reports were collected for Mali. 1 fused candidate event currently carry this reporting date. Defence and security: The Transitional President holds discussions with the military command: On Tuesday, 24 November 2020, in Koulouba, the Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General Assimi Goïta, chaired a meeting with the Chiefs of Staff and the Directors of… San: Police station attacked by armed men: Armed men attacked the police station in San on the afternoon of Tuesday, 24 November 2020, according to local sources. The Malian Armed Forces (FAMa) responded. According to the same sources, the gunfire has ceased and the… Jihadism in the Sahel: “The states of the region cannot remain in this situation of neither war nor peace…: Should we negotiate with the jihadists in the Sahel? With the ongoing conflict between the juntas of the Alliance of Sahel States (AES) and the al-Qaeda-linked terrorist group JNIM, the question is becoming less and less… 12 additional Mali reports are summarized individually in the source records."
         },
         {
           "heading": "Burkina Faso",
-          "text": "No retained Burkina Faso report is recorded for this collection date. 0 fused candidate events currently carry this event date."
+          "text": "1 retained report were collected for Burkina Faso. 0 fused candidate events currently carry this reporting date. Burkina Faso: Mobile money scams cost over CFAF 104 million (October): Mobile money scams have become widespread in Burkina Faso. According to data provided by the Ministry of Security, Mobile Money scams claimed 263 victims in October, resulting in financial losses of around CFAF 104 million.…"
         },
         {
           "heading": "Niger",
-          "text": "1 retained report were collected for Niger. 0 fused candidate events currently carry this reporting date. Urban security: around thirty unlicensed taxis seized during an inspection operation in Niamey: As part of its efforts to regulate and make urban transport safer, the Urban Transport Department of the City of Niamey (DTU) carried out an operation this weekend to check and sweep for vehicles operating without regulatory…"
+          "text": "2 retained reports were collected for Niger. 0 fused candidate events currently carry this reporting date. Abolish pipeline surveillance contracts: There is something insanely absurd in having to incentivise any group of persons to restrain them from destroying assets in which they have significant stakes. This is even more so when the environmental costs of such… Urban security: around thirty unlicensed taxis seized during an inspection operation in Niamey: As part of its efforts to regulate and make urban transport safer, the Urban Transport Department of the City of Niamey (DTU) carried out an operation this weekend to check and sweep for vehicles operating without regulatory…"
+        },
+        {
+          "heading": "Reported incidents",
+          "text": "Malijet reports ‘San: Police station attacked by armed men’ in Mali. This account still needs independent confirmation."
         },
         {
           "heading": "Reporting in context",
@@ -53,39 +57,78 @@
         },
         {
           "heading": "What remains unclear",
-          "text": "1 newly recorded item concern earlier dates and are kept out of today's incident count. The date of 2 operational reports still needs checking. Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
+          "text": "2 newly recorded items concern earlier dates and are kept out of today's incident count. The date of 2 operational reports still needs checking. Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
         }
       ],
       "key_judgments": [
-        "No fused candidate event currently has 2026-11-24 as its event date; collection confidence for that date is low.",
+        "State accounts for the largest share of same-day fused event activity (1 event(s)).",
+        "Mali contains the largest same-day event count (1 event(s)).",
+        "1 same-day event(s) remain single-source and should be treated as provisional.",
         "2 collected operational/candidate report(s) still use an unresolved or proxy event date and require temporal verification."
       ],
-      "significant_events": [],
+      "significant_events": [
+        {
+          "id": "8864ddb4275df8c62a63e9f61eddb3c577bba80f",
+          "title": "San: Police station attacked by armed men",
+          "summary": "Armed men attacked the police station in San on the afternoon of Tuesday, 24 November 2020, according to local sources. The Malian Armed Forces (FAMa) responded. According to the same sources, the gunfire has ceased and the situation is now under the control of the FAMa.",
+          "actor": "State",
+          "event_type": "attack",
+          "country": "Mali",
+          "city": null,
+          "event_date": "2026-11-24",
+          "event_date_confidence": "explicit-text",
+          "publication_time": "2026-11-25T00:07:00Z",
+          "collection_time": "2026-11-25T00:53:48.457548Z",
+          "verification_date": null,
+          "verification_basis": "not independently corroborated",
+          "last_evidence_update": "2026-11-25T00:53:48.457548Z",
+          "confidence": "moderate",
+          "corroboration": "single-source",
+          "significance": "ROUTINE",
+          "source_count": 1,
+          "independent_source_count": 1,
+          "sources": [
+            "Malijet"
+          ],
+          "independent_source_domains": [
+            "malijet.com"
+          ],
+          "report_urls": [
+            "https://malijet.com/flash-info/312965-san-le-commissariat-de-police-attaque-par-des-hommes-armes.html"
+          ],
+          "perpetrator": "State",
+          "target": null,
+          "claimant": null,
+          "supporting_force": null
+        }
+      ],
       "what_changed_since_yesterday": [
-        "Collection volume: -10 retained report(s) versus 2026-11-23 (19 → 9).",
+        "Collection volume: +0 retained report(s) versus 2026-11-23 (19 → 19).",
         "Actor-level same-day fused event counts are unchanged from the previous date."
       ],
       "emerging_patterns": [
-        "State 7-day activity is lower than the preceding 7-day window (12 → 7)."
+        "State 7-day activity is lower than the preceding 7-day window (12 → 9)."
       ],
       "intelligence_gaps": [
+        "1 same-day event(s) lack independent multi-source corroboration.",
+        "1 same-day event(s) lack precise city/coordinate resolution.",
         "2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates.",
         "Collection confidence is low, so absence of reporting should not be interpreted as absence of activity."
       ],
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
-        "State": 0
+        "State": 1
       },
       "country_counts": {
-        "Mali": 0,
+        "Mali": 1,
         "Burkina Faso": 0,
         "Niger": 0
       },
       "country_reporting_counts": {
-        "Mali": 7,
-        "Burkina Faso": 0,
-        "Niger": 1
+        "Mali": 15,
+        "Burkina Faso": 1,
+        "Niger": 2
       },
       "actor_profiles": {
         "JNIM": {
@@ -105,29 +148,44 @@
           "event_types": []
         },
         "State": {
-          "events": 0,
+          "events": 1,
           "delta_vs_previous_day": 0,
-          "current_7d": 7,
+          "current_7d": 9,
           "previous_7d": 12,
-          "countries": [],
-          "event_types": []
+          "countries": [
+            [
+              "Mali",
+              1
+            ]
+          ],
+          "event_types": [
+            [
+              "attack",
+              1
+            ]
+          ]
         }
       },
       "country_profiles": {
         "Mali": {
-          "events": 0,
-          "reports_collected": 7,
+          "events": 1,
+          "reports_collected": 15,
           "actor_counts": {
             "JNIM": 0,
             "IS Sahel": 0,
-            "State": 0
+            "State": 1
           },
           "delta_events_vs_previous_day": 0,
-          "top_event_types": []
+          "top_event_types": [
+            [
+              "attack",
+              1
+            ]
+          ]
         },
         "Burkina Faso": {
           "events": 0,
-          "reports_collected": 0,
+          "reports_collected": 1,
           "actor_counts": {
             "JNIM": 0,
             "IS Sahel": 0,
@@ -138,7 +196,7 @@
         },
         "Niger": {
           "events": 0,
-          "reports_collected": 1,
+          "reports_collected": 2,
           "actor_counts": {
             "JNIM": 0,
             "IS Sahel": 0,
@@ -150,6 +208,78 @@
       },
       "country_article_summaries": {
         "Mali": [
+          {
+            "id": "d9f299af116093cd7c347b2e5e9bf90f7fb2f6bf",
+            "source": "Sidwaya",
+            "title": "Defence and security: The Transitional President holds discussions with the military command",
+            "summary": "On Tuesday, 24 November 2020, in Koulouba, the Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General Assimi Goïta, chaired a meeting with the Chiefs of Staff and the Directors of Services of the Defence and Security Forces. The aim of this meeting was to assess the situation of the forces, strengthen the coherence of the command structure, and define the strategic and operational priorities of national defence.",
+            "url": "https://www.sidwaya.info/2026/11/25/defense-et-securite-le-president-de-la-transition-echange-avec-le-commandement-militaire/",
+            "candidate_event": false,
+            "event_date": "2026-11-24"
+          },
+          {
+            "id": "655c4b32886715acd5409e7159ac2f8fd982d513",
+            "source": "Malijet",
+            "title": "San: Police station attacked by armed men",
+            "summary": "Armed men attacked the police station in San on the afternoon of Tuesday, 24 November 2020, according to local sources. The Malian Armed Forces (FAMa) responded. According to the same sources, the gunfire has ceased and the situation is now under the control of the FAMa.",
+            "url": "https://malijet.com/flash-info/312965-san-le-commissariat-de-police-attaque-par-des-hommes-armes.html",
+            "candidate_event": true,
+            "event_date": "2026-11-24"
+          },
+          {
+            "id": "7e2f01f2b4da657b64e4a87a7b67180da7795fcf",
+            "source": "Timbuktu Institute (African Center for Peace Studies)",
+            "title": "Jihadism in the Sahel: “The states of the region cannot remain in this situation of neither war nor peace forever”",
+            "summary": "Should we negotiate with the jihadists in the Sahel? With the ongoing conflict between the juntas of the Alliance of Sahel States (AES) and the al-Qaeda-linked terrorist group JNIM, the question is becoming less and less taboo, especially as the military solutions that have been in vogue for over a decade are not working. In a report published on Friday, 20 November, experts from the International Crisis Group (ICG) therefore recommend that the authorities in Bamako, Ouagadougou and Niamey open frank negotiations with him.",
+            "url": "https://timbuktu-institute.org/index.php/timbuktu-tv/item/1874-jihadisme-au-sahel-les-etats-de-la-region-ne-peuvent-pas-eternellement-rester-dans-cette-situation-de-ni-guerre-ni-paix",
+            "candidate_event": false,
+            "event_date": "2026-11-20"
+          },
+          {
+            "id": "7c2c720e9257045800f9ec1a1dd2a907c3faa961",
+            "source": "Malijet",
+            "title": "Operation Dougoukoloko: 34 terrorists neutralised and more than 90 motorbikes destroyed in four days",
+            "summary": "Between 20 and 23 November 2026, the Malian Armed Forces (FAMa), supported by their partners, carried out a series of strikes against the logistics of terrorist groups, as part of Operation Dougoukoloko. . Report announced by the Armed Forces General Staff: 34 terrorists neutralised, one ammunition depot, one gold processing site, three pick-up trucks and more than 90 motorbikes destroyed.",
+            "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312962-operation-dougoukoloko-34-terroristes-neutralises-et-plus.html",
+            "candidate_event": true,
+            "event_date": "2026-11-23"
+          },
+          {
+            "id": "b74492022d60a34e1dad60e14408f834f54025ff",
+            "source": "Bamada",
+            "title": "Koulouba: The Supreme Commander of the Armed Forces convenes the military hierarchy to assess the security situation",
+            "summary": "DEFENCE AND SECURITY: The Transitional President holds discussions with the military command The Transitional President, Head of State and Supreme Commander of the Armed Forces, His Excellency Army General Assimi Goïta, chaired a meeting with the Chiefs of Staff and the Directors of Services of the Defence and Security Forces on Tuesday, 24 November 2020 at Koulouba.",
+            "url": "https://bamada.net/koulouba-le-chef-supreme-des-armees-reunit-la-hierarchie-militaire-pour-evaluer-la-situation-securitaire",
+            "candidate_event": false,
+            "event_date": "2026-11-24"
+          },
+          {
+            "id": "225b3211b0bfb03a7f898264a84810a233599e3d",
+            "source": "Bamada",
+            "title": "MDAC: The 24 soldiers released following an air-land operation were received by the Minister Delegate",
+            "summary": "Following their release on Wednesday, 18 November 2026, in the In-Tebezas area near Kidal, the 24 soldiers who had previously been held hostage were received on Monday, 23 November 2026, by the Minister Delegate to the Minister of Defence and Veterans' Affairs, Major General Oumar Diarra. The meeting, which took place in the department's conference room, was attended by the Chief of the General Staff of the Armed Forces (CEMGA), Major General Élysée Jean DAO.",
+            "url": "https://bamada.net/mdac-les-24-militaires-liberes-a-lissue-dune-operation-aeroterrestre-recus-par-le-ministre-delegue",
+            "candidate_event": false,
+            "event_date": "2026-11-18"
+          },
+          {
+            "id": "b4253117373b29688cd247f5c92578e04553343b",
+            "source": "Maliweb",
+            "title": "Defence and security: The Transitional President holds discussions with the military command",
+            "summary": "The Transitional President, Head of State and Supreme Commander of the Armed Forces, His Excellency General of the Army Assimi Goïta, chaired a meeting with the Chiefs of Staff and the Directors of Services of the Defence and Security Forces on Tuesday, 24 November 2026, in Koulouba. . The aim of this meeting was to assess the situation of the forces, strengthen the coherence of the command structure, and define the strategic and operational priorities of national defence.",
+            "url": "https://www.maliweb.net/armee/defense-et-securite-le-president-de-la-transition-echange-avec-le-3121878.html",
+            "candidate_event": false,
+            "event_date": "2026-11-24"
+          },
+          {
+            "id": "c100b18680f52233bcd2735a38d34883ceda180f",
+            "source": "Malijet",
+            "title": "Koulouba: Assimi Goïta convenes military leaders to set defence priorities",
+            "summary": "The Transitional President, Army General Assimi Goïta, met with the Chiefs of Staff and the Directors of Services of the Defence and Security Forces on Tuesday, 24 November 2026, in Koulouba. On the agenda: the state of the armed forces, the organisation of the command structure and national defence priorities . Discussions focused on the situation of the FAMa, the strengthening of their resources, and the adaptation of their organisation to the fight against insecurity.",
+            "url": "https://malijet.com/a_la_une_du_mali/312957-koulouba-assimi-goita-reunit-les-chefs-militaires-pour-fix.html",
+            "candidate_event": false,
+            "event_date": "2026-11-24"
+          },
           {
             "id": "663c1dd76dbc27797ff2b2fced6063d522865670",
             "source": "Studio Tamani",
@@ -214,8 +344,27 @@
             "event_date": "2026-11-18"
           }
         ],
-        "Burkina Faso": [],
+        "Burkina Faso": [
+          {
+            "id": "6fdc00be7894c41ad299198b19193be33b1cdaa0",
+            "source": "La Nouvelle Tribune (Bénin)",
+            "title": "Burkina Faso: Mobile money scams cost over CFAF 104 million (October)",
+            "summary": "Mobile money scams have become widespread in Burkina Faso. According to data provided by the Ministry of Security, Mobile Money scams claimed 263 victims in October, resulting in financial losses of around CFAF 104 million. These figures highlight the impact of digital fraud on the losses suffered by the population.",
+            "url": "https://lanouvelletribune.info/2026/11/burkina-les-escroqueries-au-mobile-money-ont-coute-plus-de-104-millions-fcfa-octobre/",
+            "candidate_event": false,
+            "event_date": "2026-11-24"
+          }
+        ],
         "Niger": [
+          {
+            "id": "430e091c566c61f9c3a23c87a6e0925d520f6c7f",
+            "source": "Punch Newspapers (Nigeria)",
+            "title": "Abolish pipeline surveillance contracts",
+            "summary": "There is something insanely absurd in having to incentivise any group of persons to restrain them from destroying assets in which they have significant stakes. This is even more so when the environmental costs of such destruction are considered. That absurdity writ large in Nigeria at the dawn of the Fourth Republic, under the term “Pipelines surveillance contracts”.",
+            "url": "https://punchng.com/abolish-pipeline-surveillance-contracts/",
+            "candidate_event": false,
+            "event_date": "2026-11-24"
+          },
           {
             "id": "da7c11537ab6a1cadea5b76376fca4a2984f186b",
             "source": "ActuNiger",
@@ -229,36 +378,36 @@
       },
       "collection_notes": {
         "sources_total": 184,
-        "sources_success": 154,
-        "sources_failed": 30,
-        "sources_degraded": 17,
-        "documents_discovered": 12341,
-        "documents_retained": 9,
+        "sources_success": 153,
+        "sources_failed": 31,
+        "sources_degraded": 16,
+        "documents_discovered": 12124,
+        "documents_retained": 10,
         "report_target": 100,
-        "translations_attempted": 8,
-        "translations_success": 8,
+        "translations_attempted": 9,
+        "translations_success": 9,
         "translation_failures": 0,
         "collection_confidence": "LOW",
         "collection_confidence_reasons": [
-          "154/184 source paths reached",
-          "30 failed source paths",
-          "17 degraded / 30 failed of 184 configured sources"
+          "153/184 source paths reached",
+          "31 failed source paths",
+          "16 degraded / 31 failed of 184 configured sources"
         ],
-        "reports_collected": 9,
-        "reports_published": 7,
-        "distinct_sources_collected": 9,
+        "reports_collected": 19,
+        "reports_published": 17,
+        "distinct_sources_collected": 14,
         "language_counts": {
-          "fr": 8,
-          "en": 1
+          "fr": 17,
+          "en": 2
         }
       },
-      "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-24: Reporting collected on 2026-11-24 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 9 reports from 9 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.\n\nMali: 7 retained reports. 1. Ségou: Three suspects arrested in connection with the murder of a young man in Markala. Three suspects were arrested on Thursday 19 November 2026 as part of the investigation into the murder of a young man, which took place on 12 November in Markala, 35 km from Ségou. The victim had been killed on a construction site belonging to his brother. According to local sources, the suspects are being held at the gendarmerie. 2. Mali: Algerian secret services reportedly seeking to resume mediation with the FLA, according to Africa Intelligence. The Algerian secret services are reportedly seeking to re-establish a channel of dialogue between the Malian authorities and the National Movement for the Liberation of Azawad (MNLA), according to Africa Intelligence. \"As a new offensive by armed groups looms, the Algerian secret services are struggling to reactivate channels of mediation between the Malian state and the Tuareg rebels allied with the jihadists of GSIM,\" wrote the specialised media outlet on X, on 24 November 2026. 3. \"Don't leave, stay in the country\": Racky Aidara becomes a victim of cyberbullying after her advice. \"Don't leave, stay in the country\": Racky Aidara victim of cyberharassment after her advice Given the deaths in clandestine emigration in recent weeks, all Senegalese opinion leaders are talking about it and advising young people who are thinking of doing so. As the tragedies of clandestine emigration have multiplied in recent weeks, there are an increasing number of Senegalese voices calling on young people to give up on leaving.\n\nBurkina Faso: 0 retained reports. No retained country-specific reports were collected for this desk date.\n\nNiger: 1 retained report. 1. Urban security: around thirty unlicensed taxis seized during an inspection operation in Niamey. As part of its efforts to regulate and make urban transport safer, the Urban Transport Department of the City of Niamey (DTU) carried out an operation this weekend to check and sweep for vehicles operating without regulatory authorisation, particularly in markets and busy areas of the capital. The operation, which covered several neighbourhoods and junctions in the capital, resulted in the seizure of vehicles used for the illegal transport of people, including around thirty unlicensed taxis.\n\nActor picture: no same-day fused candidate events.\n\nWhat changed: Collection volume: -10 retained report(s) versus 2026-11-23 (19 → 9). Actor-level same-day fused event counts are unchanged from the previous date.\n\nIntelligence gaps: 2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 154/184 source paths reached 30 failed source paths 17 degraded / 30 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
+      "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-24: Reporting dated 2026-11-24 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 15 retained reports. 1. Defence and security: The Transitional President holds discussions with the military command. On Tuesday, 24 November 2020, in Koulouba, the Transitional President, Head of State and Supreme Commander of the Armed Forces, Army General Assimi Goïta, chaired a meeting with the Chiefs of Staff and the Directors of Services of the Defence and Security Forces. The aim of this meeting was to assess the situation of the forces, strengthen the coherence of the command structure, and define the strategic and operational priorities of national defence. 2. San: Police station attacked by armed men. Armed men attacked the police station in San on the afternoon of Tuesday, 24 November 2020, according to local sources. The Malian Armed Forces (FAMa) responded. According to the same sources, the gunfire has ceased and the situation is now under the control of the FAMa. 3. Jihadism in the Sahel: “The states of the region cannot remain in this situation of neither war nor peace forever”. Should we negotiate with the jihadists in the Sahel? With the ongoing conflict between the juntas of the Alliance of Sahel States (AES) and the al-Qaeda-linked terrorist group JNIM, the question is becoming less and less taboo, especially as the military solutions that have been in vogue for over a decade are not working. In a report published on Friday, 20 November, experts from the International Crisis Group (ICG) therefore recommend that the authorities in Bamako, Ouagadougou and Niamey open frank negotiations with him.\n\nBurkina Faso: 1 retained report. 1. Burkina Faso: Mobile money scams cost over CFAF 104 million (October). Mobile money scams have become widespread in Burkina Faso. According to data provided by the Ministry of Security, Mobile Money scams claimed 263 victims in October, resulting in financial losses of around CFAF 104 million. These figures highlight the impact of digital fraud on the losses suffered by the population.\n\nNiger: 2 retained reports. 1. Abolish pipeline surveillance contracts. There is something insanely absurd in having to incentivise any group of persons to restrain them from destroying assets in which they have significant stakes. This is even more so when the environmental costs of such destruction are considered. That absurdity writ large in Nigeria at the dawn of the Fourth Republic, under the term “Pipelines surveillance contracts”. 2. Urban security: around thirty unlicensed taxis seized during an inspection operation in Niamey. As part of its efforts to regulate and make urban transport safer, the Urban Transport Department of the City of Niamey (DTU) carried out an operation this weekend to check and sweep for vehicles operating without regulatory authorisation, particularly in markets and busy areas of the capital. The operation, which covered several neighbourhoods and junctions in the capital, resulted in the seizure of vehicles used for the illegal transport of people, including around thirty unlicensed taxis.\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: Collection volume: +0 retained report(s) versus 2026-11-23 (19 → 19). Actor-level same-day fused event counts are unchanged from the previous date.\n\nIntelligence gaps: 1 same-day event(s) lack independent multi-source corroboration. 1 same-day event(s) lack precise city/coordinate resolution. 2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 153/184 source paths reached 31 failed source paths 16 degraded / 31 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
     },
     {
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-23",
-      "generated_at": "2026-11-24T15:03:49.395060Z",
+      "generated_at": "2026-11-25T00:56:16.701440Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -267,7 +416,7 @@
       "classification": "OPEN SOURCE",
       "collection_confidence": "MODERATE",
       "headline_metrics": {
-        "events_occurring_on_date": 0,
+        "events_occurring_on_date": 1,
         "records_held_for_review": 2,
         "multi_source_events": 0,
         "reports_collected_on_date": 19,
@@ -276,15 +425,15 @@
         "events_awaiting_date_verification": 1,
         "distinct_sources_collected": 11
       },
-      "executive_assessment": "Reporting collected on 2026-11-23 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 19 reports from 11 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.",
+      "executive_assessment": "Reporting dated 2026-11-23 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.",
       "briefing_sections": [
         {
           "heading": "Assessment",
-          "text": "Reporting collected on 2026-11-23 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 19 reports from 11 sources, but the automated incident record needs further review. This is not evidence of calm on the ground."
+          "text": "Reporting dated 2026-11-23 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day."
         },
         {
           "heading": "Mali",
-          "text": "12 retained reports were collected for Mali. 0 fused candidate events currently carry this reporting date. OPERATION DOUGOUKOLOKO: The FAMa [Malian Armed Forces] are stepping up security operations in Diabaly,…: Several terrorist groups neutralised, vehicles and motorcycles destroyed: The Malian Armed Forces continue their surveillance, reconnaissance and security operations on several fronts across the national territory.… Mali – FAMa: 24 soldiers freed from the hands of the enemy following an airborne operation; General Oumar…: MALI: GENERAL OUMAR DIARRA ENCOURAGES SOLDIERS RELEASED AFTER THEIR CAPTIVITY – THE FAMa REAFFIRM THEIR COMMITMENT TO SERVING THE NATION Lieutenant General Élisée Jean Dao, Chief of the General Staff of the Armed Forces, at… Purchasing power in Mali: The transitional authorities' successful offensive brings down the price of meat: In the face of the high cost of living, which was weighing heavily on household budgets, the government's strategy is finally bearing fruit. Gathered in Bamako on Monday, 16 November 2026, around the Minister of Industry and… 9 additional Mali reports are summarized individually in the source records."
+          "text": "12 retained reports were collected for Mali. 1 fused candidate event currently carry this reporting date. OPERATION DOUGOUKOLOKO: The FAMa [Malian Armed Forces] are stepping up security operations in Diabaly,…: Several terrorist groups neutralised, vehicles and motorcycles destroyed: The Malian Armed Forces continue their surveillance, reconnaissance and security operations on several fronts across the national territory.… Mali – FAMa: 24 soldiers freed from the hands of the enemy following an airborne operation; General Oumar…: MALI: GENERAL OUMAR DIARRA ENCOURAGES SOLDIERS RELEASED AFTER THEIR CAPTIVITY – THE FAMa REAFFIRM THEIR COMMITMENT TO SERVING THE NATION Lieutenant General Élisée Jean Dao, Chief of the General Staff of the Armed Forces, at… Purchasing power in Mali: The transitional authorities' successful offensive brings down the price of meat: In the face of the high cost of living, which was weighing heavily on household budgets, the government's strategy is finally bearing fruit. Gathered in Bamako on Monday, 16 November 2026, around the Minister of Industry and… 9 additional Mali reports are summarized individually in the source records."
         },
         {
           "heading": "Burkina Faso",
@@ -293,6 +442,10 @@
         {
           "heading": "Niger",
           "text": "3 retained reports were collected for Niger. 0 fused candidate events currently carry this reporting date. Algerian soldiers in the Niger desert... from withdrawing ambassadors to crossing borders: On Friday, 30 October 2026, circulating images showed an Algerian convoy near the customs office in the town of Arlit in northwestern Niger, comprising dozens of fuel tankers and guarded by military vehicles. Reuters quoted… Dosso/Presidential initiative for 1,000 boreholes in the municipalities of Koygolo and Kiota: The Minister…: On 19 November 2024, the Minister of Agriculture and Livestock, Colonel Bilaly Gambobo, accompanied by the Governor of the Dosso Region, the Director General of ONAHA, the Director General of Rural Engineering, key officials… Diffa/Security: 17 weapons, 3 Hilux vehicles seized, and 6 traffickers apprehended on the Diffa-N'Guigmi road.: It was as part of Operation Nalewa Dolè and in fulfilment of its sovereign duties to protect people and their property that the Traffic Brigade achieved this feat. The ceremony to present this haul to the regional authorities…"
+        },
+        {
+          "heading": "Reported incidents",
+          "text": "Malijet reports ‘Operation Dougoukoloko: 34 terrorists neutralised and more than 90 motorbikes destroyed in four days’ in Mali. This account still needs independent confirmation."
         },
         {
           "heading": "Reporting in context",
@@ -304,28 +457,67 @@
         }
       ],
       "key_judgments": [
-        "No fused candidate event currently has 2026-11-23 as its event date; collection confidence for that date is moderate.",
+        "State accounts for the largest share of same-day fused event activity (1 event(s)).",
+        "Mali contains the largest same-day event count (1 event(s)).",
+        "1 same-day event(s) remain single-source and should be treated as provisional.",
         "1 collected operational/candidate report(s) still use an unresolved or proxy event date and require temporal verification."
       ],
-      "significant_events": [],
+      "significant_events": [
+        {
+          "id": "004d7e5b955bb0e79da1331c43e8a908045f7a72",
+          "title": "Operation Dougoukoloko: 34 terrorists neutralised and more than 90 motorbikes destroyed in four days",
+          "summary": "Between 20 and 23 November 2026, the Malian Armed Forces (FAMa), supported by their partners, carried out a series of strikes against the logistics of terrorist groups, as part of Operation Dougoukoloko. . Report announced by the Armed Forces General Staff: 34 terrorists neutralised, one ammunition depot, one gold processing site, three pick-up trucks and more than 90 motorbikes destroyed.",
+          "actor": "State",
+          "event_type": "security operation",
+          "country": "Mali",
+          "city": null,
+          "event_date": "2026-11-23",
+          "event_date_confidence": "explicit-text",
+          "publication_time": "2026-11-24T21:24:57Z",
+          "collection_time": "2026-11-25T00:53:48.226768Z",
+          "verification_date": null,
+          "verification_basis": "not independently corroborated",
+          "last_evidence_update": "2026-11-25T00:53:48.226768Z",
+          "confidence": "moderate",
+          "corroboration": "single-source",
+          "significance": "SIGNIFICANT",
+          "source_count": 1,
+          "independent_source_count": 1,
+          "sources": [
+            "Malijet"
+          ],
+          "independent_source_domains": [
+            "malijet.com"
+          ],
+          "report_urls": [
+            "https://malijet.com/actualte_dans_les_regions_du_mali/312962-operation-dougoukoloko-34-terroristes-neutralises-et-plus.html"
+          ],
+          "perpetrator": "State",
+          "target": null,
+          "claimant": null,
+          "supporting_force": null
+        }
+      ],
       "what_changed_since_yesterday": [
-        "State: -1 same-day fused event(s) versus 2026-11-22 (1 → 0).",
-        "Collection volume: +5 retained report(s) versus 2026-11-22 (14 → 19)."
+        "Collection volume: +5 retained report(s) versus 2026-11-22 (14 → 19).",
+        "Actor-level same-day fused event counts are unchanged from the previous date."
       ],
       "emerging_patterns": [
-        "State 7-day activity is lower than the preceding 7-day window (14 → 7)."
+        "State 7-day activity is lower than the preceding 7-day window (14 → 8)."
       ],
       "intelligence_gaps": [
+        "1 same-day event(s) lack independent multi-source corroboration.",
+        "1 same-day event(s) lack precise city/coordinate resolution.",
         "1 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates.",
         "Collection confidence is moderate, so absence of reporting should not be interpreted as absence of activity."
       ],
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
-        "State": 0
+        "State": 1
       },
       "country_counts": {
-        "Mali": 0,
+        "Mali": 1,
         "Burkina Faso": 0,
         "Niger": 0
       },
@@ -352,25 +544,40 @@
           "event_types": []
         },
         "State": {
-          "events": 0,
-          "delta_vs_previous_day": -1,
-          "current_7d": 7,
+          "events": 1,
+          "delta_vs_previous_day": 0,
+          "current_7d": 8,
           "previous_7d": 14,
-          "countries": [],
-          "event_types": []
+          "countries": [
+            [
+              "Mali",
+              1
+            ]
+          ],
+          "event_types": [
+            [
+              "security operation",
+              1
+            ]
+          ]
         }
       },
       "country_profiles": {
         "Mali": {
-          "events": 0,
+          "events": 1,
           "reports_collected": 12,
           "actor_counts": {
             "JNIM": 0,
             "IS Sahel": 0,
-            "State": 0
+            "State": 1
           },
-          "delta_events_vs_previous_day": -1,
-          "top_event_types": []
+          "delta_events_vs_previous_day": 0,
+          "top_event_types": [
+            [
+              "security operation",
+              1
+            ]
+          ]
         },
         "Burkina Faso": {
           "events": 0,
@@ -590,13 +797,13 @@
           "en": 3
         }
       },
-      "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-23: Reporting collected on 2026-11-23 does not yet support a clear account of a new incident in Mali, Burkina Faso, or Niger. The desk received 19 reports from 11 sources, but the automated incident record needs further review. This is not evidence of calm on the ground.\n\nMali: 12 retained reports. 1. OPERATION DOUGOUKOLOKO: The FAMa [Malian Armed Forces] are stepping up security operations in Diabaly, Anefis, Tonka and Indelimane. Several terrorist groups neutralised, vehicles and motorcycles destroyed: The Malian Armed Forces continue their surveillance, reconnaissance and security operations on several fronts across the national territory. Illustrative image BAMADA.NET – The Malian Armed Forces (FAMa) are resolutely continuing their missions to defend and protect the national territory. 2. Mali – FAMa: 24 soldiers freed from the hands of the enemy following an airborne operation; General Oumar Diarra commends their resilience. MALI: GENERAL OUMAR DIARRA ENCOURAGES SOLDIERS RELEASED AFTER THEIR CAPTIVITY – THE FAMa REAFFIRM THEIR COMMITMENT TO SERVING THE NATION Lieutenant General Élisée Jean Dao, Chief of the General Staff of the Armed Forces, at the reception for the 24 released FAMa soldiers, 23 November 2023 . Bamada.net – Military solidarity, loyalty to the homeland and determination to defend Mali's territorial integrity were the focus of a particularly important meeting on Monday, 23 November 2026. 3. Purchasing power in Mali: The transitional authorities' successful offensive brings down the price of meat. In the face of the high cost of living, which was weighing heavily on household budgets, the government's strategy is finally bearing fruit. Gathered in Bamako on Monday, 16 November 2026, around the Minister of Industry and Trade, Moussa Alassane Diallo, stakeholders in the livestock-meat sector welcomed a significant drop in prices at market stalls, a direct result of the courageous decisions taken by the Transitional Authorities.\n\nBurkina Faso: 3 retained reports. 1. Burkina Faso: Vivo Energy simulates an accident between two tankers to test its safety system. An accident involving a tanker carrying fuel and a gas tanker, followed by the outbreak of a fire and the treatment of casualties. This was the full-scale scenario that the teams from Vivo Energy Burkina and their partners took part in on Thursday, 19 November 2026, at the company's gas depot in Bingo. . 2. Image Published on 23 November 2026 Africa Burkina Faso: RSF denounces a \"new wave of repression\" against the media The NGO Reporters Without Borders (RSF) denounced on Monday a \"new wave of repression\" in Burkina Faso, where the junta recently issued arrest warrants…. The NGO Reporters Without Borders (RSF) denounces a \"new wave of repression\" in Burkina Faso against the media. On Monday, the NGO Reporters Without Borders (RSF) denounced a \"new wave of repression\" in Burkina Faso, where the junta recently issued arrest warrants against journalists and banned the publication of an investigative media outlet. . 3. Burkina Faso/Agriculture: A fire destroys more than four hectares of rice in Bossora. A fire ravaged more than four hectares of rice in a field in Bossora, a village in the municipality of Satiri, in the Houet Province, on Friday, 20 November 2026, according to our colleagues at the AIB. The fire caused significant losses for the producers, although its exact circumstances are not yet known. .\n\nNiger: 3 retained reports. 1. Algerian soldiers in the Niger desert... from withdrawing ambassadors to crossing borders. On Friday, 30 October 2026, circulating images showed an Algerian convoy near the customs office in the town of Arlit in northwestern Niger, comprising dozens of fuel tankers and guarded by military vehicles. Reuters quoted ten sources as saying that the first Algerian military convoy had arrived in the town, located about 200 kilometres from the border, marking the first publicly announced deployment of Algerian forces outside the country since the October 1973 war. 2. Dosso/Presidential initiative for 1,000 boreholes in the municipalities of Koygolo and Kiota: The Minister of Agriculture and Livestock visits the irrigated sites of Dallol Bosso. On 19 November 2024, the Minister of Agriculture and Livestock, Colonel Bilaly Gambobo, accompanied by the Governor of the Dosso Region, the Director General of ONAHA, the Director General of Rural Engineering, key officials from the Ministry, regional directors, and officials from the Defence and Security Forces, visited several irrigated sites developed under the Presidential Initiative 1,000. 3. Diffa/Security: 17 weapons, 3 Hilux vehicles seized, and 6 traffickers apprehended on the Diffa-N'Guigmi road.. It was as part of Operation Nalewa Dolè and in fulfilment of its sovereign duties to protect people and their property that the Traffic Brigade achieved this feat. The ceremony to present this haul to the regional authorities took place on 17 November 2026 at the Command Legion of the National Gendarmerie. .\n\nActor picture: no same-day fused candidate events.\n\nWhat changed: State: -1 same-day fused event(s) versus 2026-11-22 (1 → 0). Collection volume: +5 retained report(s) versus 2026-11-22 (14 → 19).\n\nIntelligence gaps: 1 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is moderate, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: MODERATE. 153/184 source paths reached 31 failed source paths\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
+      "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-23: Reporting dated 2026-11-23 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 12 retained reports. 1. OPERATION DOUGOUKOLOKO: The FAMa [Malian Armed Forces] are stepping up security operations in Diabaly, Anefis, Tonka and Indelimane. Several terrorist groups neutralised, vehicles and motorcycles destroyed: The Malian Armed Forces continue their surveillance, reconnaissance and security operations on several fronts across the national territory. Illustrative image BAMADA.NET – The Malian Armed Forces (FAMa) are resolutely continuing their missions to defend and protect the national territory. 2. Mali – FAMa: 24 soldiers freed from the hands of the enemy following an airborne operation; General Oumar Diarra commends their resilience. MALI: GENERAL OUMAR DIARRA ENCOURAGES SOLDIERS RELEASED AFTER THEIR CAPTIVITY – THE FAMa REAFFIRM THEIR COMMITMENT TO SERVING THE NATION Lieutenant General Élisée Jean Dao, Chief of the General Staff of the Armed Forces, at the reception for the 24 released FAMa soldiers, 23 November 2023 . Bamada.net – Military solidarity, loyalty to the homeland and determination to defend Mali's territorial integrity were the focus of a particularly important meeting on Monday, 23 November 2026. 3. Purchasing power in Mali: The transitional authorities' successful offensive brings down the price of meat. In the face of the high cost of living, which was weighing heavily on household budgets, the government's strategy is finally bearing fruit. Gathered in Bamako on Monday, 16 November 2026, around the Minister of Industry and Trade, Moussa Alassane Diallo, stakeholders in the livestock-meat sector welcomed a significant drop in prices at market stalls, a direct result of the courageous decisions taken by the Transitional Authorities.\n\nBurkina Faso: 3 retained reports. 1. Burkina Faso: Vivo Energy simulates an accident between two tankers to test its safety system. An accident involving a tanker carrying fuel and a gas tanker, followed by the outbreak of a fire and the treatment of casualties. This was the full-scale scenario that the teams from Vivo Energy Burkina and their partners took part in on Thursday, 19 November 2026, at the company's gas depot in Bingo. . 2. Image Published on 23 November 2026 Africa Burkina Faso: RSF denounces a \"new wave of repression\" against the media The NGO Reporters Without Borders (RSF) denounced on Monday a \"new wave of repression\" in Burkina Faso, where the junta recently issued arrest warrants…. The NGO Reporters Without Borders (RSF) denounces a \"new wave of repression\" in Burkina Faso against the media. On Monday, the NGO Reporters Without Borders (RSF) denounced a \"new wave of repression\" in Burkina Faso, where the junta recently issued arrest warrants against journalists and banned the publication of an investigative media outlet. . 3. Burkina Faso/Agriculture: A fire destroys more than four hectares of rice in Bossora. A fire ravaged more than four hectares of rice in a field in Bossora, a village in the municipality of Satiri, in the Houet Province, on Friday, 20 November 2026, according to our colleagues at the AIB. The fire caused significant losses for the producers, although its exact circumstances are not yet known. .\n\nNiger: 3 retained reports. 1. Algerian soldiers in the Niger desert... from withdrawing ambassadors to crossing borders. On Friday, 30 October 2026, circulating images showed an Algerian convoy near the customs office in the town of Arlit in northwestern Niger, comprising dozens of fuel tankers and guarded by military vehicles. Reuters quoted ten sources as saying that the first Algerian military convoy had arrived in the town, located about 200 kilometres from the border, marking the first publicly announced deployment of Algerian forces outside the country since the October 1973 war. 2. Dosso/Presidential initiative for 1,000 boreholes in the municipalities of Koygolo and Kiota: The Minister of Agriculture and Livestock visits the irrigated sites of Dallol Bosso. On 19 November 2024, the Minister of Agriculture and Livestock, Colonel Bilaly Gambobo, accompanied by the Governor of the Dosso Region, the Director General of ONAHA, the Director General of Rural Engineering, key officials from the Ministry, regional directors, and officials from the Defence and Security Forces, visited several irrigated sites developed under the Presidential Initiative 1,000. 3. Diffa/Security: 17 weapons, 3 Hilux vehicles seized, and 6 traffickers apprehended on the Diffa-N'Guigmi road.. It was as part of Operation Nalewa Dolè and in fulfilment of its sovereign duties to protect people and their property that the Traffic Brigade achieved this feat. The ceremony to present this haul to the regional authorities took place on 17 November 2026 at the Command Legion of the National Gendarmerie. .\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: Collection volume: +5 retained report(s) versus 2026-11-22 (14 → 19). Actor-level same-day fused event counts are unchanged from the previous date.\n\nIntelligence gaps: 1 same-day event(s) lack independent multi-source corroboration. 1 same-day event(s) lack precise city/coordinate resolution. 1 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is moderate, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: MODERATE. 153/184 source paths reached 31 failed source paths\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
     },
     {
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-22",
-      "generated_at": "2026-11-24T15:03:50.634679Z",
+      "generated_at": "2026-11-25T00:56:15.896170Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -951,7 +1158,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-21",
-      "generated_at": "2026-11-24T15:03:50.872640Z",
+      "generated_at": "2026-11-25T00:56:16.390087Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -1407,7 +1614,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-20",
-      "generated_at": "2026-11-24T15:03:49.976240Z",
+      "generated_at": "2026-11-25T00:56:15.541609Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -1781,7 +1988,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-19",
-      "generated_at": "2026-11-24T15:03:50.165595Z",
+      "generated_at": "2026-11-25T00:56:17.958965Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -2163,7 +2370,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-18",
-      "generated_at": "2026-11-24T15:03:50.237789Z",
+      "generated_at": "2026-11-25T00:56:17.367554Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -2741,7 +2948,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-17",
-      "generated_at": "2026-11-24T15:03:49.648229Z",
+      "generated_at": "2026-11-25T00:56:15.775988Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -3196,7 +3403,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-16",
-      "generated_at": "2026-11-24T15:03:49.307541Z",
+      "generated_at": "2026-11-25T00:56:15.922902Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -3748,7 +3955,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-15",
-      "generated_at": "2026-11-24T15:03:50.022343Z",
+      "generated_at": "2026-11-25T00:56:16.211465Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -4008,7 +4215,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-14",
-      "generated_at": "2026-11-24T15:03:49.952728Z",
+      "generated_at": "2026-11-25T00:56:17.915212Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -4413,7 +4620,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-13",
-      "generated_at": "2026-11-24T15:03:50.082669Z",
+      "generated_at": "2026-11-25T00:56:16.247774Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -4946,7 +5153,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-12",
-      "generated_at": "2026-11-24T15:03:51.199152Z",
+      "generated_at": "2026-11-25T00:56:16.309360Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -5519,7 +5726,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-11",
-      "generated_at": "2026-11-24T15:03:51.695738Z",
+      "generated_at": "2026-11-25T00:56:17.080259Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -6174,7 +6381,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-10",
-      "generated_at": "2026-11-24T15:03:50.108026Z",
+      "generated_at": "2026-11-25T00:56:16.804354Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -6540,7 +6747,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-09",
-      "generated_at": "2026-11-24T15:03:49.022224Z",
+      "generated_at": "2026-11-25T00:56:16.893229Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -6939,7 +7146,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-08",
-      "generated_at": "2026-11-24T15:03:50.598934Z",
+      "generated_at": "2026-11-25T00:56:17.790321Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -7345,7 +7552,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-07",
-      "generated_at": "2026-11-24T15:03:50.057963Z",
+      "generated_at": "2026-11-25T00:56:17.070956Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -7677,7 +7884,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-06",
-      "generated_at": "2026-11-24T15:03:49.370530Z",
+      "generated_at": "2026-11-25T00:56:16.354187Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -8125,7 +8332,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-05",
-      "generated_at": "2026-11-24T15:03:49.096706Z",
+      "generated_at": "2026-11-25T00:56:16.417597Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -8643,7 +8850,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-04",
-      "generated_at": "2026-11-24T15:03:49.744036Z",
+      "generated_at": "2026-11-25T00:56:16.525567Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -9193,7 +9400,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-03",
-      "generated_at": "2026-11-24T15:03:50.847264Z",
+      "generated_at": "2026-11-25T00:56:15.388110Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -9717,7 +9924,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-02",
-      "generated_at": "2026-11-24T15:03:52.313638Z",
+      "generated_at": "2026-11-25T00:56:17.197868Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -10474,7 +10681,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-11-01",
-      "generated_at": "2026-11-24T15:03:52.198739Z",
+      "generated_at": "2026-11-25T00:56:16.613889Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -10756,7 +10963,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-31",
-      "generated_at": "2026-11-24T15:03:51.108670Z",
+      "generated_at": "2026-11-25T00:56:16.571756Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -11111,7 +11318,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-30",
-      "generated_at": "2026-11-24T15:03:51.639030Z",
+      "generated_at": "2026-11-25T00:56:17.188500Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -11613,7 +11820,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-29",
-      "generated_at": "2026-11-24T15:03:51.707129Z",
+      "generated_at": "2026-11-25T00:56:17.216362Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -12081,7 +12288,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-28",
-      "generated_at": "2026-11-24T15:03:52.360871Z",
+      "generated_at": "2026-11-25T00:56:15.368770Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -12807,7 +13014,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-27",
-      "generated_at": "2026-11-24T15:03:50.095378Z",
+      "generated_at": "2026-11-25T00:56:17.542024Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -13539,7 +13746,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-26",
-      "generated_at": "2026-11-24T15:03:51.487334Z",
+      "generated_at": "2026-11-25T00:56:16.427065Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -14352,7 +14559,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-25",
-      "generated_at": "2026-11-24T15:03:49.134050Z",
+      "generated_at": "2026-11-25T00:56:15.397502Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -14686,7 +14893,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-24",
-      "generated_at": "2026-11-24T15:03:52.375624Z",
+      "generated_at": "2026-11-25T00:56:16.380770Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
@@ -15208,7 +15415,7 @@
       "schema_version": "1.0",
       "site_patch_version": "3.3.5",
       "reporting_date": "2026-10-23",
-      "generated_at": "2026-11-24T15:03:51.799290Z",
+      "generated_at": "2026-11-25T00:56:17.924202Z",
       "coverage": [
         "Mali",
         "Burkina Faso",
