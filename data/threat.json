@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-26T00:35:11.366677Z",
+  "generated_at": "2026-11-26T14:05:30.366452Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
     "level": "HIGH",
-    "confidence": "LOW"
+    "confidence": "MODERATE"
   },
   "countries": {
     "Mali": {
-      "score": 88,
+      "score": 89,
       "level": "HIGH",
       "trend": "STABLE",
       "confidence": "HIGH",
@@ -20,11 +20,11 @@
       "drivers": [
         "19 fused candidate event(s) in 7 days",
         "4 JNIM/IS Sahel-linked event(s)",
-        "15 significant/major event(s)",
+        "16 significant/major event(s)",
         "1 civilian-threat indicator(s)",
         "activity across 6 named locations"
       ],
-      "independent_domains_7d": 11
+      "independent_domains_7d": 12
     },
     "Burkina Faso": {
       "score": 0,
@@ -42,22 +42,22 @@
       "independent_domains_7d": 0
     },
     "Niger": {
-      "score": 24,
-      "level": "INSUFFICIENT DATA",
+      "score": 33,
+      "level": "MEDIUM",
       "trend": "STABLE",
-      "confidence": "LOW",
-      "assessment_status": "INSUFFICIENT_DATA",
-      "events_7d": 1,
-      "events_30d": 11,
+      "confidence": "MODERATE",
+      "assessment_status": "ASSESSED",
+      "events_7d": 2,
+      "events_30d": 12,
       "baseline_7d_equivalent": 3.0,
-      "tempo_ratio": 0.49,
+      "tempo_ratio": 0.74,
       "drivers": [
-        "1 fused candidate event(s) in 7 days",
+        "2 fused candidate event(s) in 7 days",
         "1 JNIM/IS Sahel-linked event(s)",
         "1 significant/major event(s)",
-        "activity across 2 named locations"
+        "activity across 3 named locations"
       ],
-      "independent_domains_7d": 1
+      "independent_domains_7d": 2
     }
   },
   "method_note": "Experimental research indicator derived from fused candidate events, recent country-relative tempo, significance, militant activity, civilian-threat signals, geographic spread and corroboration. It is not a travel advisory, verified incident count, or forecast. Collection gaps reduce confidence rather than automatically reducing threat."

@@ -1,10 +1,18 @@
 {
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
-  "generated_at": "2026-11-26T00:35:15.589571Z",
+  "generated_at": "2026-11-26T14:05:34.287416Z",
   "archive_location": "private repository state/daily_briefing_archive",
-  "archived_count": 278,
+  "archived_count": 279,
   "briefings": [
+    {
+      "reporting_date": "2026-10-24",
+      "events": 4,
+      "reports_collected": 18,
+      "multi_source_events": 4,
+      "collection_confidence": "LOW",
+      "executive_assessment": "Reporting dated 2026-10-24 gives the desk 4 incident accounts to examine in Mali and Niger. 4 have support from separate sources. The record is provisional; it does not establish the full extent of violence that day."
+    },
     {
       "reporting_date": "2026-10-23",
       "events": 4,
