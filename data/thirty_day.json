@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-11-27T00:45:31.569025Z",
+  "generated_at": "2026-11-27T14:03:01.810332Z",
   "window_days": 30,
   "cutoff": "2026-10-28",
-  "reports": 699,
-  "incident_reports": 143,
-  "candidate_events": 94,
-  "corroborated_events": 21,
-  "mapped_events": 66,
-  "mapped_locations": 116,
+  "reports": 709,
+  "incident_reports": 147,
+  "candidate_events": 101,
+  "corroborated_events": 22,
+  "mapped_events": 71,
+  "mapped_locations": 122,
   "distinct_sources": 82,
   "by_actor": {
-    "State": 59,
-    "Other": 20,
-    "JNIM": 12,
+    "State": 63,
+    "Other": 22,
+    "JNIM": 13,
     "Africa Corps/Wagner": 2,
     "IS Sahel": 1
   },
   "by_country": {
-    "Mali": 72,
-    "Niger": 12,
+    "Mali": 75,
+    "Niger": 16,
     "Burkina Faso": 10
   },
   "by_event_type": {
-    "security operation": 47,
-    "attack": 12,
+    "security operation": 49,
+    "attack": 16,
     "offensive/campaign": 9,
     "kidnapping": 7,
     "clash": 6,
     "raid": 4,
-    "territorial seizure/blockade": 3,
+    "territorial seizure/blockade": 4,
     "IED/explosion": 2,
     "civilian targeting": 2,
     "air/drone strike": 1,
     "ambush": 1
   },
   "by_language": {
-    "fr": 609,
-    "en": 60,
+    "fr": 613,
+    "en": 66,
     "ar": 30
   },
   "by_confidence": {
-    "moderate": 48,
-    "low": 42,
-    "moderate-high": 4
+    "moderate": 51,
+    "low": 45,
+    "moderate-high": 5
   },
   "top_sources": [
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 76
+      "count": 80
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 67
+      "count": 65
     },
     {
       "source_code": "SRC-0005",
@@ -63,31 +63,31 @@
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 47
+      "count": 48
     },
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
-      "count": 32
-    },
-    {
-      "source_code": "SRC-0001",
-      "source": "RFI Afrique",
-      "count": 27
-    },
-    {
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "count": 27
+      "count": 31
     },
     {
       "source_code": "SRC-0011",
       "source": "LeFaso.net",
-      "count": 25
+      "count": 27
+    },
+    {
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "count": 26
     },
     {
       "source_code": "SRC-0079",
       "source": "L'Essor",
+      "count": 25
+    },
+    {
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
       "count": 25
     },
     {
@@ -98,12 +98,12 @@
     {
       "source_code": "SRC-0038",
       "source": "APAnews (FR)",
-      "count": 22
+      "count": 21
     },
     {
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "count": 18
+      "source_code": "SRC-0015",
+      "source": "ActuNiger",
+      "count": 19
     }
   ],
   "top_locations": [
@@ -124,11 +124,11 @@
       "count": 14
     },
     {
-      "location": "Gao",
-      "count": 6
+      "location": "Timbuktu",
+      "count": 7
     },
     {
-      "location": "Timbuktu",
+      "location": "Gao",
       "count": 6
     },
     {
@@ -136,24 +136,24 @@
       "count": 5
     },
     {
+      "location": "Niamey",
+      "count": 5
+    },
+    {
+      "location": "Niger",
+      "count": 5
+    },
+    {
       "location": "Nioro du Sahel",
       "count": 5
     },
     {
-      "location": "Niamey",
-      "count": 4
+      "location": "Tillabéri",
+      "count": 5
     },
     {
       "location": "Sévaré",
       "count": 4
-    },
-    {
-      "location": "Djenné",
-      "count": 3
-    },
-    {
-      "location": "Mopti",
-      "count": 3
     }
   ],
   "daily": [
@@ -294,21 +294,672 @@
     },
     {
       "date": "2026-11-25",
-      "reports": 45,
-      "events": 1
+      "reports": 46,
+      "events": 2
     },
     {
       "date": "2026-11-26",
-      "reports": 16,
-      "events": 1
+      "reports": 17,
+      "events": 5
     },
     {
       "date": "2026-11-27",
-      "reports": 0,
-      "events": 0
+      "reports": 25,
+      "events": 2
     }
   ],
   "latest_events": [
+    {
+      "id": "a976f45aca309e0a4d1c618dcfbfa7e6d2b3f2b7",
+      "event_date": "2026-11-27",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-27T11:12:54Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:09.228000Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Kayes",
+      "lat": 14.4469,
+      "lng": -11.4445,
+      "locations": [
+        {
+          "name": "Kayes",
+          "country": "Mali",
+          "lat": 14.4469,
+          "lng": -11.4445,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Mali: The army announces strikes against terrorist groups in several regions",
+      "summary": "The FAMa (Malian Armed Forces) have announced that they eliminated a large number of terrorists during operations carried out on Wednesday and Thursday across Mali. A statement from the General Staff of the Armed Forces, published on Friday, 27 November, reports this information. .",
+      "sources": [
+        "Malijet"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://malijet.com/actualte_dans_les_regions_du_mali/313005-mali-larmee-annonce-des-frappes-contre-des-groupes-terror.html"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/313005-mali-larmee-annonce-des-frappes-contre-des-groupes-terror.html",
+          "source": "Malijet",
+          "title": "Mali: The army announces strikes against terrorist groups in several regions",
+          "summary": "The FAMa (Malian Armed Forces) have announced that they eliminated a large number of terrorists during operations carried out on Wednesday and Thursday across Mali. A statement from the General Staff of the Armed Forces, published on Friday, 27 November, reports this information. .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-27T14:00:09.228000Z",
+      "updated_at": "2026-11-27T14:00:09.228000Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "security_force",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-27T14:00:09.228000Z",
+          "type": "event_created",
+          "source": "Malijet"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "malijet.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
+      ]
+    },
+    {
+      "id": "9b00ee95c0bc7e21484523be23795206ba2d0a1a",
+      "event_date": "2026-11-27",
+      "event_date_confidence": "publication-proxy",
+      "event_date_source": "jsonld:datePublished",
+      "published_at": "2026-11-27T08:19:50Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:08.942261Z",
+      "actor": "JNIM",
+      "perpetrator": "JNIM",
+      "target": "Africa Corps/Wagner",
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "Africa Corps/Wagner",
+        "JNIM",
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "territorial seizure/blockade",
+      "country": "Mali",
+      "city": "Timbuktu",
+      "lat": 16.7666,
+      "lng": -3.0026,
+      "locations": [
+        {
+          "name": "Timbuktu",
+          "country": "Mali",
+          "lat": 16.7666,
+          "lng": -3.0026,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to blockade Tonka",
+      "summary": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to impose a blockade on Tonka In northern Mali, the jihadist group JNIM is threatening to impose a blockade on the trading town of Tonka. This show of force comes a month after the arrival of the Malian army and its Russian allies from Africa Corps. .",
+      "sources": [
+        "Jeune Afrique"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.jeuneafrique.com/1866054/politique/mali-apres-larrivee-de-larmee-et-dafrica-corps-le-jnim-menace-tonka-de-blocus/"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.jeuneafrique.com/1866054/politique/mali-apres-larrivee-de-larmee-et-dafrica-corps-le-jnim-menace-tonka-de-blocus/",
+          "source": "Jeune Afrique",
+          "title": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to blockade Tonka",
+          "summary": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to impose a blockade on Tonka In northern Mali, the jihadist group JNIM is threatening to impose a blockade on the trading town of Tonka. This show of force comes a month after the arrival of the Malian army and its Russian allies from Africa Corps. .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-27T14:00:08.942261Z",
+      "updated_at": "2026-11-27T14:00:08.942261Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-27T14:00:08.942261Z",
+          "type": "event_created",
+          "source": "Jeune Afrique"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "jeuneafrique.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
+      ]
+    },
+    {
+      "id": "2b7a86dfd1d6d66c264ea2226c44a4b89ed6e99d",
+      "event_date": "2026-11-26",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "relative-weekday",
+      "published_at": "2026-11-27T04:06:52Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:11.625153Z",
+      "actor": "State",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "attack",
+      "country": "Niger",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+      "summary": "At least 13 members of Niger’s National Guard have been killed and 20 wounded in an attack on their compound in Sanam, in the west of the country, the Defence Ministry has said. In a statement read on state television, the ministry said the attack on Thursday was carried out by “numerous heavily armed assailants”, referring to the incident as a “terrorist attack”.",
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack",
+          "source": "Al Jazeera English",
+          "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+          "summary": "At least 13 members of Niger’s National Guard have been killed and 20 wounded in an attack on their compound in Sanam, in the west of the country, the Defence Ministry has said. In a statement read on state television, the ministry said the attack on Thursday was carried out by “numerous heavily armed assailants”, referring to the incident as a “terrorist attack”.",
+          "summary_basis": "source-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-27T14:00:11.625153Z",
+      "updated_at": "2026-11-27T14:00:11.625153Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "security_force",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-27T14:00:11.625153Z",
+          "type": "event_created",
+          "source": "Al Jazeera English"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "aljazeera.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
+      ]
+    },
+    {
+      "id": "1739e1c9b88712558a2405e66c31ab13d2e989c9",
+      "event_date": "2026-11-26",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-27T01:14:53Z",
+      "published_date_source": "jsonld:dateCreated",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:09.710785Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": "State",
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "attack",
+      "country": "Niger",
+      "city": "Tillabéri",
+      "lat": 14.2071,
+      "lng": 1.4542,
+      "locations": [
+        {
+          "name": "Tillabéri",
+          "country": "Niger",
+          "lat": 14.2071,
+          "lng": 1.4542,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Niamey",
+          "country": "Niger",
+          "lat": 13.5116,
+          "lng": 2.1254,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri)",
+      "summary": "On Thursday, 26 November 2020, the Niger National Guard (GNN) position in Sanam, in the department of Abala (Tillabéri region), was the target of a terrorist attack carried out by \"numerous heavily armed attackers\", the Ministry of National Defence announced in a statement issued in the evening. According to the same source, the provisional toll stands at 13 soldiers killed and 20 injured, including several serious cases who were evacuated for medical treatment.",
+      "sources": [
+        "ActuNiger",
+        "Agence Nigérienne de Presse"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 2,
+      "report_urls": [
+        "https://www.actuniger.com/societe/niger-13-soldats-tues-dans-une-nouvelle-attaque-terroriste-a-sanam-tillaberi.html",
+        "https://anp.ne/sanam-tillaberi-une-attaque-terroriste-contre-la-garde-nationale-fait-13-morts-et-plusieurs-assaillants-neutralises/"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.actuniger.com/societe/niger-13-soldats-tues-dans-une-nouvelle-attaque-terroriste-a-sanam-tillaberi.html",
+          "source": "ActuNiger",
+          "title": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri)",
+          "summary": "On Thursday, 26 November 2020, the Niger National Guard (GNN) position in Sanam, in the department of Abala (Tillabéri region), was the target of a terrorist attack carried out by \"numerous heavily armed attackers\", the Ministry of National Defence announced in a statement issued in the evening. According to the same source, the provisional toll stands at 13 soldiers killed and 20 injured, including several serious cases who were evacuated for medical treatment.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": 13,
+          "fatalities_max": 13,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": [
+            {
+              "kind": "fatalities",
+              "count": 13,
+              "victim_text": "soldiers",
+              "claimant": "ActuNiger",
+              "status": "reported",
+              "evidence": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri) On Thursday, 26 November 2020, the Niger National Gu"
+            }
+          ]
+        },
+        {
+          "url": "https://anp.ne/sanam-tillaberi-une-attaque-terroriste-contre-la-garde-nationale-fait-13-morts-et-plusieurs-assaillants-neutralises/",
+          "source": "Agence Nigérienne de Presse",
+          "title": "Sanam (Tillabéri): A terrorist attack on the National Guard leaves 13 dead and several attackers neutralised",
+          "summary": "Niamey, 26 November (ANP) – The Niger National Guard (GNN) post in Sanam, in the department of Abala (Tillabéri), was the target on Thursday, 26 November 2020, of a terrorist attack carried out by numerous heavily armed assailants, according to a statement from the Ministry of National Defence published on Thursday evening. This attack resulted in heavy casualties among the ranks of the Defence and Security Forces (DSF).",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": 13,
+          "fatalities_max": 13,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": [
+            {
+              "kind": "fatalities",
+              "count": 13,
+              "victim_text": "soldiers",
+              "claimant": "Agence Nigérienne de Presse",
+              "status": "reported",
+              "evidence": "casualties among the ranks of the Defence and Security Forces (DSF). The provisional toll stands at 13 soldiers killed and 20 others injured, several of them seriously, according to the same source. The injured were ev"
+            }
+          ]
+        }
+      ],
+      "created_at": "2026-11-27T14:00:09.710785Z",
+      "updated_at": "2026-11-27T14:00:11.340542Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "security_force",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [
+        {
+          "kind": "fatalities",
+          "count": 13,
+          "victim_text": "soldiers",
+          "claimant": "ActuNiger",
+          "status": "reported",
+          "evidence": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri) On Thursday, 26 November 2020, the Niger National Gu",
+          "source": "ActuNiger"
+        },
+        {
+          "kind": "fatalities",
+          "count": 13,
+          "victim_text": "soldiers",
+          "claimant": "Agence Nigérienne de Presse",
+          "status": "reported",
+          "evidence": "casualties among the ranks of the Defence and Security Forces (DSF). The provisional toll stands at 13 soldiers killed and 20 others injured, several of them seriously, according to the same source. The injured were ev",
+          "source": "Agence Nigérienne de Presse"
+        }
+      ],
+      "fatalities_min": 13,
+      "fatalities_max": 13,
+      "fatalities_best": 13,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-27T14:00:09.710785Z",
+          "type": "event_created",
+          "source": "ActuNiger"
+        },
+        {
+          "at": "2026-11-27T14:00:11.340542Z",
+          "type": "corroboration_or_geography_update",
+          "source": "Agence Nigérienne de Presse"
+        }
+      ],
+      "corroboration": "limited corroboration",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "actuniger.com",
+        "anp.ne"
+      ],
+      "independent_source_count": 2,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "multi-location activity"
+      ]
+    },
+    {
+      "id": "0fbd0068dc36e727b0a595794f21f284a5e18cab",
+      "event_date": "2026-11-26",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-date-no-year",
+      "published_at": "2026-11-27T07:02:05Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:10.033038Z",
+      "actor": "Other",
+      "perpetrator": null,
+      "target": "State",
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "attack",
+      "country": "Niger",
+      "city": null,
+      "lat": null,
+      "lng": null,
+      "locations": [],
+      "title": "Image Published on 27 November 2026 Niger, Africa: The Ministry of Defence announces the deaths of 13 guards in a terrorist attack At least 13 Nigerien guards were killed and twenty others injured on Thursday, 26 November, in a “terrorist attack” targeting their position in…",
+      "summary": "At least 13 Nigerien guards were killed and twenty others injured on Thursday, 26 November, in a \"terrorist attack\" targeting their position in Sanam, in the west of the country, the Ministry of Defence announced in a statement. Nigerien police officers take part in a special US programme, 13 April 2018. Stock photo.",
+      "sources": [
+        "TV5MONDE Afrique"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://information.tv5monde.com/afrique/niger-le-ministere-de-la-defense-annonce-la-mort-de-13-gardes-dans-une-attaque-terroriste-2847211"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://information.tv5monde.com/afrique/niger-le-ministere-de-la-defense-annonce-la-mort-de-13-gardes-dans-une-attaque-terroriste-2847211",
+          "source": "TV5MONDE Afrique",
+          "title": "Image Published on 27 November 2026 Niger, Africa: The Ministry of Defence announces the deaths of 13 guards in a terrorist attack At least 13 Nigerien guards were killed and twenty others injured on Thursday, 26 November, in a “terrorist attack” targeting their position in…",
+          "summary": "At least 13 Nigerien guards were killed and twenty others injured on Thursday, 26 November, in a \"terrorist attack\" targeting their position in Sanam, in the west of the country, the Ministry of Defence announced in a statement. Nigerien police officers take part in a special US programme, 13 April 2018. Stock photo.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-27T14:00:10.033038Z",
+      "updated_at": "2026-11-27T14:00:10.033038Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "security_force",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-27T14:00:10.033038Z",
+          "type": "event_created",
+          "source": "TV5MONDE Afrique"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "information.tv5monde.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "ROUTINE",
+      "significance_reasons": [
+        "limited currently observed significance"
+      ]
+    },
+    {
+      "id": "2922369e590b33a72af932988221b75549d4b9b4",
+      "event_date": "2026-11-26",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "relative-weekday",
+      "published_at": "2026-11-27T08:30:22Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:09.588644Z",
+      "actor": "State",
+      "perpetrator": null,
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [],
+      "parent_report_id": null,
+      "event_type": "attack",
+      "country": "Niger",
+      "city": "Tillabéri",
+      "lat": 14.2071,
+      "lng": 1.4542,
+      "locations": [
+        {
+          "name": "Tillabéri",
+          "country": "Niger",
+          "lat": 14.2071,
+          "lng": 1.4542,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Armed men kill 13 guards in 'terrorist attack' in western Niger",
+      "summary": "Armed men on Thursday killed at least 13 Nigerien guards in an attack in the restive Tillaberi region in western Niger, the defence ministry said in a statement. The Nigerien National Guard was targeted \"by a terrorist attack carried out by a large group of heavily armed assailants,\" the ministry said in a statement read on public television. Niger, ruled by a military junta since a 2023 coup, is battling violence by jihadists linked to Al-Qaeda and the Islamic State group, with thousands killed over the last decade.",
+      "sources": [
+        "Africanews"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://www.africanews.com/2026/11/27/armed-men-kill-13-guards-in-terrorist-attack-in-western-niger/"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.africanews.com/2026/11/27/armed-men-kill-13-guards-in-terrorist-attack-in-western-niger/",
+          "source": "Africanews",
+          "title": "Armed men kill 13 guards in 'terrorist attack' in western Niger",
+          "summary": "Armed men on Thursday killed at least 13 Nigerien guards in an attack in the restive Tillaberi region in western Niger, the defence ministry said in a statement. The Nigerien National Guard was targeted \"by a terrorist attack carried out by a large group of heavily armed assailants,\" the ministry said in a statement read on public television. Niger, ruled by a military junta since a 2023 coup, is battling violence by jihadists linked to Al-Qaeda and the Islamic State group, with thousands killed over the last decade.",
+          "summary_basis": "source-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "civilian",
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-27T14:00:09.588644Z",
+      "updated_at": "2026-11-27T14:00:09.588644Z",
+      "extraction_confidence": "low",
+      "victim_categories": [
+        "civilian",
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-27T14:00:09.588644Z",
+          "type": "event_created",
+          "source": "Africanews"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "low",
+      "independent_source_domains": [
+        "africanews.com"
+      ],
+      "independent_source_count": 1,
+      "significance": "SIGNIFICANT",
+      "significance_reasons": [
+        "operational security event"
+      ]
+    },
     {
       "id": "dfd48ebc47c396635b3df61b52e11447eab17e2e",
       "event_date": "2026-11-26",
@@ -412,6 +1063,104 @@
       "significance": "MAJOR",
       "significance_reasons": [
         "multi-location activity"
+      ]
+    },
+    {
+      "id": "80f8ca36ea507313614cc6b94a86f90db6e5bd23",
+      "event_date": "2026-11-25",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-27T11:21:36Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:09.287761Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Kayes",
+      "lat": 14.4469,
+      "lng": -11.4445,
+      "locations": [
+        {
+          "name": "Kayes",
+          "country": "Mali",
+          "lat": 14.4469,
+          "lng": -11.4445,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Securing the territory: several terrorists neutralised and equipment seized during FAMa operations",
+      "summary": "The General Staff of the Armed Forces informs the nation that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. On Wednesday, 25 November 2026, the FAMa carried out ground and air offensive operations in several areas of the national territory.",
+      "sources": [
+        "Bamada"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 1,
+      "report_urls": [
+        "https://bamada.net/securisation-du-territoire-plusieurs-terroristes-neutralises-et-du-materiel-saisi-lors-doperations-des-fama"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://bamada.net/securisation-du-territoire-plusieurs-terroristes-neutralises-et-du-materiel-saisi-lors-doperations-des-fama",
+          "source": "Bamada",
+          "title": "Securing the territory: several terrorists neutralised and equipment seized during FAMa operations",
+          "summary": "The General Staff of the Armed Forces informs the nation that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. On Wednesday, 25 November 2026, the FAMa carried out ground and air offensive operations in several areas of the national territory.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-27T14:00:09.287761Z",
+      "updated_at": "2026-11-27T14:00:09.287761Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-27T14:00:09.287761Z",
+          "type": "event_created",
+          "source": "Bamada"
+        }
+      ],
+      "corroboration": "single-source",
+      "confidence": "moderate",
+      "independent_source_domains": [
+        "bamada.net"
+      ],
+      "independent_source_count": 1,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "strategic/severe event pattern"
       ]
     },
     {
@@ -525,6 +1274,164 @@
       "independent_source_count": 1,
       "significance": "MAJOR",
       "significance_reasons": [
+        "multi-location activity"
+      ]
+    },
+    {
+      "id": "af5addf541d67f857666c78f627c17124941af2a",
+      "event_date": "2026-11-24",
+      "event_date_confidence": "explicit-text",
+      "event_date_source": "explicit-calendar-date",
+      "published_at": "2026-11-25T11:03:24Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-25T14:34:40.171705Z",
+      "actor": "State",
+      "perpetrator": "State",
+      "target": null,
+      "claimant": null,
+      "supporting_force": null,
+      "mentioned_actors": [
+        "State"
+      ],
+      "parent_report_id": null,
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Niono",
+      "lat": 14.25,
+      "lng": -5.9833,
+      "locations": [
+        {
+          "name": "Niono",
+          "country": "Mali",
+          "lat": 14.25,
+          "lng": -5.9833,
+          "confidence": "explicit-place"
+        },
+        {
+          "name": "Nioro du Sahel",
+          "country": "Mali",
+          "lat": 15.23,
+          "lng": -9.59,
+          "confidence": "explicit-place"
+        }
+      ],
+      "title": "Operation Dougoukoloko: The FAMa neutralise...",
+      "summary": "Les Forces armées maliennes (FAMa) ont annoncé avoir neutralisé au moins une dizaine de combattants terroristes et mis hors d’usage sept motocyclettes lors de frappes menées les 23 et 24 novembre dans plusieurs régions du pays, notamment dans le cadre de la traque des auteurs de l’attaque contre Niono. Dans un communiqué publié mardi, l’État-major général des Armées indique que ces interventions ont été conduites dans le cadre de l’opération Dougoukoloko, avec l’appui de partenaires, à travers des actions de surveillance, de reconnaissance et de frappes ciblées contre des positions de groupes armés.",
+      "sources": [
+        "Maliweb",
+        "APAnews (FR)",
+        "Bamada"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "source_count": 3,
+      "report_urls": [
+        "https://www.maliweb.net/insecurite/operation-dougoukoloko-les-fama-neutralisent-plusieurs-terroristes-et-3121886.html",
+        "https://fr.apanews.net/security/mali-les-fama-neutralisent-une-dizaine-de-terroristes/",
+        "https://bamada.net/operation-dougoukoloko-les-fama-frappent-plusieurs-positions-terroristes-et-neutralisent-au-moins-une-dizaine-de-combattants"
+      ],
+      "report_summaries": [
+        {
+          "url": "https://www.maliweb.net/insecurite/operation-dougoukoloko-les-fama-neutralisent-plusieurs-terroristes-et-3121886.html",
+          "source": "Maliweb",
+          "title": "Operation Dougoukoloko: The FAMa neutralise...",
+          "summary": "Operation Dougoukoloko: The Malian Armed Forces (FAMa) neutralise several terrorists and destroy logistical resources in various regions. The Malian Armed Forces (FAMa) are continuing their operations to secure the national territory as part of Operation Dougoukoloko. .",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        },
+        {
+          "url": "https://fr.apanews.net/security/mali-les-fama-neutralisent-une-dizaine-de-terroristes/",
+          "source": "APAnews (FR)",
+          "title": "Mali: The FAMa neutralise around ten terrorists",
+          "summary": "Les Forces armées maliennes (FAMa) ont annoncé avoir neutralisé au moins une dizaine de combattants terroristes et mis hors d’usage sept motocyclettes lors de frappes menées les 23 et 24 novembre dans plusieurs régions du pays, notamment dans le cadre de la traque des auteurs de l’attaque contre Niono. Dans un communiqué publié mardi, l’État-major général des Armées indique que ces interventions ont été conduites dans le cadre de l’opération Dougoukoloko, avec l’appui de partenaires, à travers des actions de surveillance, de reconnaissance et de frappes ciblées contre des positions de groupes armés.",
+          "summary_basis": "source-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        },
+        {
+          "url": "https://bamada.net/operation-dougoukoloko-les-fama-frappent-plusieurs-positions-terroristes-et-neutralisent-au-moins-une-dizaine-de-combattants",
+          "source": "Bamada",
+          "title": "Operation Dougoukoloko: FAMa strike several terrorist positions and neutralise at least a dozen fighters",
+          "summary": "On 23 and 24 November 2026, the Malian Armed Forces (FAMa), supported by their partners, carried out a series of air operations and targeted strikes in several regions of Mali. These actions, carried out as part of Operation Dougoukoloko, resulted in the neutralisation of at least a dozen terrorists and the disabling of seven motorcycles used by armed terrorist groups.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "armed_group"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        }
+      ],
+      "created_at": "2026-11-25T14:34:40.171705Z",
+      "updated_at": "2026-11-27T14:00:09.354125Z",
+      "extraction_confidence": "moderate",
+      "victim_categories": [
+        "armed_group"
+      ],
+      "civilian_targeting_flag": false,
+      "casualty_claims": [],
+      "fatalities_min": null,
+      "fatalities_max": null,
+      "fatalities_best": null,
+      "injured_min": null,
+      "injured_max": null,
+      "abducted_min": null,
+      "abducted_max": null,
+      "casualty_disputed": false,
+      "revision_history": [
+        {
+          "at": "2026-11-25T14:34:40.171705Z",
+          "type": "event_created",
+          "source": "Maliweb"
+        },
+        {
+          "at": "2026-11-25T14:34:41.790786Z",
+          "type": "corroboration_or_geography_update",
+          "source": "APAnews (FR)"
+        },
+        {
+          "at": "2026-11-27T14:00:09.354125Z",
+          "type": "corroboration_or_geography_update",
+          "source": "Bamada"
+        }
+      ],
+      "corroboration": "multi-source",
+      "confidence": "moderate-high",
+      "independent_source_domains": [
+        "maliweb.net",
+        "fr.apanews.net",
+        "bamada.net"
+      ],
+      "independent_source_count": 3,
+      "significance": "MAJOR",
+      "significance_reasons": [
+        "multi-source corroboration",
         "multi-location activity"
       ]
     },
@@ -643,137 +1550,6 @@
       "significance": "ROUTINE",
       "significance_reasons": [
         "limited currently observed significance"
-      ]
-    },
-    {
-      "id": "af5addf541d67f857666c78f627c17124941af2a",
-      "event_date": "2026-11-24",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-25T11:03:24Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:40.171705Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Niono",
-      "lat": 14.25,
-      "lng": -5.9833,
-      "locations": [
-        {
-          "name": "Niono",
-          "country": "Mali",
-          "lat": 14.25,
-          "lng": -5.9833,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Nioro du Sahel",
-          "country": "Mali",
-          "lat": 15.23,
-          "lng": -9.59,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Operation Dougoukoloko: The FAMa neutralise...",
-      "summary": "Les Forces armées maliennes (FAMa) ont annoncé avoir neutralisé au moins une dizaine de combattants terroristes et mis hors d’usage sept motocyclettes lors de frappes menées les 23 et 24 novembre dans plusieurs régions du pays, notamment dans le cadre de la traque des auteurs de l’attaque contre Niono. Dans un communiqué publié mardi, l’État-major général des Armées indique que ces interventions ont été conduites dans le cadre de l’opération Dougoukoloko, avec l’appui de partenaires, à travers des actions de surveillance, de reconnaissance et de frappes ciblées contre des positions de groupes armés.",
-      "sources": [
-        "Maliweb",
-        "APAnews (FR)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://www.maliweb.net/insecurite/operation-dougoukoloko-les-fama-neutralisent-plusieurs-terroristes-et-3121886.html",
-        "https://fr.apanews.net/security/mali-les-fama-neutralisent-une-dizaine-de-terroristes/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.maliweb.net/insecurite/operation-dougoukoloko-les-fama-neutralisent-plusieurs-terroristes-et-3121886.html",
-          "source": "Maliweb",
-          "title": "Operation Dougoukoloko: The FAMa neutralise...",
-          "summary": "Operation Dougoukoloko: The Malian Armed Forces (FAMa) neutralise several terrorists and destroy logistical resources in various regions. The Malian Armed Forces (FAMa) are continuing their operations to secure the national territory as part of Operation Dougoukoloko. .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://fr.apanews.net/security/mali-les-fama-neutralisent-une-dizaine-de-terroristes/",
-          "source": "APAnews (FR)",
-          "title": "Mali: The FAMa neutralise around ten terrorists",
-          "summary": "Les Forces armées maliennes (FAMa) ont annoncé avoir neutralisé au moins une dizaine de combattants terroristes et mis hors d’usage sept motocyclettes lors de frappes menées les 23 et 24 novembre dans plusieurs régions du pays, notamment dans le cadre de la traque des auteurs de l’attaque contre Niono. Dans un communiqué publié mardi, l’État-major général des Armées indique que ces interventions ont été conduites dans le cadre de l’opération Dougoukoloko, avec l’appui de partenaires, à travers des actions de surveillance, de reconnaissance et de frappes ciblées contre des positions de groupes armés.",
-          "summary_basis": "source-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-25T14:34:40.171705Z",
-      "updated_at": "2026-11-25T14:34:41.790786Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-25T14:34:40.171705Z",
-          "type": "event_created",
-          "source": "Maliweb"
-        },
-        {
-          "at": "2026-11-25T14:34:41.790786Z",
-          "type": "corroboration_or_geography_update",
-          "source": "APAnews (FR)"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "maliweb.net",
-        "fr.apanews.net"
-      ],
-      "independent_source_count": 2,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-location activity"
       ]
     },
     {
@@ -2839,810 +3615,459 @@
       "significance_reasons": [
         "operational security event"
       ]
-    },
-    {
-      "id": "ed3b950f3bc92e1e9281ebfc5e2e6ec55a13cbe5",
-      "event_date": "2026-11-18",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-24T07:11:44Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-24T15:01:04.985340Z",
-      "actor": "Africa Corps/Wagner",
-      "perpetrator": null,
-      "target": "State",
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State",
-        "Africa Corps/Wagner"
-      ],
-      "parent_report_id": null,
-      "event_type": "raid",
-      "country": "Mali",
-      "city": "Kidal",
-      "lat": 18.4411,
-      "lng": 1.4078,
-      "locations": [
-        {
-          "name": "Kidal",
-          "country": "Mali",
-          "lat": 18.4411,
-          "lng": 1.4078,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Bamako",
-          "country": "Mali",
-          "lat": 12.6392,
-          "lng": -8.0029,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Soldiers freed in Mali: spectacular raid by the FAMA and Africa Corps, or an operation carried out without fighting?",
-      "summary": "Soldiers freed in Mali: spectacular raid by the FAMa and Africa Corps, or operation carried out without a fight? On 18 November, the Malian army and its Russian partners announced that they had freed 24 soldiers being held near Kidal. But behind the spectacular images released by Africa Corps, the reality of the operation is said to be less heroic.",
-      "sources": [
-        "Jeune Afrique"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.jeuneafrique.com/1864187/politique/militaires-liberes-au-mali-raid-spectaculaire-des-fama-et-dafrica-corps-ou-operation-menee-sans-combat/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.jeuneafrique.com/1864187/politique/militaires-liberes-au-mali-raid-spectaculaire-des-fama-et-dafrica-corps-ou-operation-menee-sans-combat/",
-          "source": "Jeune Afrique",
-          "title": "Soldiers freed in Mali: spectacular raid by the FAMA and Africa Corps, or an operation carried out without fighting?",
-          "summary": "Soldiers freed in Mali: spectacular raid by the FAMa and Africa Corps, or operation carried out without a fight? On 18 November, the Malian army and its Russian partners announced that they had freed 24 soldiers being held near Kidal. But behind the spectacular images released by Africa Corps, the reality of the operation is said to be less heroic.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "security_force"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-24T15:01:04.985340Z",
-      "updated_at": "2026-11-24T15:01:04.985340Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "security_force"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-24T15:01:04.985340Z",
-          "type": "event_created",
-          "source": "Jeune Afrique"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "jeuneafrique.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "ff1b694197da792872aa10ca2e07e5c038c8b4d0",
-      "event_date": "2026-11-18",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-19T09:29:38Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-19T13:22:37.993124Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Kidal",
-      "lat": 18.4411,
-      "lng": 1.4078,
-      "locations": [
-        {
-          "name": "Kidal",
-          "country": "Mali",
-          "lat": 18.4411,
-          "lng": 1.4078,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Niono",
-          "country": "Mali",
-          "lat": 14.25,
-          "lng": -5.9833,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Mali: 24 soldiers released after airstrikes southeast of Kidal",
-      "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Wednesday, 18 November 2026, the use of precise intelligence made it possible to locate, one hundred and nineteen (119) kilometres south-west of Kidal, a meeting point for armed terrorist groups bringing together several individuals, including leaders, as well as military equipment, including vehicles.",
-      "sources": [
-        "La Nouvelle Tribune (Bénin)",
-        "Bamada"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://lanouvelletribune.info/2026/11/mali-24-militaires-liberes-apres-des-frappes-aeriennes-au-sud-est-de-kidal/",
-        "https://bamada.net/lutte-antiterroriste-frappes-aeriennes-et-neutralisations-dans-les-zones-de-kidal-et-niono"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://lanouvelletribune.info/2026/11/mali-24-militaires-liberes-apres-des-frappes-aeriennes-au-sud-est-de-kidal/",
-          "source": "La Nouvelle Tribune (Bénin)",
-          "title": "Mali: 24 soldiers released after airstrikes southeast of Kidal",
-          "summary": "The Malian army has announced the release of 24 of its soldiers who were being held in the In-Tebezas area, southeast of Kidal. The operation, carried out on Wednesday, 18 November 2026, involved air assets and ground troops. The Malian Armed Forces (FAMa) have announced a military operation that led to the release of 24 of their personnel who were being held in the In-Tebezas area, located about 110 kilometres southeast of Kidal.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "security_force",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://bamada.net/lutte-antiterroriste-frappes-aeriennes-et-neutralisations-dans-les-zones-de-kidal-et-niono",
-          "source": "Bamada",
-          "title": "Counter-terrorism: airstrikes and neutralisations in the Kidal and Niono areas",
-          "summary": "The General Staff of the Armed Forces informs the national public that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. . On Wednesday, 18 November 2026, the use of precise intelligence made it possible to locate, one hundred and nineteen (119) kilometres south-west of Kidal, a meeting point for armed terrorist groups bringing together several individuals, including leaders, as well as military equipment, including vehicles.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-19T13:22:37.993124Z",
-      "updated_at": "2026-11-21T21:46:17.683881Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "security_force",
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-19T13:22:37.993124Z",
-          "type": "event_created",
-          "source": "La Nouvelle Tribune (Bénin)"
-        },
-        {
-          "at": "2026-11-21T21:46:17.683881Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Bamada"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "lanouvelletribune.info",
-        "bamada.net"
-      ],
-      "independent_source_count": 2,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "56df8402d46af325b64303aa452d4f7af1faa9d9",
-      "event_date": "2026-11-18",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-20T01:26:20Z",
-      "published_date_source": "jsonld:dateCreated",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-20T07:29:08.778027Z",
-      "actor": "JNIM",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "clash",
-      "country": "Mali",
-      "city": "Kidal",
-      "lat": 18.4411,
-      "lng": 1.4078,
-      "locations": [
-        {
-          "name": "Kidal",
-          "country": "Mali",
-          "lat": 18.4411,
-          "lng": 1.4078,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Mali: The Malian army announces the release of 24 soldiers during a special operation near Kidal",
-      "summary": "The General Staff of the Malian Armed Forces announced the release, on Wednesday, 18 November, of twenty-four (24) soldiers from the Malian Armed Forces (FAMa) who had been held hostage in the Kidal region, following an air-land operation. The operation took place on Wednesday, 18 November, at around 1 p.m. in the In-Tebezas area, located approximately 110 kilometres southeast of Kidal.",
-      "sources": [
-        "ActuNiger"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.actuniger.com/international/mali-larmee-malienne-annonce-la-liberation-de-24-soldats-lors-dune-operation-speciale-pres-de-kidal.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.actuniger.com/international/mali-larmee-malienne-annonce-la-liberation-de-24-soldats-lors-dune-operation-speciale-pres-de-kidal.html",
-          "source": "ActuNiger",
-          "title": "Mali: The Malian army announces the release of 24 soldiers during a special operation near Kidal",
-          "summary": "The General Staff of the Malian Armed Forces announced the release, on Wednesday, 18 November, of twenty-four (24) soldiers from the Malian Armed Forces (FAMa) who had been held hostage in the Kidal region, following an air-land operation. The operation took place on Wednesday, 18 November, at around 1 p.m. in the In-Tebezas area, located approximately 110 kilometres southeast of Kidal.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "security_force",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-20T07:29:08.778027Z",
-      "updated_at": "2026-11-20T07:29:08.778027Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "security_force",
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-20T07:29:08.778027Z",
-          "type": "event_created",
-          "source": "ActuNiger"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "actuniger.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "ROUTINE",
-      "significance_reasons": [
-        "limited currently observed significance"
-      ]
-    },
-    {
-      "id": "bb256ef4e789fae016855cd43f7d98786dda933e",
-      "event_date": "2026-11-18",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-18T19:46:03Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-19T01:59:22.217117Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "raid",
-      "country": "Mali",
-      "city": "Kidal",
-      "lat": 18.4411,
-      "lng": 1.4078,
-      "locations": [
-        {
-          "name": "Kidal",
-          "country": "Mali",
-          "lat": 18.4411,
-          "lng": 1.4078,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Gao",
-          "country": "Mali",
-          "lat": 16.2717,
-          "lng": -0.0447,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Kidal: The army frees 24 soldiers held by armed groups",
-      "summary": "According to the General Staff of the Armed Forces, this meticulously prepared joint operation began with an aerial reconnaissance mission that identified the positions of the terrorist groups as well as the location where the hostages were being held. Following precise intelligence, airstrikes were carried out in the area of In-Tebezas, a locality located around a hundred kilometres from the town of Kidal.",
-      "sources": [
-        "Malijet",
-        "L'Indépendant (Mali)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html",
-        "https://lindependant.ml/article/mali-24-soldats-liberes-grace-a-une-operation-des-forces-speciales"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312881-kidal-larmee-libere-24-soldats-detenus-par-des-groupes-ar.html",
-          "source": "Malijet",
-          "title": "Kidal: The army frees 24 soldiers held by armed groups",
-          "summary": "Twenty-four Malian soldiers have regained their freedom. According to the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) and their partners freed them on Wednesday, 18 November 2026, at around 1 p.m. The soldiers were being held in the In-Tebezas area, about 110 kilometres southeast of Kidal.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "security_force",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://lindependant.ml/article/mali-24-soldats-liberes-grace-a-une-operation-des-forces-speciales",
-          "source": "L'Indépendant (Mali)",
-          "title": "Mali: 24 soldiers freed thanks to a special forces operation",
-          "summary": "According to the General Staff of the Armed Forces, this meticulously prepared joint operation began with an aerial reconnaissance mission that identified the positions of the terrorist groups as well as the location where the hostages were being held. Following precise intelligence, airstrikes were carried out in the area of In-Tebezas, a locality located around a hundred kilometres from the town of Kidal.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "security_force",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-19T01:59:22.217117Z",
-      "updated_at": "2026-11-19T13:22:43.175256Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "security_force",
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-19T01:59:22.217117Z",
-          "type": "event_created",
-          "source": "Malijet"
-        },
-        {
-          "at": "2026-11-19T13:22:43.175256Z",
-          "type": "corroboration_or_geography_update",
-          "source": "L'Indépendant (Mali)"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "malijet.com",
-        "lindependant.ml"
-      ],
-      "independent_source_count": 2,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "6f36e92990493aa0800edc2a4cf36a9f622265b4",
-      "event_date": "2026-11-18",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-date-no-year",
-      "published_at": "2026-11-19T10:57:35Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-19T13:22:40.311015Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "offensive/campaign",
-      "country": "Mali",
-      "city": "Kidal",
-      "lat": 18.4411,
-      "lng": 1.4078,
-      "locations": [
-        {
-          "name": "Kidal",
-          "country": "Mali",
-          "lat": 18.4411,
-          "lng": 1.4078,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Mali: The FAMA free 24 soldiers held by terrorists in Kidal",
-      "summary": "According to information reported by the Malian Press Agency (AMAP), the Malian Armed Forces (FAMA) carried out a military operation yesterday, Wednesday 18 November, in the In-Tebezas area, about 110 km southeast of Kidal. This offensive led to the release of 24 soldiers held hostage by armed terrorist groups. .",
-      "sources": [
-        "Seneweb"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://www.seneweb.com/fr/news/Afrique/mali-les-fama-liberent-24-soldats-aux-mains-des-terroristes-a-kidal_n_999004087.html"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://www.seneweb.com/fr/news/Afrique/mali-les-fama-liberent-24-soldats-aux-mains-des-terroristes-a-kidal_n_999004087.html",
-          "source": "Seneweb",
-          "title": "Mali: The FAMA free 24 soldiers held by terrorists in Kidal",
-          "summary": "According to information reported by the Malian Press Agency (AMAP), the Malian Armed Forces (FAMA) carried out a military operation yesterday, Wednesday 18 November, in the In-Tebezas area, about 110 km southeast of Kidal. This offensive led to the release of 24 soldiers held hostage by armed terrorist groups. .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "security_force",
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-19T13:22:40.311015Z",
-      "updated_at": "2026-11-19T13:22:40.311015Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "security_force",
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-19T13:22:40.311015Z",
-          "type": "event_created",
-          "source": "Seneweb"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "seneweb.com"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern"
-      ]
-    },
-    {
-      "id": "4666e8615f0aa40fb2d68a4504850c7f04dca922",
-      "event_date": "2026-11-18",
-      "event_date_confidence": "explicit-text",
-      "event_date_source": "explicit-calendar-date",
-      "published_at": "2026-11-19T10:47:30Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-19T13:22:37.610625Z",
-      "actor": "State",
-      "perpetrator": "State",
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [
-        "State"
-      ],
-      "parent_report_id": null,
-      "event_type": "security operation",
-      "country": "Mali",
-      "city": "Niono",
-      "lat": 14.25,
-      "lng": -5.9833,
-      "locations": [
-        {
-          "name": "Niono",
-          "country": "Mali",
-          "lat": 14.25,
-          "lng": -5.9833,
-          "confidence": "explicit-place"
-        },
-        {
-          "name": "Kidal",
-          "country": "Mali",
-          "lat": 18.4411,
-          "lng": 1.4078,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Niono, Sofara, Niafunké, Kidal: The army announces a series of strikes",
-      "summary": "The Malian army announced that it had carried out airstrikes targeting positions and gatherings of armed groups it described as terrorist in several areas, including the vicinity of Kidal and Nono. These strikes were part of Operation Dogokoloko and resulted in the deaths of several militants. In a statement issued on Thursday, 19 November, the army clarified that, with the support of its partners, the Malian Armed Forces had targeted a camp on Tuesday containing militants and logistical equipment, including motorcycles, located 15 kilometres southeast of Nono.",
-      "sources": [
-        "Malijet",
-        "Sahara Medias (صحراء ميديا)"
-      ],
-      "languages": [
-        "fr",
-        "ar"
-      ],
-      "source_count": 2,
-      "report_urls": [
-        "https://malijet.com/actualte_dans_les_regions_du_mali/312890-niono-sofara-niafunke-kidal-larmee-annonce-une-serie-d.html",
-        "https://saharamedias.net/268789/"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312890-niono-sofara-niafunke-kidal-larmee-annonce-une-serie-d.html",
-          "source": "Malijet",
-          "title": "Niono, Sofara, Niafunké, Kidal: The army announces a series of strikes",
-          "summary": "The Malian army is continuing its operations against armed terrorist groups. According to the General Staff of the Armed Forces, the Malian Armed Forces (FAMa) and their partners carried out several strikes on 17 and 18 November 2026, as part of Operation Dougoukoloko. 15 kilometres southeast of Niono, the army struck a terrorist camp .",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        },
-        {
-          "url": "https://saharamedias.net/268789/",
-          "source": "Sahara Medias (صحراء ميديا)",
-          "title": "The Malian army announces the “killing” of armed men in airstrikes near Kidal and Nono",
-          "summary": "The Malian army announced that it had carried out airstrikes targeting positions and gatherings of armed groups it described as terrorist in several areas, including the vicinity of Kidal and Nono. These strikes were part of Operation Dogokoloko and resulted in the deaths of several militants. In a statement issued on Thursday, 19 November, the army clarified that, with the support of its partners, the Malian Armed Forces had targeted a camp on Tuesday containing militants and logistical equipment, including motorcycles, located 15 kilometres southeast of Nono.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "armed_group"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-19T13:22:37.610625Z",
-      "updated_at": "2026-11-19T13:22:38.768860Z",
-      "extraction_confidence": "moderate",
-      "victim_categories": [
-        "armed_group"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-19T13:22:37.610625Z",
-          "type": "event_created",
-          "source": "Malijet"
-        },
-        {
-          "at": "2026-11-19T13:22:38.768860Z",
-          "type": "corroboration_or_geography_update",
-          "source": "Sahara Medias (صحراء ميديا)"
-        }
-      ],
-      "corroboration": "limited corroboration",
-      "confidence": "moderate",
-      "independent_source_domains": [
-        "malijet.com",
-        "saharamedias.net"
-      ],
-      "independent_source_count": 2,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "multi-location activity"
-      ]
-    },
-    {
-      "id": "baec74a5d0cae071a7f903a369f41e3671f88d24",
-      "event_date": "2026-11-17",
-      "event_date_confidence": "publication-proxy",
-      "event_date_source": "jsonld:datePublished",
-      "published_at": "2026-11-17T22:42:50Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-17T23:37:10.406160Z",
-      "actor": "Other",
-      "perpetrator": null,
-      "target": null,
-      "claimant": null,
-      "supporting_force": null,
-      "mentioned_actors": [],
-      "parent_report_id": null,
-      "event_type": "clash",
-      "country": "Mali",
-      "city": "Bamako",
-      "lat": 12.6392,
-      "lng": -8.0029,
-      "locations": [
-        {
-          "name": "Bamako",
-          "country": "Mali",
-          "lat": 12.6392,
-          "lng": -8.0029,
-          "confidence": "explicit-place"
-        }
-      ],
-      "title": "Mali: Assimi Goïta equips the Army with 7 new combat and transport aircraft",
-      "summary": "The official handover of the keys to the seven aircraft took place at the presidential pavilion of Bamako-Senou's President Modibo Keïta International Airport, in the presence of senior military officials, members of the government, the diplomatic corps and several other dignitaries. This new acquisition represents a significant strengthening of the Malian Air Force's fleet.",
-      "sources": [
-        "L'Indépendant (Mali)"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "source_count": 1,
-      "report_urls": [
-        "https://lindependant.ml/article/mali-assimi-goita-dote-larmee-de-7-nouveaux-avions-de-combat-et-de-transport"
-      ],
-      "report_summaries": [
-        {
-          "url": "https://lindependant.ml/article/mali-assimi-goita-dote-larmee-de-7-nouveaux-avions-de-combat-et-de-transport",
-          "source": "L'Indépendant (Mali)",
-          "title": "Mali: Assimi Goïta equips the Army with 7 new combat and transport aircraft",
-          "summary": "The official handover of the keys to the seven aircraft took place at the presidential pavilion of Bamako-Senou's President Modibo Keïta International Airport, in the presence of senior military officials, members of the government, the diplomatic corps and several other dignitaries. This new acquisition represents a significant strengthening of the Malian Air Force's fleet.",
-          "summary_basis": "translated-excerpt",
-          "fatalities_min": null,
-          "fatalities_max": null,
-          "injured_min": null,
-          "injured_max": null,
-          "abducted_min": null,
-          "abducted_max": null,
-          "victim_categories": [
-            "security_force"
-          ],
-          "civilian_targeting_flag": false,
-          "casualty_claims": []
-        }
-      ],
-      "created_at": "2026-11-17T23:37:10.406160Z",
-      "updated_at": "2026-11-17T23:37:10.406160Z",
-      "extraction_confidence": "low",
-      "victim_categories": [
-        "security_force"
-      ],
-      "civilian_targeting_flag": false,
-      "casualty_claims": [],
-      "fatalities_min": null,
-      "fatalities_max": null,
-      "fatalities_best": null,
-      "injured_min": null,
-      "injured_max": null,
-      "abducted_min": null,
-      "abducted_max": null,
-      "casualty_disputed": false,
-      "revision_history": [
-        {
-          "at": "2026-11-17T23:37:10.406160Z",
-          "type": "event_created",
-          "source": "L'Indépendant (Mali)"
-        }
-      ],
-      "corroboration": "single-source",
-      "confidence": "low",
-      "independent_source_domains": [
-        "lindependant.ml"
-      ],
-      "independent_source_count": 1,
-      "significance": "MAJOR",
-      "significance_reasons": [
-        "strategic/severe event pattern"
-      ]
     }
   ],
   "latest_reports": [
+    {
+      "published_at": "2026-11-27T12:56:07Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:15.468165Z",
+      "discovered_at": "2026-11-27T14:00:15.468165Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Mali: Alger dénonce l'«alliance» des indépendantistes du FLA avec les «terroristes» du Jnim",
+      "url": "https://www.rfi.fr/fr/afrique/20261127-mali-alger-d%C3%A9nonce-l-alliance-des-ind%C3%A9pendantistes-du-fla-avec-les-terroristes-du-jnim"
+    },
+    {
+      "published_at": "2026-11-27T12:33:09Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:13.584795Z",
+      "discovered_at": "2026-11-27T14:00:13.584795Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Bamako face à l’ Ingérence de l’Ukraine aux côtés des groupes armés du Sahel",
+      "url": "https://bamada.net/bamako-face-a-l-ingerence-de-lukraine-aux-cotes-des-groupes-armes-du-sahel"
+    },
+    {
+      "published_at": "2026-11-27T12:26:03Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:12.350778Z",
+      "discovered_at": "2026-11-27T14:00:12.350778Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kayes",
+      "event_type": "offensive/campaign",
+      "candidate_event": false,
+      "title": "Mali: The FAMa are intensifying their offensives...",
+      "url": "https://www.maliweb.net/insecurite/mali-les-fama-intensifient-leurs-offensives-a-kayes-et-autour-de-3121993.html"
+    },
+    {
+      "published_at": "2026-11-27T12:22:40Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:17.043291Z",
+      "discovered_at": "2026-11-27T14:00:17.043291Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0080",
+      "source": "L'Indépendant (Mali)",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Burkina Faso: 181 drones and other military equipment seized at Ouagadougou Airport",
+      "url": "https://lindependant.ml/article/burkina-faso-181-drones-et-dautres-equipements-militaires-saisis-a-laeroport-de-ouagadougou"
+    },
+    {
+      "published_at": "2026-11-27T12:08:54Z",
+      "published_date_source": "opengraph",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:17.328152Z",
+      "discovered_at": "2026-11-27T14:00:17.328152Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0121",
+      "source": "AllAfrica (English Edition)",
+      "language": "en",
+      "actor": "Africa Corps/Wagner",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Mali: Mali Remains Strategic for Russia Despite Heavy Losses, Investigator Says",
+      "url": "https://allafrica.com/stories/202611270334.html"
+    },
+    {
+      "published_at": "2026-11-27T11:34:08Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:19.630729Z",
+      "discovered_at": "2026-11-27T14:00:19.630729Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0001",
+      "source": "RFI Afrique",
+      "language": "en",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Timbuktu",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "MALI: An ka Tonka duguden dɔ lamɛn JNIM ka kankarimada kan, u bɛ ka fɔ ko dugudenw ka dugu in bila",
+      "url": "https://www.rfi.fr/ma/farafinna/20261127-mali-an-ka-tonka-duguden-d%C9%94-lam%C9%9Bn-jnim-ka-kankarimada-kan-u-b%C9%9B-ka-f%C9%94-ko-dugudenw-ka-dugu-in-bila"
+    },
+    {
+      "published_at": "2026-11-27T11:21:36Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:09.287761Z",
+      "discovered_at": "2026-11-27T14:00:09.287761Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kayes",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Securing the territory: several terrorists neutralised and equipment seized during FAMa operations",
+      "url": "https://bamada.net/securisation-du-territoire-plusieurs-terroristes-neutralises-et-du-materiel-saisi-lors-doperations-des-fama"
+    },
+    {
+      "published_at": "2026-11-27T11:12:54Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:09.228000Z",
+      "discovered_at": "2026-11-27T14:00:09.228000Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Kayes",
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Mali: The army announces strikes against terrorist groups in several regions",
+      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/313005-mali-larmee-annonce-des-frappes-contre-des-groupes-terror.html"
+    },
+    {
+      "published_at": "2026-11-27T11:03:55Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:11.949551Z",
+      "discovered_at": "2026-11-27T14:00:11.949551Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": null,
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": "law enforcement",
+      "candidate_event": false,
+      "title": "Bamako: Two young burglars arrested with 20 million CFA francs worth of jewellery",
+      "url": "https://malijet.com/les_faits_divers_au_mali/313004-bamako-deux-jeunes-cambrioleurs-arretes-avec-20-millions-d.html"
+    },
+    {
+      "published_at": "2026-11-27T10:07:26Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:13.992133Z",
+      "discovered_at": "2026-11-27T14:00:13.992133Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0003",
+      "source": "Jeune Afrique",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Mali : Alger dénonce l’alliance du FLA avec les jihadistes du Jnim",
+      "url": "https://www.jeuneafrique.com/1866089/politique/mali-alger-denonce-lalliance-du-fla-avec-les-jihadistes-du-jnim/"
+    },
+    {
+      "published_at": "2026-11-27T10:02:44Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:15.321120Z",
+      "discovered_at": "2026-11-27T14:00:15.321120Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0117",
+      "source": "Vanguard News (Nigeria)",
+      "language": "en",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Burkina Faso seeks Nigeria’s partnership against terrorism, trafficking",
+      "url": "https://www.vanguardngr.com/2026/11/burkina-faso-seeks-nigerias-partnership-against-terrorism-trafficking/"
+    },
+    {
+      "published_at": "2026-11-27T08:48:10Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:18.319445Z",
+      "discovered_at": "2026-11-27T14:00:18.319445Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0124",
+      "source": "News Central TV (Nigeria)",
+      "language": "en",
+      "actor": null,
+      "country": null,
+      "city": null,
+      "event_type": "clash",
+      "candidate_event": false,
+      "title": "Sahel Miners Embrace Tech to Combat Insurgents",
+      "url": "https://newscentraltv.com/sahel-miners-embrace-tech-to-combat-insurgents/"
+    },
+    {
+      "published_at": "2026-11-27T08:35:40Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:11.340542Z",
+      "discovered_at": "2026-11-27T14:00:11.340542Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Niger",
+      "city": "Tillabéri",
+      "event_type": "attack",
+      "candidate_event": true,
+      "title": "Sanam (Tillabéri): A terrorist attack on the National Guard leaves 13 dead and several attackers neutralised",
+      "url": "https://anp.ne/sanam-tillaberi-une-attaque-terroriste-contre-la-garde-nationale-fait-13-morts-et-plusieurs-assaillants-neutralises/"
+    },
+    {
+      "published_at": "2026-11-27T08:30:22Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:09.588644Z",
+      "discovered_at": "2026-11-27T14:00:09.588644Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0022",
+      "source": "Africanews",
+      "language": "en",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Tillabéri",
+      "event_type": "attack",
+      "candidate_event": true,
+      "title": "Armed men kill 13 guards in 'terrorist attack' in western Niger",
+      "url": "https://www.africanews.com/2026/11/27/armed-men-kill-13-guards-in-terrorist-attack-in-western-niger/"
+    },
+    {
+      "published_at": "2026-11-27T08:19:50Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:08.942261Z",
+      "discovered_at": "2026-11-27T14:00:08.942261Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0003",
+      "source": "Jeune Afrique",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Timbuktu",
+      "event_type": "territorial seizure/blockade",
+      "candidate_event": true,
+      "title": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to blockade Tonka",
+      "url": "https://www.jeuneafrique.com/1866054/politique/mali-apres-larrivee-de-larmee-et-dafrica-corps-le-jnim-menace-tonka-de-blocus/"
+    },
+    {
+      "published_at": "2026-11-27T08:12:36Z",
+      "published_date_source": "jsonld:dateCreated",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:15.537199Z",
+      "discovered_at": "2026-11-27T14:00:15.537199Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0015",
+      "source": "ActuNiger",
+      "language": "fr",
+      "actor": "State",
+      "country": "Niger",
+      "city": "Zinder",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "SORAZ DONATES FOUR DT MOTORBIKES TO THE INTERREGIONAL JUDICIAL POLICE SERVICE IN ZINDER",
+      "url": "https://www.actuniger.com/societe/la-soraz-remet-quatre-motos-dt-au-service-interregional-de-la-police-judiciaire-de-zinder.html"
+    },
+    {
+      "published_at": "2026-11-27T07:21:35Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:18.042596Z",
+      "discovered_at": "2026-11-27T14:00:18.042596Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0072",
+      "source": "Le Point Afrique",
+      "language": "fr",
+      "actor": null,
+      "country": null,
+      "city": null,
+      "event_type": "clash",
+      "candidate_event": false,
+      "title": "Loin du front ukrainien, la Russie paie un lourd tribut au Sahel",
+      "url": "https://www.lepoint.fr/afrique/loin-du-front-ukrainien-la-russie-paie-un-lourd-tribut-au-sahel-AG2UBW4XEJDBRO3QJOPQHVVZMU/"
+    },
+    {
+      "published_at": "2026-11-27T07:02:05Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:10.033038Z",
+      "discovered_at": "2026-11-27T14:00:10.033038Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0034",
+      "source": "TV5MONDE Afrique",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Niger",
+      "city": null,
+      "event_type": "attack",
+      "candidate_event": true,
+      "title": "Image Published on 27 November 2026 Niger, Africa: The Ministry of Defence announces the deaths of 13 guards in a terrorist attack At least 13 Nigerien guards were killed and twenty others injured on Thursday, 26 November, in a “terrorist attack” targeting their position in…",
+      "url": "https://information.tv5monde.com/afrique/niger-le-ministere-de-la-defense-annonce-la-mort-de-13-gardes-dans-une-attaque-terroriste-2847211"
+    },
+    {
+      "published_at": "2026-11-27T06:50:50Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:13.189628Z",
+      "discovered_at": "2026-11-27T14:00:13.189628Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0119",
+      "source": "Daily Trust (Nigeria)",
+      "language": "en",
+      "actor": null,
+      "country": "Niger",
+      "city": null,
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "PANDEF seeks police, DSS probe into attack on Omo-Agege’s campaign team",
+      "url": "https://dailytrust.com/pandef-seeks-police-dss-probe-into-attack-on-omo-ageges-campaign-team-2/"
+    },
+    {
+      "published_at": "2026-11-27T04:06:52Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:11.625153Z",
+      "discovered_at": "2026-11-27T14:00:11.625153Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0023",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": "attack",
+      "candidate_event": true,
+      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack"
+    },
+    {
+      "published_at": "2026-11-27T02:15:03Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:10.121707Z",
+      "discovered_at": "2026-11-27T14:00:10.121707Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "DÉFENSE ET SÉCURITÉ : Assimi Goïta réaffirme le cap de la montée en puissance des FAMa, l’héritage du Général Sadio Camara au cœur de la refondation militaire",
+      "url": "https://bamada.net/defense-et-securite-assimi-goita-reaffirme-le-cap-de-la-montee-en-puissance-des-fama-lheritage-du-general-sadio-camara-au-coeur-de-la-refondation-militaire"
+    },
+    {
+      "published_at": "2026-11-27T02:03:10Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:11.373504Z",
+      "discovered_at": "2026-11-27T14:00:11.373504Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0075",
+      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Diéma: Official Presentation of the National Flag to the Village Chief",
+      "url": "https://amap.ml/2026/11/27/diema-remise-officielle-du-drapeau-national-au-chef-de-village/"
+    },
+    {
+      "published_at": "2026-11-27T01:14:53Z",
+      "published_date_source": "jsonld:dateCreated",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:09.710785Z",
+      "discovered_at": "2026-11-27T14:00:09.710785Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0015",
+      "source": "ActuNiger",
+      "language": "fr",
+      "actor": "Other",
+      "country": "Niger",
+      "city": "Tillabéri",
+      "event_type": "attack",
+      "candidate_event": true,
+      "title": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri)",
+      "url": "https://www.actuniger.com/societe/niger-13-soldats-tues-dans-une-nouvelle-attaque-terroriste-a-sanam-tillaberi.html"
+    },
+    {
+      "published_at": "2026-11-27T00:33:56Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T14:00:09.354125Z",
+      "discovered_at": "2026-11-27T14:00:09.354125Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": "security operation",
+      "candidate_event": true,
+      "title": "Operation Dougoukoloko: FAMa strike several terrorist positions and neutralise at least a dozen fighters",
+      "url": "https://bamada.net/operation-dougoukoloko-les-fama-frappent-plusieurs-positions-terroristes-et-neutralisent-au-moins-une-dizaine-de-combattants"
+    },
+    {
+      "published_at": "2026-11-27T00:00:00Z",
+      "published_date_source": "visible-publication-label",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-27T14:00:18.740958Z",
+      "discovered_at": "2026-11-27T14:00:18.740958Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0011",
+      "source": "LeFaso.net",
+      "language": "fr",
+      "actor": null,
+      "country": "Burkina Faso",
+      "city": "Ouagadougou",
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "21st Digital Week: Disinformation, a major threat to the AES confederation area",
+      "url": "https://lefaso.net/spip.php?article151101="
+    },
     {
       "published_at": "2026-11-26T22:35:01Z",
       "published_date_source": "feed",
@@ -3912,456 +4337,6 @@
       "candidate_event": true,
       "title": "Insecurity: 11 soldiers killed and 22 attackers neutralised in a Boko Haram attack in Baroua (Diffa)",
       "url": "https://www.actuniger.com/societe/insecurite-11-soldats-tues-et-22-assaillants-neutralises-lors-dune-attaque-de-boko-haram-a-baroua-diffa.html"
-    },
-    {
-      "published_at": "2026-11-26T00:03:50Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:05.730891Z",
-      "discovered_at": "2026-11-26T00:32:05.730891Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0002",
-      "source": "France 24 Afrique (FR)",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Timbuktu",
-      "event_type": "territorial seizure/blockade",
-      "candidate_event": false,
-      "title": "Mali: JNIM issues an ultimatum to the inhabitants of Tonka",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-mali-le-jnim-lance-un-ultimatum-aux-habitants-de-tonka"
-    },
-    {
-      "published_at": "2026-11-25T23:04:35Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:08.043170Z",
-      "discovered_at": "2026-11-26T00:32:08.043170Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "AES: After the delivery of 7 aircraft to the Malian Armed Forces (FAMA), Goïta turns to the unified force",
-      "url": "https://lanouvelletribune.info/2026/11/aes-apres-la-livraison-de-7-aeronefs-aux-fama-goita-se-tourne-vers-la-force-unifiee/"
-    },
-    {
-      "published_at": "2026-11-25T21:07:13Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:02.996994Z",
-      "discovered_at": "2026-11-26T00:32:02.996994Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0075",
-      "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "People deported from Guinea: CECOGEC calls for their identification and registration",
-      "url": "https://amap.ml/2026/11/25/refoules-de-la-guinee-le-cecogec-appelle-a-leur-identification-et-leur-recensement/"
-    },
-    {
-      "published_at": "2026-11-25T20:17:57Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:01.402344Z",
-      "discovered_at": "2026-11-26T00:32:01.402344Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "kidnapping",
-      "candidate_event": true,
-      "title": "Malian Armed and Security Forces: The 24 FAMa hostages released following an operation...",
-      "url": "https://www.maliweb.net/armee/forces-armees-et-de-securite-malienne-les-24-fama-otages-liberes-des-3121915.html"
-    },
-    {
-      "published_at": "2026-11-25T20:10:03Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:09.698965Z",
-      "discovered_at": "2026-11-26T00:32:09.698965Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": null,
-      "country": null,
-      "city": null,
-      "event_type": "security operation",
-      "candidate_event": false,
-      "title": "Deadly strike by Ukrainian drones...",
-      "url": "https://www.maliweb.net/international/frappe-mortelle-de-drones-ukrainiens-dans-un-port-libyen-les-forces-3121913.html"
-    },
-    {
-      "published_at": "2026-11-25T18:54:26Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:05.429506Z",
-      "discovered_at": "2026-11-26T00:32:05.429506Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0034",
-      "source": "TV5MONDE Afrique",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Timbuktu",
-      "event_type": "territorial seizure/blockade",
-      "candidate_event": true,
-      "title": "Image Africa Mali: In Tonka, in the Timbuktu region, JNIM orders residents to leave before Friday",
-      "url": "https://information.tv5monde.com/afrique/mali-tonka-dans-la-region-de-tombouctou-le-jnim-somme-les-habitants-de-partir-avant-vendredi-2847007"
-    },
-    {
-      "published_at": "2026-11-25T18:27:50Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T14:02:24.033032Z",
-      "discovered_at": "2026-11-26T14:02:24.033032Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0035",
-      "source": "DW Afrique (FR)",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: JNIM orders the inhabitants of Tonka to leave, in response to the presence of the army",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZWFlyMVNIWmpVdUJscldjN183TUE4WVMxbXZQanNjRGJfRVVIY0V6UmxIV0l3THQ5eGRNUjlxZFFLak5mWEs5VzRaWDRnUWI3Zk4zVi1BMTFfN3QyVWhobkFNNExFVDZIX1d4cEhDWl93eEHSAXNBVV95cUxOUlcxSDB1Y3kyaVF2cm02VVM2X2kxd2xDMDg4RnI1VzJXUGhzSzBTVDRjanUtQXgtUkc2NVEwbnFfV1NhRVZ6dV8waGc4Y292RGtTMXQ3eGNDbmxldTJpTTRnbUNpUkxnaFF0MjVzaHZJdkg4?oc=5"
-    },
-    {
-      "published_at": "2026-11-25T18:20:05Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:04.898725Z",
-      "discovered_at": "2026-11-26T00:32:04.898725Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0081",
-      "source": "Le Pays (Burkina Faso)",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": "Diré",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "COMBATTING VIOLENCE AGAINST WOMEN: There is still a long way to go",
-      "url": "https://lepays.bf/lutte-contre-les-violences-faites-aux-femmes-on-a-encore-du-chemin/"
-    },
-    {
-      "published_at": "2026-11-25T18:01:36Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T14:02:24.088011Z",
-      "discovered_at": "2026-11-26T14:02:24.088011Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "kidnapping",
-      "candidate_event": false,
-      "title": "Niger: Kidnapping of a Saudi national",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoY3NwLWR3ZWNHMzkwRGc4UVJyQ0tWYlBac0xDNHZvTVFaWEJXYU56M1N1YUx1RXBjWXB3TV85b2FHVVNTdmhkd2c4RmR6OWRndkNfRkF4REFXSFp1a2Nj?oc=5"
-    },
-    {
-      "published_at": "2026-11-25T17:59:24.350000Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:06.159621Z",
-      "discovered_at": "2026-11-26T00:32:06.159621Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0035",
-      "source": "DW Afrique (FR)",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Timbuktu",
-      "event_type": "abuses/war crimes",
-      "candidate_event": false,
-      "title": "In Mali, JNIM is terrorising Tonka, and the army is trying to protect the town",
-      "url": "https://www.dw.com/fr/mali-tonka-menace-jnim-ultimatum/a-80053206"
-    },
-    {
-      "published_at": "2026-11-25T17:54:00Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:10.279697Z",
-      "discovered_at": "2026-11-26T00:32:10.279697Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0034",
-      "source": "TV5MONDE Afrique",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Timbuktu",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: In Tonka, Timbuktu Region, JNIM orders residents to leave before Friday",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWjlsU0ZJRVQxNVVNMUVWakwyVXhFdmwzOWRXV0U4eklzZnBEd2ozZWhwbnlKbUg2dHhfUDA1M0REQ1NKRWFFQThEU203SjU2Y3FHcFZOZ1VuZXNRdWpDZzVFaFBHQUg4dzI1U2dZeU9HN01UYV9ydU1mczBZX0ZGNjB4SzFBVGFmSGZ4WlpnSXhuRV8yU2pNUFBpR2cxc3ZQQ1lBRkdjTHNLdzhvLTlDNEdOalpjM1lPWS1vWkNBN09qVm5SU2I3YjdQcC0ySk1YZ0lZVXRHSlI?oc=5"
-    },
-    {
-      "published_at": "2026-11-25T17:35:01Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:02.037128Z",
-      "discovered_at": "2026-11-26T00:32:02.037128Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0091",
-      "source": "SeneNews",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Diomaye's appointments: Who are these 3 colonels promoted by the President of the Republic?",
-      "url": "https://www.senenews.com/actualites/nominations-de-diomaye-qui-sont-ces-3-colonels-promus-par-le-president-de-la-republique_607628.html"
-    },
-    {
-      "published_at": "2026-11-25T15:59:10Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:06.062319Z",
-      "discovered_at": "2026-11-26T00:32:06.062319Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0003",
-      "source": "Jeune Afrique",
-      "language": "fr",
-      "actor": "Africa Corps/Wagner",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Russian losses in Mali: the data leak that reveals Moscow's vulnerabilities in the Sahel",
-      "url": "https://www.jeuneafrique.com/1865085/politique/pertes-russes-au-mali-la-fuite-de-donnees-qui-trahit-les-fragilites-de-moscou-au-sahel/"
-    },
-    {
-      "published_at": "2026-11-25T15:34:00Z",
-      "published_date_source": "html:time",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:43.316062Z",
-      "discovered_at": "2026-11-25T14:34:43.316062Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0017",
-      "source": "Le Sahel",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": null,
-      "event_type": "clash",
-      "candidate_event": false,
-      "title": "General mobilisation for the defence of the homeland: NGOs and CSOs made aware of their responsibility",
-      "url": "https://www.lesahel.org/mobilisation-generale-pour-la-defense-de-la-patrie-les-ong-et-osc-edifiees-sur-leur-responsabilite/"
-    },
-    {
-      "published_at": "2026-11-25T14:24:31Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:47.392581Z",
-      "discovered_at": "2026-11-25T14:34:47.392581Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0057",
-      "source": "Al-Araby Al-Jadeed",
-      "language": "ar",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "clash",
-      "candidate_event": false,
-      "title": "The Azawad Front begins preparations for a potential confrontation with the Malian army.",
-      "url": "https://www.alaraby.co.uk/politics/%D8%AC%D8%A8%D9%87%D8%A9-%D8%A3%D8%B2%D9%88%D8%A7%D8%AF-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%85%D8%AD%D8%AA%D9%85%D9%84%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A"
-    },
-    {
-      "published_at": "2026-11-25T14:23:36Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:07.172555Z",
-      "discovered_at": "2026-11-26T00:32:07.172555Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": "air/drone strike",
-      "candidate_event": false,
-      "title": "Niger: The expulsion of the Mahamid community reignites tensions with Chad following accusations of interference",
-      "url": "https://lanouvelletribune.info/2026/11/niger-lexpulsion-des-mahamid-ravive-les-tensions-avec-le-tchad-apres-des-accusations-dingerence/"
-    },
-    {
-      "published_at": "2026-11-25T14:08:35Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:47.564237Z",
-      "discovered_at": "2026-11-25T14:34:47.564237Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0085",
-      "source": "Seneweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Promotions in the armed forces: Three colonels promoted to brigadier general",
-      "url": "https://www.seneweb.com/fr/news/S%C3%A9curit%C3%A9/promotion-dans-les-armees-trois-colonels-promus-generaux-de-brigade_n_999004632.html"
-    },
-    {
-      "published_at": "2026-11-25T12:48:00Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:48.413206Z",
-      "discovered_at": "2026-11-25T14:34:48.413206Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0086",
-      "source": "Dakaractu",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "political/security policy",
-      "candidate_event": false,
-      "title": "Senegalese Army: Colonels Amadou Makhtar Ndiaye, Thierno Ndour and Professor Abdou Razack Ndiaye promoted to General (DIRPA)",
-      "url": "https://www.dakaractu.com/Armee-Senegalaise-Les-Colonels-Amadou-Makhtar-Ndiaye-Thierno-Ndour-et-le-Pr-Abdou-Razack-Ndiaye-promus-Generaux-DIRPA_a278571.html"
-    },
-    {
-      "published_at": "2026-11-25T12:32:03Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:41.790786Z",
-      "discovered_at": "2026-11-25T14:34:41.790786Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0038",
-      "source": "APAnews (FR)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Niono",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Mali: The FAMa neutralise around ten terrorists",
-      "url": "https://fr.apanews.net/security/mali-les-fama-neutralisent-une-dizaine-de-terroristes/"
-    },
-    {
-      "published_at": "2026-11-25T12:15:33Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:01.248522Z",
-      "discovered_at": "2026-11-26T00:32:01.248522Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Niono",
-      "event_type": "attack",
-      "candidate_event": true,
-      "title": "Mali: The army claims to have killed around ten fighters following the attack on Niono",
-      "url": "https://lanouvelletribune.info/2026/11/mali-larmee-affirme-avoir-tue-une-dizaine-de-combattants-apres-lattaque-de-niono/"
-    },
-    {
-      "published_at": "2026-11-25T11:58:57Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:10.235671Z",
-      "discovered_at": "2026-11-26T00:32:10.235671Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0019",
-      "source": "Reuters Africa",
-      "language": "en",
-      "actor": "IS Sahel",
-      "country": "Niger",
-      "city": null,
-      "event_type": "kidnapping",
-      "candidate_event": false,
-      "title": "Saudi national kidnapped by suspected Islamic State militants in Niger, sources say",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHZmV2MtaGtLcUNwZlhJQ3lGLVRRZGZqV2hQbWpSakFTUWk1OWd5NlNlYUo4OHJQWHhhYjhrUDhDNTV1N09ycEtSSHd5RU85ZW1JRnhkc2pUdHZfSzN6Q2xGRi1OVDZra1U4MDg4cGxKYmhhanUxQy1iYmNSRFhhdkJBSENLUkNBSmwwWFFGUkc2cl9rNkc4cWpUbU41RklXSWhIa1Jqemc2RmhoaDkxenNFalB3S0JPQ0VFR3l0TkpuR0o2VGYw?oc=5"
-    },
-    {
-      "published_at": "2026-11-25T11:56:03Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:44.990201Z",
-      "discovered_at": "2026-11-25T14:34:44.990201Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: Assimi Goïta brings the high military command together to discuss security priorities",
-      "url": "https://www.maliweb.net/armee/mali-assimi-goita-reunit-le-haut-commandement-militaire-autour-des-3121891.html"
-    },
-    {
-      "published_at": "2026-11-25T11:48:11Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T00:32:06.088380Z",
-      "discovered_at": "2026-11-26T00:32:06.088380Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0092",
-      "source": "La Nouvelle Tribune (Bénin)",
-      "language": "fr",
-      "actor": "IS Sahel",
-      "country": "Niger",
-      "city": "Niamey",
-      "event_type": "kidnapping",
-      "candidate_event": true,
-      "title": "Sahel: A Saudi national was reportedly kidnapped in Niger and then transferred to Mali",
-      "url": "https://lanouvelletribune.info/2026/11/sahel-un-saoudien-aurait-ete-enleve-au-niger-puis-transfere-au-mali/"
-    },
-    {
-      "published_at": "2026-11-25T11:40:24Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:51.175647Z",
-      "discovered_at": "2026-11-25T14:34:51.175647Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": "offensive/campaign",
-      "candidate_event": false,
-      "title": "Guinea: The fight against illegal gold mining extended to the whole country",
-      "url": "https://malijet.com/actualite-sur-afrique/312972-guinee-la-lutte-contre-lorpaillage-illegal-etendue-a-tout.html"
-    },
-    {
-      "published_at": "2026-11-25T11:32:01Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:50.063010Z",
-      "discovered_at": "2026-11-25T14:34:50.063010Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0060",
-      "source": "Al-Quds Al-Arabi",
-      "language": "ar",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": "air/drone strike",
-      "candidate_event": false,
-      "title": "The Tuaregs used them against the Russians on the border between Mali and Algeria… Cheap drones have changed the rules of combat in favour of the rebels in Africa 3 hours ago",
-      "url": "https://www.alquds.co.uk/%d8%a7%d9%84%d8%b7%d9%88%d8%b1%d8%a7%d9%82-%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d9%84%d9%88%d9%87%d8%a7-%d8%b6%d8%af-%d8%a7%d9%84%d8%b1%d9%88%d8%b3-%d8%b9%d9%84%d9%89-%d8%ad%d8%af%d9%88%d8%af-%d8%a7/"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."

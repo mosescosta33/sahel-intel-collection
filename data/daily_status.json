@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
-  "reporting_date": "2026-11-26",
-  "generated_at": "2026-11-27T00:45:34.337186Z",
+  "reporting_date": "2026-11-27",
+  "generated_at": "2026-11-27T14:03:04.345906Z",
   "coverage": [
     "Mali",
     "Burkina Faso",
@@ -11,77 +11,111 @@
   "classification": "OPEN SOURCE",
   "collection_confidence": "LOW",
   "headline_metrics": {
-    "events_occurring_on_date": 1,
+    "events_occurring_on_date": 2,
     "records_held_for_review": 0,
     "multi_source_events": 0,
-    "reports_collected_on_date": 18,
-    "reports_published_on_date": 14,
-    "newly_discovered_older_events": 0,
-    "events_awaiting_date_verification": 3,
-    "distinct_sources_collected": 14
+    "reports_collected_on_date": 27,
+    "reports_published_on_date": 19,
+    "newly_discovered_older_events": 2,
+    "events_awaiting_date_verification": 2,
+    "distinct_sources_collected": 18
   },
-  "executive_assessment": "Reporting dated 2026-11-26 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.",
+  "executive_assessment": "Reporting dated 2026-11-27 gives the desk 2 incident accounts to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.",
   "briefing_sections": [
     {
       "heading": "Assessment",
-      "text": "Reporting dated 2026-11-26 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day."
+      "text": "Reporting dated 2026-11-27 gives the desk 2 incident accounts to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day."
     },
     {
       "heading": "Mali",
-      "text": "9 retained reports were collected for Mali. 1 fused candidate event currently carry this reporting date. Mali: Foreigners accommodated or employed under the supervision of the authorities: The Malian authorities are stepping up the registration of foreign nationals present on their territory, calling on the population to report to the security forces those who are being hosted, accommodated or employed by… Sahel Insurgents Use Low-Cost Drones to Strike Military Targets: Report: Insurgents in Mali and elsewhere in the Sahel are adapting off-the-shelf drones that cost a few hundred dollars to strike military vehicles and threaten aircraft worth millions, Reuters reported. In Mali, separatists and… Mali: JNIM jihadists order the inhabitants of Tonka to leave: A browser extension appears to be blocking the video player from loading. To watch this content, you must disable or uninstall it. Video An extension in your browser appears to be blocking the video player from loading. 6 additional Mali reports are summarized individually in the source records."
+      "text": "14 retained reports were collected for Mali. 2 fused candidate events currently carry this reporting date. Mali: Alger dénonce l'«alliance» des indépendantistes du FLA avec les «terroristes» du Jnim: Le ministre algérien des Affaires étrangères a tenu des propos très virulents contre le Front de libération de l'Azawad (FLA), lors d'une conférence de presse jeudi 26 novembre à Alger. Ahmed Attaf a dénoncé l'alliance des… Bamako face à l’ Ingérence de l’Ukraine aux côtés des groupes armés du Sahel: La question du soutien de Kiev aux groupes armés actifs dans la bande sahélo-saharienne suscite une vive préoccupation au sein de l’opinion publique et des chancelleries de la région. Alors que les pays de l’Alliance des États… Mali: The FAMa are intensifying their offensives...: Mali: The FAMa are intensifying their offensives in Kayes and around Dandougou. The Malian Armed Forces (FAMa) are continuing their offensive operations as part of Operation Dougoukoloko. . 11 additional Mali reports are summarized individually in the source records."
     },
     {
       "heading": "Burkina Faso",
-      "text": "4 retained reports were collected for Burkina Faso. 0 fused candidate events currently carry this reporting date. African Tirailleur Day: A tribute to their memory and a show of solidarity: African Tirailleur Day was commemorated on Thursday, 26 November 2026, at Place de la Révolution in Ouagadougou, under the theme 'Veterans' Commitment: What Lessons Can We Learn?'. The ceremony highlighted the continuity of… Entre Nous: “Exploring the path to dialogue with JNIM”: On 20 November 2026, the International Crisis Group published a report entitled: \"The Battle for Cities: Countering the JNIM Threat to Sahel Urban Centres\". According to this international non-profit NGO, whose mission is to… Entre Nous: “Exploring the path to dialogue with JNIM”: Entre Nous: ‘Exploring the path to dialogue with JNIM’ On 20 November 2024, the International Crisis Group published a report entitled: ‘The Battle for Cities: Countering the JNIM Threat to Sahel Urban Centres’ According to… 1 additional Burkina Faso report is summarized individually in the source records."
+      "text": "4 retained reports were collected for Burkina Faso. 0 fused candidate events currently carry this reporting date. Burkina Faso: 181 drones and other military equipment seized at Ouagadougou Airport: Surveillance and reconnaissance drones, communications equipment, military uniforms and clothing. This is the batch of equipment intercepted by the Special Customs Brigade at Ouagadougou Airport this Wednesday. \"The… Burkina Faso seeks Nigeria’s partnership against terrorism, trafficking: Burkinabe Minister of Security, Mahamadou Sana and Nigeria’s Ambassador to Burkina Faso, Syndoph Endoni during talks on security cooperation between both countries By Luminous Jannamike ABUJA — Burkina Faso has pledged to… 21st Digital Week: Disinformation, a major threat to the AES confederation area: 21st Digital Week: Disinformation, a major threat to the AES confederal area On the eve of the official closing of the 21st edition of Digital Week, on Thursday, 26 November, a panel was dedicated to cybersecurity in the… 1 additional Burkina Faso report is summarized individually in the source records."
     },
     {
       "heading": "Niger",
-      "text": "3 retained reports were collected for Niger. 0 fused candidate events currently carry this reporting date. Why are jihadist groups kidnapping civilians in the Sahel?: A Saudi national was reportedly kidnapped by jihadist groups last weekend. According to sources contacted by the Reuters news agency, the kidnapping reportedly took place in Niger, in the Tillabéry region, in the tri-border… Insecurity: 11 soldiers killed and 22 attackers neutralised in a Boko Haram attack in Baroua (Diffa): In a statement issued on 24 November, the Ministry of Defence announced that eleven (11) Nigerien soldiers had lost their lives and several others had been injured in a terrorist attack attributed to Boko Haram in Baroua, in… Niger: Kidnapping of a Saudi national: allAfrica.fr"
+      "text": "7 retained reports were collected for Niger. 0 fused candidate events currently carry this reporting date. Sanam (Tillabéri): A terrorist attack on the National Guard leaves 13 dead and several attackers neutralised: Niamey, 26 November (ANP) – The Niger National Guard (GNN) post in Sanam, in the department of Abala (Tillabéri), was the target on Thursday, 26 November 2020, of a terrorist attack carried out by numerous heavily armed… Armed men kill 13 guards in 'terrorist attack' in western Niger: Armed men on Thursday killed at least 13 Nigerien guards in an attack in the restive Tillaberi region in western Niger, the defence ministry said in a statement. The Nigerien National Guard was targeted \"by a terrorist attack… SORAZ DONATES FOUR DT MOTORBIKES TO THE INTERREGIONAL JUDICIAL POLICE SERVICE IN ZINDER: On Monday, 16 November 2020, the Zinder Refining Company (SORAZ) held a ceremony to donate four (4) motorbikes to the Interregional Criminal Investigation Department (SIRPJ) of the city of Zinder. This initiative is part of… 4 additional Niger reports are summarized individually in the source records."
     },
     {
       "heading": "Reported incidents",
-      "text": "L'Essor reports ‘Tinzaouatène, Kidal, Niono and Sofara: The FAMa intensify strikes against armed terrorist groups’ in Kidal, Mali. This account still needs independent confirmation."
+      "text": "Jeune Afrique reports ‘Mali: Following the arrival of the army and Africa Corps, JNIM threatens to blockade Tonka’ in Timbuktu, Mali. This account still needs independent confirmation. Malijet reports ‘Mali: The army announces strikes against terrorist groups in several regions’ in Kayes, Mali. This account still needs independent confirmation."
     },
     {
       "heading": "What remains unclear",
-      "text": "The date of 3 operational reports still needs checking. Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
+      "text": "2 newly recorded items concern earlier dates and are kept out of today's incident count. The date of 2 operational reports still needs checking. Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
     }
   ],
   "key_judgments": [
-    "State accounts for the largest share of same-day fused event activity (1 event(s)).",
-    "Mali contains the largest same-day event count (1 event(s)).",
-    "1 same-day event(s) remain single-source and should be treated as provisional.",
-    "3 collected operational/candidate report(s) still use an unresolved or proxy event date and require temporal verification."
+    "JNIM accounts for the largest share of same-day fused event activity (1 event(s)).",
+    "Mali contains the largest same-day event count (2 event(s)).",
+    "2 same-day event(s) remain single-source and should be treated as provisional.",
+    "2 collected operational/candidate report(s) still use an unresolved or proxy event date and require temporal verification."
   ],
   "significant_events": [
     {
-      "id": "dfd48ebc47c396635b3df61b52e11447eab17e2e",
-      "title": "Tinzaouatène, Kidal, Niono and Sofara: The FAMa intensify strikes against armed terrorist groups",
-      "summary": "Supported by their partners, the Malian Armed Forces (FAMa) targeted both the logistical and financial networks and the armed terrorist groups involved in recent attacks, neutralising several dozen fighters and destroying significant material resources.",
-      "actor": "State",
-      "event_type": "security operation",
+      "id": "9b00ee95c0bc7e21484523be23795206ba2d0a1a",
+      "title": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to blockade Tonka",
+      "summary": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to impose a blockade on Tonka In northern Mali, the jihadist group JNIM is threatening to impose a blockade on the trading town of Tonka. This show of force comes a month after the arrival of the Malian army and its Russian allies from Africa Corps. .",
+      "actor": "JNIM",
+      "event_type": "territorial seizure/blockade",
       "country": "Mali",
-      "city": "Kidal",
-      "event_date": "2026-11-26",
+      "city": "Timbuktu",
+      "event_date": "2026-11-27",
       "event_date_confidence": "publication-proxy",
-      "publication_time": "2026-11-26T09:58:41Z",
-      "collection_time": "2026-11-26T14:02:14.209926Z",
+      "publication_time": "2026-11-27T08:19:50Z",
+      "collection_time": "2026-11-27T14:00:08.942261Z",
       "verification_date": null,
       "verification_basis": "not independently corroborated",
-      "last_evidence_update": "2026-11-26T14:02:14.209926Z",
+      "last_evidence_update": "2026-11-27T14:00:08.942261Z",
       "confidence": "moderate",
       "corroboration": "single-source",
       "significance": "MAJOR",
       "source_count": 1,
       "independent_source_count": 1,
       "sources": [
-        "L'Essor"
+        "Jeune Afrique"
       ],
       "independent_source_domains": [
-        "lessor.ml"
+        "jeuneafrique.com"
       ],
       "report_urls": [
-        "https://www.lessor.ml/posts/tinzaouatene-kidal-niono-et-sofara-les-fama-intensifient-les-frappes-contre-les-groupes-armes-terroristes-6b0802d180521"
+        "https://www.jeuneafrique.com/1866054/politique/mali-apres-larrivee-de-larmee-et-dafrica-corps-le-jnim-menace-tonka-de-blocus/"
+      ],
+      "perpetrator": "JNIM",
+      "target": "Africa Corps/Wagner",
+      "claimant": null,
+      "supporting_force": null
+    },
+    {
+      "id": "a976f45aca309e0a4d1c618dcfbfa7e6d2b3f2b7",
+      "title": "Mali: The army announces strikes against terrorist groups in several regions",
+      "summary": "The FAMa (Malian Armed Forces) have announced that they eliminated a large number of terrorists during operations carried out on Wednesday and Thursday across Mali. A statement from the General Staff of the Armed Forces, published on Friday, 27 November, reports this information. .",
+      "actor": "State",
+      "event_type": "security operation",
+      "country": "Mali",
+      "city": "Kayes",
+      "event_date": "2026-11-27",
+      "event_date_confidence": "explicit-text",
+      "publication_time": "2026-11-27T11:12:54Z",
+      "collection_time": "2026-11-27T14:00:09.228000Z",
+      "verification_date": null,
+      "verification_basis": "not independently corroborated",
+      "last_evidence_update": "2026-11-27T14:00:09.228000Z",
+      "confidence": "moderate",
+      "corroboration": "single-source",
+      "significance": "SIGNIFICANT",
+      "source_count": 1,
+      "independent_source_count": 1,
+      "sources": [
+        "Malijet"
+      ],
+      "independent_source_domains": [
+        "malijet.com"
+      ],
+      "report_urls": [
+        "https://malijet.com/actualte_dans_les_regions_du_mali/313005-mali-larmee-annonce-des-frappes-contre-des-groupes-terror.html"
       ],
       "perpetrator": "State",
       "target": null,
@@ -90,41 +124,50 @@
     }
   ],
   "what_changed_since_yesterday": [
-    "State: +1 same-day fused event(s) versus 2026-11-25 (0 → 1).",
-    "Collection volume: -25 retained report(s) versus 2026-11-25 (43 → 18)."
+    "JNIM: +1 same-day fused event(s) versus 2026-11-26 (0 → 1).",
+    "Collection volume: +9 retained report(s) versus 2026-11-26 (18 → 27)."
   ],
   "emerging_patterns": [
-    "JNIM 7-day activity is higher than the preceding 7-day window (0 → 1).",
-    "State 7-day activity is higher than the preceding 7-day window (8 → 9)."
+    "State 7-day activity is higher than the preceding 7-day window (7 → 11)."
   ],
   "intelligence_gaps": [
-    "1 same-day event(s) lack independent multi-source corroboration.",
-    "3 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates.",
+    "2 same-day event(s) lack independent multi-source corroboration.",
+    "2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates.",
     "Collection confidence is low, so absence of reporting should not be interpreted as absence of activity."
   ],
   "actor_counts": {
-    "JNIM": 0,
+    "JNIM": 1,
     "IS Sahel": 0,
     "State": 1
   },
   "country_counts": {
-    "Mali": 1,
+    "Mali": 2,
     "Burkina Faso": 0,
     "Niger": 0
   },
   "country_reporting_counts": {
-    "Mali": 9,
+    "Mali": 14,
     "Burkina Faso": 4,
-    "Niger": 3
+    "Niger": 7
   },
   "actor_profiles": {
     "JNIM": {
-      "events": 0,
-      "delta_vs_previous_day": 0,
+      "events": 1,
+      "delta_vs_previous_day": 1,
       "current_7d": 1,
-      "previous_7d": 0,
-      "countries": [],
-      "event_types": []
+      "previous_7d": 1,
+      "countries": [
+        [
+          "Mali",
+          1
+        ]
+      ],
+      "event_types": [
+        [
+          "territorial seizure/blockade",
+          1
+        ]
+      ]
     },
     "IS Sahel": {
       "events": 0,
@@ -136,9 +179,9 @@
     },
     "State": {
       "events": 1,
-      "delta_vs_previous_day": 1,
-      "current_7d": 9,
-      "previous_7d": 8,
+      "delta_vs_previous_day": 0,
+      "current_7d": 11,
+      "previous_7d": 7,
       "countries": [
         [
           "Mali",
@@ -155,10 +198,10 @@
   },
   "country_profiles": {
     "Mali": {
-      "events": 1,
-      "reports_collected": 9,
+      "events": 2,
+      "reports_collected": 14,
       "actor_counts": {
-        "JNIM": 0,
+        "JNIM": 1,
         "IS Sahel": 0,
         "State": 1
       },
@@ -166,6 +209,10 @@
       "top_event_types": [
         [
           "security operation",
+          1
+        ],
+        [
+          "territorial seizure/blockade",
           1
         ]
       ]
@@ -183,192 +230,273 @@
     },
     "Niger": {
       "events": 0,
-      "reports_collected": 3,
+      "reports_collected": 7,
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
         "State": 0
       },
-      "delta_events_vs_previous_day": 0,
+      "delta_events_vs_previous_day": -1,
       "top_event_types": []
     }
   },
   "country_article_summaries": {
     "Mali": [
       {
-        "id": "1d55a817373e09ac27b278e4cc72f4e6fc03070f",
-        "source": "APAnews (FR)",
-        "title": "Mali: Foreigners accommodated or employed under the supervision of the authorities",
-        "summary": "The Malian authorities are stepping up the registration of foreign nationals present on their territory, calling on the population to report to the security forces those who are being hosted, accommodated or employed by private individuals, in a context marked by the influx of people deported from Guinea. . In a statement dated 25 November 2026, the Crisis Coordination and Management Centre (CECOGEC) calls on the public to report such situations to the nearest police station or gendarmerie brigade.",
-        "url": "https://fr.apanews.net/community/mali-les-etrangers-heberges-ou-employes-sous-surveillance-des-autorites/",
-        "candidate_event": false,
-        "event_date": "2026-11-25"
-      },
-      {
-        "id": "af595ea40591487689b754e2746f55ccc97a5c55",
-        "source": "The Defense Post Africa",
-        "title": "Sahel Insurgents Use Low-Cost Drones to Strike Military Targets: Report",
-        "summary": "Insurgents in Mali and elsewhere in the Sahel are adapting off-the-shelf drones that cost a few hundred dollars to strike military vehicles and threaten aircraft worth millions, Reuters reported. In Mali, separatists and al-Qaeda-linked militants have used commercially available drones to strike military vehicles and airfields defended by Malian troops and Russian paramilitary forces.",
-        "url": "https://thedefensepost.com/2026/11/26/sahel-insurgents-low-cost-drones/",
+        "id": "4fd8dd37244ce5030baa29bae826ab31658ffcfc",
+        "source": "RFI Afrique",
+        "title": "Mali: Alger dénonce l'«alliance» des indépendantistes du FLA avec les «terroristes» du Jnim",
+        "summary": "Le ministre algérien des Affaires étrangères a tenu des propos très virulents contre le Front de libération de l'Azawad (FLA), lors d'une conférence de presse jeudi 26 novembre à Alger. Ahmed Attaf a dénoncé l'alliance des rebelles indépendantistes du nord du Mali avec les « groupes terroristes », à savoir les jihadistes du Groupe de soutien à l'islam et aux musulmans (Jnim, lié à al-Qaïda).",
+        "url": "https://www.rfi.fr/fr/afrique/20261127-mali-alger-d%C3%A9nonce-l-alliance-des-ind%C3%A9pendantistes-du-fla-avec-les-terroristes-du-jnim",
         "candidate_event": false,
         "event_date": "2026-11-26"
       },
       {
-        "id": "ed8065e53044f58a807db995436d2d7a753e6846",
-        "source": "France 24 Afrique (FR)",
-        "title": "Mali: JNIM jihadists order the inhabitants of Tonka to leave",
-        "summary": "A browser extension appears to be blocking the video player from loading. To watch this content, you must disable or uninstall it. Video An extension in your browser appears to be blocking the video player from loading.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-mali-les-jihadistes-du-jnim-somment-les-habitants-de-tonka-de-partir",
-        "candidate_event": false,
-        "event_date": "2026-11-26"
-      },
-      {
-        "id": "93d1ae28320f15a9dc65f9616a748d2552a0dc14",
+        "id": "dde76516ba152b68d18f8cb7c7e15e4bf0583140",
         "source": "Bamada",
-        "title": "INTRUSION OF ARMED MEN INTO THE POLICE STATION IN SAN: THE ATTACKERS WERE REPULLED, ONE CAP GUARD WAS KILLED",
-        "summary": "The town of San was the target of an attack carried out by armed men on the night of Tuesday, 24 November 2026. Several facilities were affected by the events, including the Centre (…) By Mahamane TOURE – NOUVEL HORIZON READ THE REST OF YOUR ARTICLE IN NOUVEL HORIZON OF THURSDAY, 26 NOVEMBER 2026 Follow us on Facebook, Telegram and WhatsApp to stay up to date with Malian news Follow us on Facebook, Telegram and WhatsApp WhatsApp so you don't miss any news from Mali",
-        "url": "https://bamada.net/intrusion-dhommes-armes-dans-le-commissariat-de-police-de-san-les-assaillants-mis-en-deroute-un-gardien-du-cap-tue",
-        "candidate_event": false,
-        "event_date": "2026-11-24"
-      },
-      {
-        "id": "fd242924f6dbdaea2f34c8a2062ea2fd26b9bb13",
-        "source": "L'Essor",
-        "title": "Tinzaouatène, Kidal, Niono and Sofara: The FAMa intensify strikes against armed terrorist groups",
-        "summary": "Supported by their partners, the Malian Armed Forces (FAMa) targeted both the logistical and financial networks and the armed terrorist groups involved in recent attacks, neutralising several dozen fighters and destroying significant material resources.",
-        "url": "https://www.lessor.ml/posts/tinzaouatene-kidal-niono-et-sofara-les-fama-intensifient-les-frappes-contre-les-groupes-armes-terroristes-6b0802d180521",
-        "candidate_event": true,
-        "event_date": "2026-11-26"
-      },
-      {
-        "id": "967c45fc966d28433c9859f383eab300dcaccd51",
-        "source": "Le Figaro (Section Afrique)",
-        "title": "In Mali, the quiet deaths of the Africa Corps",
-        "summary": "REPORT - The Guardian reveals that at least 349 Russian soldiers have died over the past three years while supporting the junta in power in Bamako. Skip ad In the ocean of Russian military losses, the deaths in Mali are just a drop in the bucket. Nearly 350 men have been killed in the desert out of the approximately 700,000 deaths recorded by the Russian army in recent years.",
-        "url": "https://www.lefigaro.fr/international/au-mali-les-morts-discrets-de-l-africa-corps-20261126",
-        "candidate_event": false,
-        "event_date": "2026-11-26"
-      },
-      {
-        "id": "ddb7f22c90cc82aef804f08b2b8a86a825967b69",
-        "source": "La Nouvelle Tribune (Bénin)",
-        "title": "Mali: Assimi Goïta meets with the Chiefs of Staff and sets his military priorities",
-        "summary": "In Mali, Army General Assimi Goïta convened the Chiefs of Staff and the heads of departments of the Defence and Security Forces (FDS) on the morning of Tuesday, 24 November 2026. The Head of State, who is also Supreme Commander of the Armed Forces, wanted to take stock of the security situation in the country and of the collaboration between the various units.",
-        "url": "https://lanouvelletribune.info/2026/11/mali-assimi-goita-reunit-les-chefs-detat-major-et-fixe-ses-priorites-militaires/",
-        "candidate_event": false,
-        "event_date": "2026-11-24"
-      },
-      {
-        "id": "bf3d2756945a0501e44513cebc56cd1a7c63faf2",
-        "source": "DW Afrique (FR)",
-        "title": "Mali: JNIM orders the inhabitants of Tonka to leave, in response to the presence of the army",
-        "summary": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZWFlyMVNIWmpVdUJscldjN183TUE4WVMxbXZQanNjRGJfRVVIY0V6UmxIV0l3THQ5eGRNUjlxZFFLak5mWEs5VzRaWDRnUWI3Zk4zVi1BMTFfN3QyVWhobkFNNExFVDZIX1d4cEhDWl93eEHSAXNBVV95cUxOUlcxSDB1Y3kyaVF2cm02VVM2X2kxd2xDMDg4RnI1VzJXUGhzSzBTVDRjanUtQXgtUkc2NVEwbnFfV1NhRVZ6dV8waGc4Y292RGtTMXQ3eGNDbmxldTJpTTRnbUNpUkxnaFF0MjVzaHZJdkg4?oc=5",
+        "title": "Bamako face à l’ Ingérence de l’Ukraine aux côtés des groupes armés du Sahel",
+        "summary": "La question du soutien de Kiev aux groupes armés actifs dans la bande sahélo-saharienne suscite une vive préoccupation au sein de l’opinion publique et des chancelleries de la région. Alors que les pays de l’Alliance des États du Sahel (AES) font face à des défis sécuritaires majeurs, plusieurs éléments récents tendent à documenter l’implication d’acteurs ukrainiens sur le terrain malien, poussant les autorités de Bamako à réclamer des mesures fermes pour préserver leur souveraineté.",
+        "url": "https://bamada.net/bamako-face-a-l-ingerence-de-lukraine-aux-cotes-des-groupes-armes-du-sahel",
         "candidate_event": false,
         "event_date": "2026-11-25"
       },
       {
-        "id": "63ec52620fc983a793392507b32ed06101457c94",
-        "source": "ActuNiger",
-        "title": "Mali: The Transitional President Holds Discussions with the Military Command",
-        "summary": "On Tuesday, 24 November 2026, in Koulouba, the President of Mali's Transition and Supreme Commander of the Armed Forces, General Assimi Goïta, chaired a meeting with the Chiefs of Staff and Directors of Services of the Defence and Security Forces (FDS). . According to the Malian Presidency, the aim of this meeting was to assess the situation of the forces, strengthen the coherence of command, and define the strategic and operational priorities of national defence.",
-        "url": "https://www.actuniger.com/international/mali-le-president-de-la-transition-echange-avec-le-commandement-militaire.html",
+        "id": "21dbddcbf126d2c648b231ad0a40d7c1b298faed",
+        "source": "Maliweb",
+        "title": "Mali: The FAMa are intensifying their offensives...",
+        "summary": "Mali: The FAMa are intensifying their offensives in Kayes and around Dandougou. The Malian Armed Forces (FAMa) are continuing their offensive operations as part of Operation Dougoukoloko. .",
+        "url": "https://www.maliweb.net/insecurite/mali-les-fama-intensifient-leurs-offensives-a-kayes-et-autour-de-3121993.html",
+        "candidate_event": false,
+        "event_date": "2026-11-26"
+      },
+      {
+        "id": "9de648946a31622508e5ed1458d12e7ab2af475b",
+        "source": "AllAfrica (English Edition)",
+        "title": "Mali: Mali Remains Strategic for Russia Despite Heavy Losses, Investigator Says",
+        "summary": "Russia is unlikely to pull out of Mali despite losing more than 10 percent of its forces there, an investigator who tracks Russian military deployments told RFI. Lou Osbourn co-founded All Eyes On Wagner, a collective of journalists and cybersecurity analysts. She said the losses prove that Russian fighters are taking part in operations alongside Malian troops and that \"Africa remains an area of interest for Moscow\".",
+        "url": "https://allafrica.com/stories/202611270334.html",
         "candidate_event": false,
         "event_date": "2026-11-24"
+      },
+      {
+        "id": "a699ce8535d118884bba583b72e9ea321e9a4188",
+        "source": "RFI Afrique",
+        "title": "MALI: An ka Tonka duguden dɔ lamɛn JNIM ka kankarimada kan, u bɛ ka fɔ ko dugudenw ka dugu in bila",
+        "summary": "Mali la, nin y'a tile damadɔ ye ni kankarimada-dantigɛli dɔ bi ka yara bɔlɔlɔ foroba kumanyɔrɔw sanfɛ, o dantigɛli min kɔnɔ a fɔlen lon ko bi Novembre kalo tile 27 dilen bɛ Tonka-kaw ma u ka Dugu in bila. Tonka ye Mali Kɔrɔnyanfan dugu dɔ ye Tombouctou mara kɔnɔ, yen min yɛrɛ la bɔlɔlɔ sanfɛ kumanfɔla Sinfin Mariam Cissé fagara Salon Novembre kalo la, ani Dugu in mɔgɔ lakodoni wɛrɛw o kɔ.",
+        "url": "https://www.rfi.fr/ma/farafinna/20261127-mali-an-ka-tonka-duguden-d%C9%94-lam%C9%9Bn-jnim-ka-kankarimada-kan-u-b%C9%9B-ka-f%C9%94-ko-dugudenw-ka-dugu-in-bila",
+        "candidate_event": false,
+        "event_date": "2026-11-27"
+      },
+      {
+        "id": "975b1c5131552d6fa6263e4ece046903f2d0fd9c",
+        "source": "Bamada",
+        "title": "Securing the territory: several terrorists neutralised and equipment seized during FAMa operations",
+        "summary": "The General Staff of the Armed Forces informs the nation that the Malian Armed Forces (FAMa), supported by their partners, are continuing their ongoing operations to monitor, control and secure the national territory as part of Operation Dougoukoloko. On Wednesday, 25 November 2026, the FAMa carried out ground and air offensive operations in several areas of the national territory.",
+        "url": "https://bamada.net/securisation-du-territoire-plusieurs-terroristes-neutralises-et-du-materiel-saisi-lors-doperations-des-fama",
+        "candidate_event": true,
+        "event_date": "2026-11-25"
+      },
+      {
+        "id": "05211da62aaf8c648af63c06f4c7fdef8305bac0",
+        "source": "Malijet",
+        "title": "Mali: The army announces strikes against terrorist groups in several regions",
+        "summary": "The FAMa (Malian Armed Forces) have announced that they eliminated a large number of terrorists during operations carried out on Wednesday and Thursday across Mali. A statement from the General Staff of the Armed Forces, published on Friday, 27 November, reports this information. .",
+        "url": "https://malijet.com/actualte_dans_les_regions_du_mali/313005-mali-larmee-annonce-des-frappes-contre-des-groupes-terror.html",
+        "candidate_event": true,
+        "event_date": "2026-11-27"
+      },
+      {
+        "id": "dc0e901de858141283f8b20cf3c2001466b96eb6",
+        "source": "Malijet",
+        "title": "Bamako: Two young burglars arrested with 20 million CFA francs worth of jewellery",
+        "summary": "Bamako: Two young burglars arrested with CFA 20 million worth of jewellery The Sabalibougou police station has arrested two young men, aged 21 and 22, suspected of burgling a house in Baco-Djicoroni Golf. The police recovered jewellery estimated to be worth 20 million CFA francs. The two suspects, identified by their initials L.T.",
+        "url": "https://malijet.com/les_faits_divers_au_mali/313004-bamako-deux-jeunes-cambrioleurs-arretes-avec-20-millions-d.html",
+        "candidate_event": false,
+        "event_date": "2026-11-15"
+      },
+      {
+        "id": "bea6a719e510cf4617054be5628c18060cefb14a",
+        "source": "Jeune Afrique",
+        "title": "Mali : Alger dénonce l’alliance du FLA avec les jihadistes du Jnim",
+        "summary": "L’Algérie hausse le ton face aux indépendantistes de l’Azawad, dénonçant leur rapprochement avec le Jnim. Le ministre Ahmed Attaf écarte toute reprise de la médiation et s’inquiète de la multiplication des ingérences étrangères. Publié aujourd'hui à 11h07, modifié à 12h17 Lecture : 3 minutes.",
+        "url": "https://www.jeuneafrique.com/1866089/politique/mali-alger-denonce-lalliance-du-fla-avec-les-jihadistes-du-jnim/",
+        "candidate_event": false,
+        "event_date": "2026-11-26"
+      },
+      {
+        "id": "aebb669412c0b93e79aabf72b1193242b628a74c",
+        "source": "Jeune Afrique",
+        "title": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to blockade Tonka",
+        "summary": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to impose a blockade on Tonka In northern Mali, the jihadist group JNIM is threatening to impose a blockade on the trading town of Tonka. This show of force comes a month after the arrival of the Malian army and its Russian allies from Africa Corps. .",
+        "url": "https://www.jeuneafrique.com/1866054/politique/mali-apres-larrivee-de-larmee-et-dafrica-corps-le-jnim-menace-tonka-de-blocus/",
+        "candidate_event": true,
+        "event_date": "2026-11-27"
+      },
+      {
+        "id": "78b89eaf29037d2bbef7df4599aecc1167ab1644",
+        "source": "Bamada",
+        "title": "DÉFENSE ET SÉCURITÉ : Assimi Goïta réaffirme le cap de la montée en puissance des FAMa, l’héritage du Général Sadio Camara au cœur de la refondation militaire",
+        "summary": "MALI : Sous le leadership d’Assimi Goïta, la modernisation de l’armée demeure une priorité nationale À Koulouba, le 24 novembre 2026, le Président de la Transition, Chef suprême des Armées, le Général d’armée Assimi Goïta, a réuni les principaux responsables du commandement militaire et des services de défense et de sécurité. Une rencontre stratégique qui traduit la volonté des plus hautes autorités de poursuivre la modernisation de l’outil de défense, de renforcer la coordination opérationnelle et de consolider les acquis enregistrés sur le terrain.",
+        "url": "https://bamada.net/defense-et-securite-assimi-goita-reaffirme-le-cap-de-la-montee-en-puissance-des-fama-lheritage-du-general-sadio-camara-au-coeur-de-la-refondation-militaire",
+        "candidate_event": false,
+        "event_date": "2026-11-24"
+      },
+      {
+        "id": "1b0883760275f87d684676c296893544a384f50b",
+        "source": "AMAP (Agence Malienne de Presse et de Publicité)",
+        "title": "Diéma: Official Presentation of the National Flag to the Village Chief",
+        "summary": "Diéma, 26 November (AMAP) In a solemn atmosphere filled with pride, the official ceremony for the handover of the national flag to the new village chief of Diéma, Cheicknè Sissoko, took place on Thursday in Diéma, in the presence of the 2nd Deputy Prefect, Attayoub Ould Mohamed, who was accompanied by the Sub-Prefect of Dioumara, Mamadou Tiéna Boré, the 1st Deputy Mayor of Diéma, Abdoulaye Touré, and representatives of the Armed Forces.",
+        "url": "https://amap.ml/2026/11/27/diema-remise-officielle-du-drapeau-national-au-chef-de-village/",
+        "candidate_event": false,
+        "event_date": "2026-11-26"
+      },
+      {
+        "id": "1a2dbed93897fce20a56a69a1f72d8baca9d8db0",
+        "source": "Bamada",
+        "title": "Operation Dougoukoloko: FAMa strike several terrorist positions and neutralise at least a dozen fighters",
+        "summary": "On 23 and 24 November 2026, the Malian Armed Forces (FAMa), supported by their partners, carried out a series of air operations and targeted strikes in several regions of Mali. These actions, carried out as part of Operation Dougoukoloko, resulted in the neutralisation of at least a dozen terrorists and the disabling of seven motorcycles used by armed terrorist groups.",
+        "url": "https://bamada.net/operation-dougoukoloko-les-fama-frappent-plusieurs-positions-terroristes-et-neutralisent-au-moins-une-dizaine-de-combattants",
+        "candidate_event": true,
+        "event_date": "2026-11-24"
+      },
+      {
+        "id": "fcb6914ccd8cbfa76fef44688a7e3b269d03f982",
+        "source": "Bamada",
+        "title": "Mali – Gestion des personnes refoulées de Guinée : le CECOGEC appelle à la vigilance et au recensement des ressortissants étrangers",
+        "summary": "Bamada.net – Dans le cadre du dispositif de gestion des personnes refoulées de Guinée, les autorités maliennes renforcent les mesures d’identification, de recensement et d’accompagnement des personnes concernées. À travers un communiqué publié le 25 novembre 2026, le Centre de Coordination et de Gestion des Crises (CECOGEC) invite les populations à collaborer activement avec les forces de sécurité afin de faciliter le regroupement et la prise en charge des personnes encore dispersées sur le territoire national.",
+        "url": "https://bamada.net/mali-gestion-des-personnes-refoulees-de-guinee-le-cecogec-appelle-a-la-vigilance-et-au-recensement-des-ressortissants-etrangers",
+        "candidate_event": false,
+        "event_date": "2026-11-25"
       }
     ],
     "Burkina Faso": [
       {
-        "id": "3314f7c109e44b175075e81022275a69459bf33a",
-        "source": "Burkina24",
-        "title": "African Tirailleur Day: A tribute to their memory and a show of solidarity",
-        "summary": "African Tirailleur Day was commemorated on Thursday, 26 November 2026, at Place de la Révolution in Ouagadougou, under the theme 'Veterans' Commitment: What Lessons Can We Learn?'. The ceremony highlighted the continuity of the patriotic struggle, with tributes to veterans, a call for discipline among the forces involved and the presentation of a financial contribution to the national effort.",
-        "url": "https://burkina24.com/2026/11/26/journee-du-tirailleur-africain-un-hommage-a-la-memoire-et-un-elan-de-solidarite/",
+        "id": "88ae10ce1fee55003bfbcccaadab0b5f8813696c",
+        "source": "L'Indépendant (Mali)",
+        "title": "Burkina Faso: 181 drones and other military equipment seized at Ouagadougou Airport",
+        "summary": "Surveillance and reconnaissance drones, communications equipment, military uniforms and clothing. This is the batch of equipment intercepted by the Special Customs Brigade at Ouagadougou Airport this Wednesday. \"The intercepted equipment includes various items of military hardware, Starlink satellite communication terminals and 181 drones, with an estimated value of over 80 million CFA francs,\" stated Burkina Faso Customs in a press release.",
+        "url": "https://lindependant.ml/article/burkina-faso-181-drones-et-dautres-equipements-militaires-saisis-a-laeroport-de-ouagadougou",
+        "candidate_event": false,
+        "event_date": "2026-11-25"
+      },
+      {
+        "id": "85ae673684ea89100bd7f2395089909e0e816449",
+        "source": "Vanguard News (Nigeria)",
+        "title": "Burkina Faso seeks Nigeria’s partnership against terrorism, trafficking",
+        "summary": "Burkinabe Minister of Security, Mahamadou Sana and Nigeria’s Ambassador to Burkina Faso, Syndoph Endoni during talks on security cooperation between both countries By Luminous Jannamike ABUJA — Burkina Faso has pledged to strengthen security cooperation with Nigeria to tackle terrorism, drug trafficking, human trafficking and other cross-border crimes threatening stability in West Africa.",
+        "url": "https://www.vanguardngr.com/2026/11/burkina-faso-seeks-nigerias-partnership-against-terrorism-trafficking/",
+        "candidate_event": false,
+        "event_date": "2026-11-27"
+      },
+      {
+        "id": "354e59ab598722c4d446636d1711d2df9fb381a7",
+        "source": "LeFaso.net",
+        "title": "21st Digital Week: Disinformation, a major threat to the AES confederation area",
+        "summary": "21st Digital Week: Disinformation, a major threat to the AES confederal area On the eve of the official closing of the 21st edition of Digital Week, on Thursday, 26 November, a panel was dedicated to cybersecurity in the confederal area of the Alliance of Sahel States (AES). . Under the theme ‘Cybersecurity and digital trust in the face of cross-border threats’, the discussions enabled the various panellists to explore possible solutions to better prevent cyber threats and organise the response in the event of an attack.",
+        "url": "https://lefaso.net/spip.php?article151101=",
         "candidate_event": false,
         "event_date": "2026-11-26"
       },
       {
-        "id": "3450625003dea849e0c89c7f467f03c9a7ba92da",
-        "source": "Bamada",
-        "title": "Entre Nous: “Exploring the path to dialogue with JNIM”",
-        "summary": "On 20 November 2026, the International Crisis Group published a report entitled: \"The Battle for Cities: Countering the JNIM Threat to Sahel Urban Centres\". According to this international non-profit NGO, whose mission is to prevent and help resolve deadly conflicts through field research, analysis and political advocacy, \"the human cost of the conflict is already considerable and continues to rise\".",
-        "url": "https://bamada.net/entre-nous-explorer-la-voie-du-dialogue-avec-le-jnim",
+        "id": "13bf7c20d120e5810fc1ecd594570254dce0cdbd",
+        "source": "LeFaso.net",
+        "title": "Avis de recrutement INTERNE & EXTERNE un-e Chef-fe de projet FHRAOC",
+        "summary": "Norwegian Church Aid (NCA) dont le mandat est de sauver des vies et œuvrer pour la justice, est l’une des plus grandes organisations humanitaires des pays nordiques. Grâce à notre réseau international et à nos organisations partenaires au sein de l’Alliance ACT, nous sommes en mesure de fournir de l’aide d’urgence et de développement chaque année à des millions de personnes à travers le monde.",
+        "url": "https://lefaso.net/spip.php?article151074=",
         "candidate_event": false,
-        "event_date": "2026-11-20"
-      },
-      {
-        "id": "eec7621838c21c76a3c988a5aa2ce445bba64876",
-        "source": "Malijet",
-        "title": "Entre Nous: “Exploring the path to dialogue with JNIM”",
-        "summary": "Entre Nous: ‘Exploring the path to dialogue with JNIM’ On 20 November 2024, the International Crisis Group published a report entitled: ‘The Battle for Cities: Countering the JNIM Threat to Sahel Urban Centres’ According to this international non-profit NGO, whose mission is to prevent and help resolve deadly conflicts through field research, analysis and political advocacy, “the human cost of the conflict is already considerable and continues to mount”.",
-        "url": "https://malijet.com/editorial/312982-entre-nous-explorer-la-voie-du-dialogue-avec-le-jnim.html",
-        "candidate_event": false,
-        "event_date": "2026-11-20"
-      },
-      {
-        "id": "6fab4936caafab681e0e3e9f93d6ede33a01d683",
-        "source": "Sidwaya",
-        "title": "Career change: 3,014 VDPs soon to be trained in over 40 professions",
-        "summary": "The Brigade of Volunteers for the Defence of the Homeland and the public institution Burkina Suudu Bawdè (BSB) signed a partnership agreement for the training and socio-economic reintegration of 3,014 Volunteers for the Defence of the Homeland (VDPs) at the end of their service, on Wednesday, 25 November 2026, in Ouagadougou.",
-        "url": "https://www.sidwaya.info/2026/11/26/reconversion-professionnelle-3-014-vdp-bientot-formes-dans-plus-de-40-metiers/",
-        "candidate_event": false,
-        "event_date": "2026-11-25"
+        "event_date": "2026-11-26"
       }
     ],
     "Niger": [
       {
-        "id": "469c7f0054c4148c826cee8439c2d564b5fbbda2",
-        "source": "DW Afrique (FR)",
-        "title": "Why are jihadist groups kidnapping civilians in the Sahel?",
-        "summary": "A Saudi national was reportedly kidnapped by jihadist groups last weekend. According to sources contacted by the Reuters news agency, the kidnapping reportedly took place in Niger, in the Tillabéry region, in the tri-border area. So far, there has been no comment from either country, but the kidnapping of civilians is an important source of funding for jihadist groups.",
-        "url": "https://www.dw.com/fr/groupes-djihadistes-ont-fait-rapts-civils-moyens-pression-sur-pouvoirs-centraux-saheliens/a-80054027",
-        "candidate_event": false,
+        "id": "24d4987b92ad9a9ea44d6816ca662a7f244d4902",
+        "source": "Agence Nigérienne de Presse",
+        "title": "Sanam (Tillabéri): A terrorist attack on the National Guard leaves 13 dead and several attackers neutralised",
+        "summary": "Niamey, 26 November (ANP) – The Niger National Guard (GNN) post in Sanam, in the department of Abala (Tillabéri), was the target on Thursday, 26 November 2020, of a terrorist attack carried out by numerous heavily armed assailants, according to a statement from the Ministry of National Defence published on Thursday evening. This attack resulted in heavy casualties among the ranks of the Defence and Security Forces (DSF).",
+        "url": "https://anp.ne/sanam-tillaberi-une-attaque-terroriste-contre-la-garde-nationale-fait-13-morts-et-plusieurs-assaillants-neutralises/",
+        "candidate_event": true,
         "event_date": "2026-11-26"
       },
       {
-        "id": "fb0b356f87175c27555f2ac76137b3cd71b87c58",
-        "source": "ActuNiger",
-        "title": "Insecurity: 11 soldiers killed and 22 attackers neutralised in a Boko Haram attack in Baroua (Diffa)",
-        "summary": "In a statement issued on 24 November, the Ministry of Defence announced that eleven (11) Nigerien soldiers had lost their lives and several others had been injured in a terrorist attack attributed to Boko Haram in Baroua, in the Diffa region, in the far south-east of the country. According to the same source, in their response, the defence and security forces neutralised 22 attackers, and pursuit and sweep operations were immediately launched in this border area of Lake Chad.",
-        "url": "https://www.actuniger.com/societe/insecurite-11-soldats-tues-et-22-assaillants-neutralises-lors-dune-attaque-de-boko-haram-a-baroua-diffa.html",
+        "id": "ab412dc72ddff7c871ad8c1f720cd07bf134af87",
+        "source": "Africanews",
+        "title": "Armed men kill 13 guards in 'terrorist attack' in western Niger",
+        "summary": "Armed men on Thursday killed at least 13 Nigerien guards in an attack in the restive Tillaberi region in western Niger, the defence ministry said in a statement. The Nigerien National Guard was targeted \"by a terrorist attack carried out by a large group of heavily armed assailants,\" the ministry said in a statement read on public television. Niger, ruled by a military junta since a 2023 coup, is battling violence by jihadists linked to Al-Qaeda and the Islamic State group, with thousands killed over the last decade.",
+        "url": "https://www.africanews.com/2026/11/27/armed-men-kill-13-guards-in-terrorist-attack-in-western-niger/",
         "candidate_event": true,
+        "event_date": "2026-11-26"
+      },
+      {
+        "id": "03af80e79079f874594824a3fd6e41de3196eaa1",
+        "source": "ActuNiger",
+        "title": "SORAZ DONATES FOUR DT MOTORBIKES TO THE INTERREGIONAL JUDICIAL POLICE SERVICE IN ZINDER",
+        "summary": "On Monday, 16 November 2020, the Zinder Refining Company (SORAZ) held a ceremony to donate four (4) motorbikes to the Interregional Criminal Investigation Department (SIRPJ) of the city of Zinder. This initiative is part of SORAZ's commitment to supporting the security forces in carrying out their duties to protect people and property, and represents a further practical example of cooperation between the company and local authorities.",
+        "url": "https://www.actuniger.com/societe/la-soraz-remet-quatre-motos-dt-au-service-interregional-de-la-police-judiciaire-de-zinder.html",
+        "candidate_event": false,
+        "event_date": "2026-11-16"
+      },
+      {
+        "id": "6775e93d6938fc862def5898087570d70c138778",
+        "source": "TV5MONDE Afrique",
+        "title": "Image Published on 27 November 2026 Niger, Africa: The Ministry of Defence announces the deaths of 13 guards in a terrorist attack At least 13 Nigerien guards were killed and twenty others injured on Thursday, 26 November, in a “terrorist attack” targeting their position in…",
+        "summary": "At least 13 Nigerien guards were killed and twenty others injured on Thursday, 26 November, in a \"terrorist attack\" targeting their position in Sanam, in the west of the country, the Ministry of Defence announced in a statement. Nigerien police officers take part in a special US programme, 13 April 2018. Stock photo.",
+        "url": "https://information.tv5monde.com/afrique/niger-le-ministere-de-la-defense-annonce-la-mort-de-13-gardes-dans-une-attaque-terroriste-2847211",
+        "candidate_event": true,
+        "event_date": "2026-11-26"
+      },
+      {
+        "id": "2b6ef8f6fb0863dfe3f74a65e82ae858bc43886e",
+        "source": "Daily Trust (Nigeria)",
+        "title": "PANDEF seeks police, DSS probe into attack on Omo-Agege’s campaign team",
+        "summary": "The Pan Niger Delta Forum (PANDEF) has called on the Department of State Services (DSS) and the police to investigate the killing of two aides of former Deputy Senate President, Ovie Omo-Agege, and two others during a political rally in Delta State. PANDEF also urged security agencies to identify and prosecute those who masterminded, sponsored or participated in the attack, which occurred on Monday at Uduere community in Ughelli North Local Government Area of the state.",
+        "url": "https://dailytrust.com/pandef-seeks-police-dss-probe-into-attack-on-omo-ageges-campaign-team-2/",
+        "candidate_event": false,
         "event_date": "2026-11-24"
       },
       {
-        "id": "f0e0077ca8fe6e59fd66bfb70e7c339e2f71b1b8",
-        "source": "AllAfrica (Édition Française)",
-        "title": "Niger: Kidnapping of a Saudi national",
-        "summary": "allAfrica.fr",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoY3NwLWR3ZWNHMzkwRGc4UVJyQ0tWYlBac0xDNHZvTVFaWEJXYU56M1N1YUx1RXBjWXB3TV85b2FHVVNTdmhkd2c4RmR6OWRndkNfRkF4REFXSFp1a2Nj?oc=5",
-        "candidate_event": false,
-        "event_date": "2026-11-25"
+        "id": "403d8f9ce5df108c93d2a3e9b5f5c6987421aaaa",
+        "source": "Al Jazeera English",
+        "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+        "summary": "At least 13 members of Niger’s National Guard have been killed and 20 wounded in an attack on their compound in Sanam, in the west of the country, the Defence Ministry has said. In a statement read on state television, the ministry said the attack on Thursday was carried out by “numerous heavily armed assailants”, referring to the incident as a “terrorist attack”.",
+        "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack",
+        "candidate_event": true,
+        "event_date": "2026-11-26"
+      },
+      {
+        "id": "384cd0918811779b1da081284579290c3e64fab1",
+        "source": "ActuNiger",
+        "title": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri)",
+        "summary": "On Thursday, 26 November 2020, the Niger National Guard (GNN) position in Sanam, in the department of Abala (Tillabéri region), was the target of a terrorist attack carried out by \"numerous heavily armed attackers\", the Ministry of National Defence announced in a statement issued in the evening. According to the same source, the provisional toll stands at 13 soldiers killed and 20 injured, including several serious cases who were evacuated for medical treatment.",
+        "url": "https://www.actuniger.com/societe/niger-13-soldats-tues-dans-une-nouvelle-attaque-terroriste-a-sanam-tillaberi.html",
+        "candidate_event": true,
+        "event_date": "2026-11-26"
       }
     ]
   },
   "collection_notes": {
     "sources_total": 184,
-    "sources_success": 155,
-    "sources_failed": 29,
-    "sources_degraded": 17,
-    "documents_discovered": 12080,
-    "documents_retained": 4,
+    "sources_success": 157,
+    "sources_failed": 27,
+    "sources_degraded": 18,
+    "documents_discovered": 12730,
+    "documents_retained": 27,
     "report_target": 100,
-    "translations_attempted": 14,
-    "translations_success": 14,
-    "translation_failures": 0,
+    "translations_attempted": 20,
+    "translations_success": 13,
+    "translation_failures": 7,
     "collection_confidence": "LOW",
     "collection_confidence_reasons": [
-      "155/184 source paths reached",
-      "29 failed source paths",
-      "17 degraded / 29 failed of 184 configured sources"
+      "157/184 source paths reached",
+      "27 failed source paths",
+      "18 degraded / 27 failed of 184 configured sources"
     ],
-    "reports_collected": 18,
-    "reports_published": 14,
-    "distinct_sources_collected": 14,
+    "reports_collected": 27,
+    "reports_published": 19,
+    "distinct_sources_collected": 18,
     "language_counts": {
-      "fr": 17,
-      "en": 1
+      "fr": 20,
+      "en": 7
     }
   },
-  "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-26: Reporting dated 2026-11-26 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 9 retained reports. 1. Mali: Foreigners accommodated or employed under the supervision of the authorities. The Malian authorities are stepping up the registration of foreign nationals present on their territory, calling on the population to report to the security forces those who are being hosted, accommodated or employed by private individuals, in a context marked by the influx of people deported from Guinea. . In a statement dated 25 November 2026, the Crisis Coordination and Management Centre (CECOGEC) calls on the public to report such situations to the nearest police station or gendarmerie brigade. 2. Sahel Insurgents Use Low-Cost Drones to Strike Military Targets: Report. Insurgents in Mali and elsewhere in the Sahel are adapting off-the-shelf drones that cost a few hundred dollars to strike military vehicles and threaten aircraft worth millions, Reuters reported. In Mali, separatists and al-Qaeda-linked militants have used commercially available drones to strike military vehicles and airfields defended by Malian troops and Russian paramilitary forces. 3. Mali: JNIM jihadists order the inhabitants of Tonka to leave. A browser extension appears to be blocking the video player from loading. To watch this content, you must disable or uninstall it. Video An extension in your browser appears to be blocking the video player from loading.\n\nBurkina Faso: 4 retained reports. 1. African Tirailleur Day: A tribute to their memory and a show of solidarity. African Tirailleur Day was commemorated on Thursday, 26 November 2026, at Place de la Révolution in Ouagadougou, under the theme 'Veterans' Commitment: What Lessons Can We Learn?'. The ceremony highlighted the continuity of the patriotic struggle, with tributes to veterans, a call for discipline among the forces involved and the presentation of a financial contribution to the national effort. 2. Entre Nous: “Exploring the path to dialogue with JNIM”. On 20 November 2026, the International Crisis Group published a report entitled: \"The Battle for Cities: Countering the JNIM Threat to Sahel Urban Centres\". According to this international non-profit NGO, whose mission is to prevent and help resolve deadly conflicts through field research, analysis and political advocacy, \"the human cost of the conflict is already considerable and continues to rise\". 3. Entre Nous: “Exploring the path to dialogue with JNIM”. Entre Nous: ‘Exploring the path to dialogue with JNIM’ On 20 November 2024, the International Crisis Group published a report entitled: ‘The Battle for Cities: Countering the JNIM Threat to Sahel Urban Centres’ According to this international non-profit NGO, whose mission is to prevent and help resolve deadly conflicts through field research, analysis and political advocacy, “the human cost of the conflict is already considerable and continues to mount”.\n\nNiger: 3 retained reports. 1. Why are jihadist groups kidnapping civilians in the Sahel?. A Saudi national was reportedly kidnapped by jihadist groups last weekend. According to sources contacted by the Reuters news agency, the kidnapping reportedly took place in Niger, in the Tillabéry region, in the tri-border area. So far, there has been no comment from either country, but the kidnapping of civilians is an important source of funding for jihadist groups. 2. Insecurity: 11 soldiers killed and 22 attackers neutralised in a Boko Haram attack in Baroua (Diffa). In a statement issued on 24 November, the Ministry of Defence announced that eleven (11) Nigerien soldiers had lost their lives and several others had been injured in a terrorist attack attributed to Boko Haram in Baroua, in the Diffa region, in the far south-east of the country. According to the same source, in their response, the defence and security forces neutralised 22 attackers, and pursuit and sweep operations were immediately launched in this border area of Lake Chad. 3. Niger: Kidnapping of a Saudi national. allAfrica.fr\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: State: +1 same-day fused event(s) versus 2026-11-25 (0 → 1). Collection volume: -25 retained report(s) versus 2026-11-25 (43 → 18).\n\nIntelligence gaps: 1 same-day event(s) lack independent multi-source corroboration. 3 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 155/184 source paths reached 29 failed source paths 17 degraded / 29 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
+  "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-27: Reporting dated 2026-11-27 gives the desk 2 incident accounts to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 14 retained reports. 1. Mali: Alger dénonce l'«alliance» des indépendantistes du FLA avec les «terroristes» du Jnim. Le ministre algérien des Affaires étrangères a tenu des propos très virulents contre le Front de libération de l'Azawad (FLA), lors d'une conférence de presse jeudi 26 novembre à Alger. Ahmed Attaf a dénoncé l'alliance des rebelles indépendantistes du nord du Mali avec les « groupes terroristes », à savoir les jihadistes du Groupe de soutien à l'islam et aux musulmans (Jnim, lié à al-Qaïda). 2. Bamako face à l’ Ingérence de l’Ukraine aux côtés des groupes armés du Sahel. La question du soutien de Kiev aux groupes armés actifs dans la bande sahélo-saharienne suscite une vive préoccupation au sein de l’opinion publique et des chancelleries de la région. Alors que les pays de l’Alliance des États du Sahel (AES) font face à des défis sécuritaires majeurs, plusieurs éléments récents tendent à documenter l’implication d’acteurs ukrainiens sur le terrain malien, poussant les autorités de Bamako à réclamer des mesures fermes pour préserver leur souveraineté. 3. Mali: The FAMa are intensifying their offensives.... Mali: The FAMa are intensifying their offensives in Kayes and around Dandougou. The Malian Armed Forces (FAMa) are continuing their offensive operations as part of Operation Dougoukoloko. .\n\nBurkina Faso: 4 retained reports. 1. Burkina Faso: 181 drones and other military equipment seized at Ouagadougou Airport. Surveillance and reconnaissance drones, communications equipment, military uniforms and clothing. This is the batch of equipment intercepted by the Special Customs Brigade at Ouagadougou Airport this Wednesday. \"The intercepted equipment includes various items of military hardware, Starlink satellite communication terminals and 181 drones, with an estimated value of over 80 million CFA francs,\" stated Burkina Faso Customs in a press release. 2. Burkina Faso seeks Nigeria’s partnership against terrorism, trafficking. Burkinabe Minister of Security, Mahamadou Sana and Nigeria’s Ambassador to Burkina Faso, Syndoph Endoni during talks on security cooperation between both countries By Luminous Jannamike ABUJA — Burkina Faso has pledged to strengthen security cooperation with Nigeria to tackle terrorism, drug trafficking, human trafficking and other cross-border crimes threatening stability in West Africa. 3. 21st Digital Week: Disinformation, a major threat to the AES confederation area. 21st Digital Week: Disinformation, a major threat to the AES confederal area On the eve of the official closing of the 21st edition of Digital Week, on Thursday, 26 November, a panel was dedicated to cybersecurity in the confederal area of the Alliance of Sahel States (AES). . Under the theme ‘Cybersecurity and digital trust in the face of cross-border threats’, the discussions enabled the various panellists to explore possible solutions to better prevent cyber threats and organise the response in the event of an attack.\n\nNiger: 7 retained reports. 1. Sanam (Tillabéri): A terrorist attack on the National Guard leaves 13 dead and several attackers neutralised. Niamey, 26 November (ANP) – The Niger National Guard (GNN) post in Sanam, in the department of Abala (Tillabéri), was the target on Thursday, 26 November 2020, of a terrorist attack carried out by numerous heavily armed assailants, according to a statement from the Ministry of National Defence published on Thursday evening. This attack resulted in heavy casualties among the ranks of the Defence and Security Forces (DSF). 2. Armed men kill 13 guards in 'terrorist attack' in western Niger. Armed men on Thursday killed at least 13 Nigerien guards in an attack in the restive Tillaberi region in western Niger, the defence ministry said in a statement. The Nigerien National Guard was targeted \"by a terrorist attack carried out by a large group of heavily armed assailants,\" the ministry said in a statement read on public television. Niger, ruled by a military junta since a 2023 coup, is battling violence by jihadists linked to Al-Qaeda and the Islamic State group, with thousands killed over the last decade. 3. SORAZ DONATES FOUR DT MOTORBIKES TO THE INTERREGIONAL JUDICIAL POLICE SERVICE IN ZINDER. On Monday, 16 November 2020, the Zinder Refining Company (SORAZ) held a ceremony to donate four (4) motorbikes to the Interregional Criminal Investigation Department (SIRPJ) of the city of Zinder. This initiative is part of SORAZ's commitment to supporting the security forces in carrying out their duties to protect people and property, and represents a further practical example of cooperation between the company and local authorities.\n\nActor picture: JNIM 1, IS Sahel 0, State 1.\n\nWhat changed: JNIM: +1 same-day fused event(s) versus 2026-11-26 (0 → 1). Collection volume: +9 retained report(s) versus 2026-11-26 (18 → 27).\n\nIntelligence gaps: 2 same-day event(s) lack independent multi-source corroboration. 2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 157/184 source paths reached 27 failed source paths 18 degraded / 27 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
 }
