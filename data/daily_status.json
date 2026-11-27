@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "site_patch_version": "3.3.5",
   "reporting_date": "2026-11-26",
-  "generated_at": "2026-11-26T14:05:31.798814Z",
+  "generated_at": "2026-11-27T00:45:34.337186Z",
   "coverage": [
     "Mali",
     "Burkina Faso",
@@ -14,11 +14,11 @@
     "events_occurring_on_date": 1,
     "records_held_for_review": 0,
     "multi_source_events": 0,
-    "reports_collected_on_date": 14,
-    "reports_published_on_date": 10,
+    "reports_collected_on_date": 18,
+    "reports_published_on_date": 14,
     "newly_discovered_older_events": 0,
-    "events_awaiting_date_verification": 2,
-    "distinct_sources_collected": 11
+    "events_awaiting_date_verification": 3,
+    "distinct_sources_collected": 14
   },
   "executive_assessment": "Reporting dated 2026-11-26 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.",
   "briefing_sections": [
@@ -28,7 +28,7 @@
     },
     {
       "heading": "Mali",
-      "text": "6 retained reports were collected for Mali. 1 fused candidate event currently carry this reporting date. INTRUSION OF ARMED MEN INTO THE POLICE STATION IN SAN: THE ATTACKERS WERE REPULLED, ONE CAP GUARD WAS KILLED: The town of San was the target of an attack carried out by armed men on the night of Tuesday, 24 November 2026. Several facilities were affected by the events, including the Centre (…) By Mahamane TOURE – NOUVEL HORIZON READ… Tinzaouatène, Kidal, Niono and Sofara: The FAMa intensify strikes against armed terrorist groups: Supported by their partners, the Malian Armed Forces (FAMa) targeted both the logistical and financial networks and the armed terrorist groups involved in recent attacks, neutralising several dozen fighters and destroying… Au Mali, les morts discrets de l’Africa Corps: RÉCIT - Le Guardian révèle qu’au moins 349 soldats russes sont morts au cours des trois dernières années en appuyant la junte au pouvoir à Bamako. Passer la publicitéDans l’océan des pertes militaires russes, les morts tombés… 3 additional Mali reports are summarized individually in the source records."
+      "text": "9 retained reports were collected for Mali. 1 fused candidate event currently carry this reporting date. Mali: Foreigners accommodated or employed under the supervision of the authorities: The Malian authorities are stepping up the registration of foreign nationals present on their territory, calling on the population to report to the security forces those who are being hosted, accommodated or employed by… Sahel Insurgents Use Low-Cost Drones to Strike Military Targets: Report: Insurgents in Mali and elsewhere in the Sahel are adapting off-the-shelf drones that cost a few hundred dollars to strike military vehicles and threaten aircraft worth millions, Reuters reported. In Mali, separatists and… Mali: JNIM jihadists order the inhabitants of Tonka to leave: A browser extension appears to be blocking the video player from loading. To watch this content, you must disable or uninstall it. Video An extension in your browser appears to be blocking the video player from loading. 6 additional Mali reports are summarized individually in the source records."
     },
     {
       "heading": "Burkina Faso",
@@ -36,7 +36,7 @@
     },
     {
       "heading": "Niger",
-      "text": "3 retained reports were collected for Niger. 0 fused candidate events currently carry this reporting date. Why are jihadist groups kidnapping civilians in the Sahel?: A Saudi national was reportedly kidnapped by jihadist groups last weekend. According to sources contacted by the Reuters news agency, the kidnapping reportedly took place in Niger, in the Tillabéry region, in the tri-border… Insecurity: 11 soldiers killed and 22 attackers neutralised in a Boko Haram attack in Baroua (Diffa): In a statement issued on 24 November, the Ministry of Defence announced that eleven (11) Nigerien soldiers had lost their lives and several others had been injured in a terrorist attack attributed to Boko Haram in Baroua, in… Niger: Kidnapping d'un ressortissant saoudien: allAfrica.fr"
+      "text": "3 retained reports were collected for Niger. 0 fused candidate events currently carry this reporting date. Why are jihadist groups kidnapping civilians in the Sahel?: A Saudi national was reportedly kidnapped by jihadist groups last weekend. According to sources contacted by the Reuters news agency, the kidnapping reportedly took place in Niger, in the Tillabéry region, in the tri-border… Insecurity: 11 soldiers killed and 22 attackers neutralised in a Boko Haram attack in Baroua (Diffa): In a statement issued on 24 November, the Ministry of Defence announced that eleven (11) Nigerien soldiers had lost their lives and several others had been injured in a terrorist attack attributed to Boko Haram in Baroua, in… Niger: Kidnapping of a Saudi national: allAfrica.fr"
     },
     {
       "heading": "Reported incidents",
@@ -44,14 +44,14 @@
     },
     {
       "heading": "What remains unclear",
-      "text": "The date of 2 operational reports still needs checking. Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
+      "text": "The date of 3 operational reports still needs checking. Collection or source checks are incomplete for this date, so relevant reporting may still be missing."
     }
   ],
   "key_judgments": [
     "State accounts for the largest share of same-day fused event activity (1 event(s)).",
     "Mali contains the largest same-day event count (1 event(s)).",
     "1 same-day event(s) remain single-source and should be treated as provisional.",
-    "2 collected operational/candidate report(s) still use an unresolved or proxy event date and require temporal verification."
+    "3 collected operational/candidate report(s) still use an unresolved or proxy event date and require temporal verification."
   ],
   "significant_events": [
     {
@@ -91,7 +91,7 @@
   ],
   "what_changed_since_yesterday": [
     "State: +1 same-day fused event(s) versus 2026-11-25 (0 → 1).",
-    "Collection volume: -29 retained report(s) versus 2026-11-25 (43 → 14)."
+    "Collection volume: -25 retained report(s) versus 2026-11-25 (43 → 18)."
   ],
   "emerging_patterns": [
     "JNIM 7-day activity is higher than the preceding 7-day window (0 → 1).",
@@ -99,7 +99,7 @@
   ],
   "intelligence_gaps": [
     "1 same-day event(s) lack independent multi-source corroboration.",
-    "2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates.",
+    "3 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates.",
     "Collection confidence is low, so absence of reporting should not be interpreted as absence of activity."
   ],
   "actor_counts": {
@@ -113,7 +113,7 @@
     "Niger": 0
   },
   "country_reporting_counts": {
-    "Mali": 6,
+    "Mali": 9,
     "Burkina Faso": 4,
     "Niger": 3
   },
@@ -156,7 +156,7 @@
   "country_profiles": {
     "Mali": {
       "events": 1,
-      "reports_collected": 6,
+      "reports_collected": 9,
       "actor_counts": {
         "JNIM": 0,
         "IS Sahel": 0,
@@ -196,6 +196,33 @@
   "country_article_summaries": {
     "Mali": [
       {
+        "id": "1d55a817373e09ac27b278e4cc72f4e6fc03070f",
+        "source": "APAnews (FR)",
+        "title": "Mali: Foreigners accommodated or employed under the supervision of the authorities",
+        "summary": "The Malian authorities are stepping up the registration of foreign nationals present on their territory, calling on the population to report to the security forces those who are being hosted, accommodated or employed by private individuals, in a context marked by the influx of people deported from Guinea. . In a statement dated 25 November 2026, the Crisis Coordination and Management Centre (CECOGEC) calls on the public to report such situations to the nearest police station or gendarmerie brigade.",
+        "url": "https://fr.apanews.net/community/mali-les-etrangers-heberges-ou-employes-sous-surveillance-des-autorites/",
+        "candidate_event": false,
+        "event_date": "2026-11-25"
+      },
+      {
+        "id": "af595ea40591487689b754e2746f55ccc97a5c55",
+        "source": "The Defense Post Africa",
+        "title": "Sahel Insurgents Use Low-Cost Drones to Strike Military Targets: Report",
+        "summary": "Insurgents in Mali and elsewhere in the Sahel are adapting off-the-shelf drones that cost a few hundred dollars to strike military vehicles and threaten aircraft worth millions, Reuters reported. In Mali, separatists and al-Qaeda-linked militants have used commercially available drones to strike military vehicles and airfields defended by Malian troops and Russian paramilitary forces.",
+        "url": "https://thedefensepost.com/2026/11/26/sahel-insurgents-low-cost-drones/",
+        "candidate_event": false,
+        "event_date": "2026-11-26"
+      },
+      {
+        "id": "ed8065e53044f58a807db995436d2d7a753e6846",
+        "source": "France 24 Afrique (FR)",
+        "title": "Mali: JNIM jihadists order the inhabitants of Tonka to leave",
+        "summary": "A browser extension appears to be blocking the video player from loading. To watch this content, you must disable or uninstall it. Video An extension in your browser appears to be blocking the video player from loading.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-mali-les-jihadistes-du-jnim-somment-les-habitants-de-tonka-de-partir",
+        "candidate_event": false,
+        "event_date": "2026-11-26"
+      },
+      {
         "id": "93d1ae28320f15a9dc65f9616a748d2552a0dc14",
         "source": "Bamada",
         "title": "INTRUSION OF ARMED MEN INTO THE POLICE STATION IN SAN: THE ATTACKERS WERE REPULLED, ONE CAP GUARD WAS KILLED",
@@ -216,8 +243,8 @@
       {
         "id": "967c45fc966d28433c9859f383eab300dcaccd51",
         "source": "Le Figaro (Section Afrique)",
-        "title": "Au Mali, les morts discrets de l’Africa Corps",
-        "summary": "RÉCIT - Le Guardian révèle qu’au moins 349 soldats russes sont morts au cours des trois dernières années en appuyant la junte au pouvoir à Bamako. Passer la publicitéDans l’océan des pertes militaires russes, les morts tombés au Mali ne sont qu’une goutte d’eau. Près de 350 hommes ont été tués dans le désert sur les quelque 700 000 morts qu’a enregistrés l’armée russe ces dernières années.",
+        "title": "In Mali, the quiet deaths of the Africa Corps",
+        "summary": "REPORT - The Guardian reveals that at least 349 Russian soldiers have died over the past three years while supporting the junta in power in Bamako. Skip ad In the ocean of Russian military losses, the deaths in Mali are just a drop in the bucket. Nearly 350 men have been killed in the desert out of the approximately 700,000 deaths recorded by the Russian army in recent years.",
         "url": "https://www.lefigaro.fr/international/au-mali-les-morts-discrets-de-l-africa-corps-20261126",
         "candidate_event": false,
         "event_date": "2026-11-26"
@@ -225,8 +252,8 @@
       {
         "id": "ddb7f22c90cc82aef804f08b2b8a86a825967b69",
         "source": "La Nouvelle Tribune (Bénin)",
-        "title": "Mali : Assimi Goïta réunit les chefs d'état-major et fixe ses priorités militaires",
-        "summary": "Au Mali, le général d’armée Assimi Goïta a réuni mardi 24 novembre 2026, au matin, les chefs d’état-major et les responsables de services des Forces de Défense et de Sécurité (FDS). Le chef de l’État, également chef suprême des Armées, voulait faire le point sur la sécurité du territoire et sur la collaboration entre les unités. « La mobilisation et l’efficacité des Forces de Défense et de Sécurité demeurent une priorité absolue », écrit l’état-major dans son communiqué publié le lendemain.",
+        "title": "Mali: Assimi Goïta meets with the Chiefs of Staff and sets his military priorities",
+        "summary": "In Mali, Army General Assimi Goïta convened the Chiefs of Staff and the heads of departments of the Defence and Security Forces (FDS) on the morning of Tuesday, 24 November 2026. The Head of State, who is also Supreme Commander of the Armed Forces, wanted to take stock of the security situation in the country and of the collaboration between the various units.",
         "url": "https://lanouvelletribune.info/2026/11/mali-assimi-goita-reunit-les-chefs-detat-major-et-fixe-ses-priorites-militaires/",
         "candidate_event": false,
         "event_date": "2026-11-24"
@@ -234,7 +261,7 @@
       {
         "id": "bf3d2756945a0501e44513cebc56cd1a7c63faf2",
         "source": "DW Afrique (FR)",
-        "title": "Mali : le Jnim somme les habitants de Tonka de partir, en réaction à la présence de l'armée",
+        "title": "Mali: JNIM orders the inhabitants of Tonka to leave, in response to the presence of the army",
         "summary": "DW.com",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZWFlyMVNIWmpVdUJscldjN183TUE4WVMxbXZQanNjRGJfRVVIY0V6UmxIV0l3THQ5eGRNUjlxZFFLak5mWEs5VzRaWDRnUWI3Zk4zVi1BMTFfN3QyVWhobkFNNExFVDZIX1d4cEhDWl93eEHSAXNBVV95cUxOUlcxSDB1Y3kyaVF2cm02VVM2X2kxd2xDMDg4RnI1VzJXUGhzSzBTVDRjanUtQXgtUkc2NVEwbnFfV1NhRVZ6dV8waGc4Y292RGtTMXQ3eGNDbmxldTJpTTRnbUNpUkxnaFF0MjVzaHZJdkg4?oc=5",
         "candidate_event": false,
@@ -310,7 +337,7 @@
       {
         "id": "f0e0077ca8fe6e59fd66bfb70e7c339e2f71b1b8",
         "source": "AllAfrica (Édition Française)",
-        "title": "Niger: Kidnapping d'un ressortissant saoudien",
+        "title": "Niger: Kidnapping of a Saudi national",
         "summary": "allAfrica.fr",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoY3NwLWR3ZWNHMzkwRGc4UVJyQ0tWYlBac0xDNHZvTVFaWEJXYU56M1N1YUx1RXBjWXB3TV85b2FHVVNTdmhkd2c4RmR6OWRndkNfRkF4REFXSFp1a2Nj?oc=5",
         "candidate_event": false,
@@ -320,27 +347,28 @@
   },
   "collection_notes": {
     "sources_total": 184,
-    "sources_success": 158,
-    "sources_failed": 26,
-    "sources_degraded": 19,
-    "documents_discovered": 12687,
-    "documents_retained": 14,
+    "sources_success": 155,
+    "sources_failed": 29,
+    "sources_degraded": 17,
+    "documents_discovered": 12080,
+    "documents_retained": 4,
     "report_target": 100,
-    "translations_attempted": 24,
-    "translations_success": 15,
-    "translation_failures": 9,
+    "translations_attempted": 14,
+    "translations_success": 14,
+    "translation_failures": 0,
     "collection_confidence": "LOW",
     "collection_confidence_reasons": [
-      "158/184 source paths reached",
-      "26 failed source paths",
-      "19 degraded / 26 failed of 184 configured sources"
+      "155/184 source paths reached",
+      "29 failed source paths",
+      "17 degraded / 29 failed of 184 configured sources"
     ],
-    "reports_collected": 14,
-    "reports_published": 10,
-    "distinct_sources_collected": 11,
+    "reports_collected": 18,
+    "reports_published": 14,
+    "distinct_sources_collected": 14,
     "language_counts": {
-      "fr": 14
+      "fr": 17,
+      "en": 1
     }
   },
-  "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-26: Reporting dated 2026-11-26 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 6 retained reports. 1. INTRUSION OF ARMED MEN INTO THE POLICE STATION IN SAN: THE ATTACKERS WERE REPULLED, ONE CAP GUARD WAS KILLED. The town of San was the target of an attack carried out by armed men on the night of Tuesday, 24 November 2026. Several facilities were affected by the events, including the Centre (…) By Mahamane TOURE – NOUVEL HORIZON READ THE REST OF YOUR ARTICLE IN NOUVEL HORIZON OF THURSDAY, 26 NOVEMBER 2026 Follow us on Facebook, Telegram and WhatsApp to stay up to date with Malian news Follow us on Facebook, Telegram and WhatsApp WhatsApp so you don't miss any news from Mali 2. Tinzaouatène, Kidal, Niono and Sofara: The FAMa intensify strikes against armed terrorist groups. Supported by their partners, the Malian Armed Forces (FAMa) targeted both the logistical and financial networks and the armed terrorist groups involved in recent attacks, neutralising several dozen fighters and destroying significant material resources. 3. Au Mali, les morts discrets de l’Africa Corps. RÉCIT - Le Guardian révèle qu’au moins 349 soldats russes sont morts au cours des trois dernières années en appuyant la junte au pouvoir à Bamako. Passer la publicitéDans l’océan des pertes militaires russes, les morts tombés au Mali ne sont qu’une goutte d’eau. Près de 350 hommes ont été tués dans le désert sur les quelque 700 000 morts qu’a enregistrés l’armée russe ces dernières années.\n\nBurkina Faso: 4 retained reports. 1. African Tirailleur Day: A tribute to their memory and a show of solidarity. African Tirailleur Day was commemorated on Thursday, 26 November 2026, at Place de la Révolution in Ouagadougou, under the theme 'Veterans' Commitment: What Lessons Can We Learn?'. The ceremony highlighted the continuity of the patriotic struggle, with tributes to veterans, a call for discipline among the forces involved and the presentation of a financial contribution to the national effort. 2. Entre Nous: “Exploring the path to dialogue with JNIM”. On 20 November 2026, the International Crisis Group published a report entitled: \"The Battle for Cities: Countering the JNIM Threat to Sahel Urban Centres\". According to this international non-profit NGO, whose mission is to prevent and help resolve deadly conflicts through field research, analysis and political advocacy, \"the human cost of the conflict is already considerable and continues to rise\". 3. Entre Nous: “Exploring the path to dialogue with JNIM”. Entre Nous: ‘Exploring the path to dialogue with JNIM’ On 20 November 2024, the International Crisis Group published a report entitled: ‘The Battle for Cities: Countering the JNIM Threat to Sahel Urban Centres’ According to this international non-profit NGO, whose mission is to prevent and help resolve deadly conflicts through field research, analysis and political advocacy, “the human cost of the conflict is already considerable and continues to mount”.\n\nNiger: 3 retained reports. 1. Why are jihadist groups kidnapping civilians in the Sahel?. A Saudi national was reportedly kidnapped by jihadist groups last weekend. According to sources contacted by the Reuters news agency, the kidnapping reportedly took place in Niger, in the Tillabéry region, in the tri-border area. So far, there has been no comment from either country, but the kidnapping of civilians is an important source of funding for jihadist groups. 2. Insecurity: 11 soldiers killed and 22 attackers neutralised in a Boko Haram attack in Baroua (Diffa). In a statement issued on 24 November, the Ministry of Defence announced that eleven (11) Nigerien soldiers had lost their lives and several others had been injured in a terrorist attack attributed to Boko Haram in Baroua, in the Diffa region, in the far south-east of the country. According to the same source, in their response, the defence and security forces neutralised 22 attackers, and pursuit and sweep operations were immediately launched in this border area of Lake Chad. 3. Niger: Kidnapping d'un ressortissant saoudien. allAfrica.fr\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: State: +1 same-day fused event(s) versus 2026-11-25 (0 → 1). Collection volume: -29 retained report(s) versus 2026-11-25 (43 → 14).\n\nIntelligence gaps: 1 same-day event(s) lack independent multi-source corroboration. 2 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 158/184 source paths reached 26 failed source paths 19 degraded / 26 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
+  "sultana_daily_text": "Good day. This is Sultana Al-Qahtani with the Sahel Desk.\n\nDaily bottom line for 2026-11-26: Reporting dated 2026-11-26 gives the desk 1 incident account to examine in Mali. None has support from a second independent source. The record is provisional; it does not establish the full extent of violence that day.\n\nMali: 9 retained reports. 1. Mali: Foreigners accommodated or employed under the supervision of the authorities. The Malian authorities are stepping up the registration of foreign nationals present on their territory, calling on the population to report to the security forces those who are being hosted, accommodated or employed by private individuals, in a context marked by the influx of people deported from Guinea. . In a statement dated 25 November 2026, the Crisis Coordination and Management Centre (CECOGEC) calls on the public to report such situations to the nearest police station or gendarmerie brigade. 2. Sahel Insurgents Use Low-Cost Drones to Strike Military Targets: Report. Insurgents in Mali and elsewhere in the Sahel are adapting off-the-shelf drones that cost a few hundred dollars to strike military vehicles and threaten aircraft worth millions, Reuters reported. In Mali, separatists and al-Qaeda-linked militants have used commercially available drones to strike military vehicles and airfields defended by Malian troops and Russian paramilitary forces. 3. Mali: JNIM jihadists order the inhabitants of Tonka to leave. A browser extension appears to be blocking the video player from loading. To watch this content, you must disable or uninstall it. Video An extension in your browser appears to be blocking the video player from loading.\n\nBurkina Faso: 4 retained reports. 1. African Tirailleur Day: A tribute to their memory and a show of solidarity. African Tirailleur Day was commemorated on Thursday, 26 November 2026, at Place de la Révolution in Ouagadougou, under the theme 'Veterans' Commitment: What Lessons Can We Learn?'. The ceremony highlighted the continuity of the patriotic struggle, with tributes to veterans, a call for discipline among the forces involved and the presentation of a financial contribution to the national effort. 2. Entre Nous: “Exploring the path to dialogue with JNIM”. On 20 November 2026, the International Crisis Group published a report entitled: \"The Battle for Cities: Countering the JNIM Threat to Sahel Urban Centres\". According to this international non-profit NGO, whose mission is to prevent and help resolve deadly conflicts through field research, analysis and political advocacy, \"the human cost of the conflict is already considerable and continues to rise\". 3. Entre Nous: “Exploring the path to dialogue with JNIM”. Entre Nous: ‘Exploring the path to dialogue with JNIM’ On 20 November 2024, the International Crisis Group published a report entitled: ‘The Battle for Cities: Countering the JNIM Threat to Sahel Urban Centres’ According to this international non-profit NGO, whose mission is to prevent and help resolve deadly conflicts through field research, analysis and political advocacy, “the human cost of the conflict is already considerable and continues to mount”.\n\nNiger: 3 retained reports. 1. Why are jihadist groups kidnapping civilians in the Sahel?. A Saudi national was reportedly kidnapped by jihadist groups last weekend. According to sources contacted by the Reuters news agency, the kidnapping reportedly took place in Niger, in the Tillabéry region, in the tri-border area. So far, there has been no comment from either country, but the kidnapping of civilians is an important source of funding for jihadist groups. 2. Insecurity: 11 soldiers killed and 22 attackers neutralised in a Boko Haram attack in Baroua (Diffa). In a statement issued on 24 November, the Ministry of Defence announced that eleven (11) Nigerien soldiers had lost their lives and several others had been injured in a terrorist attack attributed to Boko Haram in Baroua, in the Diffa region, in the far south-east of the country. According to the same source, in their response, the defence and security forces neutralised 22 attackers, and pursuit and sweep operations were immediately launched in this border area of Lake Chad. 3. Niger: Kidnapping of a Saudi national. allAfrica.fr\n\nActor picture: JNIM 0, IS Sahel 0, State 1.\n\nWhat changed: State: +1 same-day fused event(s) versus 2026-11-25 (0 → 1). Collection volume: -25 retained report(s) versus 2026-11-25 (43 → 18).\n\nIntelligence gaps: 1 same-day event(s) lack independent multi-source corroboration. 3 newly collected operational/candidate report(s) have unresolved or publication-proxy event dates. Collection confidence is low, so absence of reporting should not be interpreted as absence of activity.\n\nCollection confidence: LOW. 155/184 source paths reached 29 failed source paths 17 degraded / 29 failed of 184 configured sources\n\nAll retained source reports, including reports not promoted to the map, remain individually summarized in the intelligence feed and source records."
 }

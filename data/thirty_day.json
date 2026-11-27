@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-11-26T14:05:30.196763Z",
+  "generated_at": "2026-11-27T00:45:31.569025Z",
   "window_days": 30,
-  "cutoff": "2026-10-27",
-  "reports": 720,
-  "incident_reports": 154,
-  "candidate_events": 102,
-  "corroborated_events": 23,
-  "mapped_events": 74,
-  "mapped_locations": 129,
-  "distinct_sources": 83,
+  "cutoff": "2026-10-28",
+  "reports": 699,
+  "incident_reports": 143,
+  "candidate_events": 94,
+  "corroborated_events": 21,
+  "mapped_events": 66,
+  "mapped_locations": 116,
+  "distinct_sources": 82,
   "by_actor": {
-    "State": 60,
-    "Other": 27,
+    "State": 59,
+    "Other": 20,
     "JNIM": 12,
     "Africa Corps/Wagner": 2,
     "IS Sahel": 1
   },
   "by_country": {
     "Mali": 72,
-    "Niger": 19,
-    "Burkina Faso": 11
+    "Niger": 12,
+    "Burkina Faso": 10
   },
   "by_event_type": {
-    "security operation": 50,
-    "attack": 13,
+    "security operation": 47,
+    "attack": 12,
     "offensive/campaign": 9,
-    "clash": 7,
     "kidnapping": 7,
-    "air/drone strike": 4,
+    "clash": 6,
     "raid": 4,
     "territorial seizure/blockade": 3,
     "IED/explosion": 2,
     "civilian targeting": 2,
+    "air/drone strike": 1,
     "ambush": 1
   },
   "by_language": {
-    "fr": 630,
-    "en": 59,
-    "ar": 31
+    "fr": 609,
+    "en": 60,
+    "ar": 30
   },
   "by_confidence": {
-    "moderate": 50,
-    "low": 47,
-    "moderate-high": 5
+    "moderate": 48,
+    "low": 42,
+    "moderate-high": 4
   },
   "top_sources": [
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 75
+      "count": 76
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 68
+      "count": 67
     },
     {
       "source_code": "SRC-0005",
@@ -68,7 +68,7 @@
     {
       "source_code": "SRC-0092",
       "source": "La Nouvelle Tribune (Bénin)",
-      "count": 34
+      "count": 32
     },
     {
       "source_code": "SRC-0001",
@@ -81,29 +81,29 @@
       "count": 27
     },
     {
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "count": 26
-    },
-    {
       "source_code": "SRC-0011",
       "source": "LeFaso.net",
       "count": 25
     },
     {
+      "source_code": "SRC-0079",
+      "source": "L'Essor",
+      "count": 25
+    },
+    {
       "source_code": "SRC-0014",
       "source": "Agence Nigérienne de Presse",
-      "count": 24
+      "count": 22
     },
     {
       "source_code": "SRC-0038",
       "source": "APAnews (FR)",
-      "count": 21
+      "count": 22
     },
     {
-      "source_code": "SRC-0015",
-      "source": "ActuNiger",
-      "count": 19
+      "source_code": "SRC-0010",
+      "source": "Burkina24",
+      "count": 18
     }
   ],
   "top_locations": [
@@ -124,14 +124,6 @@
       "count": 14
     },
     {
-      "location": "Niamey",
-      "count": 10
-    },
-    {
-      "location": "Agadez",
-      "count": 6
-    },
-    {
       "location": "Gao",
       "count": 6
     },
@@ -148,20 +140,23 @@
       "count": 5
     },
     {
-      "location": "Ouagadougou",
+      "location": "Niamey",
       "count": 4
     },
     {
       "location": "Sévaré",
       "count": 4
+    },
+    {
+      "location": "Djenné",
+      "count": 3
+    },
+    {
+      "location": "Mopti",
+      "count": 3
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-28",
-      "reports": 31,
-      "events": 3
-    },
     {
       "date": "2026-10-29",
       "reports": 21,
@@ -304,8 +299,13 @@
     },
     {
       "date": "2026-11-26",
-      "reports": 12,
+      "reports": 16,
       "events": 1
+    },
+    {
+      "date": "2026-11-27",
+      "reports": 0,
+      "events": 0
     }
   ],
   "latest_events": [
@@ -3644,6 +3644,60 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-26T22:35:01Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T00:42:46.740660Z",
+      "discovered_at": "2026-11-27T00:42:46.740660Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": null,
+      "country": null,
+      "city": null,
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "San: the police station and the CAP targeted by an attack",
+      "url": "https://bamada.net/san-le-commissariat-et-le-cap-cibles-par-une-attaque"
+    },
+    {
+      "published_at": "2026-11-26T20:01:49Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T00:42:46.137613Z",
+      "discovered_at": "2026-11-27T00:42:46.137613Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0038",
+      "source": "APAnews (FR)",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Mali: Foreigners accommodated or employed under the supervision of the authorities",
+      "url": "https://fr.apanews.net/community/mali-les-etrangers-heberges-ou-employes-sous-surveillance-des-autorites/"
+    },
+    {
+      "published_at": "2026-11-26T14:28:31Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T00:42:47.194506Z",
+      "discovered_at": "2026-11-27T00:42:47.194506Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0028",
+      "source": "The Defense Post Africa",
+      "language": "en",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Kidal",
+      "event_type": "offensive/campaign",
+      "candidate_event": false,
+      "title": "Sahel Insurgents Use Low-Cost Drones to Strike Military Targets: Report",
+      "url": "https://thedefensepost.com/2026/11/26/sahel-insurgents-low-cost-drones/"
+    },
+    {
       "published_at": "2026-11-26T13:52:16Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -3698,6 +3752,24 @@
       "url": "https://malijet.com/editorial/312982-entre-nous-explorer-la-voie-du-dialogue-avec-le-jnim.html"
     },
     {
+      "published_at": "2026-11-26T10:54:43Z",
+      "published_date_source": "jsonld:uploadDate",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-27T00:42:44.623691Z",
+      "discovered_at": "2026-11-27T00:42:44.623691Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0002",
+      "source": "France 24 Afrique (FR)",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Mali: JNIM jihadists order the inhabitants of Tonka to leave",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-mali-les-jihadistes-du-jnim-somment-les-habitants-de-tonka-de-partir"
+    },
+    {
       "published_at": "2026-11-26T10:07:54Z",
       "published_date_source": "feed",
       "published_time_precision": "datetime",
@@ -3748,7 +3820,7 @@
       "city": "Bamako",
       "event_type": null,
       "candidate_event": false,
-      "title": "Au Mali, les morts discrets de l’Africa Corps",
+      "title": "In Mali, the quiet deaths of the Africa Corps",
       "url": "https://www.lefigaro.fr/international/au-mali-les-morts-discrets-de-l-africa-corps-20261126"
     },
     {
@@ -3766,7 +3838,7 @@
       "city": "Bamako",
       "event_type": null,
       "candidate_event": false,
-      "title": "Mali : Assimi Goïta réunit les chefs d'état-major et fixe ses priorités militaires",
+      "title": "Mali: Assimi Goïta meets with the Chiefs of Staff and sets his military priorities",
       "url": "https://lanouvelletribune.info/2026/11/mali-assimi-goita-reunit-les-chefs-detat-major-et-fixe-ses-priorites-militaires/"
     },
     {
@@ -3784,7 +3856,7 @@
       "city": null,
       "event_type": "attack",
       "candidate_event": false,
-      "title": "San : le commissariat et le CAP ciblés par une attaque",
+      "title": "San: Police station and CAP targeted in an attack",
       "url": "https://www.studiotamani.org/210736-san-le-commissariat-et-le-cap-cibles-par-une-attaque"
     },
     {
@@ -3964,7 +4036,7 @@
       "city": null,
       "event_type": null,
       "candidate_event": false,
-      "title": "Mali : le Jnim somme les habitants de Tonka de partir, en réaction à la présence de l'armée",
+      "title": "Mali: JNIM orders the inhabitants of Tonka to leave, in response to the presence of the army",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZWFlyMVNIWmpVdUJscldjN183TUE4WVMxbXZQanNjRGJfRVVIY0V6UmxIV0l3THQ5eGRNUjlxZFFLak5mWEs5VzRaWDRnUWI3Zk4zVi1BMTFfN3QyVWhobkFNNExFVDZIX1d4cEhDWl93eEHSAXNBVV95cUxOUlcxSDB1Y3kyaVF2cm02VVM2X2kxd2xDMDg4RnI1VzJXUGhzSzBTVDRjanUtQXgtUkc2NVEwbnFfV1NhRVZ6dV8waGc4Y292RGtTMXQ3eGNDbmxldTJpTTRnbUNpUkxnaFF0MjVzaHZJdkg4?oc=5"
     },
     {
@@ -4000,7 +4072,7 @@
       "city": null,
       "event_type": "kidnapping",
       "candidate_event": false,
-      "title": "Niger: Kidnapping d'un ressortissant saoudien",
+      "title": "Niger: Kidnapping of a Saudi national",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoY3NwLWR3ZWNHMzkwRGc4UVJyQ0tWYlBac0xDNHZvTVFaWEJXYU56M1N1YUx1RXBjWXB3TV85b2FHVVNTdmhkd2c4RmR6OWRndkNfRkF4REFXSFp1a2Nj?oc=5"
     },
     {
@@ -4036,7 +4108,7 @@
       "city": "Timbuktu",
       "event_type": null,
       "candidate_event": false,
-      "title": "Mali : à Tonka, dans la région de Tombouctou, le JNIM somme les habitants de partir avant vendredi",
+      "title": "Mali: In Tonka, Timbuktu Region, JNIM orders residents to leave before Friday",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWjlsU0ZJRVQxNVVNMUVWakwyVXhFdmwzOWRXV0U4eklzZnBEd2ozZWhwbnlKbUg2dHhfUDA1M0REQ1NKRWFFQThEU203SjU2Y3FHcFZOZ1VuZXNRdWpDZzVFaFBHQUg4dzI1U2dZeU9HN01UYV9ydU1mczBZX0ZGNjB4SzFBVGFmSGZ4WlpnSXhuRV8yU2pNUFBpR2cxc3ZQQ1lBRkdjTHNLdzhvLTlDNEdOalpjM1lPWS1vWkNBN09qVm5SU2I3YjdQcC0ySk1YZ0lZVXRHSlI?oc=5"
     },
     {
@@ -4072,7 +4144,7 @@
       "city": null,
       "event_type": null,
       "candidate_event": false,
-      "title": "Pertes russes au Mali : la fuite de données qui trahit les fragilités de Moscou au Sahel",
+      "title": "Russian losses in Mali: the data leak that reveals Moscow's vulnerabilities in the Sahel",
       "url": "https://www.jeuneafrique.com/1865085/politique/pertes-russes-au-mali-la-fuite-de-donnees-qui-trahit-les-fragilites-de-moscou-au-sahel/"
     },
     {
@@ -4105,10 +4177,10 @@
       "language": "ar",
       "actor": "State",
       "country": "Mali",
-      "city": null,
+      "city": "Kidal",
       "event_type": "clash",
       "candidate_event": false,
-      "title": "جبهة أزواد تبدأ استعدادات لإطلاق مواجهة محتملة مع الجيش المالي",
+      "title": "The Azawad Front begins preparations for a potential confrontation with the Malian army.",
       "url": "https://www.alaraby.co.uk/politics/%D8%AC%D8%A8%D9%87%D8%A9-%D8%A3%D8%B2%D9%88%D8%A7%D8%AF-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%85%D8%AD%D8%AA%D9%85%D9%84%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A"
     },
     {
@@ -4288,80 +4360,8 @@
       "city": null,
       "event_type": "air/drone strike",
       "candidate_event": false,
-      "title": "الطوراق استعملوها ضد الروس على حدود مالي مع الجزائر… مسيرات رخيصة تغير قواعد القتال لصالح المتمردين في أفريقيا منذ 3 ساعات",
+      "title": "The Tuaregs used them against the Russians on the border between Mali and Algeria… Cheap drones have changed the rules of combat in favour of the rebels in Africa 3 hours ago",
       "url": "https://www.alquds.co.uk/%d8%a7%d9%84%d8%b7%d9%88%d8%b1%d8%a7%d9%82-%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d9%84%d9%88%d9%87%d8%a7-%d8%b6%d8%af-%d8%a7%d9%84%d8%b1%d9%88%d8%b3-%d8%b9%d9%84%d9%89-%d8%ad%d8%af%d9%88%d8%af-%d8%a7/"
-    },
-    {
-      "published_at": "2026-11-25T11:19:50Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:43.914388Z",
-      "discovered_at": "2026-11-25T14:34:43.914388Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0014",
-      "source": "Agence Nigérienne de Presse",
-      "language": "fr",
-      "actor": null,
-      "country": "Niger",
-      "city": "Agadez",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Agadez: The Governor chairs a regular meeting of the Regional Security Council (RSC)",
-      "url": "https://anp.ne/agadez-le-gouverneur-preside-une-reunion-ordinaire-du-conseil-regional-de-securite-crs-4/"
-    },
-    {
-      "published_at": "2026-11-25T11:15:13Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:40.287708Z",
-      "discovered_at": "2026-11-25T14:34:40.287708Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "Other",
-      "country": "Mali",
-      "city": "Niono",
-      "event_type": "attack",
-      "candidate_event": true,
-      "title": "Attack in Niono: FAMa are tracking down the attackers, with around ten terrorists neutralised",
-      "url": "https://malijet.com/actualte_dans_les_regions_du_mali/312971-attaque-de-niono-les-fama-traquent-les-assaillants-une-di.html"
-    },
-    {
-      "published_at": "2026-11-25T11:05:42Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:52.580955Z",
-      "discovered_at": "2026-11-25T14:34:52.580955Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0062",
-      "source": "Al Mayadeen Arabic",
-      "language": "ar",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": null,
-      "event_type": "territorial seizure/blockade",
-      "candidate_event": false,
-      "title": "Mali: \"Support for Islam and Muslims\" gives Tonka residents two days to leave and threatens to impose a siege",
-      "url": "https://www.almayadeen.net/news/politics/%D9%85%D8%A7%D9%84%D9%8A-%D9%86%D8%B5%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86-%D8%AA%D9%85%D9%87%D9%84-%D8%B3%D9%83%D8%A7%D9%86-%D8%AA%D9%88%D9%86%D9%83%D8%A7-%D9%8A%D9%88%D9%85%D9%8A%D9%86-%D9%84%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D9%88"
-    },
-    {
-      "published_at": "2026-11-25T11:03:24Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-25T14:34:40.171705Z",
-      "discovered_at": "2026-11-25T14:34:40.171705Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Niono",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Operation Dougoukoloko: The FAMa neutralise...",
-      "url": "https://www.maliweb.net/insecurite/operation-dougoukoloko-les-fama-neutralisent-plusieurs-terroristes-et-3121886.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
