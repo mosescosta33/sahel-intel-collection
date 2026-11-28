@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:03:01.930918Z",
+  "generated_at": "2026-11-28T00:12:48.060388Z",
   "model_version": "0.1-experimental",
   "label": "Experimental Conflict Threat Level",
   "regional": {
@@ -13,14 +13,14 @@
       "trend": "STABLE",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
-      "events_7d": 20,
-      "events_30d": 72,
-      "baseline_7d_equivalent": 15.8,
-      "tempo_ratio": 1.25,
+      "events_7d": 16,
+      "events_30d": 71,
+      "baseline_7d_equivalent": 16.7,
+      "tempo_ratio": 0.96,
       "drivers": [
-        "20 fused candidate event(s) in 7 days",
+        "16 fused candidate event(s) in 7 days",
         "4 JNIM/IS Sahel-linked event(s)",
-        "17 significant/major event(s)",
+        "13 significant/major event(s)",
         "1 civilian-threat indicator(s)",
         "activity across 7 named locations"
       ],
@@ -33,32 +33,31 @@
       "confidence": "LOW",
       "assessment_status": "INSUFFICIENT_DATA",
       "events_7d": 0,
-      "events_30d": 10,
-      "baseline_7d_equivalent": 3.0,
-      "tempo_ratio": 0.25,
+      "events_30d": 8,
+      "baseline_7d_equivalent": 2.4,
+      "tempo_ratio": 0.29,
       "drivers": [
         "insufficient fused-event evidence for a current 7-day threat classification"
       ],
       "independent_domains_7d": 0
     },
     "Niger": {
-      "score": 68,
-      "level": "HIGH",
+      "score": 60,
+      "level": "MEDIUM",
       "trend": "DETERIORATING",
       "confidence": "HIGH",
       "assessment_status": "ASSESSED",
       "events_7d": 6,
-      "events_30d": 16,
-      "baseline_7d_equivalent": 3.0,
-      "tempo_ratio": 1.73,
+      "events_30d": 17,
+      "baseline_7d_equivalent": 3.3,
+      "tempo_ratio": 1.61,
       "drivers": [
         "6 fused candidate event(s) in 7 days",
-        "1 JNIM/IS Sahel-linked event(s)",
-        "4 significant/major event(s)",
-        "activity across 4 named locations",
+        "3 significant/major event(s)",
+        "activity across 3 named locations",
         "7-day tempo above recent country baseline"
       ],
-      "independent_domains_7d": 6
+      "independent_domains_7d": 7
     }
   },
   "method_note": "Experimental research indicator derived from fused candidate events, recent country-relative tempo, significance, militant activity, civilian-threat signals, geographic spread and corroboration. It is not a travel advisory, verified incident count, or forecast. Collection gaps reduce confidence rather than automatically reducing threat."

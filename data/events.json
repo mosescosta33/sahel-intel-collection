@@ -1,5 +1,131 @@
 [
   {
+    "id": "9b00ee95c0bc7e21484523be23795206ba2d0a1a",
+    "event_date": "2026-11-27",
+    "event_date_confidence": "publication-proxy",
+    "event_date_source": "jsonld:datePublished",
+    "published_at": "2026-11-27T08:19:50Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-27T14:00:08.942261Z",
+    "actor": "JNIM",
+    "perpetrator": "JNIM",
+    "target": "Africa Corps/Wagner",
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "Africa Corps/Wagner",
+      "JNIM",
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "territorial seizure/blockade",
+    "country": "Mali",
+    "city": "Timbuktu",
+    "lat": 16.7666,
+    "lng": -3.0026,
+    "locations": [
+      {
+        "name": "Timbuktu",
+        "country": "Mali",
+        "lat": 16.7666,
+        "lng": -3.0026,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to blockade Tonka",
+    "summary": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to impose a blockade on Tonka In northern Mali, the jihadist group JNIM is threatening to impose a blockade on the trading town of Tonka. This show of force comes a month after the arrival of the Malian army and its Russian allies from Africa Corps. .",
+    "sources": [
+      "Jeune Afrique",
+      "France 24 Afrique (FR)"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 2,
+    "report_urls": [
+      "https://www.jeuneafrique.com/1866054/politique/mali-apres-larrivee-de-larmee-et-dafrica-corps-le-jnim-menace-tonka-de-blocus/",
+      "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261127-mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.jeuneafrique.com/1866054/politique/mali-apres-larrivee-de-larmee-et-dafrica-corps-le-jnim-menace-tonka-de-blocus/",
+        "source": "Jeune Afrique",
+        "title": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to blockade Tonka",
+        "summary": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to impose a blockade on Tonka In northern Mali, the jihadist group JNIM is threatening to impose a blockade on the trading town of Tonka. This show of force comes a month after the arrival of the Malian army and its Russian allies from Africa Corps. .",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
+      {
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261127-mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka",
+        "source": "France 24 Afrique (FR)",
+        "title": "Mali: JNIM jihadists impose a blockade on the town of Tonka",
+        "summary": "To view this YouTube content, you must enable audience measurement and advertising cookies. An extension in your browser appears to be blocking the video player from loading. To view this content, you must disable or uninstall it.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-27T14:00:08.942261Z",
+    "updated_at": "2026-11-28T00:10:01.951173Z",
+    "extraction_confidence": "moderate",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-27T14:00:08.942261Z",
+        "type": "event_created",
+        "source": "Jeune Afrique"
+      },
+      {
+        "at": "2026-11-28T00:10:01.951173Z",
+        "type": "corroboration_or_geography_update",
+        "source": "France 24 Afrique (FR)"
+      }
+    ],
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
+    "independent_source_domains": [
+      "jeuneafrique.com",
+      "france24.com"
+    ],
+    "independent_source_count": 2,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern"
+    ]
+  },
+  {
     "id": "a976f45aca309e0a4d1c618dcfbfa7e6d2b3f2b7",
     "event_date": "2026-11-27",
     "event_date_confidence": "explicit-text",
@@ -100,82 +226,91 @@
     ]
   },
   {
-    "id": "9b00ee95c0bc7e21484523be23795206ba2d0a1a",
-    "event_date": "2026-11-27",
-    "event_date_confidence": "publication-proxy",
-    "event_date_source": "jsonld:datePublished",
-    "published_at": "2026-11-27T08:19:50Z",
+    "id": "d112ed77a6b9b00c78cbe4bafd02ecaf728a2c6b",
+    "event_date": "2026-11-26",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "relative-weekday",
+    "published_at": "2026-11-27T23:25:10Z",
     "published_date_source": "jsonld:datePublished",
     "published_time_precision": "datetime",
-    "collected_at": "2026-11-27T14:00:08.942261Z",
-    "actor": "JNIM",
-    "perpetrator": "JNIM",
-    "target": "Africa Corps/Wagner",
+    "collected_at": "2026-11-28T00:10:14.577179Z",
+    "actor": "State",
+    "perpetrator": null,
+    "target": null,
     "claimant": null,
     "supporting_force": null,
-    "mentioned_actors": [
-      "Africa Corps/Wagner",
-      "JNIM",
-      "State"
-    ],
+    "mentioned_actors": [],
     "parent_report_id": null,
-    "event_type": "territorial seizure/blockade",
-    "country": "Mali",
-    "city": "Timbuktu",
-    "lat": 16.7666,
-    "lng": -3.0026,
-    "locations": [
-      {
-        "name": "Timbuktu",
-        "country": "Mali",
-        "lat": 16.7666,
-        "lng": -3.0026,
-        "confidence": "explicit-place"
-      }
-    ],
-    "title": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to blockade Tonka",
-    "summary": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to impose a blockade on Tonka In northern Mali, the jihadist group JNIM is threatening to impose a blockade on the trading town of Tonka. This show of force comes a month after the arrival of the Malian army and its Russian allies from Africa Corps. .",
+    "event_type": "attack",
+    "country": "Niger",
+    "city": null,
+    "lat": null,
+    "lng": null,
+    "locations": [],
+    "title": "13 killed and 20 injured... An ISIS attack exacerbates the losses of the Nigerien army",
+    "summary": "In a new blow to the Nigerien army, 13 soldiers were killed and 20 others were injured in an ISIS attack targeting a National Guard post in the southwest of the country. On Friday, Niger's Ministry of Defence stated that 13 soldiers were killed and 20 others were injured in an attack targeting a National Guard post in the southwest of the country on Thursday.",
     "sources": [
-      "Jeune Afrique"
+      "Al-Ain Arabic"
     ],
     "languages": [
-      "fr"
+      "ar"
     ],
     "source_count": 1,
     "report_urls": [
-      "https://www.jeuneafrique.com/1866054/politique/mali-apres-larrivee-de-larmee-et-dafrica-corps-le-jnim-menace-tonka-de-blocus/"
+      "https://al-ain.com/article/niger-isis-the-rule-army"
     ],
     "report_summaries": [
       {
-        "url": "https://www.jeuneafrique.com/1866054/politique/mali-apres-larrivee-de-larmee-et-dafrica-corps-le-jnim-menace-tonka-de-blocus/",
-        "source": "Jeune Afrique",
-        "title": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to blockade Tonka",
-        "summary": "Mali: Following the arrival of the army and Africa Corps, JNIM threatens to impose a blockade on Tonka In northern Mali, the jihadist group JNIM is threatening to impose a blockade on the trading town of Tonka. This show of force comes a month after the arrival of the Malian army and its Russian allies from Africa Corps. .",
+        "url": "https://al-ain.com/article/niger-isis-the-rule-army",
+        "source": "Al-Ain Arabic",
+        "title": "13 killed and 20 injured... An ISIS attack exacerbates the losses of the Nigerien army",
+        "summary": "In a new blow to the Nigerien army, 13 soldiers were killed and 20 others were injured in an ISIS attack targeting a National Guard post in the southwest of the country. On Friday, Niger's Ministry of Defence stated that 13 soldiers were killed and 20 others were injured in an attack targeting a National Guard post in the southwest of the country on Thursday.",
         "summary_basis": "translated-excerpt",
-        "fatalities_min": null,
-        "fatalities_max": null,
+        "fatalities_min": 13,
+        "fatalities_max": 13,
         "injured_min": null,
         "injured_max": null,
         "abducted_min": null,
         "abducted_max": null,
         "victim_categories": [
+          "security_force",
           "armed_group"
         ],
         "civilian_targeting_flag": false,
-        "casualty_claims": []
+        "casualty_claims": [
+          {
+            "kind": "fatalities",
+            "count": 13,
+            "victim_text": "soldiers",
+            "claimant": "state/official source",
+            "status": "reported",
+            "evidence": "d... An ISIS attack exacerbates the losses of the Nigerien army In a new blow to the Nigerien army, 13 soldiers were killed and 20 others were injured in an ISIS attack targeting a National Guard post in the southwest of th"
+          }
+        ]
       }
     ],
-    "created_at": "2026-11-27T14:00:08.942261Z",
-    "updated_at": "2026-11-27T14:00:08.942261Z",
-    "extraction_confidence": "moderate",
+    "created_at": "2026-11-28T00:10:14.577179Z",
+    "updated_at": "2026-11-28T00:10:14.577179Z",
+    "extraction_confidence": "low",
     "victim_categories": [
+      "security_force",
       "armed_group"
     ],
     "civilian_targeting_flag": false,
-    "casualty_claims": [],
-    "fatalities_min": null,
-    "fatalities_max": null,
-    "fatalities_best": null,
+    "casualty_claims": [
+      {
+        "kind": "fatalities",
+        "count": 13,
+        "victim_text": "soldiers",
+        "claimant": "state/official source",
+        "status": "reported",
+        "evidence": "d... An ISIS attack exacerbates the losses of the Nigerien army In a new blow to the Nigerien army, 13 soldiers were killed and 20 others were injured in an ISIS attack targeting a National Guard post in the southwest of th",
+        "source": "Al-Ain Arabic"
+      }
+    ],
+    "fatalities_min": 13,
+    "fatalities_max": 13,
+    "fatalities_best": 13,
     "injured_min": null,
     "injured_max": null,
     "abducted_min": null,
@@ -183,20 +318,219 @@
     "casualty_disputed": false,
     "revision_history": [
       {
-        "at": "2026-11-27T14:00:08.942261Z",
+        "at": "2026-11-28T00:10:14.577179Z",
         "type": "event_created",
-        "source": "Jeune Afrique"
+        "source": "Al-Ain Arabic"
       }
     ],
     "corroboration": "single-source",
-    "confidence": "moderate",
+    "confidence": "low",
     "independent_source_domains": [
-      "jeuneafrique.com"
+      "al-ain.com"
     ],
     "independent_source_count": 1,
+    "significance": "ROUTINE",
+    "significance_reasons": [
+      "limited currently observed significance"
+    ]
+  },
+  {
+    "id": "1739e1c9b88712558a2405e66c31ab13d2e989c9",
+    "event_date": "2026-11-26",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-date-no-year",
+    "published_at": "2026-11-27T01:14:53Z",
+    "published_date_source": "jsonld:dateCreated",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-27T14:00:09.710785Z",
+    "actor": "Other",
+    "perpetrator": null,
+    "target": "State",
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "attack",
+    "country": "Niger",
+    "city": "Tillabéri",
+    "lat": 14.2071,
+    "lng": 1.4542,
+    "locations": [
+      {
+        "name": "Tillabéri",
+        "country": "Niger",
+        "lat": 14.2071,
+        "lng": 1.4542,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Niamey",
+        "country": "Niger",
+        "lat": 13.5116,
+        "lng": 2.1254,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri)",
+    "summary": "On Thursday, 26 November 2020, the Niger National Guard (GNN) position in Sanam, in the department of Abala (Tillabéri region), was the target of a terrorist attack carried out by \"numerous heavily armed attackers\", the Ministry of National Defence announced in a statement issued in the evening. According to the same source, the provisional toll stands at 13 soldiers killed and 20 injured, including several serious cases who were evacuated for medical treatment.",
+    "sources": [
+      "ActuNiger",
+      "Agence Nigérienne de Presse",
+      "Seneweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 3,
+    "report_urls": [
+      "https://www.actuniger.com/societe/niger-13-soldats-tues-dans-une-nouvelle-attaque-terroriste-a-sanam-tillaberi.html",
+      "https://anp.ne/sanam-tillaberi-une-attaque-terroriste-contre-la-garde-nationale-fait-13-morts-et-plusieurs-assaillants-neutralises/",
+      "https://www.seneweb.com/fr/news/Afrique/niger-13-soldats-de-la-garde-nationale-tues-dans-une-attaque-terroriste-a-sanam-tillaberi_n_999004835.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.actuniger.com/societe/niger-13-soldats-tues-dans-une-nouvelle-attaque-terroriste-a-sanam-tillaberi.html",
+        "source": "ActuNiger",
+        "title": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri)",
+        "summary": "On Thursday, 26 November 2020, the Niger National Guard (GNN) position in Sanam, in the department of Abala (Tillabéri region), was the target of a terrorist attack carried out by \"numerous heavily armed attackers\", the Ministry of National Defence announced in a statement issued in the evening. According to the same source, the provisional toll stands at 13 soldiers killed and 20 injured, including several serious cases who were evacuated for medical treatment.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": 13,
+        "fatalities_max": 13,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": [
+          {
+            "kind": "fatalities",
+            "count": 13,
+            "victim_text": "soldiers",
+            "claimant": "ActuNiger",
+            "status": "reported",
+            "evidence": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri) On Thursday, 26 November 2020, the Niger National Gu"
+          }
+        ]
+      },
+      {
+        "url": "https://anp.ne/sanam-tillaberi-une-attaque-terroriste-contre-la-garde-nationale-fait-13-morts-et-plusieurs-assaillants-neutralises/",
+        "source": "Agence Nigérienne de Presse",
+        "title": "Sanam (Tillabéri): A terrorist attack on the National Guard leaves 13 dead and several attackers neutralised",
+        "summary": "Niamey, 26 November (ANP) – The Niger National Guard (GNN) post in Sanam, in the department of Abala (Tillabéri), was the target on Thursday, 26 November 2020, of a terrorist attack carried out by numerous heavily armed assailants, according to a statement from the Ministry of National Defence published on Thursday evening. This attack resulted in heavy casualties among the ranks of the Defence and Security Forces (DSF).",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": 13,
+        "fatalities_max": 13,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": [
+          {
+            "kind": "fatalities",
+            "count": 13,
+            "victim_text": "soldiers",
+            "claimant": "Agence Nigérienne de Presse",
+            "status": "reported",
+            "evidence": "casualties among the ranks of the Defence and Security Forces (DSF). The provisional toll stands at 13 soldiers killed and 20 others injured, several of them seriously, according to the same source. The injured were ev"
+          }
+        ]
+      },
+      {
+        "url": "https://www.seneweb.com/fr/news/Afrique/niger-13-soldats-de-la-garde-nationale-tues-dans-une-attaque-terroriste-a-sanam-tillaberi_n_999004835.html",
+        "source": "Seneweb",
+        "title": "Niger: 13 National Guard soldiers killed in a terrorist attack in Sanam (Tillabéri)",
+        "summary": "Niger : 13 soldats de la Garde nationale tués dans une attaque terroriste à Sanam (Tillaberi) Au Niger, les terroristes ont attaqué hier jeudi 26 novembre, une position de la Garde nationale à Sanam, une localité du département d’Abala dans le Tillaberi. Selon un communiqué du ministère nigérien de la Défense nationale, l’agression a été menée par plusieurs assaillants lourdement armés.",
+        "summary_basis": "source-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force",
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-27T14:00:09.710785Z",
+    "updated_at": "2026-11-28T00:10:02.161488Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "security_force",
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [
+      {
+        "kind": "fatalities",
+        "count": 13,
+        "victim_text": "soldiers",
+        "claimant": "ActuNiger",
+        "status": "reported",
+        "evidence": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri) On Thursday, 26 November 2020, the Niger National Gu",
+        "source": "ActuNiger"
+      },
+      {
+        "kind": "fatalities",
+        "count": 13,
+        "victim_text": "soldiers",
+        "claimant": "Agence Nigérienne de Presse",
+        "status": "reported",
+        "evidence": "casualties among the ranks of the Defence and Security Forces (DSF). The provisional toll stands at 13 soldiers killed and 20 others injured, several of them seriously, according to the same source. The injured were ev",
+        "source": "Agence Nigérienne de Presse"
+      }
+    ],
+    "fatalities_min": 13,
+    "fatalities_max": 13,
+    "fatalities_best": 13,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-27T14:00:09.710785Z",
+        "type": "event_created",
+        "source": "ActuNiger"
+      },
+      {
+        "at": "2026-11-27T14:00:11.340542Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Agence Nigérienne de Presse"
+      },
+      {
+        "at": "2026-11-28T00:10:02.161488Z",
+        "type": "corroboration_or_geography_update",
+        "source": "Seneweb"
+      }
+    ],
+    "corroboration": "multi-source",
+    "confidence": "moderate-high",
+    "independent_source_domains": [
+      "actuniger.com",
+      "anp.ne",
+      "seneweb.com"
+    ],
+    "independent_source_count": 3,
     "significance": "MAJOR",
     "significance_reasons": [
-      "strategic/severe event pattern"
+      "multi-source corroboration",
+      "multi-location activity"
     ]
   },
   {
@@ -287,177 +621,6 @@
     "significance": "SIGNIFICANT",
     "significance_reasons": [
       "operational security event"
-    ]
-  },
-  {
-    "id": "1739e1c9b88712558a2405e66c31ab13d2e989c9",
-    "event_date": "2026-11-26",
-    "event_date_confidence": "explicit-text",
-    "event_date_source": "explicit-date-no-year",
-    "published_at": "2026-11-27T01:14:53Z",
-    "published_date_source": "jsonld:dateCreated",
-    "published_time_precision": "datetime",
-    "collected_at": "2026-11-27T14:00:09.710785Z",
-    "actor": "Other",
-    "perpetrator": null,
-    "target": "State",
-    "claimant": null,
-    "supporting_force": null,
-    "mentioned_actors": [
-      "State"
-    ],
-    "parent_report_id": null,
-    "event_type": "attack",
-    "country": "Niger",
-    "city": "Tillabéri",
-    "lat": 14.2071,
-    "lng": 1.4542,
-    "locations": [
-      {
-        "name": "Tillabéri",
-        "country": "Niger",
-        "lat": 14.2071,
-        "lng": 1.4542,
-        "confidence": "explicit-place"
-      },
-      {
-        "name": "Niamey",
-        "country": "Niger",
-        "lat": 13.5116,
-        "lng": 2.1254,
-        "confidence": "explicit-place"
-      }
-    ],
-    "title": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri)",
-    "summary": "On Thursday, 26 November 2020, the Niger National Guard (GNN) position in Sanam, in the department of Abala (Tillabéri region), was the target of a terrorist attack carried out by \"numerous heavily armed attackers\", the Ministry of National Defence announced in a statement issued in the evening. According to the same source, the provisional toll stands at 13 soldiers killed and 20 injured, including several serious cases who were evacuated for medical treatment.",
-    "sources": [
-      "ActuNiger",
-      "Agence Nigérienne de Presse"
-    ],
-    "languages": [
-      "fr"
-    ],
-    "source_count": 2,
-    "report_urls": [
-      "https://www.actuniger.com/societe/niger-13-soldats-tues-dans-une-nouvelle-attaque-terroriste-a-sanam-tillaberi.html",
-      "https://anp.ne/sanam-tillaberi-une-attaque-terroriste-contre-la-garde-nationale-fait-13-morts-et-plusieurs-assaillants-neutralises/"
-    ],
-    "report_summaries": [
-      {
-        "url": "https://www.actuniger.com/societe/niger-13-soldats-tues-dans-une-nouvelle-attaque-terroriste-a-sanam-tillaberi.html",
-        "source": "ActuNiger",
-        "title": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri)",
-        "summary": "On Thursday, 26 November 2020, the Niger National Guard (GNN) position in Sanam, in the department of Abala (Tillabéri region), was the target of a terrorist attack carried out by \"numerous heavily armed attackers\", the Ministry of National Defence announced in a statement issued in the evening. According to the same source, the provisional toll stands at 13 soldiers killed and 20 injured, including several serious cases who were evacuated for medical treatment.",
-        "summary_basis": "translated-excerpt",
-        "fatalities_min": 13,
-        "fatalities_max": 13,
-        "injured_min": null,
-        "injured_max": null,
-        "abducted_min": null,
-        "abducted_max": null,
-        "victim_categories": [
-          "security_force",
-          "armed_group"
-        ],
-        "civilian_targeting_flag": false,
-        "casualty_claims": [
-          {
-            "kind": "fatalities",
-            "count": 13,
-            "victim_text": "soldiers",
-            "claimant": "ActuNiger",
-            "status": "reported",
-            "evidence": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri) On Thursday, 26 November 2020, the Niger National Gu"
-          }
-        ]
-      },
-      {
-        "url": "https://anp.ne/sanam-tillaberi-une-attaque-terroriste-contre-la-garde-nationale-fait-13-morts-et-plusieurs-assaillants-neutralises/",
-        "source": "Agence Nigérienne de Presse",
-        "title": "Sanam (Tillabéri): A terrorist attack on the National Guard leaves 13 dead and several attackers neutralised",
-        "summary": "Niamey, 26 November (ANP) – The Niger National Guard (GNN) post in Sanam, in the department of Abala (Tillabéri), was the target on Thursday, 26 November 2020, of a terrorist attack carried out by numerous heavily armed assailants, according to a statement from the Ministry of National Defence published on Thursday evening. This attack resulted in heavy casualties among the ranks of the Defence and Security Forces (DSF).",
-        "summary_basis": "translated-excerpt",
-        "fatalities_min": 13,
-        "fatalities_max": 13,
-        "injured_min": null,
-        "injured_max": null,
-        "abducted_min": null,
-        "abducted_max": null,
-        "victim_categories": [
-          "security_force",
-          "armed_group"
-        ],
-        "civilian_targeting_flag": false,
-        "casualty_claims": [
-          {
-            "kind": "fatalities",
-            "count": 13,
-            "victim_text": "soldiers",
-            "claimant": "Agence Nigérienne de Presse",
-            "status": "reported",
-            "evidence": "casualties among the ranks of the Defence and Security Forces (DSF). The provisional toll stands at 13 soldiers killed and 20 others injured, several of them seriously, according to the same source. The injured were ev"
-          }
-        ]
-      }
-    ],
-    "created_at": "2026-11-27T14:00:09.710785Z",
-    "updated_at": "2026-11-27T14:00:11.340542Z",
-    "extraction_confidence": "low",
-    "victim_categories": [
-      "security_force",
-      "armed_group"
-    ],
-    "civilian_targeting_flag": false,
-    "casualty_claims": [
-      {
-        "kind": "fatalities",
-        "count": 13,
-        "victim_text": "soldiers",
-        "claimant": "ActuNiger",
-        "status": "reported",
-        "evidence": "Niger: 13 soldiers killed in a new terrorist attack in Sanam (Tillabéri) On Thursday, 26 November 2020, the Niger National Gu",
-        "source": "ActuNiger"
-      },
-      {
-        "kind": "fatalities",
-        "count": 13,
-        "victim_text": "soldiers",
-        "claimant": "Agence Nigérienne de Presse",
-        "status": "reported",
-        "evidence": "casualties among the ranks of the Defence and Security Forces (DSF). The provisional toll stands at 13 soldiers killed and 20 others injured, several of them seriously, according to the same source. The injured were ev",
-        "source": "Agence Nigérienne de Presse"
-      }
-    ],
-    "fatalities_min": 13,
-    "fatalities_max": 13,
-    "fatalities_best": 13,
-    "injured_min": null,
-    "injured_max": null,
-    "abducted_min": null,
-    "abducted_max": null,
-    "casualty_disputed": false,
-    "revision_history": [
-      {
-        "at": "2026-11-27T14:00:09.710785Z",
-        "type": "event_created",
-        "source": "ActuNiger"
-      },
-      {
-        "at": "2026-11-27T14:00:11.340542Z",
-        "type": "corroboration_or_geography_update",
-        "source": "Agence Nigérienne de Presse"
-      }
-    ],
-    "corroboration": "limited corroboration",
-    "confidence": "moderate",
-    "independent_source_domains": [
-      "actuniger.com",
-      "anp.ne"
-    ],
-    "independent_source_count": 2,
-    "significance": "MAJOR",
-    "significance_reasons": [
-      "multi-location activity"
     ]
   },
   {
@@ -2249,6 +2412,119 @@
     "independent_source_count": 1,
     "significance": "MAJOR",
     "significance_reasons": [
+      "multi-location activity"
+    ]
+  },
+  {
+    "id": "d77e21119556bf4bc7033a93177ef1cf82f7c4f4",
+    "event_date": "2026-11-21",
+    "event_date_confidence": "explicit-text",
+    "event_date_source": "explicit-calendar-date",
+    "published_at": "2026-11-23T07:26:43Z",
+    "published_date_source": "jsonld:datePublished",
+    "published_time_precision": "datetime",
+    "collected_at": "2026-11-28T00:10:06.860756Z",
+    "actor": "State",
+    "perpetrator": "State",
+    "target": null,
+    "claimant": null,
+    "supporting_force": null,
+    "mentioned_actors": [
+      "State"
+    ],
+    "parent_report_id": null,
+    "event_type": "offensive/campaign",
+    "country": "Mali",
+    "city": "Niono",
+    "lat": 14.25,
+    "lng": -5.9833,
+    "locations": [
+      {
+        "name": "Niono",
+        "country": "Mali",
+        "lat": 14.25,
+        "lng": -5.9833,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Ségou",
+        "country": "Mali",
+        "lat": 13.4317,
+        "lng": -6.2157,
+        "confidence": "explicit-place"
+      },
+      {
+        "name": "Kidal",
+        "country": "Mali",
+        "lat": 18.4411,
+        "lng": 1.4078,
+        "confidence": "explicit-place"
+      }
+    ],
+    "title": "Securing the national territory: Terrorists defeated in Niono",
+    "summary": "The FAMa security update as of 21 November 2026 reports on security operations carried out in the centre of the country, in the Ségou region, on Saturday at dawn. An offensive that clearly demonstrates the operational responsiveness of the Malian Armed Forces (FAMa) . As part of the offensive drive of Operation Dougoukoloko, the manoeuvres carried out between 18 and 21 November 2026 targeted suspicious movements of armed individuals in the Kidal and Niono sectors.",
+    "sources": [
+      "Maliweb"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "source_count": 1,
+    "report_urls": [
+      "https://www.maliweb.net/insecurite/securisation-du-territoire-national-des-terroristes-terrasses-a-niono-3121797.html"
+    ],
+    "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/securisation-du-territoire-national-des-terroristes-terrasses-a-niono-3121797.html",
+        "source": "Maliweb",
+        "title": "Securing the national territory: Terrorists defeated in Niono",
+        "summary": "The FAMa security update as of 21 November 2026 reports on security operations carried out in the centre of the country, in the Ségou region, on Saturday at dawn. An offensive that clearly demonstrates the operational responsiveness of the Malian Armed Forces (FAMa) . As part of the offensive drive of Operation Dougoukoloko, the manoeuvres carried out between 18 and 21 November 2026 targeted suspicious movements of armed individuals in the Kidal and Niono sectors.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "armed_group"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      }
+    ],
+    "created_at": "2026-11-28T00:10:06.860756Z",
+    "updated_at": "2026-11-28T00:10:06.860756Z",
+    "extraction_confidence": "low",
+    "victim_categories": [
+      "armed_group"
+    ],
+    "civilian_targeting_flag": false,
+    "casualty_claims": [],
+    "fatalities_min": null,
+    "fatalities_max": null,
+    "fatalities_best": null,
+    "injured_min": null,
+    "injured_max": null,
+    "abducted_min": null,
+    "abducted_max": null,
+    "casualty_disputed": false,
+    "revision_history": [
+      {
+        "at": "2026-11-28T00:10:06.860756Z",
+        "type": "event_created",
+        "source": "Maliweb"
+      }
+    ],
+    "corroboration": "single-source",
+    "confidence": "low",
+    "independent_source_domains": [
+      "maliweb.net"
+    ],
+    "independent_source_count": 1,
+    "significance": "MAJOR",
+    "significance_reasons": [
+      "strategic/severe event pattern",
       "multi-location activity"
     ]
   },
