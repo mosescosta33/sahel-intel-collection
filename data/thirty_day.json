@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-28T00:12:47.763020Z",
+  "generated_at": "2026-11-28T08:03:46.551516Z",
   "window_days": 30,
   "cutoff": "2026-10-29",
-  "reports": 701,
+  "reports": 702,
   "incident_reports": 147,
   "candidate_events": 100,
   "corroborated_events": 21,
   "mapped_events": 69,
   "mapped_locations": 121,
-  "distinct_sources": 82,
+  "distinct_sources": 83,
   "by_actor": {
     "State": 62,
     "Other": 22,
@@ -37,7 +37,7 @@
   "by_language": {
     "fr": 606,
     "en": 65,
-    "ar": 30
+    "ar": 31
   },
   "by_confidence": {
     "low": 47,
@@ -48,17 +48,17 @@
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 80
+      "count": 79
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 65
+      "count": 66
     },
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 53
+      "count": 54
     },
     {
       "source_code": "SRC-0075",
@@ -78,7 +78,7 @@
     {
       "source_code": "SRC-0001",
       "source": "RFI Afrique",
-      "count": 26
+      "count": 25
     },
     {
       "source_code": "SRC-0090",
@@ -294,17 +294,17 @@
     },
     {
       "date": "2026-11-26",
-      "reports": 17,
+      "reports": 18,
       "events": 6
     },
     {
       "date": "2026-11-27",
-      "reports": 30,
+      "reports": 31,
       "events": 2
     },
     {
       "date": "2026-11-28",
-      "reports": 0,
+      "reports": 2,
       "events": 0
     }
   ],
@@ -3675,6 +3675,42 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-28T02:01:01Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-28T08:01:16.071036Z",
+      "discovered_at": "2026-11-28T08:01:16.071036Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0061",
+      "source": "Asharq News Arabic",
+      "language": "ar",
+      "actor": "State",
+      "country": "Niger",
+      "city": null,
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "Niger Ministry of Defence: Armed men kill 13 soldiers in the southwest of the country",
+      "url": "https://asharq.com/politics/204555/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1-%D9%85%D8%B3%D9%84%D8%AD%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D9%84%D9%88%D9%86-13-%D8%AC%D9%86%D8%AF%D9%8A%D8%A7-%D8%AC%D9%86%D9%88%D8%A8-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF/"
+    },
+    {
+      "published_at": "2026-11-28T01:16:14Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-28T08:01:16.414464Z",
+      "discovered_at": "2026-11-28T08:01:16.414464Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0006",
+      "source": "Malijet",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Mali: Firecrackers and fireworks banned across the country",
+      "url": "https://malijet.com/a_la_une_du_mali/313014-mali-les-petards-et-les-feux-dartifice-interdits-dans-tou.html"
+    },
+    {
       "published_at": "2026-11-27T23:25:10Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -3761,7 +3797,7 @@
       "city": "Bamako",
       "event_type": null,
       "candidate_event": false,
-      "title": "Mali: Alger dénonce l'«alliance» des indépendantistes du FLA avec les «terroristes» du Jnim",
+      "title": "Mali: Algiers denounces the \"alliance\" between the FLA separatists and the \"terrorists\" of JNIM",
       "url": "https://www.dakaractu.com/Mali-Alger-denonce-l-alliance-des-independantistes-du-FLA-avec-les-terroristes-du-Jnim_a278645.html"
     },
     {
@@ -3779,7 +3815,7 @@
       "city": "Bamako",
       "event_type": null,
       "candidate_event": false,
-      "title": "Mali: Alger dénonce l'«alliance» des indépendantistes du FLA avec les «terroristes» du Jnim",
+      "title": "Mali: Algiers denounces the \"alliance\" between the FLA separatists and the \"terrorists\" of JNIM",
       "url": "https://www.rfi.fr/fr/afrique/20261127-mali-alger-d%C3%A9nonce-l-alliance-des-ind%C3%A9pendantistes-du-fla-avec-les-terroristes-du-jnim"
     },
     {
@@ -3941,7 +3977,7 @@
       "city": null,
       "event_type": null,
       "candidate_event": false,
-      "title": "Mali : Alger dénonce l’alliance du FLA avec les jihadistes du Jnim",
+      "title": "Mali: Algiers denounces the FLA's alliance with Jnim jihadists",
       "url": "https://www.jeuneafrique.com/1866089/politique/mali-alger-denonce-lalliance-du-fla-avec-les-jihadistes-du-jnim/"
     },
     {
@@ -4067,7 +4103,7 @@
       "city": null,
       "event_type": "clash",
       "candidate_event": false,
-      "title": "Loin du front ukrainien, la Russie paie un lourd tribut au Sahel",
+      "title": "Far from the Ukrainian front, Russia is paying a heavy price in the Sahel",
       "url": "https://www.lepoint.fr/afrique/loin-du-front-ukrainien-la-russie-paie-un-lourd-tribut-au-sahel-AG2UBW4XEJDBRO3QJOPQHVVZMU/"
     },
     {
@@ -4198,6 +4234,24 @@
     },
     {
       "published_at": "2026-11-27T00:00:00Z",
+      "published_date_source": "title",
+      "published_time_precision": "date-only",
+      "collected_at": "2026-11-28T08:01:27.437859Z",
+      "discovered_at": "2026-11-28T08:01:27.437859Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0161",
+      "source": "Cridem (Carrefour de la République Democratique)",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "27/11/2026 20:16 - Mali: Algiers denounces the “alliance” between the FLA separatists and the “terrorists” of JNIM",
+      "url": "https://cridem.org/C_Info.php?article=798877"
+    },
+    {
+      "published_at": "2026-11-27T00:00:00Z",
       "published_date_source": "visible-publication-label",
       "published_time_precision": "date-only",
       "collected_at": "2026-11-27T14:00:18.740958Z",
@@ -4305,6 +4359,24 @@
       "url": "https://bamada.net/entre-nous-explorer-la-voie-du-dialogue-avec-le-jnim"
     },
     {
+      "published_at": "2026-11-26T12:07:31Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-28T08:01:21.098772Z",
+      "discovered_at": "2026-11-28T08:01:21.098772Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Burkina Faso",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Entre Nous: 'Exploring the path to dialogue with JNIM'",
+      "url": "https://www.maliweb.net/politique/chroniques/entre-nous-explorer-la-voie-du-dialogue-avec-le-jnim-3121933.html"
+    },
+    {
       "published_at": "2026-11-26T10:56:55Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -4321,78 +4393,6 @@
       "candidate_event": false,
       "title": "Entre Nous: “Exploring the path to dialogue with JNIM”",
       "url": "https://malijet.com/editorial/312982-entre-nous-explorer-la-voie-du-dialogue-avec-le-jnim.html"
-    },
-    {
-      "published_at": "2026-11-26T10:54:43Z",
-      "published_date_source": "jsonld:uploadDate",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-27T00:42:44.623691Z",
-      "discovered_at": "2026-11-27T00:42:44.623691Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0002",
-      "source": "France 24 Afrique (FR)",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: JNIM jihadists order the inhabitants of Tonka to leave",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-mali-les-jihadistes-du-jnim-somment-les-habitants-de-tonka-de-partir"
-    },
-    {
-      "published_at": "2026-11-26T10:07:54Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T14:02:20.482123Z",
-      "discovered_at": "2026-11-26T14:02:20.482123Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": null,
-      "country": "Mali",
-      "city": null,
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "INTRUSION OF ARMED MEN INTO THE POLICE STATION IN SAN: THE ATTACKERS WERE REPULLED, ONE CAP GUARD WAS KILLED",
-      "url": "https://bamada.net/intrusion-dhommes-armes-dans-le-commissariat-de-police-de-san-les-assaillants-mis-en-deroute-un-gardien-du-cap-tue"
-    },
-    {
-      "published_at": "2026-11-26T09:58:41Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T14:02:14.209926Z",
-      "discovered_at": "2026-11-26T14:02:14.209926Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0079",
-      "source": "L'Essor",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "security operation",
-      "candidate_event": true,
-      "title": "Tinzaouatène, Kidal, Niono and Sofara: The FAMa intensify strikes against armed terrorist groups",
-      "url": "https://www.lessor.ml/posts/tinzaouatene-kidal-niono-et-sofara-les-fama-intensifient-les-frappes-contre-les-groupes-armes-terroristes-6b0802d180521"
-    },
-    {
-      "published_at": "2026-11-26T09:44:13Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T14:02:18.685702Z",
-      "discovered_at": "2026-11-26T14:02:18.685702Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0096",
-      "source": "Le Figaro (Section Afrique)",
-      "language": "fr",
-      "actor": "Africa Corps/Wagner",
-      "country": "Mali",
-      "city": "Bamako",
-      "event_type": null,
-      "candidate_event": false,
-      "title": "In Mali, the quiet deaths of the Africa Corps",
-      "url": "https://www.lefigaro.fr/international/au-mali-les-morts-discrets-de-l-africa-corps-20261126"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
