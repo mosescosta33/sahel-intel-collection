@@ -2121,14 +2121,14 @@
     ]
   },
   {
-    "id": "f1accd44d5464476178656dc07633152af0663d0",
+    "id": "82ed0a0c5007b703091d14e6da7276d06568e5f4",
     "event_date": "2026-11-23",
     "event_date_confidence": "publication-proxy",
-    "event_date_source": "feed",
-    "published_at": "2026-11-23T07:59:55Z",
-    "published_date_source": "feed",
+    "event_date_source": "jsonld:datePublished",
+    "published_at": "2026-11-23T07:53:26Z",
+    "published_date_source": "jsonld:datePublished",
     "published_time_precision": "datetime",
-    "collected_at": "2026-11-23T14:50:38.381599Z",
+    "collected_at": "2026-11-28T17:00:01.576569Z",
     "actor": "State",
     "perpetrator": null,
     "target": null,
@@ -2145,18 +2145,38 @@
     "lng": null,
     "locations": [],
     "title": "Release of around thirty soldiers: The bold move by FAMa",
-    "summary": "Around thirty soldiers from the Malian Armed Forces were released last week following a spectacular operation led by the Special Forces and their Russian allies. A successful bold move in the north of the country: combat and transport helicopters, Sukhoi aircraft and the latest-generation drones were deployed in this high-intensity mission, which confirms the growing strength of the FAMa and increasingly affirms Mali's sovereignty over its entire territory every day.",
+    "summary": "Release of around thirty soldiers: The bold move by the FAMa Around thirty soldiers from the Malian Armed Forces were released last week following a spectacular operation led by the Special Forces and their Russian allies. . A successful bold move in the north of the country: combat and transport helicopters, Sukhoi aircraft and state-of-the-art drones were deployed in this high-intensity mission, which confirms the growing strength of the FAMa and increasingly asserts Mali's sovereignty over its entire territory every day.",
     "sources": [
+      "Maliweb",
       "Bamada"
     ],
     "languages": [
       "fr"
     ],
-    "source_count": 1,
+    "source_count": 2,
     "report_urls": [
+      "https://www.maliweb.net/insecurite/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama-3121803.html",
       "https://bamada.net/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama"
     ],
     "report_summaries": [
+      {
+        "url": "https://www.maliweb.net/insecurite/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama-3121803.html",
+        "source": "Maliweb",
+        "title": "Release of around thirty soldiers: The bold move by FAMa",
+        "summary": "Release of around thirty soldiers: The bold move by the FAMa Around thirty soldiers from the Malian Armed Forces were released last week following a spectacular operation led by the Special Forces and their Russian allies. . A successful bold move in the north of the country: combat and transport helicopters, Sukhoi aircraft and state-of-the-art drones were deployed in this high-intensity mission, which confirms the growing strength of the FAMa and increasingly asserts Mali's sovereignty over its entire territory every day.",
+        "summary_basis": "translated-excerpt",
+        "fatalities_min": null,
+        "fatalities_max": null,
+        "injured_min": null,
+        "injured_max": null,
+        "abducted_min": null,
+        "abducted_max": null,
+        "victim_categories": [
+          "security_force"
+        ],
+        "civilian_targeting_flag": false,
+        "casualty_claims": []
+      },
       {
         "url": "https://bamada.net/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama",
         "source": "Bamada",
@@ -2176,7 +2196,7 @@
         "casualty_claims": []
       }
     ],
-    "created_at": "2026-11-23T14:50:38.381599Z",
+    "created_at": "2026-11-28T17:00:01.576569Z",
     "updated_at": "2026-11-23T14:50:38.381599Z",
     "extraction_confidence": "low",
     "victim_categories": [
@@ -2194,20 +2214,26 @@
     "casualty_disputed": false,
     "revision_history": [
       {
-        "at": "2026-11-23T14:50:38.381599Z",
+        "at": "2026-11-28T17:00:01.576569Z",
         "type": "event_created",
+        "source": "Maliweb"
+      },
+      {
+        "at": "2026-11-23T14:50:38.381599Z",
+        "type": "corroboration_or_geography_update",
         "source": "Bamada"
       }
     ],
-    "corroboration": "single-source",
-    "confidence": "low",
+    "corroboration": "limited corroboration",
+    "confidence": "moderate",
     "independent_source_domains": [
+      "maliweb.net",
       "bamada.net"
     ],
-    "independent_source_count": 1,
-    "significance": "ROUTINE",
+    "independent_source_count": 2,
+    "significance": "SIGNIFICANT",
     "significance_reasons": [
-      "limited currently observed significance"
+      "operational security event"
     ]
   },
   {

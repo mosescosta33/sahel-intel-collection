@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-28T08:03:46.551516Z",
+  "generated_at": "2026-11-28T17:02:03.054186Z",
   "window_days": 30,
   "cutoff": "2026-10-29",
-  "reports": 702,
+  "reports": 700,
   "incident_reports": 147,
   "candidate_events": 100,
-  "corroborated_events": 21,
+  "corroborated_events": 22,
   "mapped_events": 69,
   "mapped_locations": 121,
-  "distinct_sources": 83,
+  "distinct_sources": 84,
   "by_actor": {
     "State": 62,
     "Other": 22,
@@ -35,35 +35,35 @@
     "ambush": 1
   },
   "by_language": {
-    "fr": 606,
+    "fr": 604,
     "en": 65,
     "ar": 31
   },
   "by_confidence": {
-    "low": 47,
-    "moderate": 47,
+    "moderate": 48,
+    "low": 46,
     "moderate-high": 6
   },
   "top_sources": [
     {
       "source_code": "SRC-0008",
       "source": "Bamada",
-      "count": 79
+      "count": 80
     },
     {
       "source_code": "SRC-0006",
       "source": "Malijet",
-      "count": 66
+      "count": 64
     },
     {
       "source_code": "SRC-0005",
       "source": "Maliweb",
-      "count": 54
+      "count": 57
     },
     {
       "source_code": "SRC-0075",
       "source": "AMAP (Agence Malienne de Presse et de Publicité)",
-      "count": 45
+      "count": 43
     },
     {
       "source_code": "SRC-0092",
@@ -81,19 +81,19 @@
       "count": 25
     },
     {
-      "source_code": "SRC-0090",
-      "source": "AllAfrica (Édition Française)",
-      "count": 25
-    },
-    {
       "source_code": "SRC-0079",
       "source": "L'Essor",
       "count": 24
     },
     {
+      "source_code": "SRC-0090",
+      "source": "AllAfrica (Édition Française)",
+      "count": 24
+    },
+    {
       "source_code": "SRC-0014",
       "source": "Agence Nigérienne de Presse",
-      "count": 21
+      "count": 23
     },
     {
       "source_code": "SRC-0038",
@@ -279,7 +279,7 @@
     },
     {
       "date": "2026-11-23",
-      "reports": 16,
+      "reports": 17,
       "events": 3
     },
     {
@@ -299,12 +299,12 @@
     },
     {
       "date": "2026-11-27",
-      "reports": 31,
+      "reports": 33,
       "events": 2
     },
     {
       "date": "2026-11-28",
-      "reports": 2,
+      "reports": 7,
       "events": 0
     }
   ],
@@ -2431,14 +2431,14 @@
       ]
     },
     {
-      "id": "f1accd44d5464476178656dc07633152af0663d0",
+      "id": "82ed0a0c5007b703091d14e6da7276d06568e5f4",
       "event_date": "2026-11-23",
       "event_date_confidence": "publication-proxy",
-      "event_date_source": "feed",
-      "published_at": "2026-11-23T07:59:55Z",
-      "published_date_source": "feed",
+      "event_date_source": "jsonld:datePublished",
+      "published_at": "2026-11-23T07:53:26Z",
+      "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
-      "collected_at": "2026-11-23T14:50:38.381599Z",
+      "collected_at": "2026-11-28T17:00:01.576569Z",
       "actor": "State",
       "perpetrator": null,
       "target": null,
@@ -2455,18 +2455,38 @@
       "lng": null,
       "locations": [],
       "title": "Release of around thirty soldiers: The bold move by FAMa",
-      "summary": "Around thirty soldiers from the Malian Armed Forces were released last week following a spectacular operation led by the Special Forces and their Russian allies. A successful bold move in the north of the country: combat and transport helicopters, Sukhoi aircraft and the latest-generation drones were deployed in this high-intensity mission, which confirms the growing strength of the FAMa and increasingly affirms Mali's sovereignty over its entire territory every day.",
+      "summary": "Release of around thirty soldiers: The bold move by the FAMa Around thirty soldiers from the Malian Armed Forces were released last week following a spectacular operation led by the Special Forces and their Russian allies. . A successful bold move in the north of the country: combat and transport helicopters, Sukhoi aircraft and state-of-the-art drones were deployed in this high-intensity mission, which confirms the growing strength of the FAMa and increasingly asserts Mali's sovereignty over its entire territory every day.",
       "sources": [
+        "Maliweb",
         "Bamada"
       ],
       "languages": [
         "fr"
       ],
-      "source_count": 1,
+      "source_count": 2,
       "report_urls": [
+        "https://www.maliweb.net/insecurite/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama-3121803.html",
         "https://bamada.net/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama"
       ],
       "report_summaries": [
+        {
+          "url": "https://www.maliweb.net/insecurite/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama-3121803.html",
+          "source": "Maliweb",
+          "title": "Release of around thirty soldiers: The bold move by FAMa",
+          "summary": "Release of around thirty soldiers: The bold move by the FAMa Around thirty soldiers from the Malian Armed Forces were released last week following a spectacular operation led by the Special Forces and their Russian allies. . A successful bold move in the north of the country: combat and transport helicopters, Sukhoi aircraft and state-of-the-art drones were deployed in this high-intensity mission, which confirms the growing strength of the FAMa and increasingly asserts Mali's sovereignty over its entire territory every day.",
+          "summary_basis": "translated-excerpt",
+          "fatalities_min": null,
+          "fatalities_max": null,
+          "injured_min": null,
+          "injured_max": null,
+          "abducted_min": null,
+          "abducted_max": null,
+          "victim_categories": [
+            "security_force"
+          ],
+          "civilian_targeting_flag": false,
+          "casualty_claims": []
+        },
         {
           "url": "https://bamada.net/liberation-dune-trentaine-de-militaires-le-coup-daudace-des-fama",
           "source": "Bamada",
@@ -2486,7 +2506,7 @@
           "casualty_claims": []
         }
       ],
-      "created_at": "2026-11-23T14:50:38.381599Z",
+      "created_at": "2026-11-28T17:00:01.576569Z",
       "updated_at": "2026-11-23T14:50:38.381599Z",
       "extraction_confidence": "low",
       "victim_categories": [
@@ -2504,20 +2524,26 @@
       "casualty_disputed": false,
       "revision_history": [
         {
-          "at": "2026-11-23T14:50:38.381599Z",
+          "at": "2026-11-28T17:00:01.576569Z",
           "type": "event_created",
+          "source": "Maliweb"
+        },
+        {
+          "at": "2026-11-23T14:50:38.381599Z",
+          "type": "corroboration_or_geography_update",
           "source": "Bamada"
         }
       ],
-      "corroboration": "single-source",
-      "confidence": "low",
+      "corroboration": "limited corroboration",
+      "confidence": "moderate",
       "independent_source_domains": [
+        "maliweb.net",
         "bamada.net"
       ],
-      "independent_source_count": 1,
-      "significance": "ROUTINE",
+      "independent_source_count": 2,
+      "significance": "SIGNIFICANT",
       "significance_reasons": [
-        "limited currently observed significance"
+        "operational security event"
       ]
     },
     {
@@ -3675,6 +3701,96 @@
   ],
   "latest_reports": [
     {
+      "published_at": "2026-11-28T16:19:47Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-28T17:00:04.234026Z",
+      "discovered_at": "2026-11-28T17:00:04.234026Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0164",
+      "source": "Echorouk Online (الشروق أونلاين)",
+      "language": "ar",
+      "actor": null,
+      "country": "Niger",
+      "city": "Tillabéri",
+      "event_type": "security operation",
+      "candidate_event": false,
+      "title": "Algeria condemns the terrorist attack on a Niger National Guard post",
+      "url": "https://www.echoroukonline.com/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%aa%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d9%87%d8%ac%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8%d9%8a-%d8%a7%d9%84%d8%b0%d9%8a-%d8%a7%d8%b3%d8%aa-2"
+    },
+    {
+      "published_at": "2026-11-28T14:24:34Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-28T17:00:02.374142Z",
+      "discovered_at": "2026-11-28T17:00:02.374142Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Dosso",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Dosso: Around 1,260 candidates registered for the recruitment examination for Water and Forestry Officers",
+      "url": "https://anp.ne/dosso-quelque-1-260-candidats-inscrits-au-concours-de-recrutement-des-agents-des-eaux-et-forets/"
+    },
+    {
+      "published_at": "2026-11-28T13:20:23Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-28T17:00:01.287283Z",
+      "discovered_at": "2026-11-28T17:00:01.287283Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0008",
+      "source": "Bamada",
+      "language": "fr",
+      "actor": "State",
+      "country": "Mali",
+      "city": "Bamako",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Fuel in Bamako: 2,882 tankers received in November, with the FAMa ensuring the security of the convoys",
+      "url": "https://bamada.net/approvisionnement-en-carburant-621-nouvelles-citernes-arrivent-a-bamako-sous-escorte-des-fama"
+    },
+    {
+      "published_at": "2026-11-28T10:06:39Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-28T17:00:01.920840Z",
+      "discovered_at": "2026-11-28T17:00:01.920840Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "Africa Corps/Wagner",
+      "country": "Mali",
+      "city": "Kayes",
+      "event_type": "offensive/campaign",
+      "candidate_event": false,
+      "title": "The FAMa and the Africa Corps are conducting...",
+      "url": "https://www.maliweb.net/insecurite/les-fama-et-lafrica-corps-menent-des-operations-contre-des-groupes-3122018.html"
+    },
+    {
+      "published_at": "2026-11-28T09:25:43Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-28T17:00:02.921950Z",
+      "discovered_at": "2026-11-28T17:00:02.921950Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0014",
+      "source": "Agence Nigérienne de Presse",
+      "language": "fr",
+      "actor": null,
+      "country": "Niger",
+      "city": "Agadez",
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Agadez: 68 candidates take part in the physical tests for the open competition to recruit Water and Forestry officers",
+      "url": "https://anp.ne/agadez-68-candidats-affrontent-les-epreuves-physiques-du-concours-direct-de-recrutement-des-cadres-des-eaux-et-forets/"
+    },
+    {
       "published_at": "2026-11-28T02:01:01Z",
       "published_date_source": "jsonld:datePublished",
       "published_time_precision": "datetime",
@@ -3781,6 +3897,42 @@
       "candidate_event": true,
       "title": "Niger: 13 National Guard soldiers killed in a terrorist attack in Sanam (Tillabéri)",
       "url": "https://www.seneweb.com/fr/news/Afrique/niger-13-soldats-de-la-garde-nationale-tues-dans-une-attaque-terroriste-a-sanam-tillaberi_n_999004835.html"
+    },
+    {
+      "published_at": "2026-11-27T15:05:22Z",
+      "published_date_source": "jsonld:datePublished",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-28T17:00:05.874059Z",
+      "discovered_at": "2026-11-28T17:00:05.874059Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0005",
+      "source": "Maliweb",
+      "language": "fr",
+      "actor": "JNIM",
+      "country": "Mali",
+      "city": null,
+      "event_type": null,
+      "candidate_event": false,
+      "title": "Mali: Algeria deems the rapprochement between the FLA and terrorist groups \"unacceptable\"",
+      "url": "https://www.maliweb.net/la-situation-politique-et-securitaire-au-nord/mali-lalgerie-juge-inacceptable-le-rapprochement-entre-le-fla-et-les-3122003.html"
+    },
+    {
+      "published_at": "2026-11-27T14:31:00Z",
+      "published_date_source": "feed",
+      "published_time_precision": "datetime",
+      "collected_at": "2026-11-28T17:00:08.078743Z",
+      "discovered_at": "2026-11-28T17:00:08.078743Z",
+      "timestamp_integrity": "complete",
+      "source_code": "SRC-0020",
+      "source": "Associated Press Africa",
+      "language": "en",
+      "actor": "Other",
+      "country": "Niger",
+      "city": null,
+      "event_type": "attack",
+      "candidate_event": false,
+      "title": "Armed group kills 13 soldiers in western Niger attack, defense ministry says",
+      "url": "https://apnews.com/article/niger-soldiers-killed-attack-fab7f1520d4fab4ec10b2575ddfdab03"
     },
     {
       "published_at": "2026-11-27T14:10:00Z",
@@ -4267,132 +4419,6 @@
       "candidate_event": false,
       "title": "21st Digital Week: Disinformation, a major threat to the AES confederation area",
       "url": "https://lefaso.net/spip.php?article151101="
-    },
-    {
-      "published_at": "2026-11-26T22:35:01Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-27T00:42:46.740660Z",
-      "discovered_at": "2026-11-27T00:42:46.740660Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": null,
-      "country": null,
-      "city": null,
-      "event_type": "attack",
-      "candidate_event": false,
-      "title": "San: the police station and the CAP targeted by an attack",
-      "url": "https://bamada.net/san-le-commissariat-et-le-cap-cibles-par-une-attaque"
-    },
-    {
-      "published_at": "2026-11-26T20:01:49Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-27T00:42:46.137613Z",
-      "discovered_at": "2026-11-27T00:42:46.137613Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0038",
-      "source": "APAnews (FR)",
-      "language": "fr",
-      "actor": "State",
-      "country": "Mali",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Mali: Foreigners accommodated or employed under the supervision of the authorities",
-      "url": "https://fr.apanews.net/community/mali-les-etrangers-heberges-ou-employes-sous-surveillance-des-autorites/"
-    },
-    {
-      "published_at": "2026-11-26T14:28:31Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-27T00:42:47.194506Z",
-      "discovered_at": "2026-11-27T00:42:47.194506Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0028",
-      "source": "The Defense Post Africa",
-      "language": "en",
-      "actor": "JNIM",
-      "country": "Mali",
-      "city": "Kidal",
-      "event_type": "offensive/campaign",
-      "candidate_event": false,
-      "title": "Sahel Insurgents Use Low-Cost Drones to Strike Military Targets: Report",
-      "url": "https://thedefensepost.com/2026/11/26/sahel-insurgents-low-cost-drones/"
-    },
-    {
-      "published_at": "2026-11-26T13:52:16Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T14:02:16.881515Z",
-      "discovered_at": "2026-11-26T14:02:16.881515Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0010",
-      "source": "Burkina24",
-      "language": "fr",
-      "actor": null,
-      "country": "Burkina Faso",
-      "city": "Ouagadougou",
-      "event_type": "clash",
-      "candidate_event": false,
-      "title": "African Tirailleur Day: A tribute to their memory and a show of solidarity",
-      "url": "https://burkina24.com/2026/11/26/journee-du-tirailleur-africain-un-hommage-a-la-memoire-et-un-elan-de-solidarite/"
-    },
-    {
-      "published_at": "2026-11-26T12:37:26Z",
-      "published_date_source": "feed",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T14:02:20.700604Z",
-      "discovered_at": "2026-11-26T14:02:20.700604Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0008",
-      "source": "Bamada",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Entre Nous: “Exploring the path to dialogue with JNIM”",
-      "url": "https://bamada.net/entre-nous-explorer-la-voie-du-dialogue-avec-le-jnim"
-    },
-    {
-      "published_at": "2026-11-26T12:07:31Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-28T08:01:21.098772Z",
-      "discovered_at": "2026-11-28T08:01:21.098772Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0005",
-      "source": "Maliweb",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Entre Nous: 'Exploring the path to dialogue with JNIM'",
-      "url": "https://www.maliweb.net/politique/chroniques/entre-nous-explorer-la-voie-du-dialogue-avec-le-jnim-3121933.html"
-    },
-    {
-      "published_at": "2026-11-26T10:56:55Z",
-      "published_date_source": "jsonld:datePublished",
-      "published_time_precision": "datetime",
-      "collected_at": "2026-11-26T14:02:20.946648Z",
-      "discovered_at": "2026-11-26T14:02:20.946648Z",
-      "timestamp_integrity": "complete",
-      "source_code": "SRC-0006",
-      "source": "Malijet",
-      "language": "fr",
-      "actor": "JNIM",
-      "country": "Burkina Faso",
-      "city": null,
-      "event_type": null,
-      "candidate_event": false,
-      "title": "Entre Nous: “Exploring the path to dialogue with JNIM”",
-      "url": "https://malijet.com/editorial/312982-entre-nous-explorer-la-voie-du-dialogue-avec-le-jnim.html"
     }
   ],
   "method_note": "30-day reporting volume and fused candidate-event activity are shown separately. Candidate events are extracted from monitored open-source reporting and are not independently verified incident counts."
